@@ -76,6 +76,20 @@ function md(src = "") {
   return html;
 }
 
+// FAQ extraction: "### Question?" headings followed by answer text
+function faqs(src = "") {
+  const out = []; let q = null, a = [];
+  const flush = () => { if (q && a.length) out.push({ q, a: a.join(" ").replace(/\*\*|\*|\[([^\]]+)\]\([^)]+\)/g, (m, t) => t || "").trim() }); q = null; a = []; };
+  for (const line of src.split("\n")) {
+    const m = line.match(/^###\s+(.+\?)\s*$/);
+    if (m) { flush(); q = m[1].trim(); continue; }
+    if (/^#{1,3}\s/.test(line)) { flush(); continue; }
+    if (q && line.trim()) a.push(line.trim());
+  }
+  flush();
+  return out;
+}
+
 // ---------- components ----------
 function dealCard(d) {
   const off = d.was && d.price && Number(d.was) > Number(d.price) ? Math.round((1 - d.price / d.was) * 100) : null;
@@ -118,7 +132,13 @@ function layout({ title, description, pathname, body, type = "website", jsonld }
 <meta property="og:description" content="${esc(description || site.description)}">
 <meta property="og:url" content="${esc(canonical)}">
 <meta property="og:site_name" content="${esc(site.name)}">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="${site.url}/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${site.url}/og.png">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/feed.xml">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
@@ -196,6 +216,17 @@ function postTeaser(p) {
 </a>`;
 }
 
+// Related guides: score by shared title words, newest-updated first
+const STOP = new Set("the and for with what deals deal best black friday 2026 uk to of a in is it you your now wait buy worth".split(" "));
+const words = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9 ]/g, " ").split(/\s+/).filter((w) => w.length > 2 && !STOP.has(w)));
+function relatedFor(p) {
+  const w = words(p.title + " " + (p.description || ""));
+  return posts.filter((q) => q !== p && q.type === "guide")
+    .map((q) => ({ q, s: [...words(q.title + " " + q.description)].filter((x) => w.has(x)).length }))
+    .sort((a, b) => b.s - a.s || (b.q.updated || b.q.date).localeCompare(a.q.updated || a.q.date))
+    .slice(0, 4).map((x) => x.q);
+}
+
 // Posts
 for (const p of posts) {
   const body = `<article class="post">
@@ -207,12 +238,23 @@ for (const p of posts) {
   ${disclosureNote}
 </article>
 <section class="more">
-  <h2>More from Snapped Up</h2>
-  <div class="teasers">${posts.filter((q) => q !== p).slice(0, 4).map(postTeaser).join("")}</div>
+  <h2>${p.type === "guide" ? "More buying guides" : "Buying guides"}</h2>
+  <div class="teasers">${relatedFor(p).map(postTeaser).join("")}</div>
+</section>
+<section class="more">
+  <h2>Latest deals</h2>
+  <div class="teasers">${posts.filter((q) => q !== p && q.type !== "guide").slice(0, 2).map(postTeaser).join("")}</div>
 </section>`;
   write(path.join(postUrl(p), "index.html"), layout({
     title: p.title, description: p.description, pathname: postUrl(p), body, type: "article",
-    jsonld: { "@context": "https://schema.org", "@type": "Article", headline: p.title, datePublished: p.date, dateModified: p.updated || p.date, description: p.description, publisher: { "@type": "Organization", name: site.name } },
+    jsonld: { "@context": "https://schema.org", "@graph": [
+      { "@type": "Article", headline: p.title, datePublished: p.date, dateModified: p.updated || p.date, description: p.description, image: `${site.url}/og.png`, mainEntityOfPage: site.url + postUrl(p), author: { "@type": "Organization", name: site.name, url: site.url }, publisher: { "@type": "Organization", name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/og.png` } } },
+      { "@type": "BreadcrumbList", itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: site.url + "/" },
+        { "@type": "ListItem", position: 2, name: LABEL[p.type] === "Buying guide" ? "Buying guides" : LABEL[p.type] === "Spotlight" ? "Spotlights" : "Daily deals", item: `${site.url}/${SECTION[p.type] || "deals"}/` },
+        { "@type": "ListItem", position: 3, name: p.title, item: site.url + postUrl(p) } ] },
+      ...(faqs(p.body).length ? [{ "@type": "FAQPage", mainEntity: faqs(p.body).map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }] : []),
+    ] },
   }));
 }
 
@@ -221,6 +263,9 @@ const latestDaily = posts.find((p) => p.type === "daily");
 const latestSpot = posts.find((p) => p.type === "spotlight");
 write("index.html", layout({
   pathname: "/",
+  jsonld: { "@context": "https://schema.org", "@graph": [
+    { "@type": "WebSite", name: site.name, url: site.url + "/", description: site.description, inLanguage: "en-GB" },
+    { "@type": "Organization", name: site.name, url: site.url + "/", logo: `${site.url}/og.png`, email: site.contactEmail } ] },
   body: `<section class="hero">
   <h1>The UK deals actually <span class="hl">worth having.</span></h1>
   <p>Every day we sift the sales for genuine price drops, check the "was" price isn't made up, and post only the ones worth your money.</p>
