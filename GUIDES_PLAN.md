@@ -7,7 +7,7 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 ## Black Friday 2026 (write these first)
 - [x] ninja-black-friday-deals-2026: Ninja Black Friday deals 2026 (air fryers, Creami, blenders, kettles)
 - [x] shark-black-friday-deals-2026: Shark Black Friday deals 2026 (cordless vacs, hair stylers)
-- [ ] kindle-black-friday-deals-2026: Kindle Black Friday deals 2026 UK
+- [x] kindle-black-friday-deals-2026: Kindle Black Friday deals 2026 UK
 - [ ] dyson-black-friday-deals-2026: Dyson Black Friday deals 2026 UK
 - [ ] lego-black-friday-deals-2026: Lego Black Friday deals 2026 UK
 - [ ] airpods-black-friday-deals-2026: AirPods Black Friday deals 2026 UK
@@ -33,7 +33,7 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 - [ ] dehumidifier-deals-uk: Dehumidifier deals UK
 
 ## Hobbies
-- [ ] pokemon-elite-trainer-box-deals-uk: Pokémon Elite Trainer Box deals UK (at or below RRP)
+- [x] pokemon-elite-trainer-box-deals-uk: Pokémon Elite Trainer Box deals UK (at or below RRP)
 - [ ] pokemon-tcg-black-friday-deals-2026: Pokémon TCG Black Friday deals 2026 UK
 
 ## Comparisons (evergreen)
