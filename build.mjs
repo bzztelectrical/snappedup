@@ -130,6 +130,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
     <a class="logo" href="/"><span class="logo-mark" aria-hidden="true"></span>Snapped&nbsp;Up</a>
     <nav>
       <a href="/deals/">Daily deals</a>
+      <a href="/guides/">Guides</a>
       <a href="/spotlight/">Spotlights</a>
       <a href="/about/">About</a>
     </nav>
@@ -172,7 +173,9 @@ for (const p of posts) {
 }
 
 const pages = readJsonDir(path.join(ROOT, "content/pages"));
-const postUrl = (p) => `/${p.type === "spotlight" ? "spotlight" : "deals"}/${p.slug}/`;
+const SECTION = { spotlight: "spotlight", guide: "guides", daily: "deals" };
+const LABEL = { spotlight: "Spotlight", guide: "Buying guide", daily: "Daily deals" };
+const postUrl = (p) => `/${SECTION[p.type] || "deals"}/${p.slug}/`;
 
 // ---------- write ----------
 fs.rmSync(OUT, { recursive: true, force: true });
@@ -187,7 +190,7 @@ for (const f of fs.readdirSync(path.join(ROOT, "static"))) fs.copyFileSync(path.
 function postTeaser(p) {
   const n = (p.deals || []).length;
   return `<a class="teaser ${p.type}" href="${postUrl(p)}">
-  <span class="teaser-meta">${p.type === "spotlight" ? "Spotlight" : "Daily deals"} · ${shortDate(p.date)}${n ? ` · ${n} picks` : ""}</span>
+  <span class="teaser-meta">${LABEL[p.type] || "Daily deals"} · ${p.type === "guide" ? "Updated " + shortDate(p.updated || p.date) : shortDate(p.date)}${n ? ` · ${n} picks` : ""}</span>
   <span class="teaser-title">${esc(p.title)}</span>
   <span class="teaser-desc">${esc(p.description)}</span>
 </a>`;
@@ -196,7 +199,7 @@ function postTeaser(p) {
 // Posts
 for (const p of posts) {
   const body = `<article class="post">
-  <p class="kicker">${p.type === "spotlight" ? "This week's spotlight" : "Daily deals"} · <time datetime="${p.date}">${fmtDate(p.date)}</time></p>
+  <p class="kicker">${p.type === "spotlight" ? "This week's spotlight" : p.type === "guide" ? "Buying guide · Updated" : "Daily deals"} · <time datetime="${p.updated || p.date}">${fmtDate(p.updated || p.date)}</time></p>
   <h1>${esc(p.title)}</h1>
   <div class="prose lede">${md(p.intro || "")}</div>
   ${deals(p.deals)}
@@ -227,6 +230,10 @@ ${latestSpot ? `<a class="spot-banner" href="${postUrl(latestSpot)}">
   <span class="spot-title">${esc(latestSpot.title)}</span>
   <span class="spot-cta">Read the guide →</span>
 </a>` : ""}
+${posts.some((p) => p.type === "guide") ? `<section class="more">
+  <div class="section-head"><h2>Buying guides</h2><a href="/guides/">All guides →</a></div>
+  <div class="teasers">${posts.filter((p) => p.type === "guide").sort((x, y) => (y.updated || y.date).localeCompare(x.updated || x.date)).slice(0, 4).map(postTeaser).join("")}</div>
+</section>` : ""}
 ${latestDaily ? `<section class="today">
   <div class="section-head"><h2>Today's picks</h2><a href="${postUrl(latestDaily)}">${esc(shortDate(latestDaily.date))} · full post →</a></div>
   ${deals((latestDaily.deals || []).slice(0, 6))}
@@ -242,6 +249,7 @@ const archive = (title, intro, list, pathname) =>
   write(path.join(pathname, "index.html"), layout({ title, description: intro, pathname,
     body: `<section class="page-head"><h1>${esc(title)}</h1><p>${esc(intro)}</p></section><div class="teasers">${list.map(postTeaser).join("") || "<p>Nothing here yet.</p>"}</div>` }));
 archive("Daily deals", "Every day's hand-picked UK deals, newest first.", posts.filter((p) => p.type === "daily"), "/deals/");
+archive("Buying guides", "Kept-up-to-date guides to the best prices on the things people actually shop for.", [...posts.filter((p) => p.type === "guide")].sort((a, b) => (b.updated || b.date).localeCompare(a.updated || a.date)), "/guides/");
 archive("Spotlights", "Our weekly deep-dives on the category most worth shopping right now.", posts.filter((p) => p.type === "spotlight"), "/spotlight/");
 
 // Static pages
@@ -256,8 +264,8 @@ write("404.html", layout({ title: "Page not found", pathname: "/404.html",
   body: `<section class="page-head"><h1>That deal's gone.</h1><p>The page you wanted isn't here. <a href="/">Head back to today's picks</a>.</p></section>` }));
 
 // Sitemap, robots, RSS
-const urls = ["/", "/deals/", "/spotlight/", ...pages.map((p) => `/${p.slug || p.file.replace(/\.json$/, "")}/`), ...posts.map(postUrl)];
-write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `<url><loc>${site.url}${u}</loc></url>`).join("\n")}\n</urlset>\n`);
+const urls = ["/", "/deals/", "/guides/", "/spotlight/", ...pages.map((p) => `/${p.slug || p.file.replace(/\.json$/, "")}/`), ...posts.map(postUrl)];
+write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => { const p = posts.find((q) => postUrl(q) === u); return `<url><loc>${site.url}${u}</loc>${p ? `<lastmod>${p.updated || p.date}</lastmod>` : ""}</url>`; }).join("\n")}\n</urlset>\n`);
 write("robots.txt", `User-agent: *\nAllow: /\nSitemap: ${site.url}/sitemap.xml\n`);
 write("feed.xml", `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>

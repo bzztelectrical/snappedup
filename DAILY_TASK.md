@@ -12,6 +12,23 @@ Get today's date (Europe/London). Look at `content/posts/` to see what's already
 
 If a post for today already exists, stop and make no changes.
 
+## 1b. Search guides — the most important job
+
+Daily posts are useful for returning readers but go stale in a day, so Google won't send much traffic to them. **Search traffic comes from evergreen buying guides** (`type: "guide"`, served at `/guides/<slug>/`). They answer one specific search with buying intent and get kept up to date. They are how this site gets visitors without anyone promoting it.
+
+Every run, after the daily post:
+
+1. **Refresh first.** If any guide's `updated` date is 7+ days old (or 3+ days during 1–30 November), re-check its prices, swap out dead deals and set `updated` to today. Refresh at most 2 per run.
+2. **Then write one new guide**, taking the top unchecked item in `GUIDES_PLAN.md` (or a better idea you found while researching; add it to the plan). Tick it off when published.
+3. Choose targets people actually type into Google, where big sites are weak: specific brand + event ("Ninja Black Friday deals 2026"), specific product ("Kindle Paperwhite deals UK"), budget gifts ("Secret Santa gifts under £10 UK"), comparisons ("Shark vs Dyson cordless"). Avoid broad heads like "Black Friday deals" that the big newspapers own.
+
+Guide rules:
+- **slug** = the search phrase, lower-case and hyphenated, e.g. `ninja-black-friday-deals-2026`. **title** contains the exact phrase near the start, under 65 characters if possible. **description** is under 155 characters and says what the reader gets.
+- Include `"date"` (first published) and `"updated"` (last refreshed), both YYYY-MM-DD.
+- `intro`: answer the question in the first two sentences (the best current price or pick). `deals`: 4–10 deal cards with sourced prices, same rules as daily posts. `body`: 500–1,000 words: how to choose, which models are worth it, target "good price" figures, when prices usually drop, and 3–5 FAQs written as `### Question?` headings followed by short answers.
+- Link to 1–3 related guides on the site, and link back to relevant guides from the daily post (`[title](/guides/slug/)`).
+- Never pad. A tight, accurate 500-word guide beats a padded 1,500-word one.
+
 ## 2. Research (the part that matters)
 
 Search the web for UK deals published today or yesterday: Amazon UK, Argos, Currys, John Lewis, Very, AO, Boots, Halfords, Dunelm, eBay UK. Good leads come from deal roundups (TechRadar UK, T3, Which?, HotUKDeals, MoneySavingExpert), but always go back to the retailer or a price-history site where you can.
@@ -63,4 +80,4 @@ Markdown supported: `##`/`###` headings, paragraphs, `-` and `1.` lists, `**bold
 
 ## 5. Report
 
-Finish with a 3-line summary: post title, number of picks, and anything the owner should know (e.g. a retailer that blocked access, or a spotlight topic chosen).
+Finish with a 4-line summary: daily post title, guide written and guides refreshed, number of picks, and anything the owner should know (e.g. a retailer that blocked access, or a spotlight topic chosen).
