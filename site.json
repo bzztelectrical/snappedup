@@ -1,0 +1,25 @@
+{
+  "name": "Snapped Up",
+  "tagline": "The UK deals actually worth having, checked daily.",
+  "url": "https://snappedupdeals.co.uk",
+  "description": "Daily hand-picked UK deals with honest price checks. No inflated 'was' prices, no filler, just the offers worth snapping up.",
+  "contactEmail": "hello@snappedupdeals.co.uk",
+  "affiliate": {
+    "amazonTag": "",
+    "ebayCampaignId": "",
+    "awinPublisherId": "",
+    "awinMerchants": {
+      "argos.co.uk": "",
+      "currys.co.uk": "",
+      "johnlewis.com": "",
+      "very.co.uk": "",
+      "ao.com": "",
+      "boots.com": "",
+      "halfords.com": "",
+      "dunelm.com": "",
+      "marksandspencer.com": "",
+      "balsamhill.co.uk": "",
+      "perfumedirect.com": ""
+    }
+  }
+}

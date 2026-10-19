@@ -1,0 +1,79 @@
+{
+  "type": "daily",
+  "date": "2026-10-19",
+  "title": "Monday's deals: Christmas starts early with half-price perfume, pre-lit trees and Boots gift sets",
+  "description": "Seven early Christmas deals worth grabbing now: designer perfume at half price, big savings on pre-lit trees and Boots half-price gift sets.",
+  "intro": "It's ten weeks until Christmas and the gift deals are already better than they'll be in December. Today's picks are the kind of thing that **sells out rather than gets cheaper**, so they're worth buying now rather than holding out for Black Friday.\n\nThese prices were checked over the last few days. Boots changes its Christmas offers every week, so if a price has moved, the deal may have ended.",
+  "deals": [
+    {
+      "name": "Jimmy Choo Flash Eau de Parfum (60ml)",
+      "retailer": "Boots",
+      "price": 25,
+      "was": 57,
+      "url": "https://www.boots.com/sitesearch?searchTerm=Jimmy+Choo+Flash+Eau+de+Parfum+60ml",
+      "verdict": "Over half off",
+      "verdictLevel": "great",
+      "note": "A proper designer perfume for £25 is an easy gift to tick off early."
+    },
+    {
+      "name": "Viktor & Rolf Flowerbomb Pretty Peony Eau de Parfum (50ml)",
+      "retailer": "Boots",
+      "price": 49.5,
+      "was": 99,
+      "url": "https://www.boots.com/sitesearch?searchTerm=Viktor+Rolf+Flowerbomb+Pretty+Peony+50ml",
+      "verdict": "Half price",
+      "verdictLevel": "great",
+      "note": "Flowerbomb rarely goes this low. A safe bet for anyone who already wears the original."
+    },
+    {
+      "name": "Marc Jacobs Honey Eau de Parfum (100ml)",
+      "retailer": "Perfume Direct",
+      "price": 33.99,
+      "was": 92,
+      "url": "https://www.perfumedirect.com/",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "The big 100ml bottle for about a third of its usual price. Search 'Marc Jacobs Honey' on the site."
+    },
+    {
+      "name": "Balsam Hill Vancouver Spruce pre-lit tree (6ft)",
+      "retailer": "Balsam Hill",
+      "price": 299,
+      "was": 499,
+      "url": "https://www.balsamhill.co.uk/",
+      "verdict": "Buy before Dec",
+      "verdictLevel": "good",
+      "note": "Premium realistic trees that last for years. The best sizes sell out well before December."
+    },
+    {
+      "name": "Balsam Hill Frosted Canadian Blue Green Spruce pre-lit tree (7ft)",
+      "retailer": "Balsam Hill",
+      "price": 399,
+      "was": 799,
+      "url": "https://www.balsamhill.co.uk/",
+      "verdict": "Half price",
+      "verdictLevel": "great",
+      "note": "A big frosted tree at half price. Pricey, but this is the time of year to buy one."
+    },
+    {
+      "name": "M&S Beauty Advent Calendar 2026",
+      "retailer": "M&S",
+      "price": 75,
+      "url": "https://www.marksandspencer.com/",
+      "verdict": "Buy before Dec",
+      "verdictLevel": "good",
+      "note": "25 products that M&S says are worth over £450. These sell out every year, so don't leave it late."
+    },
+    {
+      "name": "FCUK The Cosy One pyjamas gift set",
+      "retailer": "Boots",
+      "price": 14,
+      "was": 28,
+      "url": "https://www.boots.com/sitesearch?searchTerm=FCUK+The+Cosy+One+Pyjamas+Gift+Set",
+      "verdict": "Half price",
+      "verdictLevel": "good",
+      "note": "Part of Boots' half-price Christmas range, which sells out quickly."
+    }
+  ],
+  "body": "## What about the bigger stuff?\n\nTVs, vacuums, laptops and Amazon devices are still worth holding off on until nearer Black Friday on 27 November, unless you need them now. Our guide explains what to buy now and what to wait for: [Black Friday 2026: what to buy now, what to wait for, and the traps to avoid](/spotlight/black-friday-2026-buy-now-or-wait/)."
+}

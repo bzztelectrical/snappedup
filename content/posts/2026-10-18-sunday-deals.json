@@ -1,0 +1,90 @@
+{
+  "type": "daily",
+  "date": "2026-10-18",
+  "title": "Sunday's best deals: Kindle Scribe, Shark, Ninja and a cheap way to heat one room",
+  "description": "Eight genuine price drops from this weekend's Amazon UK sale, from a £150-off Kindle Scribe to a heater that's cheaper to run than the central heating.",
+  "intro": "Amazon UK is running a weekend sale ahead of Black Friday, and a few of the discounts are properly big. We've skipped the filler and kept the eight worth a look.\n\n**Quick rule:** if you need it now, these are good prices. If it's a big-ticket gift for Christmas, several of these brands usually cut prices again around Black Friday on 27 November, so there's no rush unless stock is a worry.",
+  "deals": [
+    {
+      "name": "Amazon Kindle Scribe (64GB)",
+      "retailer": "Amazon",
+      "price": 279.99,
+      "was": 429.99,
+      "url": "https://www.amazon.co.uk/s?k=Kindle+Scribe+64GB",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "Kindle and note-taking pad in one. £150 off is one of the bigger cuts we've seen on it."
+    },
+    {
+      "name": "Oral-B iO Series 2 electric toothbrush (two-pack)",
+      "retailer": "Amazon",
+      "price": 59.95,
+      "was": 160,
+      "url": "https://www.amazon.co.uk/s?k=Oral-B+iO+Series+2+duo+pack",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "Two brushes for under £30 each. Oral-B's 'was' prices run high, but this is still a very good price for the iO range."
+    },
+    {
+      "name": "Shark PowerDetect Speed cordless vacuum",
+      "retailer": "Amazon",
+      "price": 319.99,
+      "was": 519.99,
+      "url": "https://www.amazon.co.uk/s?k=Shark+PowerDetect+Speed+cordless+vacuum",
+      "verdict": "£200 off",
+      "verdictLevel": "good",
+      "note": "Shark's newer cordless with dirt-sensing suction. Worth it if your current vac is on its way out."
+    },
+    {
+      "name": "Ninja Perfect Temperature kettle",
+      "retailer": "Amazon",
+      "price": 59.99,
+      "was": 99.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Perfect+Temperature+Kettle",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Set exact temperatures for tea, coffee or formula. Pricey for a kettle at full price, much easier to justify at £60."
+    },
+    {
+      "name": "Bose QuietComfort Earbuds",
+      "retailer": "Amazon",
+      "price": 122.26,
+      "was": 179.95,
+      "url": "https://www.amazon.co.uk/s?k=Bose+QuietComfort+Earbuds",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Strong noise cancelling for the commute at well under the usual price."
+    },
+    {
+      "name": "Dreo electric heater",
+      "retailer": "Amazon",
+      "price": 42.49,
+      "was": 64.99,
+      "url": "https://www.amazon.co.uk/s?k=Dreo+electric+heater",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "good",
+      "note": "Heating one room you're sitting in can work out cheaper than running the whole house's heating. Good timing as the evenings get colder."
+    },
+    {
+      "name": "Lego Marvel advent calendar",
+      "retailer": "Amazon",
+      "price": 23.99,
+      "was": 29.99,
+      "url": "https://www.amazon.co.uk/s?k=Lego+Marvel+advent+calendar",
+      "verdict": "Buy before Dec",
+      "verdictLevel": "good",
+      "note": "Advent calendars tend to sell out rather than get cheaper, so this is one to grab early."
+    },
+    {
+      "name": "Ugreen 100W fast charger",
+      "retailer": "Amazon",
+      "price": 30.36,
+      "was": 49.99,
+      "url": "https://www.amazon.co.uk/s?k=Ugreen+100W+charger",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Charges a laptop, phone and earbuds from one plug. Handy stocking filler."
+    }
+  ],
+  "body": "## Worth waiting for?\n\nBig-ticket electronics and vacuums are the categories most likely to drop again on Black Friday. Smaller stuff like advent calendars and seasonal heaters is better bought now, before it sells out or the cold snap pushes demand up.\n\nWe're tracking all of this in this week's spotlight: [Black Friday 2026: what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/)."
+}
