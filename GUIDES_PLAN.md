@@ -5,7 +5,7 @@ Evergreen buying guides to write, roughly in priority order. The daily task take
 Black Friday is 27 November 2026. Black Friday guides need to be live by early November to have a chance of ranking.
 
 ## Black Friday 2026 (write these first)
-- [ ] ninja-black-friday-deals-2026: Ninja Black Friday deals 2026 (air fryers, Creami, blenders, kettles)
+- [x] ninja-black-friday-deals-2026: Ninja Black Friday deals 2026 (air fryers, Creami, blenders, kettles)
 - [ ] shark-black-friday-deals-2026: Shark Black Friday deals 2026 (cordless vacs, hair stylers)
 - [ ] kindle-black-friday-deals-2026: Kindle Black Friday deals 2026 UK
 - [ ] dyson-black-friday-deals-2026: Dyson Black Friday deals 2026 UK
