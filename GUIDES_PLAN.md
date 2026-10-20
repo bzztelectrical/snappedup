@@ -39,3 +39,25 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 ## Comparisons (evergreen)
 - [ ] shark-vs-dyson-cordless: Shark vs Dyson cordless vacuum: which to buy
 - [ ] kindle-vs-kindle-paperwhite: Kindle vs Kindle Paperwhite: is it worth paying more?
+
+## Product-level targets (easier to rank than brand pages; add as time allows)
+- [ ] ninja-creami-deals-uk: Ninja Creami deals UK (which model, lowest prices)
+- [ ] ninja-slushi-deals-uk: Ninja Slushi deals UK
+- [ ] ninja-double-stack-deals-uk: Ninja Double Stack air fryer deals UK
+- [ ] dyson-airwrap-deals-uk: Dyson Airwrap deals UK (and cheaper alternatives)
+- [ ] dyson-v15-deals-uk: Dyson V15 Detect deals UK
+- [ ] airpods-pro-deals-uk: AirPods Pro deals UK
+- [ ] apple-watch-deals-uk: Apple Watch deals UK
+- [ ] ipad-deals-uk: iPad deals UK (which model to buy)
+- [ ] nintendo-switch-2-bundle-deals-uk: Nintendo Switch 2 bundle deals UK
+- [ ] ps5-bundle-deals-uk: PS5 bundle deals UK
+- [ ] lego-advent-calendar-2026-deals: Lego advent calendar 2026 deals
+- [ ] oled-tv-deals-uk: OLED TV deals UK (LG C-series and rivals)
+- [ ] robot-vacuum-deals-uk: Robot vacuum deals UK
+- [ ] ring-doorbell-deals-uk: Ring doorbell deals UK
+- [ ] echo-dot-deals-uk: Echo Dot and Alexa deals UK
+- [ ] fire-tv-stick-deals-uk: Fire TV Stick deals UK
+- [ ] ghd-black-friday-deals-2026: ghd Black Friday deals 2026
+- [ ] le-creuset-black-friday-deals-2026: Le Creuset Black Friday deals 2026
+- [ ] nespresso-deals-uk: Nespresso machine deals UK
+- [ ] heated-throw-deals-uk: Heated throw deals UK

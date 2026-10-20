@@ -106,3 +106,6 @@ nav a:hover { color: var(--ink); }
   nav { gap: 14px; }
   .deals { grid-template-columns: 1fr; }
 }
+
+.crumbs { font-size: 0.85rem; color: var(--muted); margin: 22px 0 -24px; }
+.crumbs a { color: var(--muted); }

@@ -231,7 +231,8 @@ function relatedFor(p) {
 
 // Posts
 for (const p of posts) {
-  const body = `<article class="post">
+  const body = `<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/${SECTION[p.type] || "deals"}/">${p.type === "guide" ? "Buying guides" : p.type === "spotlight" ? "Spotlights" : "Daily deals"}</a></nav>
+<article class="post">
   <p class="kicker">${p.type === "spotlight" ? "This week's spotlight" : p.type === "guide" ? "Buying guide · Updated" : "Daily deals"} · <time datetime="${p.updated || p.date}">${fmtDate(p.updated || p.date)}</time></p>
   <h1>${esc(p.title)}</h1>
   <div class="prose lede">${md(p.intro || "")}</div>
@@ -267,6 +268,7 @@ const latestDaily = posts.find((p) => p.type === "daily");
 const latestSpot = posts.find((p) => p.type === "spotlight");
 write("index.html", layout({
   pathname: "/",
+  seoTitle: site.homeTitle,
   jsonld: { "@context": "https://schema.org", "@graph": [
     { "@type": "WebSite", name: site.name, url: site.url + "/", description: site.description, inLanguage: "en-GB" },
     { "@type": "Organization", name: site.name, url: site.url + "/", logo: `${site.url}/og.png`, email: site.contactEmail } ] },
