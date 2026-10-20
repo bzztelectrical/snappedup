@@ -1,0 +1,90 @@
+{
+  "type": "daily",
+  "date": "2026-10-20",
+  "title": "Tuesday's deals: Lego advent calendars from £17.99, a £49.99 Millennium Falcon and a Dyson V15 price check",
+  "description": "Lego's 2026 advent calendars are cheaper than last week, plus a Millennium Falcon at a third off and why to hold off on Dyson for now.",
+  "intro": "Today is mostly a Lego day. Amazon has cut the 2026 Lego advent calendars below their RRP, and the Star Wars and City ones are now **a pound or so cheaper than they were a week ago**. Advent calendars are only useful if they arrive before 1 December and they tend to sell out rather than get cheaper, so these are worth buying now.\n\nA few popular Lego sets are also 25–33% off, which is about as good as Lego gets outside Black Friday. Dyson is the opposite story: prices are down, but last year's Black Friday prices were lower still, so wait unless you need one now. Prices were checked on 19 and 20 October.",
+  "deals": [
+    {
+      "name": "Lego Star Wars Advent Calendar 2026 (75456)",
+      "retailer": "Amazon",
+      "price": 22.99,
+      "was": 29.99,
+      "url": "https://www.amazon.co.uk/dp/B0GGSK4J2N",
+      "verdict": "Buy before Dec",
+      "verdictLevel": "great",
+      "note": "£1 cheaper than a week ago and £7 under RRP. Twenty-four mini builds for a Star Wars fan."
+    },
+    {
+      "name": "Lego Marvel Super Heroes Advent Calendar 2026 (76340)",
+      "retailer": "Amazon",
+      "price": 23.99,
+      "was": 29.99,
+      "url": "https://www.amazon.co.uk/dp/B0GGSM14GC",
+      "verdict": "Buy before Dec",
+      "verdictLevel": "good",
+      "note": "£6 off, and it was out of stock at Lego's own shop when we checked, so don't count on it hanging around."
+    },
+    {
+      "name": "Lego City Advent Calendar 2026 (60510)",
+      "retailer": "Amazon",
+      "price": 17.99,
+      "was": 22.99,
+      "url": "https://www.amazon.co.uk/dp/B0GGSTTS1R",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "great",
+      "note": "The cheapest of the Lego calendars and a little lower than last week. A good one for younger builders."
+    },
+    {
+      "name": "Lego Disney Princess Advent Calendar 2026 (43298)",
+      "retailer": "Amazon",
+      "price": 23.99,
+      "was": 29.99,
+      "url": "https://www.amazon.co.uk/dp/B0GGSM57DD",
+      "verdict": "Buy before Dec",
+      "verdictLevel": "good",
+      "note": "£6 off the RRP. Same deal as the others: buy it while it's in stock."
+    },
+    {
+      "name": "Lego Star Wars Millennium Falcon (75375)",
+      "retailer": "Amazon",
+      "price": 49.99,
+      "was": 74.99,
+      "url": "https://www.amazon.co.uk/s?k=lego+75375",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A third off the smaller display Falcon. It has dipped to about £45 in the last three months, so this is good rather than a record."
+    },
+    {
+      "name": "Lego Harry Potter Hogwarts Castle: The Main Tower (76454)",
+      "retailer": "Amazon",
+      "price": 159.99,
+      "was": 229.99,
+      "url": "https://www.amazon.co.uk/s?k=lego+76454",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£70 off a big Christmas-present set. 30% off is at the top end of what Lego usually goes for."
+    },
+    {
+      "name": "Lego City Police Station (60316)",
+      "retailer": "Amazon",
+      "price": 44.99,
+      "was": 59.99,
+      "url": "https://www.amazon.co.uk/s?k=lego+60316",
+      "verdict": "Retiring soon",
+      "verdictLevel": "good",
+      "note": "25% off a set that's expected to be retired at the end of this year, so it may get harder to find, not cheaper."
+    },
+    {
+      "name": "Dyson V15 Detect Absolute with detail cleaning kit",
+      "retailer": "Dyson",
+      "price": 499.99,
+      "was": 699.99,
+      "url": "https://www.dyson.co.uk/deals",
+      "verdict": "Wait for BF",
+      "verdictLevel": "wait",
+      "note": "The £699.99 'was' includes an add-on kit; the plain V15 is usually about £650. It dropped to around £450–£480 last Black Friday, so hold on if you can."
+    }
+  ],
+  "body": "## Worth waiting for?\n\nFor the Lego sets, not really: 25–33% off is roughly what Lego's own Black Friday discounts looked like last year, and popular sets can sell out. Our new [Lego Black Friday deals 2026](/guides/lego-black-friday-deals-2026/) guide has the prices to aim for and the sets retiring this year.\n\nFor Dyson, yes. Most models are a little above last November's prices, and Dyson usually starts its sale weeks early. See [Dyson Black Friday deals 2026](/guides/dyson-black-friday-deals-2026/) for the target price on each model, and [Black Friday 2026: what to buy now, what to wait for, and the traps to avoid](/spotlight/black-friday-2026-buy-now-or-wait/) for everything else."
+}
