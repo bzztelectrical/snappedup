@@ -25,6 +25,9 @@ Every run, after the daily post:
 Guide rules:
 - **slug** = the search phrase, lower-case and hyphenated, e.g. `ninja-black-friday-deals-2026`. **title** contains the exact phrase near the start, under 65 characters if possible. **description** is under 155 characters and says what the reader gets.
 - Include `"date"` (first published) and `"updated"` (last refreshed), both YYYY-MM-DD.
+- Add `"seoTitle"`, the browser-tab / Google title, max 60 characters, with the search phrase first (e.g. `Ninja Black Friday Deals 2026: Prices to Wait For`). The longer `title` stays as the on-page headline.
+- Add `"tags"`: slugs containing `black-friday` join the Black Friday hub automatically; add `"gifts"` for any gift guide so it appears on the Christmas gifts hub (`/christmas-gifts/`).
+- Link the guide to its hub (`[every Black Friday 2026 guide](/black-friday/)` or `[Christmas gift guides](/christmas-gifts/)`) as well as to 1–3 related guides.
 - `intro`: answer the question in the first two sentences (the best current price or pick). `deals`: 4–10 deal cards with sourced prices, same rules as daily posts. `body`: 500–1,000 words: how to choose, which models are worth it, target "good price" figures, when prices usually drop, and 3–5 FAQs written as `### Question?` headings followed by short answers.
 - Link to 1–3 related guides on the site, and link back to relevant guides from the daily post (`[title](/guides/slug/)`).
 - Never pad. A tight, accurate 500-word guide beats a padded 1,500-word one.
@@ -74,8 +77,10 @@ Markdown supported: `##`/`###` headings, paragraphs, `-` and `1.` lists, `**bold
 
 ## 4. Check, then publish
 
-1. Run `node build.mjs`. It must finish with no errors. It validates required fields.
-2. Re-read your JSON once: prices are numbers, every deal has a url, nothing is made up.
+1. Make the share images: `python3 tools/og.py`. If Pillow is missing, run `pip install pillow --break-system-packages` first.
+2. Build: `node build.mjs`. It must finish with no errors.
+3. **Quality check: `node check.mjs`. It must report "No errors".** Fix every warning about the posts you wrote today: title-tag length, description length, word count, FAQs, internal links. Warnings about older posts: fix them if quick, otherwise list them in your report.
+4. Re-read your JSON once: prices are numbers, every deal has a url, nothing is made up.
 3. Commit with message `Daily deals YYYY-MM-DD` (or `Spotlight: <topic>`) and push to `main`.
 
 ## 5. Report

@@ -21,5 +21,26 @@
       "balsamhill.co.uk": "",
       "perfumedirect.com": ""
     }
-  }
+  },
+  "hubs": [
+    {
+      "slug": "black-friday",
+      "nav": true,
+      "navLabel": "Black Friday",
+      "match": "black-friday",
+      "title": "Black Friday 2026 UK deals: every guide in one place",
+      "seoTitle": "Black Friday 2026 UK Deals: Guides & Target Prices",
+      "description": "Black Friday 2026 is on 27 November. Our brand-by-brand guides show what's already cheap, what to wait for and the prices worth paying.",
+      "intro": "**Black Friday 2026 is on Friday 27 November, and Cyber Monday is on 30 November.** UK retailers start cutting prices weeks before, but many 'deals' aren't real. Each guide below covers one brand or product. It shows what's genuinely cheap right now, last year's Black Friday prices, and the price worth waiting for.\n\nWe update these guides every few days through November, so the prices stay current."
+    },
+    {
+      "slug": "christmas-gifts",
+      "nav": false,
+      "match": "gifts",
+      "title": "Christmas gift deals 2026: guides by budget",
+      "seoTitle": "Christmas Gift Deals 2026 UK: Ideas by Budget",
+      "description": "Christmas 2026 gift ideas and deals by budget, from Secret Santa under £10 to gifts under £50, with prices we've checked.",
+      "intro": "Gift guides by budget and by person, with real current prices. We update them through to Christmas, so you'll find what's still in stock and still a good deal."
+    }
+  ]
 }

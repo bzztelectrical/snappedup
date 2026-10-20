@@ -116,8 +116,9 @@ const deals = (list = []) => (list.length ? `<div class="deals">${list.map(dealC
 
 const disclosureNote = `<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
 
-function layout({ title, description, pathname, body, type = "website", jsonld }) {
-  const fullTitle = title ? `${title} | ${site.name}` : `${site.name} | ${site.tagline}`;
+function layout({ title, seoTitle, description, pathname, body, type = "website", jsonld, image }) {
+  const fullTitle = seoTitle ? seoTitle : title ? (title.length > 48 ? title : `${title} | ${site.name}`) : `${site.name} | ${site.tagline}`;
+  const ogImage = image || `${site.url}/og.png`;
   const canonical = site.url + pathname;
   return `<!doctype html>
 <html lang="en-GB">
@@ -132,12 +133,12 @@ function layout({ title, description, pathname, body, type = "website", jsonld }
 <meta property="og:description" content="${esc(description || site.description)}">
 <meta property="og:url" content="${esc(canonical)}">
 <meta property="og:site_name" content="${esc(site.name)}">
-<meta property="og:image" content="${site.url}/og.png">
+<meta property="og:image" content="${ogImage}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="${site.url}/og.png">
+<meta name="twitter:image" content="${ogImage}">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/feed.xml">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -150,6 +151,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
     <a class="logo" href="/"><span class="logo-mark" aria-hidden="true"></span>Snapped&nbsp;Up</a>
     <nav>
       <a href="/deals/">Daily deals</a>
+${(site.hubs || []).filter((h) => h.nav).map((h) => `      <a href="/${h.slug}/">${esc(h.navLabel || h.title)}</a>`).join("\n")}
       <a href="/guides/">Guides</a>
       <a href="/spotlight/">Spotlights</a>
       <a href="/about/">About</a>
@@ -205,7 +207,7 @@ const write = (rel, content) => {
   fs.mkdirSync(path.dirname(f), { recursive: true });
   fs.writeFileSync(f, content);
 };
-for (const f of fs.readdirSync(path.join(ROOT, "static"))) fs.copyFileSync(path.join(ROOT, "static", f), path.join(OUT, f));
+fs.cpSync(path.join(ROOT, "static"), OUT, { recursive: true });
 
 function postTeaser(p) {
   const n = (p.deals || []).length;
@@ -245,10 +247,12 @@ for (const p of posts) {
   <h2>Latest deals</h2>
   <div class="teasers">${posts.filter((q) => q !== p && q.type !== "guide").slice(0, 2).map(postTeaser).join("")}</div>
 </section>`;
+  const img = fs.existsSync(path.join(ROOT, "static", "og", `${p.slug}.png`)) ? `${site.url}/og/${p.slug}.png` : undefined;
   write(path.join(postUrl(p), "index.html"), layout({
+    image: img, seoTitle: p.seoTitle || (p.type === "daily" ? `UK deals today, ${fmtDate(p.date)} | ${site.name}` : undefined),
     title: p.title, description: p.description, pathname: postUrl(p), body, type: "article",
     jsonld: { "@context": "https://schema.org", "@graph": [
-      { "@type": "Article", headline: p.title, datePublished: p.date, dateModified: p.updated || p.date, description: p.description, image: `${site.url}/og.png`, mainEntityOfPage: site.url + postUrl(p), author: { "@type": "Organization", name: site.name, url: site.url }, publisher: { "@type": "Organization", name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/og.png` } } },
+      { "@type": "Article", headline: p.title, datePublished: p.date, dateModified: p.updated || p.date, description: p.description, image: img || `${site.url}/og.png`, mainEntityOfPage: site.url + postUrl(p), author: { "@type": "Organization", name: site.name, url: site.url }, publisher: { "@type": "Organization", name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/og.png` } } },
       { "@type": "BreadcrumbList", itemListElement: [
         { "@type": "ListItem", position: 1, name: "Home", item: site.url + "/" },
         { "@type": "ListItem", position: 2, name: LABEL[p.type] === "Buying guide" ? "Buying guides" : LABEL[p.type] === "Spotlight" ? "Spotlights" : "Daily deals", item: `${site.url}/${SECTION[p.type] || "deals"}/` },
@@ -297,6 +301,20 @@ archive("Daily deals", "Every day's hand-picked UK deals, newest first.", posts.
 archive("Buying guides", "Kept-up-to-date guides to the best prices on the things people actually shop for.", [...posts.filter((p) => p.type === "guide")].sort((a, b) => (b.updated || b.date).localeCompare(a.updated || a.date)), "/guides/");
 archive("Spotlights", "Our weekly deep-dives on the category most worth shopping right now.", posts.filter((p) => p.type === "spotlight"), "/spotlight/");
 
+// Topic hubs (configured in site.json "hubs"): list every post whose slug or tags match
+const hubPosts = (h) => posts.filter((p) => (p.tags || []).includes(h.match) || p.slug.includes(h.match))
+  .sort((a, b) => (a.type === "guide" ? 0 : 1) - (b.type === "guide" ? 0 : 1) || (b.updated || b.date).localeCompare(a.updated || a.date));
+for (const h of site.hubs || []) {
+  const list = hubPosts(h);
+  const g = list.filter((p) => p.type === "guide"), other = list.filter((p) => p.type !== "guide").slice(0, 6);
+  write(path.join(h.slug, "index.html"), layout({ title: h.title, seoTitle: h.seoTitle, description: h.description, pathname: `/${h.slug}/`,
+    jsonld: { "@context": "https://schema.org", "@type": "CollectionPage", name: h.title, description: h.description, url: `${site.url}/${h.slug}/`,
+      mainEntity: { "@type": "ItemList", itemListElement: g.map((p, i) => ({ "@type": "ListItem", position: i + 1, url: site.url + postUrl(p), name: p.title })) } },
+    body: `<section class="page-head"><h1>${esc(h.title)}</h1><div class="prose">${md(h.intro || "")}</div></section>
+${g.length ? `<section class="more"><h2>Buying guides</h2><div class="teasers">${g.map(postTeaser).join("")}</div></section>` : ""}
+${other.length ? `<section class="more"><h2>Latest posts</h2><div class="teasers">${other.map(postTeaser).join("")}</div></section>` : ""}` }));
+}
+
 // Static pages
 for (const pg of pages) {
   const slug = pg.slug || pg.file.replace(/\.json$/, "");
@@ -309,7 +327,7 @@ write("404.html", layout({ title: "Page not found", pathname: "/404.html",
   body: `<section class="page-head"><h1>That deal's gone.</h1><p>The page you wanted isn't here. <a href="/">Head back to today's picks</a>.</p></section>` }));
 
 // Sitemap, robots, RSS
-const urls = ["/", "/deals/", "/guides/", "/spotlight/", ...pages.map((p) => `/${p.slug || p.file.replace(/\.json$/, "")}/`), ...posts.map(postUrl)];
+const urls = ["/", ...(site.hubs || []).map((h) => `/${h.slug}/`), "/deals/", "/guides/", "/spotlight/", ...pages.map((p) => `/${p.slug || p.file.replace(/\.json$/, "")}/`), ...posts.map(postUrl)];
 write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => { const p = posts.find((q) => postUrl(q) === u); return `<url><loc>${site.url}${u}</loc>${p ? `<lastmod>${p.updated || p.date}</lastmod>` : ""}</url>`; }).join("\n")}\n</urlset>\n`);
 write("robots.txt", `User-agent: *\nAllow: /\nSitemap: ${site.url}/sitemap.xml\n`);
 write("feed.xml", `<?xml version="1.0" encoding="UTF-8"?>
