@@ -12,8 +12,8 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 - [x] lego-black-friday-deals-2026: Lego Black Friday deals 2026 UK
 - [x] airpods-black-friday-deals-2026: AirPods Black Friday deals 2026 UK
 - [x] nintendo-switch-2-black-friday-deals-2026: Nintendo Switch 2 Black Friday deals UK
-- [ ] ps5-black-friday-deals-2026: PS5 Black Friday deals 2026 UK
-- [ ] oral-b-black-friday-deals-2026: Oral-B electric toothbrush Black Friday deals 2026
+- [x] ps5-black-friday-deals-2026: PS5 Black Friday deals 2026 UK
+- [x] oral-b-black-friday-deals-2026: Oral-B electric toothbrush Black Friday deals 2026
 - [ ] ring-doorbell-black-friday-deals-2026: Ring doorbell Black Friday deals 2026 UK
 - [ ] tv-black-friday-deals-2026: Best TV Black Friday deals 2026 UK (OLED and budget)
 - [ ] air-fryer-black-friday-deals-2026: Air fryer Black Friday deals 2026 UK
