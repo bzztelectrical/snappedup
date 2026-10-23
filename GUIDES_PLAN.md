@@ -4,6 +4,18 @@ Evergreen buying guides to write, roughly in priority order. The daily task take
 
 Black Friday is 27 November 2026. Black Friday guides need to be live by early November to have a chance of ranking.
 
+## Highest-earning targets (write these next, before continuing below)
+- [ ] amazon-prime-free-trial-black-friday-2026: Amazon Prime free trial for Black Friday 2026: do you need Prime, and how to time the trial (Prime trial bounty £3)
+- [ ] audible-free-trial-deals-uk: Audible free trial and deals UK: what you get and how to cancel (Audible bounty £5)
+- [ ] perfume-gift-sets-black-friday-2026: Perfume gift set Black Friday deals 2026 UK (luxury beauty 10%)
+- [ ] beauty-advent-calendars-2026: Beauty advent calendars 2026 UK, compared (luxury beauty 10%)
+- [ ] le-creuset-black-friday-deals-2026: Le Creuset Black Friday deals 2026 (home & kitchen)
+- [ ] kitchenaid-black-friday-deals-2026: KitchenAid stand mixer Black Friday deals 2026 (home & kitchen)
+- [ ] ghd-black-friday-deals-2026: ghd Black Friday deals 2026 (beauty)
+- [ ] sim-only-black-friday-deals-2026: SIM-only Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
+- [ ] broadband-black-friday-deals-2026: Broadband Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
+- [ ] kindle-unlimited-free-trial-uk: Kindle Unlimited free trial UK: is it worth it? (bounty £3)
+
 ## Black Friday 2026 (write these first)
 - [x] ninja-black-friday-deals-2026: Ninja Black Friday deals 2026 (air fryers, Creami, blenders, kettles)
 - [x] shark-black-friday-deals-2026: Shark Black Friday deals 2026 (cordless vacs, hair stylers)
@@ -22,7 +34,6 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 - [ ] secret-santa-gifts-under-10: Secret Santa gifts under £10 UK
 - [ ] christmas-gifts-for-him-under-50: Christmas gifts for him under £50
 - [ ] christmas-gifts-for-her-under-50: Christmas gifts for her under £50
-- [ ] beauty-advent-calendars-2026: Beauty advent calendars 2026 UK, compared
 - [ ] stocking-fillers-under-5: Stocking fillers under £5 UK
 - [ ] christmas-gifts-for-kids-under-20: Christmas gifts for kids under £20
 
@@ -57,7 +68,5 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 - [ ] ring-doorbell-deals-uk: Ring doorbell deals UK
 - [ ] echo-dot-deals-uk: Echo Dot and Alexa deals UK
 - [ ] fire-tv-stick-deals-uk: Fire TV Stick deals UK
-- [ ] ghd-black-friday-deals-2026: ghd Black Friday deals 2026
-- [ ] le-creuset-black-friday-deals-2026: Le Creuset Black Friday deals 2026
 - [ ] nespresso-deals-uk: Nespresso machine deals UK
 - [ ] heated-throw-deals-uk: Heated throw deals UK

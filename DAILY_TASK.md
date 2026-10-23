@@ -12,6 +12,18 @@ Get today's date (Europe/London). Look at `content/posts/` to see what's already
 
 If a post for today already exists, stop and make no changes.
 
+## 1a. Earnings per visitor — choose what to cover with this in mind
+
+The goal is affiliate income, so **what we cover matters as much as how many people read it**. Amazon UK pays very different rates by category (as of 2026; confirm in Associates Central if in doubt):
+
+- **Best:** Luxury Beauty 10%; clothing, shoes and jewellery 3–5%; books and office 4.5%; home, kitchen, garden and DIY 3–4.5%.
+- **OK:** health and beauty 3%; electronics, PC and cameras 3%; sports 3%.
+- **Poor:** consoles and physical video games 1%; grocery 1–2%. Still cover big searches like PS5 deals, but don't prioritise them.
+- **Flat-fee bounties (Amazon):** Audible 30-day trial £5 per sign-up; Prime free trial, Prime Student, Kindle Unlimited and Music Unlimited trials £3 each. Where it genuinely helps the reader, mention them. For example, Prime is needed for many Amazon Black Friday prices, so Amazon-heavy guides should say so and link to `https://www.amazon.co.uk/amazonprime`.
+- **Telecoms (via Awin, once approved):** SIM-only and broadband deals pay a flat fee per sale, typically many times a product commission. Never write about phone contracts with a handset on credit, loans, credit cards or insurance. Those are FCA-regulated, so stay out.
+
+When choosing between guide topics of similar search demand, pick the one with the higher-earning category. When choosing daily picks, include at least 2 home, kitchen or beauty picks each day.
+
 ## 1b. Search guides — the most important job
 
 Daily posts are useful for returning readers but go stale in a day, so Google won't send much traffic to them. **Search traffic comes from evergreen buying guides** (`type: "guide"`, served at `/guides/<slug>/`). They answer one specific search with buying intent and get kept up to date. They are how this site gets visitors without anyone promoting it.
