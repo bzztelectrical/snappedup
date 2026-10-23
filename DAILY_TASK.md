@@ -19,7 +19,7 @@ Daily posts are useful for returning readers but go stale in a day, so Google wo
 Every run, after the daily post:
 
 1. **Refresh first.** If any guide's `updated` date is 7+ days old (or 3+ days during 1–30 November), re-check its prices, swap out dead deals and set `updated` to today. Refresh at most 2 per run.
-2. **Then write new guides**: **two per run until 10 November 2026** (to get the Black Friday guides live in time), then one per run, taking the top unchecked item in `GUIDES_PLAN.md` (or a better idea you found while researching; add it to the plan). Tick it off when published.
+2. **Then write new guides**: **three per run until 15 November 2026** (to get as many guides live as possible before the Black Friday peak), then two per run, taking the top unchecked item in `GUIDES_PLAN.md` (or a better idea you found while researching; add it to the plan). Tick it off when published.
 3. **Rotate between the plan sections**: once the Black Friday brand guides are done, alternate a gift guide with a product-level guide. Product-level pages (one product family, e.g. "Ninja Creami deals UK") are the easiest to rank for a new site, so prioritise them over broad topics.
 4. Choose targets people actually type into Google, where big sites are weak: specific brand + event ("Ninja Black Friday deals 2026"), specific product ("Kindle Paperwhite deals UK"), budget gifts ("Secret Santa gifts under £10 UK"), comparisons ("Shark vs Dyson cordless"). Avoid broad heads like "Black Friday deals" that the big newspapers own.
 
