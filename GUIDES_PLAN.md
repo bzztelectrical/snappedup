@@ -5,9 +5,9 @@ Evergreen buying guides to write, roughly in priority order. The daily task take
 Black Friday is 27 November 2026. Black Friday guides need to be live by early November to have a chance of ranking.
 
 ## Highest-earning targets (write these next, before continuing below)
-- [ ] amazon-prime-free-trial-black-friday-2026: Amazon Prime free trial for Black Friday 2026: do you need Prime, and how to time the trial (Prime trial bounty £3)
-- [ ] audible-free-trial-deals-uk: Audible free trial and deals UK: what you get and how to cancel (Audible bounty £5)
-- [ ] perfume-gift-sets-black-friday-2026: Perfume gift set Black Friday deals 2026 UK (luxury beauty 10%)
+- [x] amazon-prime-free-trial-black-friday-2026: Amazon Prime free trial for Black Friday 2026: do you need Prime, and how to time the trial (Prime trial bounty £3)
+- [x] audible-free-trial-deals-uk: Audible free trial and deals UK: what you get and how to cancel (Audible bounty £5)
+- [x] perfume-gift-sets-black-friday-2026: Perfume gift set Black Friday deals 2026 UK (luxury beauty 10%)
 - [ ] beauty-advent-calendars-2026: Beauty advent calendars 2026 UK, compared (luxury beauty 10%)
 - [ ] le-creuset-black-friday-deals-2026: Le Creuset Black Friday deals 2026 (home & kitchen)
 - [ ] kitchenaid-black-friday-deals-2026: KitchenAid stand mixer Black Friday deals 2026 (home & kitchen)
