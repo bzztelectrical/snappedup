@@ -38,5 +38,30 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | iD Mobile | 6366 | idmobile.co.uk | pending |
 | Plusnet Broadband | 2973 | plus.net | pending |
 | TalkTalk Phone and Broadband | 3674 | talktalk.co.uk | pending |
+| Rocket Espresso | 38418 | rocket-espresso.co.uk | **joined (live)** |
+| Tinkerer STEAM Box | 118721 | tinkererbox.com | **joined (live)** |
+| BT Broadband | 3041 | bt.com | pending |
+| Hyperoptic B2C | 5737 | hyperoptic.com | pending |
+| Gigaclear | 11269 | gigaclear.com | pending |
+| Hey Broadband | 51115 | heybroadband.co.uk | pending |
+| Lightning Fibre | 119853 | lightningfibre.co.uk | pending |
+| SMEG | 74372 | smeguk.com | pending |
+| Kuvings | 121398 | (check domain on approval) | pending |
+| Simplisafe | 27387 | simplisafe.co.uk | pending |
+| Ergo Flex | 17254 | ergoflex.co.uk | pending |
+| Archers Sleepcentre | 26711 | archerssleepcentre.co.uk | pending |
+| Feather & down | 81459 | featheranddown.co.uk | pending |
+| RattanTree | 23566 | rattantree.co.uk | pending |
+| Urevo UK | 126425 | (check domain on approval) | pending |
+| WaterRower | 25937 | waterrower.co.uk | pending |
+| Away Resorts | 8099 | awayresorts.co.uk | pending |
+| Shorefield Holidays | 6349 | shorefield.co.uk | pending |
+| Neilson Holidays | 13447 | neilson.co.uk | pending |
+| Logitravel UK | 8094 | logitravel.co.uk | pending |
+| Bristol Airport Parking | 11229 | bristolairport.co.uk (parking) | pending |
+| Legology | 119729 | legology.co.uk | pending |
+| Fine Food Specialist UK | 15243 | finefoodspecialist.co.uk | pending |
+| Emma J Shipley UK | 124322 | emmajshipley.com | pending |
+| PartyLite UK | 82077 | partylite.co.uk | pending |
 
 Not on Awin (checked 26 Oct 2026): Argos, John Lewis (Impact), Dunelm, Halfords, ProCook, Lenovo, Perfume Direct.

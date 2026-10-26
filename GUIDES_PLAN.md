@@ -16,6 +16,19 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 - [ ] broadband-black-friday-deals-2026: Broadband Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
 - [x] kindle-unlimited-free-trial-uk: Kindle Unlimited free trial UK: is it worth it? (bounty £3)
 
+## New Awin verticals (high earnings per click; add once the programme approves, or write now and link direct)
+- [ ] broadband-deals-uk: Best broadband deals UK this month (BT, Hyperoptic, Sky, Virgin, Plusnet, TalkTalk, Hey Broadband)
+- [ ] full-fibre-broadband-deals: Full-fibre broadband deals UK: Hyperoptic vs BT vs alt-nets (Gigaclear, Lightning Fibre)
+- [ ] bristol-airport-parking-deals: Bristol Airport parking deals: cheapest options and booking tips
+- [ ] holiday-park-deals-uk: UK holiday park deals and breaks (Away Resorts, Shorefield)
+- [ ] mattress-black-friday-deals-2026: Mattress Black Friday deals 2026 UK (Silentnight, Ergo Flex, Archers)
+- [ ] coffee-machine-black-friday-deals-2026: Coffee machine Black Friday deals 2026 (Rocket Espresso, Ninja, De'Longhi)
+- [ ] smeg-black-friday-deals-2026: SMEG kettle, toaster and fridge Black Friday deals 2026
+- [ ] stem-gifts-for-kids: STEM toys and subscription boxes for kids (Tinkerer, Legology)
+- [ ] christmas-hampers-2026: Christmas hampers 2026 UK, compared (Fine Food Specialist and others)
+- [ ] treadmill-deals-uk: Treadmill and rowing machine deals UK (Urevo, WaterRower)
+- [ ] home-security-deals-uk: Home security system deals UK (SimpliSafe vs Ring)
+
 ## Black Friday 2026 (write these first)
 - [x] ninja-black-friday-deals-2026: Ninja Black Friday deals 2026 (air fryers, Creami, blenders, kettles)
 - [x] shark-black-friday-deals-2026: Shark Black Friday deals 2026 (cordless vacs, hair stylers)
