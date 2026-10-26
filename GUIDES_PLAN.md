@@ -11,10 +11,10 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 - [x] beauty-advent-calendars-2026: Beauty advent calendars 2026 UK, compared (luxury beauty 10%)
 - [x] le-creuset-black-friday-deals-2026: Le Creuset Black Friday deals 2026 (home & kitchen)
 - [x] kitchenaid-black-friday-deals-2026: KitchenAid stand mixer Black Friday deals 2026 (home & kitchen)
-- [ ] ghd-black-friday-deals-2026: ghd Black Friday deals 2026 (beauty)
+- [x] ghd-black-friday-deals-2026: ghd Black Friday deals 2026 (beauty)
 - [ ] sim-only-black-friday-deals-2026: SIM-only Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
 - [ ] broadband-black-friday-deals-2026: Broadband Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
-- [ ] kindle-unlimited-free-trial-uk: Kindle Unlimited free trial UK: is it worth it? (bounty £3)
+- [x] kindle-unlimited-free-trial-uk: Kindle Unlimited free trial UK: is it worth it? (bounty £3)
 
 ## Black Friday 2026 (write these first)
 - [x] ninja-black-friday-deals-2026: Ninja Black Friday deals 2026 (air fryers, Creami, blenders, kettles)
@@ -28,7 +28,7 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 - [x] oral-b-black-friday-deals-2026: Oral-B electric toothbrush Black Friday deals 2026
 - [x] ring-doorbell-black-friday-deals-2026: Ring doorbell Black Friday deals 2026 UK
 - [x] tv-black-friday-deals-2026: Best TV Black Friday deals 2026 UK (OLED and budget)
-- [ ] air-fryer-black-friday-deals-2026: Air fryer Black Friday deals 2026 UK
+- [x] air-fryer-black-friday-deals-2026: Air fryer Black Friday deals 2026 UK
 
 ## Christmas gifts
 - [ ] secret-santa-gifts-under-10: Secret Santa gifts under £10 UK
