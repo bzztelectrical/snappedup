@@ -4,6 +4,20 @@ Evergreen buying guides to write, roughly in priority order. The daily task take
 
 Black Friday is 27 November 2026. Black Friday guides need to be live by early November to have a chance of ranking.
 
+## TOP PRIORITY: highest search demand (Bing UK keyword data, 26 Oct 2026). Write these before anything else.
+UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigger, so use these for ranking topics against each other, not as Google numbers. "when is black friday" 7.4K; "black friday" 2.9K; "advent calendar 2026" 2.0K; "lego advent calendar" 1.7K; "argos black friday" 1.4K; "beauty advent calendar" 1.4K; "cult beauty advent calendar" 1.2K; "black friday deals" only 214; "amazon black friday" 185. Brand + "black friday" queries (Ninja, Dyson, air fryer) were too small to register. Lesson: **date/"when is" questions, retailer Black Friday pages and advent calendars carry the volume.**
+- [ ] when-is-black-friday-2026-uk: When is Black Friday 2026 UK? Dates for Amazon, Argos, Currys, Boots, Very and more (keep updated as retailers announce)
+- [ ] argos-black-friday-2026: Argos Black Friday 2026: dates, best deals and what to expect
+- [ ] currys-black-friday-2026: Currys Black Friday 2026: dates, best deals and what to expect
+- [ ] boots-black-friday-2026: Boots Black Friday 2026: dates, best deals and Star Gifts
+- [ ] amazon-black-friday-2026-uk: Amazon Black Friday 2026 UK: start date, best deals and Prime tips
+- [ ] very-black-friday-2026: Very Black Friday 2026: dates and best deals
+- [ ] advent-calendars-2026-uk: Best advent calendars 2026 UK: every type compared (beauty, Lego, chocolate, toy, gin)
+- [ ] lego-advent-calendar-2026: Lego advent calendar 2026: every set, price and where cheapest
+- [ ] cult-beauty-advent-calendar-2026: Cult Beauty advent calendar 2026: contents, price and is it worth it
+- [ ] when-is-cyber-monday-2026-uk: When is Cyber Monday 2026 UK? Plus what's actually cheaper than Black Friday
+- [ ] boxing-day-sales-2026-uk: Boxing Day sales 2026 UK: start dates and best deals (publish by early December)
+
 ## Highest-earning targets (write these next, before continuing below)
 - [x] amazon-prime-free-trial-black-friday-2026: Amazon Prime free trial for Black Friday 2026: do you need Prime, and how to time the trial (Prime trial bounty £3)
 - [x] audible-free-trial-deals-uk: Audible free trial and deals UK: what you get and how to cancel (Audible bounty £5)
