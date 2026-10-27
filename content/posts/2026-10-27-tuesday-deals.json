@@ -1,0 +1,96 @@
+{
+  "type": "daily",
+  "date": "2026-10-27",
+  "title": "Tuesday deals: Ninja Creami Deluxe for £167, a Bosch dual-drawer air fryer for £129.99 and a Dreamland throw for £49.99",
+  "description": "The Ninja Creami Deluxe at its lowest price, a Bosch dual-drawer air fryer for £129.99, heated throws from £25.60 and a Shark hair dryer deal.",
+  "intro": "Today leans towards the kitchen. John Lewis has the Ninja Creami Deluxe at £167, the lowest price we can find a record of, and £42 under Argos. The Bosch Series 4 Double-Flex air fryer is down to £129.99, which matches its lowest price of the last three months. For keeping warm, there are two heated throws: a Dreamland one for £49.99, and a Dunelm teddy throw from £25.60.\n\nA quick steer: the Creami, the Bosch air fryer and the throws are worth buying now. The Shark SpeedStyle and the Philips toothbrush are fair prices but have been cheaper before, so wait for Black Friday unless you need them sooner. Prices were checked on 27 October.",
+  "deals": [
+    {
+      "name": "Ninja CREAMi Deluxe 10-in-1 Ice Cream & Frozen Drink Maker (NC501UK), Black/Silver",
+      "retailer": "John Lewis",
+      "price": 167,
+      "url": "https://www.johnlewis.com/ninja-creami-deluxe-10-in-1-ice-cream-frozen-drink-maker-black-silver/p111539410",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Below anything PriceSpy has recorded for it (its range runs from about £170 to £239). Argos wants £209.99 and AO and Very £209 today. The bigger Deluxe tubs make it the better pick for families. John Lewis marks it as price-matched, so check Amazon too."
+    },
+    {
+      "name": "Bosch Series 4 Double-Flex Drawer Air Fryer (MAFD490B1G), Black",
+      "retailer": "John Lewis",
+      "price": 129.99,
+      "was": 189.99,
+      "url": "https://www.johnlewis.com/bosch-series-4-mafd490b1g-double-flex-drawer-air-fryer-black/p115686808",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "£60 off and level with its lowest price in three months. The 'was' price is genuine: it sold for £189.99 recently. Two drawers that can join into one large one, so it handles a whole chicken or two sides at once. Currys matches it at £129.99."
+    },
+    {
+      "name": "Dreamland Snuggle Up Electric Warming Throw, 160 x 120cm",
+      "retailer": "Dreamland",
+      "price": 49.99,
+      "was": 69.99,
+      "url": "https://www.dreamlanduk.co.uk/collections/overblanket-throws",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "great",
+      "note": "About £20 under Argos and Very, which both charge around £70 today. A heated throw costs pennies an hour, so it's a cheap way to stay warm on the sofa without heating the room. It comes in several colours."
+    },
+    {
+      "name": "Dunelm Teddy Electric Throw (130 x 160cm, 100W), Charcoal or Cream",
+      "retailer": "Dunelm",
+      "price": 25.6,
+      "was": 32,
+      "url": "https://www.dunelm.com/product/teddy-electric-throw-1000244540",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "good",
+      "note": "20% off, from £25.60. The larger size option costs more (up to £44). A budget heated throw with 4.5 stars from over 400 reviews. Dunelm puts the running cost at about 3p an hour."
+    },
+    {
+      "name": "Ninja Crispi 4-in-1 Portable Glass Air Fryer, Sage",
+      "retailer": "Amazon",
+      "price": 120,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Crispi",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Within about £10 of its three-month low. A glass air fryer you can cook in, serve from and store leftovers in. Good for one or two people, or for a small kitchen. AO also has it at £120."
+    },
+    {
+      "name": "Ninja CREAMi X Ice Cream Maker (NC601UK), Navy",
+      "retailer": "John Lewis",
+      "price": 209.99,
+      "was": 249.99,
+      "url": "https://www.johnlewis.com/search?search-term=Ninja%20NC601UK",
+      "verdict": "Big drop",
+      "verdictLevel": "good",
+      "note": "£50 under Ninja's own price of £259.99. This is the newest CREAMi, with extra programmes. Most people will be just as happy with the Deluxe above for £43 less."
+    },
+    {
+      "name": "Shark SpeedStyle Pro Flex hair dryer system (HD542UKPK1), Strawberry Matcha",
+      "retailer": "John Lewis",
+      "price": 169.99,
+      "was": 199.99,
+      "url": "https://www.johnlewis.com/search?search-term=Shark%20HD542UKPK1",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£30 under Argos and Boots today. It's a fair gift price, but other colours have been as low as about £146, so it may well drop again for Black Friday."
+    },
+    {
+      "name": "Ninja Luxe Café Premier (ES601UK), official Ninja refurbished, Good grade",
+      "retailer": "eBay",
+      "price": 359.99,
+      "url": "https://www.ebay.co.uk/itm/127040307133",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Sold by Ninja itself, with a one-year warranty, and about £90 under the cheapest new one. Expect some cosmetic marks, and there are no returns. Ignore the £579.99 RRP shown on the listing; that's the new price, not what it usually sells for."
+    },
+    {
+      "name": "Philips Sonicare 3100 Electric Toothbrush (HX3673/13), White",
+      "retailer": "John Lewis",
+      "price": 39.99,
+      "url": "https://www.johnlewis.com/search?search-term=HX3673",
+      "verdict": "Wait for BF",
+      "verdictLevel": "wait",
+      "note": "Reduced to clear, so stock is limited. Ignore the £99.99 'was' price, which is the rarely charged RRP. Boots sold it for £34.99 last Black Friday, so only buy now if you need one soon."
+    }
+  ],
+  "body": "## Worth waiting for?\n\n**Buy now:** the Ninja CREAMi Deluxe and the Bosch air fryer. Both are at or below their lowest recent prices. Our [air fryer Black Friday guide](/guides/air-fryer-black-friday-deals-2026/) and [Ninja Black Friday guide](/guides/ninja-black-friday-deals-2026/) have the target prices for other models.\n\n**Buy now:** the heated throws. Cold-weather kit rarely gets much cheaper in November. This week's spotlight, [how to keep warm for less this winter](/spotlight/keep-warm-for-less-winter-2026/), has the running costs.\n\n**Wait:** the Shark SpeedStyle and the Philips toothbrush. Both have been cheaper, and Boots usually discounts hair tools and toothbrushes heavily for Black Friday.\n\n**New today:** three retailer guides. [Argos Black Friday 2026](/guides/argos-black-friday-2026/), [Currys Black Friday 2026](/guides/currys-black-friday-2026/) and [Boots Black Friday 2026](/guides/boots-black-friday-2026/) each cover what's known about the dates, the price promises and last year's best prices. For everything else, see [every Black Friday guide](/black-friday/)."
+}

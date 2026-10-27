@@ -7,9 +7,9 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 ## TOP PRIORITY: highest search demand (Bing UK keyword data, 26 Oct 2026). Write these before anything else.
 UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigger, so use these for ranking topics against each other, not as Google numbers. "when is black friday" 7.4K; "black friday" 2.9K; "advent calendar 2026" 2.0K; "lego advent calendar" 1.7K; "argos black friday" 1.4K; "beauty advent calendar" 1.4K; "cult beauty advent calendar" 1.2K; "black friday deals" only 214; "amazon black friday" 185. Brand + "black friday" queries (Ninja, Dyson, air fryer) were too small to register. Lesson: **date/"when is" questions, retailer Black Friday pages and advent calendars carry the volume.**
 - [x] when-is-black-friday-2026-uk: When is Black Friday 2026 UK? Dates for Amazon, Argos, Currys, Boots, Very and more (keep updated as retailers announce)
-- [ ] argos-black-friday-2026: Argos Black Friday 2026: dates, best deals and what to expect
-- [ ] currys-black-friday-2026: Currys Black Friday 2026: dates, best deals and what to expect
-- [ ] boots-black-friday-2026: Boots Black Friday 2026: dates, best deals and Star Gifts
+- [x] argos-black-friday-2026: Argos Black Friday 2026: dates, best deals and what to expect
+- [x] currys-black-friday-2026: Currys Black Friday 2026: dates, best deals and what to expect
+- [x] boots-black-friday-2026: Boots Black Friday 2026: dates, best deals and Star Gifts
 - [ ] amazon-black-friday-2026-uk: Amazon Black Friday 2026 UK: start date, best deals and Prime tips
 - [ ] very-black-friday-2026: Very Black Friday 2026: dates and best deals
 - [x] advent-calendars-2026-uk: Best advent calendars 2026 UK: every type compared (beauty, Lego, chocolate, toy, gin)
