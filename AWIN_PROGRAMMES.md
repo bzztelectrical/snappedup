@@ -11,7 +11,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Marks and Spencer UK | 1402 | marksandspencer.com | pending |
 | LOOKFANTASTIC UK | 2082 | lookfantastic.com | pending |
 | Space NK - UK | 59805 | spacenk.com | pending |
-| Superdrug UK | 127687 | superdrug.com | pending |
+| Superdrug UK | 127687 | superdrug.com | rejected 26 Oct ("site does not complement brand"); reapplied 26 Oct |
 | Escentual | 2991 | escentual.com | pending |
 | ghd | 2526 | ghdhair.com | pending |
 | KitchenAid UK | 23934 | kitchenaid.co.uk | pending |
@@ -27,7 +27,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Sky | 11005 | sky.com | pending |
 | NOW Powered By Sky | 70762 | nowtv.com | pending |
 | Virgin Media | 6399 | virginmedia.com | pending |
-| giffgaff | 3599 | giffgaff.com | pending |
+| giffgaff | 3599 | giffgaff.com | rejected 26 Oct (couldn't reach site; www fixed); reapplied 26 Oct |
 | giffgaff Broadband | 125076 | giffgaff.com (broadband pages) | pending |
 | Vodafone Ltd | 1257 | vodafone.co.uk | pending |
 | Vodafone eSim UK | 123860 | vodafone.co.uk (eSIM) | pending |
@@ -51,7 +51,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Ergo Flex | 17254 | ergoflex.co.uk | pending |
 | Archers Sleepcentre | 26711 | archerssleepcentre.co.uk | pending |
 | Feather & down | 81459 | featheranddown.co.uk | pending |
-| RattanTree | 23566 | rattantree.co.uk | pending |
+| RattanTree | 23566 | rattantree.co.uk | rejected 27 Oct ("not a good match") |
 | Urevo UK | 126425 | (check domain on approval) | pending |
 | WaterRower | 25937 | waterrower.co.uk | pending |
 | Away Resorts | 8099 | awayresorts.co.uk | pending |
