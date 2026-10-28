@@ -10,10 +10,10 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] argos-black-friday-2026: Argos Black Friday 2026: dates, best deals and what to expect
 - [x] currys-black-friday-2026: Currys Black Friday 2026: dates, best deals and what to expect
 - [x] boots-black-friday-2026: Boots Black Friday 2026: dates, best deals and Star Gifts
-- [ ] amazon-black-friday-2026-uk: Amazon Black Friday 2026 UK: start date, best deals and Prime tips
-- [ ] very-black-friday-2026: Very Black Friday 2026: dates and best deals
+- [x] amazon-black-friday-2026-uk: Amazon Black Friday 2026 UK: start date, best deals and Prime tips
+- [x] very-black-friday-2026: Very Black Friday 2026: dates and best deals
 - [x] advent-calendars-2026-uk: Best advent calendars 2026 UK: every type compared (beauty, Lego, chocolate, toy, gin)
-- [ ] lego-advent-calendar-2026: Lego advent calendar 2026: every set, price and where cheapest
+- [x] lego-advent-calendar-2026: Lego advent calendar 2026: every set, price and where cheapest
 - [ ] cult-beauty-advent-calendar-2026: Cult Beauty advent calendar 2026: contents, price and is it worth it
 - [ ] when-is-cyber-monday-2026-uk: When is Cyber Monday 2026 UK? Plus what's actually cheaper than Black Friday
 - [ ] boxing-day-sales-2026-uk: Boxing Day sales 2026 UK: start dates and best deals (publish by early December)
