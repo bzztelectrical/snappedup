@@ -8,9 +8,9 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | very.co.uk | 3090 | very.co.uk | rejected 27 Oct (needs 200+ sales/month across Awin; reapply later) |
 | AO.com | 19526 | ao.com | pending |
 | Boots.com | 2041 | boots.com | pending |
-| Marks and Spencer UK | 1402 | marksandspencer.com | pending |
+| Marks and Spencer UK | 1402 | marksandspencer.com | rejected (31 Oct) |
 | LOOKFANTASTIC UK | 2082 | lookfantastic.com | pending |
-| Space NK - UK | 59805 | spacenk.com | pending |
+| Space NK - UK | 59805 | spacenk.com | rejected (31 Oct) |
 | Superdrug UK | 127687 | superdrug.com | rejected 26 Oct ("site does not complement brand"); reapplied 26 Oct |
 | Escentual | 2991 | escentual.com | pending |
 | ghd | 2526 | ghdhair.com | pending |
@@ -30,8 +30,8 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | giffgaff | 3599 | giffgaff.com | rejected 26 Oct (couldn't reach site; www fixed); reapplied 26 Oct |
 | giffgaff Broadband | 125076 | giffgaff.com (broadband pages) | pending |
 | Vodafone Ltd | 1257 | vodafone.co.uk | pending |
-| Vodafone eSim UK | 123860 | vodafone.co.uk (eSIM) | pending |
-| EE Home Broadband | 3516 | ee.co.uk (broadband) | pending |
+| Vodafone eSim UK | 123860 | vodafone.co.uk (eSIM) | rejected (31 Oct) |
+| EE Home Broadband | 3516 | ee.co.uk (broadband) | rejected (31 Oct) |
 | EE Pay As You Go | 118459 | ee.co.uk (PAYG) | pending |
 | Three | 10210 | three.co.uk | pending |
 | Smarty | 10933 | smarty.co.uk | rejected 27 Oct ("URL irrelevant to brand") |
@@ -40,7 +40,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | TalkTalk Phone and Broadband | 3674 | talktalk.co.uk | pending |
 | Rocket Espresso | 38418 | rocket-espresso.co.uk | **joined (live)** |
 | Tinkerer STEAM Box | 118721 | tinkererbox.com | **joined (live)** |
-| BT Broadband | 3041 | bt.com | pending |
+| BT Broadband | 3041 | bt.com | rejected (31 Oct) |
 | Hyperoptic B2C | 5737 | hyperoptic.com | pending |
 | Gigaclear | 11269 | gigaclear.com | pending |
 | Hey Broadband | 51115 | heybroadband.co.uk | pending |
