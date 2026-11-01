@@ -35,7 +35,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [ ] full-fibre-broadband-deals: Full-fibre broadband deals UK: Hyperoptic vs BT vs alt-nets (Gigaclear, Lightning Fibre)
 - [ ] bristol-airport-parking-deals: Bristol Airport parking deals: cheapest options and booking tips
 - [ ] holiday-park-deals-uk: UK holiday park deals and breaks (Away Resorts, Shorefield)
-- [ ] mattress-black-friday-deals-2026: Mattress Black Friday deals 2026 UK (Silentnight, Ergo Flex, Archers)
+- [x] mattress-black-friday-deals-2026: Mattress Black Friday deals 2026 UK (Silentnight, Ergo Flex, Archers)
 - [x] coffee-machine-black-friday-deals-2026: Coffee machine Black Friday deals 2026 (Rocket Espresso, Ninja, De'Longhi)
 - [x] smeg-black-friday-deals-2026: SMEG kettle, toaster and fridge Black Friday deals 2026
 - [ ] stem-gifts-for-kids: STEM toys and subscription boxes for kids (Tinkerer, Legology)
