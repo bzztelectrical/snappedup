@@ -58,7 +58,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] air-fryer-black-friday-deals-2026: Air fryer Black Friday deals 2026 UK
 
 ## Christmas gifts
-- [ ] secret-santa-gifts-under-10: Secret Santa gifts under £10 UK
+- [x] secret-santa-gifts-under-10: Secret Santa gifts under £10 UK
 - [ ] christmas-gifts-for-him-under-50: Christmas gifts for him under £50
 - [ ] christmas-gifts-for-her-under-50: Christmas gifts for her under £50
 - [ ] stocking-fillers-under-5: Stocking fillers under £5 UK
