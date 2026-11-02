@@ -60,7 +60,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 ## Christmas gifts
 - [x] secret-santa-gifts-under-10: Secret Santa gifts under £10 UK
 - [ ] christmas-gifts-for-him-under-50: Christmas gifts for him under £50
-- [ ] christmas-gifts-for-her-under-50: Christmas gifts for her under £50
+- [x] christmas-gifts-for-her-under-50: Christmas gifts for her under £50
 - [ ] stocking-fillers-under-5: Stocking fillers under £5 UK
 - [ ] christmas-gifts-for-kids-under-20: Christmas gifts for kids under £20
 
