@@ -38,8 +38,8 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] mattress-black-friday-deals-2026: Mattress Black Friday deals 2026 UK (Silentnight, Ergo Flex, Archers)
 - [x] coffee-machine-black-friday-deals-2026: Coffee machine Black Friday deals 2026 (Rocket Espresso, Ninja, De'Longhi)
 - [x] smeg-black-friday-deals-2026: SMEG kettle, toaster and fridge Black Friday deals 2026
-- [ ] stem-gifts-for-kids: STEM toys and subscription boxes for kids (Tinkerer, Legology)
-- [ ] christmas-hampers-2026: Christmas hampers 2026 UK, compared (Fine Food Specialist and others)
+- [x] stem-gifts-for-kids: STEM toys and subscription boxes for kids (Tinkerer, Legology)
+- [x] christmas-hampers-2026: Christmas hampers 2026 UK, compared (Fine Food Specialist and others)
 - [ ] treadmill-deals-uk: Treadmill and rowing machine deals UK (Urevo, WaterRower)
 - [ ] home-security-deals-uk: Home security system deals UK (SimpliSafe vs Ring)
 
