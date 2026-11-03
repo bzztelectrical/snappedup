@@ -11,7 +11,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Marks and Spencer UK | 1402 | marksandspencer.com | rejected (31 Oct) |
 | LOOKFANTASTIC UK | 2082 | lookfantastic.com | pending |
 | Space NK - UK | 59805 | spacenk.com | rejected (31 Oct) |
-| Superdrug UK | 127687 | superdrug.com | rejected 26 Oct ("site does not complement brand"); reapplied 26 Oct |
+| Superdrug UK | 127687 | superdrug.com | rejected (3 Nov) |
 | Escentual | 2991 | escentual.com | pending |
 | ghd | 2526 | ghdhair.com | pending |
 | KitchenAid UK | 23934 | kitchenaid.co.uk | pending |
@@ -41,11 +41,11 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Rocket Espresso | 38418 | rocket-espresso.co.uk | **joined (live)** |
 | Tinkerer STEAM Box | 118721 | tinkererbox.com | **joined (live)** |
 | BT Broadband | 3041 | bt.com | rejected (31 Oct) |
-| Hyperoptic B2C | 5737 | hyperoptic.com | pending |
+| Hyperoptic B2C | 5737 | hyperoptic.com | rejected (3 Nov) |
 | Gigaclear | 11269 | gigaclear.com | pending |
 | Hey Broadband | 51115 | heybroadband.co.uk | pending |
 | Lightning Fibre | 119853 | lightningfibre.co.uk | pending |
-| SMEG | 74372 | smeguk.com | pending |
+| SMEG | 74372 | smeguk.com | rejected (3 Nov) |
 | Kuvings | 121398 | (check domain on approval) | pending |
 | Simplisafe | 27387 | simplisafe.co.uk | pending |
 | Ergo Flex | 17254 | ergoflex.co.uk | pending |
