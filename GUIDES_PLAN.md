@@ -40,8 +40,8 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] smeg-black-friday-deals-2026: SMEG kettle, toaster and fridge Black Friday deals 2026
 - [x] stem-gifts-for-kids: STEM toys and subscription boxes for kids (Tinkerer, Legology)
 - [x] christmas-hampers-2026: Christmas hampers 2026 UK, compared (Fine Food Specialist and others)
-- [ ] treadmill-deals-uk: Treadmill and rowing machine deals UK (Urevo, WaterRower)
-- [ ] home-security-deals-uk: Home security system deals UK (SimpliSafe vs Ring)
+- [x] treadmill-deals-uk: Treadmill and rowing machine deals UK (Urevo, WaterRower)
+- [x] home-security-deals-uk: Home security system deals UK (SimpliSafe vs Ring)
 
 ## Black Friday 2026 (write these first)
 - [x] ninja-black-friday-deals-2026: Ninja Black Friday deals 2026 (air fryers, Creami, blenders, kettles)
