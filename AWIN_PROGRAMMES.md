@@ -4,7 +4,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 
 | Advertiser | Awin merchant ID | Domain(s) | Status |
 |---|---|---|---|
-| Currys | 1599 | currys.co.uk | pending |
+| Currys | 1599 | currys.co.uk | rejected (5 Nov) |
 | very.co.uk | 3090 | very.co.uk | rejected 27 Oct (needs 200+ sales/month across Awin; reapply later) |
 | AO.com | 19526 | ao.com | pending |
 | Boots.com | 2041 | boots.com | pending |
@@ -15,7 +15,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Escentual | 2991 | escentual.com | pending |
 | ghd | 2526 | ghdhair.com | pending |
 | KitchenAid UK | 23934 | kitchenaid.co.uk | pending |
-| Lakeland | 1751 | lakeland.co.uk | pending |
+| Lakeland | 1751 | lakeland.co.uk | rejected (5 Nov) |
 | Wayfair UK | 72067 | wayfair.co.uk | pending |
 | Debenhams UK | 22735 | debenhams.com | pending |
 | Dreamland | 118955 | (check domain on approval) | pending |
@@ -32,7 +32,7 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Vodafone Ltd | 1257 | vodafone.co.uk | pending |
 | Vodafone eSim UK | 123860 | vodafone.co.uk (eSIM) | rejected (31 Oct) |
 | EE Home Broadband | 3516 | ee.co.uk (broadband) | rejected (31 Oct) |
-| EE Pay As You Go | 118459 | ee.co.uk (PAYG) | pending |
+| EE Pay As You Go | 118459 | ee.co.uk (PAYG) | rejected (5 Nov) |
 | Three | 10210 | three.co.uk | pending |
 | Smarty | 10933 | smarty.co.uk | rejected 27 Oct ("URL irrelevant to brand") |
 | iD Mobile | 6366 | idmobile.co.uk | pending |
@@ -59,9 +59,34 @@ Publisher ID: 3134901 (in `site.json`). Requests were sent on 26 Oct 2026. When 
 | Neilson Holidays | 13447 | neilson.co.uk | pending |
 | Logitravel UK | 8094 | logitravel.co.uk | pending |
 | Bristol Airport Parking | 11229 | bristolairport.co.uk (parking) | pending |
-| Legology | 119729 | legology.co.uk | pending |
+| Legology | 119729 | legology.co.uk | rejected (5 Nov) |
 | Fine Food Specialist UK | 15243 | finefoodspecialist.co.uk | pending |
 | Emma J Shipley UK | 124322 | emmajshipley.com | pending |
 | PartyLite UK | 82077 | partylite.co.uk | pending |
 
 Not on Awin (checked 26 Oct 2026): Argos, John Lewis (Impact), Dunelm, Halfords, ProCook, Lenovo, Perfume Direct.
+
+## Rejection reasons (from Awin Activity stream, read 5 Nov 2026)
+
+| Advertiser | Reason given | Can reapply from |
+|---|---|---|
+| AO.com | Dead URL, page not found (before the www/HTTPS fix on 27 Oct; fixed) | 29 Nov 2026 |
+| Vodafone Ltd | Awin profile incomplete (fixed 29–30 Oct) | 29 Nov 2026 |
+| giffgaff | Advertiser doesn't work with this publisher type | 29 Nov 2026 |
+| Space NK | Site does not complement advertiser brand | 29 Nov 2026 |
+| Marks and Spencer | Advertiser doesn't work with this publisher type | 30 Nov 2026 |
+| iD Mobile, Vodafone eSIM, EE Home Broadband, BT Broadband, EE PAYG, Superdrug | Site does not complement advertiser brand | ~29 Nov to 5 Dec 2026 |
+| Hyperoptic | Not looking to proceed with this partnership | |
+| SMEG | Not looking to partner right now | 3 Dec 2026 |
+| Currys | Content focus and audience not sufficiently aligned with the Currys brand, range or customers | 5 Dec 2026 |
+| Lakeland | Advertiser doesn't work with this publisher type | 5 Dec 2026 |
+| Legology | URL is irrelevant to advertiser brand | |
+
+Awin makes you wait 30 days after a rejection before reapplying.
+
+### What to do before reapplying
+- **AO and Vodafone:** both reasons are fixed. Reapply on 29 Nov with a note saying so.
+- **"Doesn't complement brand"** (telecoms, Space NK, Superdrug): publish a dedicated guide for that category first (SIM-only deals, broadband deals, a luxury beauty guide that features the brand), then reapply and link to it in the application message.
+- **"Doesn't work with this publisher type"** (giffgaff, M&S, Lakeland): these brands exclude deal-led sites by policy. Low priority; don't reapply unless the site has strong traffic.
+- **Currys:** reapply in December with Black Friday traffic numbers and links to the Currys and tech guides.
+- **Every application:** write a short tailored message to the advertiser naming the guides where its products would appear, rather than relying on the profile alone.
