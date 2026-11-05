@@ -165,7 +165,7 @@ ${body}
   <div class="wrap">
     <p class="foot-brand">Snapped Up</p>
     <p>${esc(site.tagline)}</p>
-    <p class="foot-links"><a href="/disclosure/">Affiliate disclosure</a> · <a href="/privacy/">Privacy</a> · <a href="/about/">About</a> · <a href="/feed.xml">RSS</a></p>
+    <p class="foot-links"><a href="/disclosure/">Affiliate disclosure</a> · <a href="/privacy/">Privacy</a> · <a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/feed.xml">RSS</a></p>
     <p class="small">As an Amazon Associate, Snapped Up earns from qualifying purchases. Prices and availability change quickly, so always check the retailer's page before you buy.</p>
   </div>
 </footer>
