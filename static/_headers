@@ -2,3 +2,6 @@
   Access-Control-Allow-Origin: *
 /og.png
   Access-Control-Allow-Origin: *
+/tiktok/*
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: noindex
