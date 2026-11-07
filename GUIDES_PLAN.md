@@ -26,8 +26,8 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] le-creuset-black-friday-deals-2026: Le Creuset Black Friday deals 2026 (home & kitchen)
 - [x] kitchenaid-black-friday-deals-2026: KitchenAid stand mixer Black Friday deals 2026 (home & kitchen)
 - [x] ghd-black-friday-deals-2026: ghd Black Friday deals 2026 (beauty)
-- [ ] sim-only-black-friday-deals-2026: SIM-only Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
-- [ ] broadband-black-friday-deals-2026: Broadband Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
+- [x] sim-only-black-friday-deals-2026: SIM-only Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
+- [x] broadband-black-friday-deals-2026: Broadband Black Friday deals 2026 UK (telecoms flat fee via Awin, once approved)
 - [x] kindle-unlimited-free-trial-uk: Kindle Unlimited free trial UK: is it worth it? (bounty £3)
 
 ## New Awin verticals (high earnings per click; add once the programme approves, or write now and link direct)
