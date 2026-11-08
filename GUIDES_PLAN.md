@@ -65,7 +65,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [ ] christmas-gifts-for-kids-under-20: Christmas gifts for kids under £20
 
 ## Winter / home
-- [ ] electric-blanket-deals-uk: Electric blanket deals UK (and running costs)
+- [x] electric-blanket-deals-uk: Electric blanket deals UK (and running costs)
 - [ ] heated-clothes-airer-deals-uk: Heated clothes airer deals UK
 - [ ] cheapest-heater-to-run-uk: Cheapest electric heater to run UK
 - [ ] dehumidifier-deals-uk: Dehumidifier deals UK
