@@ -90,3 +90,13 @@ Awin makes you wait 30 days after a rejection before reapplying.
 - **"Doesn't work with this publisher type"** (giffgaff, M&S, Lakeland): these brands exclude deal-led sites by policy. Low priority; don't reapply unless the site has strong traffic.
 - **Currys:** reapply in December with Black Friday traffic numbers and links to the Currys and tech guides.
 - **Every application:** write a short tailored message to the advertiser naming the guides where its products would appear, rather than relying on the profile alone.
+
+## Joined by invitation (9 Nov 2026)
+| Advertiser | ID | Domain | Commission | Notes |
+|---|---|---|---|---|
+| Compare Parking Prices UK | 118401 | compareparkingprices.co.uk | 6% of confirmed bookings | UK airport parking comparison (Meet & Greet, Park & Ride, on-site) |
+| Willow Parking Ltd (Arc Parking) | 121428 | arcparking.co.uk | 5% of confirmed bookings | Heathrow only. Awin shows a low approval rate (7.7%), so prefer Compare Parking Prices where both fit |
+| eSIM For U | ? | ? | ? | Invitation accepted 7 Nov but not yet listed under Joined; check again |
+
+Declined/ignored: Lunzo PL, DE, HU invitations (non-UK audiences).
+New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shorefield Holidays ("doesn't complement brand"), Neilson Holidays ("doesn't work with this publisher type"), Lightning Fibre ("doesn't complement brand").

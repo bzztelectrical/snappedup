@@ -31,6 +31,9 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] kindle-unlimited-free-trial-uk: Kindle Unlimited free trial UK: is it worth it? (bounty £3)
 
 ## New Awin verticals (high earnings per click; add once the programme approves, or write now and link direct)
+- [ ] heathrow-airport-parking-deals: Heathrow airport parking deals: cheapest Meet & Greet vs Park & Ride (EARNING NOW: Arc Parking, Awin 121428, 5%; compare against Compare Parking Prices, 118401, 6%)
+- [ ] cheap-airport-parking-uk: Cheap airport parking UK: how to compare and book (Gatwick, Manchester, Stansted, Luton, Bristol, Birmingham) (EARNING NOW: Compare Parking Prices, Awin 118401, 6%)
+- [ ] christmas-airport-parking-2026: Booking airport parking for Christmas 2026: when to book and how much it costs (EARNING NOW: Compare Parking Prices 118401 / Arc Parking 121428)
 - [ ] broadband-deals-uk: Best broadband deals UK this month (BT, Hyperoptic, Sky, Virgin, Plusnet, TalkTalk, Hey Broadband)
 - [ ] full-fibre-broadband-deals: Full-fibre broadband deals UK: Hyperoptic vs BT vs alt-nets (Gigaclear, Lightning Fibre)
 - [ ] bristol-airport-parking-deals: Bristol Airport parking deals: cheapest options and booking tips
