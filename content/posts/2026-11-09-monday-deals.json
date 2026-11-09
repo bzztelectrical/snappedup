@@ -1,0 +1,100 @@
+{
+  "type": "daily",
+  "date": "2026-11-09",
+  "title": "Dyson Airwrap Origin £299.99, Armani Diamonds £40 and LEGO Concorde £130",
+  "description": "Monday's UK deals: the Dyson Airwrap Origin at its lowest UK price, Armani Diamonds 100ml at half price and LEGO Concorde with £40 off at Argos.",
+  "intro": "**Monday's standout is the Dyson Airwrap Origin at £299.99 at John Lewis, £100 off and level with the cheapest price at any big UK retailer today.** Beauty gifts are strong again, with a 100ml bottle of Armani Diamonds at half price and ghd's Platinum+ straighteners down to £174. For the home there's a cast iron casserole for £28 at Dunelm and Bosch's two-battery cordless vacuum with £200 off.\n\nThis week we're also looking at toys, as Argos and Smyths have started their Black Friday toy offers early. Every price below was read on the retailer's own site today, 9 November. Buy now or wait? The Airwrap, the perfume and the toys are already at prices that rarely get much better, and the popular toys sell out. The vacuum and earbuds might dip a little more by 27 November, but both are fair prices now.",
+  "deals": [
+    {
+      "name": "Dyson Airwrap Origin Multi-Styler and Dryer, Prussian Blue",
+      "retailer": "John Lewis",
+      "price": 299.99,
+      "was": 399.99,
+      "url": "https://www.johnlewis.com/dyson-airwrap-origin-multi-styler-and-dryer-prussian-blue/p115654073",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "The cheapest way into an Airwrap, and today's price matches Argos, Very and AO, the lowest at any major UK shop. A big present that rarely goes much lower. More in our [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Armani Diamonds Eau de Parfum 100ml",
+      "retailer": "Lookfantastic",
+      "price": 40,
+      "was": 80,
+      "url": "https://www.lookfantastic.com/p/armani-diamonds-eau-de-parfum-100ml/10165513/",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "A large bottle of a well-known designer scent for £40, with no code needed. An easy gift for her; our [perfume gift set guide](/guides/perfume-gift-sets-black-friday-2026/) has more."
+    },
+    {
+      "name": "ghd Platinum+ Hair Straighteners, Black",
+      "retailer": "John Lewis",
+      "price": 174,
+      "was": 249,
+      "url": "https://www.johnlewis.com/ghd-platinum-hair-straighteners/black/p3733370",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "ghd's smart straightener, which adjusts its heat to protect hair, with £75 off. A solid gift price; see our [ghd Black Friday guide](/guides/ghd-black-friday-deals-2026/) for the figures to wait for."
+    },
+    {
+      "name": "Barbary & Oak Cast Iron 20cm Round Casserole Dish",
+      "retailer": "Dunelm",
+      "price": 28,
+      "was": 40,
+      "url": "https://www.dunelm.com/product/barbary-oak-cast-iron-20cm-round-casserole-dish-1000213687",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "An enamelled cast iron pot for stews and bread at a fraction of a Le Creuset. A 20cm dish suits two to three people. If you want the real thing, check our [Le Creuset Black Friday guide](/guides/le-creuset-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Bosch Unlimited 9 Dual Battery Cordless Vacuum with MicroClean",
+      "retailer": "John Lewis",
+      "price": 349.99,
+      "was": 549.99,
+      "url": "https://www.johnlewis.com/bosch-unlimited-9-dual-battery-cordless-vacuum-cleaner-with-microclean-technology-black/p113182693",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A John Lewis exclusive that comes with two batteries, so it suits bigger homes. It costs less than the Dyson V15 Detect Absolute, which is £479.99 there today."
+    },
+    {
+      "name": "Google Pixel Buds Pro 2 noise-cancelling earbuds, Hazel",
+      "retailer": "John Lewis",
+      "price": 149,
+      "was": 219,
+      "url": "https://www.johnlewis.com/google-pixel-buds-pro-2-active-noise-cancelling-true-wireless-bluetooth-in-ear-headphones/hazel/p112468836",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Small, comfortable earbuds with strong noise cancelling, best for Android and Pixel phone owners. Amazon and Argos are the same price, and only marketplace sellers are cheaper."
+    },
+    {
+      "name": "LEGO Icons Concorde (10318)",
+      "retailer": "Argos",
+      "price": 130,
+      "was": 170,
+      "url": "https://www.argos.co.uk/product/3376913",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A big display model of the famous jet, £40 under its usual £170. A good gift for an adult fan; see our [LEGO Black Friday guide](/guides/lego-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Primal Hatch Megalodon Hatching Egg Shark Toy",
+      "retailer": "Argos",
+      "price": 33,
+      "was": 55,
+      "url": "https://www.argos.co.uk/product/8788111",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "great",
+      "note": "One of this year's most-wanted toys, on both the Argos and Hamleys top toy lists. £55 was its launch price, so this is a real saving. Smyths is a penny cheaper at £32.99."
+    },
+    {
+      "name": "Pokémon Sleeping Pikachu Plush 45cm",
+      "retailer": "Smyths",
+      "price": 24.99,
+      "was": 34.99,
+      "url": "https://www.smythstoys.com/uk/en-gb/toys/soft-toys-and-teddy-bears/pokemon-sleeping-pikachu-plush-45cm/p/189460",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A big, soft Pikachu for Pokémon fans of any age. Sleeping Eevee and Sleeping Mew are the same price if Pikachu sells out."
+    }
+  ],
+  "body": "## Worth waiting for?\n\nMost of today's picks are prices worth taking now. The Airwrap Origin is already at the lowest price the big retailers are charging, and big-brand perfumes rarely fall below half price. The Bosch vacuum and Pixel Buds could drop a little further in Black Friday week, so wait if you're not in a hurry. Our [Black Friday guides](/black-friday/) list the prices worth holding out for.\n\n## This week: Christmas toys\n\nArgos and Smyths have both started their Black Friday toy offers, and the hot toys tend to sell out rather than get cheaper. Our new [Christmas toy deals 2026 spotlight](/spotlight/christmas-toy-deals-2026/) covers what to buy now and what to wait for, and our [Christmas gifts for kids under £20](/guides/christmas-gifts-for-kids-under-20/) guide has cheaper ideas for every age."
+}
