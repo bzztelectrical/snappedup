@@ -4,6 +4,16 @@ Evergreen buying guides to write, roughly in priority order. The daily task take
 
 Black Friday is 27 November 2026. Black Friday guides need to be live by early November to have a chance of ranking.
 
+## EARNING PARTNERS FIRST (added 9 Nov 2026): these retailers pay us through Awin. Write these before anything else.
+Pages built around a partner that pays us earn on every click, unlike Argos, Currys or Very, which don't earn yet. Brand + "Black Friday" and brand + product pages are also easy to rank.
+- [x] hamleys-black-friday-2026: Hamleys Black Friday 2026: dates, best toy deals and what to buy now (Hamleys, Awin 1205)
+- [ ] christmas-airport-parking-2026: Booking airport parking for Christmas 2026: when to book and how much it costs (Compare Parking Prices 118401, 6%)
+- [ ] heathrow-airport-parking-deals: Heathrow airport parking deals: Meet & Greet vs Park & Ride (Arc Parking 121428, 5%; Compare Parking Prices 118401, 6%)
+- [ ] cheap-airport-parking-uk: Cheap airport parking UK: how to compare and book (Compare Parking Prices 118401)
+- [ ] hamleys-top-toys-christmas-2026: Hamleys top toys for Christmas 2026: the list and where each is cheapest (Hamleys 1205)
+- [ ] rocket-espresso-machine-review: Rocket Espresso machines: Appartamento vs Mozzafiato, which to buy (Rocket Espresso 38418)
+- [ ] tinkerer-steam-box-review: Tinkerer STEAM box review: is the kids' science subscription worth it? (Tinkerer 118721)
+
 ## TOP PRIORITY: highest search demand (Bing UK keyword data, 26 Oct 2026). Write these before anything else.
 UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigger, so use these for ranking topics against each other, not as Google numbers. "when is black friday" 7.4K; "black friday" 2.9K; "advent calendar 2026" 2.0K; "lego advent calendar" 1.7K; "argos black friday" 1.4K; "beauty advent calendar" 1.4K; "cult beauty advent calendar" 1.2K; "black friday deals" only 214; "amazon black friday" 185. Brand + "black friday" queries (Ninja, Dyson, air fryer) were too small to register. Lesson: **date/"when is" questions, retailer Black Friday pages and advent calendars carry the volume.**
 - [x] when-is-black-friday-2026-uk: When is Black Friday 2026 UK? Dates for Amazon, Argos, Currys, Boots, Very and more (keep updated as retailers announce)
@@ -31,9 +41,6 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] kindle-unlimited-free-trial-uk: Kindle Unlimited free trial UK: is it worth it? (bounty £3)
 
 ## New Awin verticals (high earnings per click; add once the programme approves, or write now and link direct)
-- [ ] heathrow-airport-parking-deals: Heathrow airport parking deals: cheapest Meet & Greet vs Park & Ride (EARNING NOW: Arc Parking, Awin 121428, 5%; compare against Compare Parking Prices, 118401, 6%)
-- [ ] cheap-airport-parking-uk: Cheap airport parking UK: how to compare and book (Gatwick, Manchester, Stansted, Luton, Bristol, Birmingham) (EARNING NOW: Compare Parking Prices, Awin 118401, 6%)
-- [ ] christmas-airport-parking-2026: Booking airport parking for Christmas 2026: when to book and how much it costs (EARNING NOW: Compare Parking Prices 118401 / Arc Parking 121428)
 - [ ] broadband-deals-uk: Best broadband deals UK this month (BT, Hyperoptic, Sky, Virgin, Plusnet, TalkTalk, Hey Broadband)
 - [ ] full-fibre-broadband-deals: Full-fibre broadband deals UK: Hyperoptic vs BT vs alt-nets (Gigaclear, Lightning Fibre)
 - [ ] bristol-airport-parking-deals: Bristol Airport parking deals: cheapest options and booking tips

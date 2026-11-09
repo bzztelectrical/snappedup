@@ -53,6 +53,7 @@ Search the web for UK deals published today or yesterday: Amazon UK, Argos, Curr
 Hard rules:
 - **Never invent or guess a price, a "was" price, or a product.** Every price must come from a source dated today or yesterday. If you can't confirm a price, leave the deal out.
 - Prefer deals where the price is at or near its recent low (PriceSpy, CamelCamelCamel, Which? price data). If the discount only looks big because the "was" price is inflated, say so or skip it.
+- **Earning partners come first.** Retailers with an ID in `site.json` → `awinMerchants` (Hamleys, Tinkerer, Rocket Espresso, Compare Parking Prices, Arc Parking), plus Amazon, pay us. Every daily post should include **at least 2 picks from Awin partners** when they have a genuine deal, every guide in a matching category should link them, and the `EARNING PARTNERS FIRST` section of `GUIDES_PLAN.md` comes before any other guide. Never pick a worse deal just because it earns.
 - **Toys:** Hamleys (hamleys.com) earns through Awin. For toy and kids' gift picks, link Hamleys when its price matches or beats other retailers.
 - **Commission check:** read `site.json`. Retailers with a blank affiliate ID don't earn yet. When the same product is the same price (or within ~£1) at a retailer that does earn, link that one instead. Aim for at least half of each day's picks to be at earning retailers, without ever choosing a worse deal just for commission.
 - Skip anything out of stock, marketplace-seller tat, or brands nobody has heard of with fake-looking discounts.
