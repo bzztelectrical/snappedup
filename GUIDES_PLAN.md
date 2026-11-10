@@ -7,11 +7,11 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 ## EARNING PARTNERS FIRST (added 9 Nov 2026): these retailers pay us through Awin. Write these before anything else.
 Pages built around a partner that pays us earn on every click, unlike Argos, Currys or Very, which don't earn yet. Brand + "Black Friday" and brand + product pages are also easy to rank.
 - [x] hamleys-black-friday-2026: Hamleys Black Friday 2026: dates, best toy deals and what to buy now (Hamleys, Awin 1205)
-- [ ] christmas-airport-parking-2026: Booking airport parking for Christmas 2026: when to book and how much it costs (Compare Parking Prices 118401, 6%)
+- [ ] christmas-airport-parking-2026: Booking airport parking for Christmas 2026: when to book and how much it costs (Compare Parking Prices 118401, 6%) — NOTE 10 Nov: both parking partner sites and airport quote widgets blocked automated research; needs live quotes before writing
 - [ ] heathrow-airport-parking-deals: Heathrow airport parking deals: Meet & Greet vs Park & Ride (Arc Parking 121428, 5%; Compare Parking Prices 118401, 6%)
 - [ ] cheap-airport-parking-uk: Cheap airport parking UK: how to compare and book (Compare Parking Prices 118401)
 - [ ] hamleys-top-toys-christmas-2026: Hamleys top toys for Christmas 2026: the list and where each is cheapest (Hamleys 1205)
-- [ ] rocket-espresso-machine-review: Rocket Espresso machines: Appartamento vs Mozzafiato, which to buy (Rocket Espresso 38418)
+- [x] rocket-espresso-machine-review: Rocket Espresso machines: Appartamento vs Mozzafiato, which to buy (Rocket Espresso 38418)
 - [ ] tinkerer-steam-box-review: Tinkerer STEAM box review: is the kids' science subscription worth it? (Tinkerer 118721)
 
 ## TOP PRIORITY: highest search demand (Bing UK keyword data, 26 Oct 2026). Write these before anything else.
