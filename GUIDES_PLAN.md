@@ -10,9 +10,9 @@ Pages built around a partner that pays us earn on every click, unlike Argos, Cur
 - [ ] christmas-airport-parking-2026: Booking airport parking for Christmas 2026: when to book and how much it costs (Compare Parking Prices 118401, 6%) — NOTE 10 Nov: both parking partner sites and airport quote widgets blocked automated research; needs live quotes before writing
 - [ ] heathrow-airport-parking-deals: Heathrow airport parking deals: Meet & Greet vs Park & Ride (Arc Parking 121428, 5%; Compare Parking Prices 118401, 6%)
 - [ ] cheap-airport-parking-uk: Cheap airport parking UK: how to compare and book (Compare Parking Prices 118401)
-- [ ] hamleys-top-toys-christmas-2026: Hamleys top toys for Christmas 2026: the list and where each is cheapest (Hamleys 1205)
+- [x] hamleys-top-toys-christmas-2026: Hamleys top toys for Christmas 2026: the list and where each is cheapest (Hamleys 1205)
 - [x] rocket-espresso-machine-review: Rocket Espresso machines: Appartamento vs Mozzafiato, which to buy (Rocket Espresso 38418)
-- [ ] tinkerer-steam-box-review: Tinkerer STEAM box review: is the kids' science subscription worth it? (Tinkerer 118721)
+- [ ] tinkerer-steam-box-review: Tinkerer STEAM box review: is the kids' science subscription worth it? (Tinkerer 118721) — NOTE 10 Nov: tinkererbox.com renders prices with JavaScript and could not be read; needs official plan prices before writing
 
 ## TOP PRIORITY: highest search demand (Bing UK keyword data, 26 Oct 2026). Write these before anything else.
 UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigger, so use these for ranking topics against each other, not as Google numbers. "when is black friday" 7.4K; "black friday" 2.9K; "advent calendar 2026" 2.0K; "lego advent calendar" 1.7K; "argos black friday" 1.4K; "beauty advent calendar" 1.4K; "cult beauty advent calendar" 1.2K; "black friday deals" only 214; "amazon black friday" 185. Brand + "black friday" queries (Ninja, Dyson, air fryer) were too small to register. Lesson: **date/"when is" questions, retailer Black Friday pages and advent calendars carry the volume.**
