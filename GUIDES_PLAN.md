@@ -8,7 +8,7 @@ Black Friday is 27 November 2026. Black Friday guides need to be live by early N
 Pages built around a partner that pays us earn on every click, unlike Argos, Currys or Very, which don't earn yet. Brand + "Black Friday" and brand + product pages are also easy to rank.
 - [x] hamleys-black-friday-2026: Hamleys Black Friday 2026: dates, best toy deals and what to buy now (Hamleys, Awin 1205)
 - [ ] christmas-airport-parking-2026: Booking airport parking for Christmas 2026: when to book and how much it costs (Compare Parking Prices 118401, 6%) — NOTE 10 Nov: both parking partner sites and airport quote widgets blocked automated research; needs live quotes before writing
-- [ ] heathrow-airport-parking-deals: Heathrow airport parking deals: Meet & Greet vs Park & Ride (Arc Parking 121428, 5%; Compare Parking Prices 118401, 6%)
+- [ ] heathrow-airport-parking-deals: Heathrow airport parking deals: Meet & Greet vs Park & Ride (Arc Parking 121428, 5%; Compare Parking Prices 118401, 6%) — NOTE 11 Nov: skipped again (parking partner sites block automated quotes)
 - [ ] cheap-airport-parking-uk: Cheap airport parking UK: how to compare and book (Compare Parking Prices 118401)
 - [x] hamleys-top-toys-christmas-2026: Hamleys top toys for Christmas 2026: the list and where each is cheapest (Hamleys 1205)
 - [x] rocket-espresso-machine-review: Rocket Espresso machines: Appartamento vs Mozzafiato, which to buy (Rocket Espresso 38418)
@@ -71,12 +71,12 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] secret-santa-gifts-under-10: Secret Santa gifts under £10 UK
 - [x] christmas-gifts-for-him-under-50: Christmas gifts for him under £50
 - [x] christmas-gifts-for-her-under-50: Christmas gifts for her under £50
-- [ ] stocking-fillers-under-5: Stocking fillers under £5 UK
+- [x] stocking-fillers-under-5: Stocking fillers under £5 UK
 - [x] christmas-gifts-for-kids-under-20: Christmas gifts for kids under £20
 
 ## Winter / home
 - [x] electric-blanket-deals-uk: Electric blanket deals UK (and running costs)
-- [ ] heated-clothes-airer-deals-uk: Heated clothes airer deals UK
+- [x] heated-clothes-airer-deals-uk: Heated clothes airer deals UK
 - [ ] cheapest-heater-to-run-uk: Cheapest electric heater to run UK
 - [ ] dehumidifier-deals-uk: Dehumidifier deals UK
 
