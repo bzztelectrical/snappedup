@@ -89,7 +89,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [ ] kindle-vs-kindle-paperwhite: Kindle vs Kindle Paperwhite: is it worth paying more?
 
 ## Product-level targets (easier to rank than brand pages; add as time allows)
-- [ ] ninja-creami-deals-uk: Ninja Creami deals UK (which model, lowest prices)
+- [x] ninja-creami-deals-uk: Ninja Creami deals UK (which model, lowest prices)
 - [ ] ninja-slushi-deals-uk: Ninja Slushi deals UK
 - [ ] ninja-double-stack-deals-uk: Ninja Double Stack air fryer deals UK
 - [ ] dyson-airwrap-deals-uk: Dyson Airwrap deals UK (and cheaper alternatives)
