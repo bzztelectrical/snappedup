@@ -31,3 +31,6 @@ The 8 Nov "Real or fake?" video opened on a full frame (product, was-price and t
 - It was posted at 09:23 on a Sunday rather than in the evening, which probably cost views. But watch time didn't improve, so **the opening frame wasn't the main problem.**
 
 Conclusion: faceless text-and-emoji slides lose people in the first second whatever the layout. Successful UK deal accounts use real product shots or footage, a voiceover, and often a person on camera. Next options to test: real product images (only from sources we're allowed to use, e.g. Awin product feeds), an in-app TikTok text-to-speech voiceover, and a trending sound. Or keep TikTok as low-effort and put the effort into Google, which is where the site's buyers come from.
+
+## Paused (12 Nov 2026)
+Daily TikTok videos are paused. The 8 Nov and 10 Nov uploads were never approved, and the 9 Nov question about the approach went unanswered. No more videos are scheduled or reminders set until the user asks to restart. The 10 Nov video is still waiting, unscheduled, in TikTok Studio on the laptop, and the files are in Desktop\\snapped-up\\tiktok.
