@@ -1,0 +1,100 @@
+{
+  "type": "daily",
+  "date": "2026-11-12",
+  "title": "Ninja Slushi Max £259.99, Dyson Airwrap Origin £299.99 and ghd Gold £159",
+  "description": "Thursday's UK deals: Ninja Slushi Max at a new low, Dyson Airwrap Origin £100 off, a ghd Gold gift bundle for £159, plus LEGO and Magna-Tiles cuts.",
+  "intro": "**Thursday's standout is the Ninja SLUSHi Max at £259.99 at Argos, about £20 below the lowest price PriceSpy has tracked for it.** Argos also has the Dyson Airwrap Origin down to £299.99, a ghd Gold gift bundle for £159 (about the price of the straightener on its own), the Ninja Double Stack XL at its three-month low and the De'Longhi La Specialista Arte at £349. For this week's toy theme, Magna-Tiles and the LEGO WALL-E set are both cut.\n\nOne change from yesterday: Argos's £99.99 Ninja AF170UK deal has ended (it's back to £139.99). Every price below was read on Argos's own pages today, 12 November. Buy now or wait? The Slushi, Magna-Tiles and Garmin are at or below their tracked lows, so they're safe buys. Amazon's kitchen, home and electronics deals start on 16 November, so if you're after a Kindle, Echo or other big-name tech, give it a few days.",
+  "deals": [
+    {
+      "name": "Ninja SLUSHi Max Frozen Drink Maker",
+      "retailer": "Argos",
+      "price": 259.99,
+      "was": 349.99,
+      "url": "https://www.argos.co.uk/search/ninja-slushi-max/",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Slushies, frozen coffees and frozen cocktails at home, a fun one for families and anyone who hosts. PriceSpy's tracked range is £279.99 to £359.99, and Very and Currys are about £309, so this beats them by £50."
+    },
+    {
+      "name": "Dyson Airwrap Origin Multi-Styler and Dryer, Prussian Blue/Rich Copper",
+      "retailer": "Argos",
+      "price": 299.99,
+      "was": 399.99,
+      "url": "https://www.argos.co.uk/product/9741267",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The cheapest way into an Airwrap if you don't need the newest Co-anda 2x. Currys is £299 too, so buy from whichever is easier. Our [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/) has the other models."
+    },
+    {
+      "name": "ghd Gold Hair Straightener Gift Bundle, Black",
+      "retailer": "Argos",
+      "price": 159,
+      "was": 239,
+      "url": "https://www.argos.co.uk/product/7705865",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The Gold styler plus heat-protect spray, a heat-resistant bag and mat, ready to wrap. The styler alone is £159 at ghd and £199 at Boots, so the extras are effectively free. Ignore the £239 'was' price. See our [ghd Black Friday guide](/guides/ghd-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Ninja Double Stack XL SL400UK 9.5L Air Fryer, Grey",
+      "retailer": "Argos",
+      "price": 179.99,
+      "was": 270,
+      "url": "https://www.argos.co.uk/search/SL400UK/",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Two stacked drawers, so it cooks for four or more without taking up a wide stretch of worktop. £179.99 matches its three-month low (Amazon is the same), though it was £169.99 earlier this week. The £270 'was' price is higher than it's sold for recently. More in our [air fryer Black Friday guide](/guides/air-fryer-black-friday-deals-2026/)."
+    },
+    {
+      "name": "De'Longhi La Specialista Arte EC9155.MB Bean-to-Cup Coffee Machine",
+      "retailer": "Argos",
+      "price": 349,
+      "was": 530,
+      "url": "https://www.argos.co.uk/product/4337353",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A built-in grinder and steam wand for anyone who wants to learn proper espresso. It's been around £330 to £378 lately, so the £530 'was' price is inflated, but £349 is near the bottom of that range. Compare in our [coffee machine Black Friday guide](/guides/coffee-machine-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Dyson V12 Detect Slim Absolute Cordless Vacuum",
+      "retailer": "Argos",
+      "price": 429.99,
+      "was": 549.99,
+      "url": "https://www.argos.co.uk/product/9851418",
+      "verdict": "Wait for BF",
+      "verdictLevel": "wait",
+      "note": "A light Dyson with a laser that lights up dust, good for flats and smaller homes. AO, Very and Currys are £429, but it was £399 in the last three months, so it may well drop again by Black Friday."
+    },
+    {
+      "name": "Magna-Tiles Clear Colours 32 Piece Set",
+      "retailer": "Argos",
+      "price": 23,
+      "was": 35,
+      "url": "https://www.argos.co.uk/product/4077792",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Magnetic building tiles that keep children aged three and up busy for years. £23 matches the lowest price PriceSpy has recorded. More ideas in our [STEM gifts for kids guide](/guides/stem-gifts-for-kids/)."
+    },
+    {
+      "name": "LEGO Disney Pixar WALL-E and EVE (43279)",
+      "retailer": "Argos",
+      "price": 40,
+      "was": 60,
+      "url": "https://www.argos.co.uk/product/7839793",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "good",
+      "note": "An 811-piece display build for adult Pixar fans and older teens. The £60 'was' price is above anything it has sold for recently, but £40 still beats Amazon (about £44). It has been £35, so it isn't the lowest. See our [LEGO Black Friday guide](/guides/lego-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Garmin Forerunner 165 GPS Running Watch",
+      "retailer": "Argos",
+      "price": 149.99,
+      "was": 199.99,
+      "url": "https://www.argos.co.uk/product/3443695",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "A bright AMOLED screen and built-in GPS for new and improving runners, without Forerunner 265 money. That's just under its three-month low and about £10 below Amazon."
+    }
+  ],
+  "body": "## Worth waiting for?\n\nAmazon's Black Friday Week runs from 19 to 30 November, with clothing, shoes and sport deals arriving on 13 November and kitchen, home, computers and electronics (including some Echo, Fire TV and Kindle devices) on 16 November. Our [Amazon Black Friday 2026 guide](/guides/amazon-black-friday-2026-uk/) has the details, and [when is Cyber Monday 2026](/guides/when-is-cyber-monday-2026-uk/) explains whether waiting until 30 November is worth it (usually not).\n\nDamp windows and laundry drying indoors? Our new [dehumidifier deals guide](/guides/dehumidifier-deals-uk/) shows which models are actually discounted, what each costs to run and which to wait on.\n\n## This week: Christmas toys\n\nToy prices this week are mostly holding rather than falling, and the popular ones sell out. Our [Christmas toy deals 2026 spotlight](/spotlight/christmas-toy-deals-2026/) covers what to buy now and what to wait for, and [Hamleys top toys for Christmas 2026](/guides/hamleys-top-toys-christmas-2026/) shows where each top toy is cheapest."
+}

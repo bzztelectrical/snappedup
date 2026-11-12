@@ -78,7 +78,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] electric-blanket-deals-uk: Electric blanket deals UK (and running costs)
 - [x] heated-clothes-airer-deals-uk: Heated clothes airer deals UK
 - [ ] cheapest-heater-to-run-uk: Cheapest electric heater to run UK
-- [ ] dehumidifier-deals-uk: Dehumidifier deals UK
+- [x] dehumidifier-deals-uk: Dehumidifier deals UK
 
 ## Hobbies
 - [x] pokemon-elite-trainer-box-deals-uk: Pokémon Elite Trainer Box deals UK (at or below RRP)

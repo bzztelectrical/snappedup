@@ -1,7 +1,7 @@
 {
   "type": "guide",
   "date": "2026-10-30",
-  "updated": "2026-11-08",
+  "updated": "2026-11-12",
   "slug": "when-is-cyber-monday-2026-uk",
   "seoTitle": "When Is Cyber Monday 2026 UK? Date & What's Cheaper",
   "tags": [
@@ -10,7 +10,7 @@
   ],
   "title": "When is Cyber Monday 2026 UK? The date, and what's actually cheaper than Black Friday",
   "description": "Cyber Monday 2026 is on Monday 30 November. Here's how long UK sales run, what's cheaper than Black Friday, and what to buy earlier.",
-  "intro": "**Cyber Monday 2026 is on Monday 30 November in the UK, three days after Black Friday on Friday 27 November.** For most products it isn't cheaper than Black Friday: UK retailers mostly keep the same prices running from Black Friday week through to Cyber Monday, then end their sales.\n\nThe main reason to wait for Cyber Monday is a last chance at a price you missed, plus the odd extra online-only cut on tech. The prices below are early Black Friday deals already live, checked on 8 November, which show what a good Cyber Monday price looks like.",
+  "intro": "**Cyber Monday 2026 is on Monday 30 November in the UK, three days after Black Friday on Friday 27 November.** For most products it isn't cheaper than Black Friday: UK retailers mostly keep the same prices running from Black Friday week through to Cyber Monday, then end their sales.\n\nThe main reason to wait for Cyber Monday is a last chance at a price you missed, plus the odd extra online-only cut on tech. The prices below are early Black Friday deals already live, checked on 12 November, which show what a good Cyber Monday price looks like.",
   "deals": [
     {
       "name": "JBL Tune 780NC Wireless Headphones",
@@ -19,57 +19,58 @@
       "url": "https://www.argos.co.uk/product/8178790",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "Noise-cancelling over-ears for under £50, and Argos labels it the lowest price it has ever charged. Headphones are a classic Cyber Monday category, but this is already a price worth taking."
+      "note": "Noise-cancelling over-ears for under £50, still labelled Argos's lowest price ever on 12 November. Headphones are a classic Cyber Monday category, but this is already a price worth taking."
     },
     {
       "name": "Dyson V15 Detect Absolute",
       "retailer": "AO",
-      "price": 479,
+      "price": 499,
       "was": 649,
-      "url": "https://ao.com/search?search=Dyson%20V15%20Detect%20Absolute",
+      "url": "https://ao.com/product/44703301-dyson-v15-detect-absolute-cordless-vacuum-cleaner-yellow-100839-155.aspx",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Back up to £499 at AO (£474 with AO's free membership pricing), £20 more than it was earlier this month. It has been £479, so if you can wait, watch for that again in Black Friday week. More in our [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/)."
+    },
+    {
+      "name": "De'Longhi La Specialista Arte EC9155.MB Bean-to-Cup Coffee Machine",
+      "retailer": "Argos",
+      "price": 349,
+      "was": 530,
+      "url": "https://www.argos.co.uk/product/4337353",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Near the bottom of its recent £330 to £378 range (ignore the £530 'was' price). Kitchen appliances rarely get an extra Cyber Monday cut, so this is fine to buy early."
+    },
+    {
+      "name": "Ninja Double Stack XL SL400UK 9.5L Air Fryer",
+      "retailer": "Argos",
+      "price": 179.99,
+      "was": 270,
+      "url": "https://www.argos.co.uk/search/SL400UK/",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "At its three-month low (Amazon matches it), though it was £169.99 earlier this week. See our [air fryer Black Friday guide](/guides/air-fryer-black-friday-deals-2026/) for target prices."
+    },
+    {
+      "name": "Garmin Forerunner 165 GPS Running Watch",
+      "retailer": "Argos",
+      "price": 149.99,
+      "was": 199.99,
+      "url": "https://www.argos.co.uk/product/3443695",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "£479 matches PriceSpy's lowest ever price, and Very and Argos (£479.99) are the same. Dyson prices usually hold from Black Friday to Cyber Monday. More in our [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/)."
+      "note": "Just under its three-month low and about £10 below Amazon. Wearables do sometimes get Cyber Monday cuts, but this is already a strong price."
     },
     {
-      "name": "De'Longhi Magnifica Evo Bean-to-Cup Coffee Machine (ECAM290.83)",
-      "retailer": "Very",
-      "price": 349,
-      "was": 579,
-      "url": "https://www.very.co.uk/delonghi-magnifica-evonbspbean-to-cup-coffee-machine-nbspecam29083/1600882183.prd",
-      "verdict": "Good price",
-      "verdictLevel": "great",
-      "note": "Within £5 of its lowest recorded price, and AO and Boots charge the same. Kitchen appliances rarely get an extra Cyber Monday cut, so this is fine to buy early."
-    },
-    {
-      "name": "Ninja MAX 6-in-1 Dual Zone Air Fryer 9.5L (DZ400UK)",
-      "retailer": "Very",
-      "price": 159,
-      "was": 210,
-      "url": "https://www.very.co.uk/ninja-max-6-in-1-dual-zone-air-fryer-95l-dz400uk/1601160917.prd",
+      "name": "Dyson Airwrap Origin Multi-Styler and Dryer",
+      "retailer": "Argos",
+      "price": 299.99,
+      "was": 399.99,
+      "url": "https://www.argos.co.uk/product/9741267",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "A big family air fryer, matched by Argos at £159.99. See our [air fryer Black Friday guide](/guides/air-fryer-black-friday-deals-2026/) for target prices."
-    },
-    {
-      "name": "Apple AirPods 5",
-      "retailer": "Very",
-      "price": 119,
-      "url": "https://www.very.co.uk/apple-airpods-5/1601367852.prd",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "Not marked down, but now with noise cancelling as standard. See our [AirPods Black Friday guide](/guides/airpods-black-friday-deals-2026/) for the price to wait for."
-    },
-    {
-      "name": "Oral-B iO2 Electric Toothbrush",
-      "retailer": "Currys",
-      "price": 39.99,
-      "was": 100,
-      "url": "https://www.currys.co.uk/search?q=Oral-B+iO2",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "Well under half price, but it has sold for less than £30 before, so it may dip again in Black Friday week."
+      "note": "£100 off, with Currys at £299 too. Dyson prices usually hold from Black Friday to Cyber Monday, so there's little to gain by waiting."
     }
   ],
-  "body": "## Cyber Monday 2026 UK: the key dates\n\n- **Black Friday:** Friday 27 November 2026\n- **Cyber Monday:** Monday 30 November 2026\n- **Amazon Black Friday Week:** still not announced as of 8 November. Dates you may see online (such as 19 to 30 November) are predictions. In 2025 it ran from 20 November to 1 December, finishing the day after Cyber Monday.\n- **Currys:** its sale started on 28 October and is due to run to Tuesday 1 December, with its price guarantee back.\n- **AO, Halfords and Google Store:** sales end on Tuesday 1 December.\n- **B&Q:** sale runs to Cyber Monday, 30 November.\n- **John Lewis:** says its Black Friday deals carry on through to Cyber Monday.\n- **Very:** its sale runs from 2 November to 4 December 2026, so it carries on past Cyber Monday.\n\nNo UK retailer has announced a separate Cyber Monday event so far; for most, Cyber Monday is simply the last day or two of the Black Friday sale.\n\nCyber Monday is always the Monday after Black Friday. It began in the US as the day people shopped online after the holiday weekend. In the UK, almost everything is bought online anyway, so it has become the last day of one long Black Friday sale rather than a separate event. For all the retailer dates, see [when is Black Friday 2026 UK](/guides/when-is-black-friday-2026-uk/).\n\n## Is Cyber Monday cheaper than Black Friday?\n\nUsually not. Most UK retailers set their Black Friday prices in the week before 27 November and leave them in place until Cyber Monday ends. Price-tracking sites tend to find that the lowest price of the season lands in Black Friday week itself, not on the Monday after.\n\nThere are a few exceptions worth knowing:\n\n- **Tech accessories, headphones and laptops** sometimes get a fresh round of cuts on Cyber Monday, as retailers try to clear stock that didn't sell over the weekend.\n- **Amazon** often adds new short-lived deals on Cyber Monday, though its main Black Friday prices stay the same.\n- **Software, subscriptions and digital services** (streaming, VPNs, cloud storage, app subscriptions) are where online-only Cyber Monday offers are most common.\n- **Fashion and beauty brands** sometimes add an extra code on Cyber Monday, often for their own websites only.\n\nWhat you shouldn't do is wait for Cyber Monday on anything likely to sell out: popular toys, advent calendars, limited gift sets and consoles in bundles. By Monday the best of those are usually gone.\n\n## Buy on Black Friday or wait for Cyber Monday?\n\nA simple rule: **if the price is at or near its lowest ever on Black Friday, buy it then.** Cyber Monday rarely beats it, and stock can run out over the weekend. If a product you want hasn't been discounted by Black Friday, Cyber Monday is your last realistic chance before Christmas.\n\nA few things make buying early less risky this year. Currys' price guarantee means that if Currys cuts the price again before its sale ends, you can claim the difference. Very's new Black Friday Price Promise does the same for its own price cuts until 4 December, and Argos is offering a price guarantee on marked items, paid as a voucher. And most retailers extend returns over Christmas, so a gift bought in November can usually go back in January.\n\nIf you're shopping at Amazon, many of its Black Friday and Cyber Monday prices are for Prime members only. A free trial timed for the sale can pay for itself; our [Amazon Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time it, and our [Amazon Black Friday guide](/guides/amazon-black-friday-2026-uk/) covers what to expect.\n\n## How to spot a real Cyber Monday deal\n\n- **Check the price history.** PriceSpy and CamelCamelCamel show whether today's price is genuinely low, or whether the 'was' price was only charged briefly.\n- **Compare retailers.** Amazon, Argos, Currys and John Lewis often match each other within hours, so the cheapest place can change during the day.\n- **Ignore countdown timers.** 'Deal ends in 2 hours' often just means the same price continues on another page.\n- **Know your target price.** Our brand guides on the [Black Friday hub](/black-friday/) list the prices worth paying for each product.\n\n### What date is Cyber Monday 2026 in the UK?\n\nMonday 30 November 2026. It's always the Monday after Black Friday, which this year falls on Friday 27 November.\n\n### When do Cyber Monday deals end?\n\nMost end at midnight on Monday 30 November, but some retailers run on longer. Amazon's Black Friday Week finished on the Tuesday after Cyber Monday in 2025, and Very's 2026 sale runs until 4 December.\n\n### Are Cyber Monday deals better than Black Friday?\n\nRarely. For most products, the prices are the same across both, and the lowest price usually arrives in Black Friday week. Cyber Monday is better for some tech, software and online subscriptions.\n\n### Is Cyber Monday the same as Black Friday in the UK?\n\nIn practice, it's the last day of the same sale. UK retailers treat Black Friday to Cyber Monday as one event, often starting their deals weeks earlier.\n\n### Should I wait for Cyber Monday to buy a TV or vacuum?\n\nOnly if it hasn't been discounted by Black Friday. TVs and vacuums usually hit their lowest prices in Black Friday week. See our [TV Black Friday guide](/guides/tv-black-friday-deals-2026/) for the prices worth waiting for."
+  "body": "## Cyber Monday 2026 UK: the key dates\n\n- **Black Friday:** Friday 27 November 2026\n- **Cyber Monday:** Monday 30 November 2026\n- **Amazon Black Friday Week:** confirmed by Amazon as **19 to 30 November 2026**, so it ends on Cyber Monday. Early deals arrive in waves before that, with Amazon devices from 16 November. Amazon has no separate Cyber Monday event this year. In 2025 the week ran from 20 November to 1 December.\n- **Currys:** its sale started on 28 October and is due to run to Tuesday 1 December, with its price guarantee back.\n- **AO, Halfords and Google Store:** sales end on Tuesday 1 December.\n- **B&Q:** sale runs to Cyber Monday, 30 November.\n- **John Lewis:** says its Black Friday deals carry on through to Cyber Monday.\n- **Very:** its Black Friday event and Price Promise run until 4 December 2026, so it carries on past Cyber Monday.\n\nAs of 12 November, no UK retailer has announced a separate Cyber Monday event; for most, Cyber Monday is simply the last day or two of the Black Friday sale.\n\nCyber Monday is always the Monday after Black Friday. It began in the US as the day people shopped online after the holiday weekend. In the UK, almost everything is bought online anyway, so it has become the last day of one long Black Friday sale rather than a separate event. For all the retailer dates, see [when is Black Friday 2026 UK](/guides/when-is-black-friday-2026-uk/).\n\n## Is Cyber Monday cheaper than Black Friday?\n\nUsually not. Most UK retailers set their Black Friday prices in the week before 27 November and leave them in place until Cyber Monday ends. Price-tracking sites tend to find that the lowest price of the season lands in Black Friday week itself, not on the Monday after.\n\nThere are a few exceptions worth knowing:\n\n- **Tech accessories, headphones and laptops** sometimes get a fresh round of cuts on Cyber Monday, as retailers try to clear stock that didn't sell over the weekend.\n- **Amazon** often adds new short-lived deals on Cyber Monday, though its main Black Friday prices stay the same.\n- **Software, subscriptions and digital services** (streaming, VPNs, cloud storage, app subscriptions) are where online-only Cyber Monday offers are most common.\n- **Fashion and beauty brands** sometimes add an extra code on Cyber Monday, often for their own websites only.\n\nWhat you shouldn't do is wait for Cyber Monday on anything likely to sell out: popular toys, advent calendars, limited gift sets and consoles in bundles. By Monday the best of those are usually gone.\n\n## Buy on Black Friday or wait for Cyber Monday?\n\nA simple rule: **if the price is at or near its lowest ever on Black Friday, buy it then.** Cyber Monday rarely beats it, and stock can run out over the weekend. If a product you want hasn't been discounted by Black Friday, Cyber Monday is your last realistic chance before Christmas.\n\nA few things make buying early less risky this year. Currys' price guarantee means that if Currys cuts the price again before its sale ends, you can claim the difference. Very's new Black Friday Price Promise does the same for its own price cuts until 4 December, and Argos is offering a price guarantee on marked items, paid as a voucher. And most retailers extend returns over Christmas, so a gift bought in November can usually go back in January.\n\nIf you're shopping at Amazon, many of its Black Friday and Cyber Monday prices are for Prime members only. A free trial timed for the sale can pay for itself; our [Amazon Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time it, and our [Amazon Black Friday guide](/guides/amazon-black-friday-2026-uk/) covers what to expect.\n\n## How to spot a real Cyber Monday deal\n\n- **Check the price history.** PriceSpy and CamelCamelCamel show whether today's price is genuinely low, or whether the 'was' price was only charged briefly.\n- **Compare retailers.** Amazon, Argos, Currys and John Lewis often match each other within hours, so the cheapest place can change during the day.\n- **Ignore countdown timers.** 'Deal ends in 2 hours' often just means the same price continues on another page.\n- **Know your target price.** Our brand guides on the [Black Friday hub](/black-friday/) list the prices worth paying for each product.\n\n### What date is Cyber Monday 2026 in the UK?\n\nMonday 30 November 2026. It's always the Monday after Black Friday, which this year falls on Friday 27 November.\n\n### When do Cyber Monday deals end?\n\nMost end at midnight on Monday 30 November, but some retailers run on longer. Amazon's Black Friday Week ends on Cyber Monday itself this year (30 November), Currys and AO are due to run to 1 December, and Very's 2026 event runs until 4 December.\n\n### Are Cyber Monday deals better than Black Friday?\n\nRarely. For most products, the prices are the same across both, and the lowest price usually arrives in Black Friday week. Cyber Monday is better for some tech, software and online subscriptions.\n\n### Is Cyber Monday the same as Black Friday in the UK?\n\nIn practice, it's the last day of the same sale. UK retailers treat Black Friday to Cyber Monday as one event, often starting their deals weeks earlier.\n\n### Should I wait for Cyber Monday to buy a TV or vacuum?\n\nOnly if it hasn't been discounted by Black Friday. TVs and vacuums usually hit their lowest prices in Black Friday week. See our [TV Black Friday guide](/guides/tv-black-friday-deals-2026/) for the prices worth waiting for."
 }

@@ -1,7 +1,7 @@
 {
   "type": "guide",
   "date": "2026-10-27",
-  "updated": "2026-11-09",
+  "updated": "2026-11-12",
   "slug": "argos-black-friday-2026",
   "seoTitle": "Argos Black Friday 2026: Dates, Deals & What to Expect",
   "tags": [
@@ -9,35 +9,67 @@
   ],
   "title": "Argos Black Friday 2026: dates, best deals and what to expect",
   "description": "Argos Black Friday 2026 is live from 30 October to 1 December. How the price guarantee works, Christmas returns and this week's best deals.",
-  "intro": "**The Argos Black Friday 2026 sale is live: it started on Friday 30 October and runs until Tuesday 1 December.** It opened with around 1,800 products, and last year it grew to about 10,000 by the week of Black Friday, so expect more deals to arrive through November.\n\nThe best buys this week are toys and big-screen TVs: the Samsung 58-inch U8000H is £329, which Argos calls its lowest price ever, and the Primal Hatch Megalodon, one of this year's top toys, is down to £33. Badged deals also carry a price guarantee until Christmas Day. Last checked: 9 November 2026.",
+  "intro": "**The Argos Black Friday 2026 sale is live: it started on Friday 30 October and runs until Tuesday 1 December.** It opened with around 1,800 products, and last year it grew to about 10,000 by the week of Black Friday, so expect more deals to arrive through November.\n\nThe best buys this week are kitchen gadgets, beauty gifts and toys: the Ninja SLUSHi Max is £259.99, below any price we've seen tracked for it, the ghd Gold gift bundle is £159 and Magna-Tiles are at their lowest recorded price. Badged deals also carry a price guarantee until Christmas Day. Last checked: 12 November 2026.",
   "deals": [
     {
-      "name": "Samsung UE58U8000HKXXU 58-inch Smart 4K Crystal TV",
+      "name": "Ninja SLUSHi Max Frozen Drink Maker",
       "retailer": "Argos",
-      "price": 329,
-      "url": "https://www.argos.co.uk/product/8695534",
+      "price": 259.99,
+      "was": 349.99,
+      "url": "https://www.argos.co.uk/search/ninja-slushi-max/",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "Argos labels this its lowest price ever. A big screen for the money; see our [TV Black Friday guide](/guides/tv-black-friday-deals-2026/) if you want OLED."
+      "note": "About £20 below PriceSpy's lowest tracked price, and £50 under Very and Currys. A fun family Christmas present."
     },
     {
-      "name": "Dyson V8 Cyclone Cordless Vacuum (2026)",
+      "name": "ghd Gold Hair Straightener Gift Bundle, Black",
       "retailer": "Argos",
-      "price": 209.99,
-      "url": "https://www.argos.co.uk/product/8388384",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "Checked 8 November. Argos says this is the lowest it has charged for the V8 Cyclone. John Lewis is the same price."
-    },
-    {
-      "name": "LEGO Icons Concorde (10318)",
-      "retailer": "Argos",
-      "price": 130,
-      "was": 170,
-      "url": "https://www.argos.co.uk/product/3376913",
+      "price": 159,
+      "was": 239,
+      "url": "https://www.argos.co.uk/product/7705865",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£40 off the usual price of this adult display set. Part of Argos's up to a third off LEGO offer."
+      "note": "The styler plus spray, bag and mat for about the price of the styler alone elsewhere. Argos's ghd page says these prices won't go lower before Christmas."
+    },
+    {
+      "name": "Dyson Airwrap Origin Multi-Styler and Dryer, Prussian Blue/Rich Copper",
+      "retailer": "Argos",
+      "price": 299.99,
+      "was": 399.99,
+      "url": "https://www.argos.co.uk/product/9741267",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£100 off, matched by Currys. See our [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/) for the other Dyson prices to aim for."
+    },
+    {
+      "name": "Ninja Double Stack XL SL400UK 9.5L Air Fryer, Grey",
+      "retailer": "Argos",
+      "price": 179.99,
+      "was": 270,
+      "url": "https://www.argos.co.uk/search/SL400UK/",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "At its three-month low, and Amazon is the same price. The £270 'was' price is higher than it has sold for recently."
+    },
+    {
+      "name": "Garmin Forerunner 165 GPS Running Watch",
+      "retailer": "Argos",
+      "price": 149.99,
+      "was": 199.99,
+      "url": "https://www.argos.co.uk/product/3443695",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Just under its three-month low and about £10 cheaper than Amazon."
+    },
+    {
+      "name": "Magna-Tiles Clear Colours 32 Piece Set",
+      "retailer": "Argos",
+      "price": 23,
+      "was": 35,
+      "url": "https://www.argos.co.uk/product/4077792",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Matches the lowest price recorded for this set. Amazon is also £23, but check you're getting the same 32-piece Clear Colours set."
     },
     {
       "name": "Primal Hatch Megalodon Hatching Egg Shark Toy",
@@ -47,28 +79,18 @@
       "url": "https://www.argos.co.uk/product/8788111",
       "verdict": "Seasonal pick",
       "verdictLevel": "great",
-      "note": "An Argos Top 20 toy, £22 under its launch price. Buy hot toys early, before they sell out."
+      "note": "Checked 11 November. An Argos Top 20 toy, £22 under its launch price, with Smyths at £32.99. Buy hot toys early, before they sell out."
     },
     {
-      "name": "PAW Patrol: The Dino Movie Megasaurus Dino Vehicle",
+      "name": "LEGO Disney Pixar WALL-E and EVE (43279)",
       "retailer": "Argos",
       "price": 40,
       "was": 60,
-      "url": "https://www.argos.co.uk/product/8513692",
+      "url": "https://www.argos.co.uk/product/7839793",
       "verdict": "Seasonal pick",
-      "verdictLevel": "great",
-      "note": "Another Top 20 toy, a third off its launch price. For ages 3 and up."
-    },
-    {
-      "name": "Barbie Dream Land 2 Dolls and Electric Toy Car with Charging Station",
-      "retailer": "Argos",
-      "price": 25,
-      "was": 50,
-      "url": "https://www.argos.co.uk/product/8533603",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "Half price, one of many Barbie and Hot Wheels toys at 50% off in the Argos toy offers."
+      "verdictLevel": "good",
+      "note": "£40 is good but not the lowest (it has been £35). Part of Argos's up to a third off LEGO offer."
     }
   ],
-  "body": "## When does Argos Black Friday 2026 start and end?\n\nArgos's own price guarantee terms confirm that **Black Friday at Argos runs from 30 October to 1 December 2026**. That's a day earlier than 2025 (31 October) and two days earlier than 2024 (1 November). Argos hasn't published a weekly drop schedule this year, but in past years it added new deals through the month, with the biggest cuts in the week of Black Friday (27 November) and over Cyber Monday (30 November). See our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) for every retailer's dates.\n\n## What's in the Argos sale so far\n\nThe first wave covers TVs, headphones and smartwatches, PS5 and Switch 2 bundles, Lego, vacuums, coffee machines and beauty electricals from Shark, BaByliss, Remington, Oral-B and Philips. Two things to watch:\n\n- **Check the 'was' price.** Some Argos 'was' prices are higher than anything the product has really sold for recently. Bluey's Big Shopping Day playset, 'was £75', is one we couldn't verify.\n- **Compare with Amazon.** In our 1 November check, the Kenwood kMix (£180) and the Ninja Double Stack (£169.99) were the same price at both, and the Russell Hobbs Steam Genie was cheaper at Amazon.\n\nOur [Lego Black Friday guide](/guides/lego-black-friday-deals-2026/) shows the prices to aim for on sets, and the [Ninja](/guides/ninja-black-friday-deals-2026/), [Shark](/guides/shark-black-friday-deals-2026/) and [Dyson](/guides/dyson-black-friday-deals-2026/) guides cover the brands Argos usually discounts most.\n\n## Argos Black Friday toy offers\n\nArgos's toy offers are live (checked 9 November), with up to 50% off selected toys, extra savings on some lines with the codes TOYS25 and TOYS50, multi-buys including 3 for £20, 2 for £15, 2 for £20 and 2 for £30, and up to a third off selected LEGO. There's no '3 for 2' across all toys this year. Our [Christmas toy deals 2026 spotlight](/spotlight/christmas-toy-deals-2026/) has the toys worth buying now, and [Christmas gifts for kids under £20](/guides/christmas-gifts-for-kids-under-20/) picks the best cheap ones.\n\n## Argos's Black Friday Price Guarantee\n\nThe guarantee is back for 2026. Products with the **Price Guarantee** badge won't drop in price before midnight on 25 December. If the displayed price does fall, Argos emails you a voucher for the difference as an Argos e-gift card, valid for three months. The main conditions:\n\n- Only badged products count, and 'A-mazing deals' items are excluded.\n- It covers Argos's own displayed price, not discount codes, and not cheaper prices at other shops.\n- You need to give a valid email address when you buy, online or in store.\n\nIt makes buying badged items early in November low-risk, as long as you're happy with a gift card rather than cash.\n\n## Christmas returns\n\nArgos has confirmed its 2026 Christmas returns policy. **Anything bought between 23 September and 25 December 2026 can be returned until 31 January 2027**, as long as it's unused and in its original packaging. That makes Argos a safe place to buy presents early.\n\n## Nectar points and delivery\n\nYou earn 1 Nectar point per £1 spent at Argos, and 500 points are worth £2.50 off. Sainsbury's has agreed to sell Argos, but the deal isn't due to complete until early 2027, and Nectar will carry on at Argos afterwards.\n\nFast Track same-day delivery costs £7.95. Standard delivery is £4.95 for small items, free on orders over £100. Click & Collect orders are held for seven days.\n\n## What was cheap at Argos last Black Friday\n\nThese 2025 Black Friday prices are a good guide to what to expect:\n\n- Kenwood kMix stand mixer: £180 (back to that price on 1 November)\n- Lego Technic Ferrari SF-24: £149 (was £200)\n- Amazon Fire HD 8 tablet: £39.99 (was £99.99)\n- Russell Hobbs Worcester kettle: £22.50 (was £45)\n- PS5 Slim: £379.99 (was £479.99)\n- MacBook Air 13in M2: £699 (was £999)\n\nArgos's strongest categories are small kitchen appliances, vacuums, toys and Amazon devices.\n\n## Is Argos cheaper than Amazon?\n\nOften it's the same. During Black Friday the two tend to match each other, so check both before you buy. Argos wins on same-day collection, its price guarantee and its long Christmas returns window. Amazon's own Black Friday Week hasn't been announced yet.\n\n### When does the Argos Black Friday sale start in 2026?\n\nIt's already on. The Argos Black Friday sale started on 30 October 2026 and runs until 1 December 2026.\n\n### Does Argos do a Black Friday price guarantee?\n\nYes. If a product with the Price Guarantee badge drops in price at Argos before midnight on 25 December 2026, you get the difference back as an Argos e-gift card.\n\n### Can I return Argos Christmas presents in January?\n\nYes. Items bought from 23 September to 25 December 2026 can be returned until 31 January 2027, if they're unused and in their original packaging.\n\n### Are Argos Black Friday deals worth it?\n\nMany are, especially on small appliances, toys and Lego. But some 'deals' are prices you'll also see at other times. Compare with Amazon and check the target prices in our [Black Friday guides](/black-friday/) before buying."
+  "body": "## When does Argos Black Friday 2026 start and end?\n\nArgos's own price guarantee terms confirm that **Black Friday at Argos runs from 30 October to 1 December 2026**. That's a day earlier than 2025 (31 October) and two days earlier than 2024 (1 November). Argos hasn't published a weekly drop schedule this year, but in past years it added new deals through the month, with the biggest cuts in the week of Black Friday (27 November) and over Cyber Monday (30 November). See our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) for every retailer's dates.\n\n## What's in the Argos sale so far\n\nThe first wave covers TVs, headphones and smartwatches, PS5 and Switch 2 bundles, Lego, vacuums, coffee machines and beauty electricals from Shark, BaByliss, Remington, Oral-B and Philips. Prices move around, too: the Dyson V8 Cyclone (2026), £209.99 in early November, was back to £350 on 12 November, and the £99.99 Ninja AF170UK deal has ended. Two things to watch:\n\n- **Check the 'was' price.** Some Argos 'was' prices are higher than anything the product has really sold for recently. Bluey's Big Shopping Day playset, 'was £75', is one we couldn't verify.\n- **Compare with Amazon.** In our 1 November check, the Kenwood kMix (£180) and the Ninja Double Stack (£169.99) were the same price at both, and the Russell Hobbs Steam Genie was cheaper at Amazon.\n\nOur [Lego Black Friday guide](/guides/lego-black-friday-deals-2026/) shows the prices to aim for on sets, and the [Ninja](/guides/ninja-black-friday-deals-2026/), [Shark](/guides/shark-black-friday-deals-2026/) and [Dyson](/guides/dyson-black-friday-deals-2026/) guides cover the brands Argos usually discounts most.\n\n## Argos Black Friday toy offers\n\nArgos's toy offers are live (checked 9 November), with up to 50% off selected toys, extra savings on some lines with the codes TOYS25 and TOYS50, multi-buys including 3 for £20, 2 for £15, 2 for £20 and 2 for £30, and up to a third off selected LEGO. There's no '3 for 2' across all toys this year. Our [Christmas toy deals 2026 spotlight](/spotlight/christmas-toy-deals-2026/) has the toys worth buying now, and [Christmas gifts for kids under £20](/guides/christmas-gifts-for-kids-under-20/) picks the best cheap ones.\n\n## Argos's Black Friday Price Guarantee\n\nThe guarantee is back for 2026. Products with the **Price Guarantee** badge won't drop in price before midnight on 25 December. If the displayed price does fall, Argos emails you a voucher for the difference as an Argos e-gift card, valid for three months. The main conditions:\n\n- Only badged products count, and 'A-mazing deals' items are excluded.\n- It covers Argos's own displayed price, not discount codes, and not cheaper prices at other shops.\n- You need to give a valid email address when you buy, online or in store.\n\nIt makes buying badged items early in November low-risk, as long as you're happy with a gift card rather than cash.\n\n## Christmas returns\n\nArgos has confirmed its 2026 Christmas returns policy. **Anything bought between 23 September and 25 December 2026 can be returned until 31 January 2027**, as long as it's unused and in its original packaging. That makes Argos a safe place to buy presents early.\n\n## Nectar points and delivery\n\nYou earn 1 Nectar point per £1 spent at Argos, and 500 points are worth £2.50 off. Sainsbury's has agreed to sell Argos, but the deal isn't due to complete until early 2027, and Nectar will carry on at Argos afterwards.\n\nFast Track same-day delivery costs £7.95. Standard delivery is £4.95 for small items, free on orders over £100. Click & Collect orders are held for seven days.\n\n## What was cheap at Argos last Black Friday\n\nThese 2025 Black Friday prices are a good guide to what to expect:\n\n- Kenwood kMix stand mixer: £180 (back to that price on 1 November)\n- Lego Technic Ferrari SF-24: £149 (was £200)\n- Amazon Fire HD 8 tablet: £39.99 (was £99.99)\n- Russell Hobbs Worcester kettle: £22.50 (was £45)\n- PS5 Slim: £379.99 (was £479.99)\n- MacBook Air 13in M2: £699 (was £999)\n\nArgos's strongest categories are small kitchen appliances, vacuums, toys and Amazon devices.\n\n## Is Argos cheaper than Amazon?\n\nOften it's the same. During Black Friday the two tend to match each other, so check both before you buy. Argos wins on same-day collection, its price guarantee and its long Christmas returns window. Amazon's own Black Friday Week runs from 19 to 30 November, with its device deals from 16 November; see our [Amazon Black Friday guide](/guides/amazon-black-friday-2026-uk/).\n\n### When does the Argos Black Friday sale start in 2026?\n\nIt's already on. The Argos Black Friday sale started on 30 October 2026 and runs until 1 December 2026.\n\n### Does Argos do a Black Friday price guarantee?\n\nYes. If a product with the Price Guarantee badge drops in price at Argos before midnight on 25 December 2026, you get the difference back as an Argos e-gift card.\n\n### Can I return Argos Christmas presents in January?\n\nYes. Items bought from 23 September to 25 December 2026 can be returned until 31 January 2027, if they're unused and in their original packaging.\n\n### Are Argos Black Friday deals worth it?\n\nMany are, especially on small appliances, toys and Lego. But some 'deals' are prices you'll also see at other times. Compare with Amazon and check the target prices in our [Black Friday guides](/black-friday/) before buying."
 }
