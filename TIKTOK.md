@@ -34,3 +34,16 @@ Conclusion: faceless text-and-emoji slides lose people in the first second whate
 
 ## Paused (12 Nov 2026)
 Daily TikTok videos are paused. The 8 Nov and 10 Nov uploads were never approved, and the 9 Nov question about the approach went unanswered. No more videos are scheduled or reminders set until the user asks to restart. The 10 Nov video is still waiting, unscheduled, in TikTok Studio on the laptop, and the files are in Desktop\\snapped-up\\tiktok.
+
+## Restarted 12 Nov 2026: rotate formats, never the same two days running
+The user finds "Real or fake?" repetitive. Go through this list in order, one per day:
+1. **Top 5 countdown:** "This week's 5 biggest price drops" from #5 to #1, with the best saving last (Fridays, from the "Week's best" post).
+2. **Guess the price:** product on screen, "£???" tag, reveal.
+3. **Higher or lower:** two shops' prices for the same product side by side. Is it cheaper at A or B? Reveal the cheapest.
+4. **Gift under £X challenge:** "3 gifts under £20 that don't look cheap", one per scene, ending on a price total.
+5. **This or that:** two deals side by side ("Ninja or Shark?"). Comment which you'd pick, with no right answer, which drives comments.
+6. **Buy now or wait?:** verdict stamps.
+7. **Real or fake?:** only occasionally, and only when the post has a clearly inflated 'was' price.
+8. **Black Friday countdown:** "X days to go" with the top 3 deals already live.
+
+Every format keeps the same rules: full first frame, about 15 seconds, prices from today or yesterday only, claims only as far as the post's notes support, caption without spoilers, #ad, and Branded content switched on.
