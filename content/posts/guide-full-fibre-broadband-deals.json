@@ -1,0 +1,88 @@
+{
+  "type": "guide",
+  "date": "2026-11-12",
+  "updated": "2026-11-12",
+  "slug": "full-fibre-broadband-deals",
+  "seoTitle": "Full Fibre Broadband Deals UK: Alt-nets vs BT",
+  "tags": [
+    "broadband"
+  ],
+  "title": "Full-fibre broadband deals UK: Hyperoptic vs BT vs the alt-nets",
+  "description": "Full-fibre broadband deals UK: Hyperoptic 1Gb from £17, Vodafone 910Mb at £24.50, BT and EE compared on real 24-month cost. Checked 12 Nov 2026.",
+  "intro": "**If Hyperoptic serves your building, its 1Gb full fibre at £17 a month on a 24-month contract is the cheapest gigabit deal we found today. On the main Openreach network, Vodafone Full Fibre 910 at £24.50 a month with a £140 voucher is the best value.** BT's own Full Fibre 500 costs £27.99, so you pay a premium for the brand.\n\nFull fibre runs fibre-optic cable right into your home, so it's faster and more reliable than older part-fibre lines and gives much faster upload speeds. Prices below were checked on Uswitch and Broadband Genie (broadband.co.uk) on 12 November 2026 and depend on your address.",
+  "deals": [
+    {
+      "name": "Hyperoptic 1Gb Full Fibre, 900Mb average, 24 months",
+      "retailer": "Hyperoptic via Uswitch",
+      "price": 17.0,
+      "url": "https://www.uswitch.com/broadband/providers/hyperoptic/",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Gigabit download and upload for less than most providers charge for 150Mb. No setup cost; rises £4 each April. Only available in buildings Hyperoptic has wired, mostly flats in cities."
+    },
+    {
+      "name": "Hyperoptic 500Mb Full Fibre, 520Mb average, 24 months",
+      "retailer": "Hyperoptic via Uswitch",
+      "price": 14.0,
+      "url": "https://www.uswitch.com/broadband/providers/hyperoptic/",
+      "verdict": "Good price",
+      "verdictLevel": "great",
+      "note": "Plenty for a family streaming in 4K. The 1Gb plan is only £3 a month more, though, so most people should go straight to that. A 12-month version costs £16."
+    },
+    {
+      "name": "Fibrely Full Fibre 330 Ultrafast, 300Mb, 24 months",
+      "retailer": "Fibrely via Broadband Genie",
+      "price": 12.99,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A low starting price, but it jumps £10 to £22.99 a month from May 2027. Broadband Genie puts the effective cost at about £20.49 a month, so look past the headline figure."
+    },
+    {
+      "name": "Vodafone Full Fibre 910, 910Mb, 24 months + £140 voucher",
+      "retailer": "Vodafone via Broadband Genie",
+      "price": 24.5,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "great",
+      "note": "The best-value near-gigabit deal on Openreach today. Rises £3.50 each April; with the voucher, the effective cost is about £22.46 a month."
+    },
+    {
+      "name": "Plusnet Full Fibre 900, 900Mb, 24 months + £155 reward card",
+      "retailer": "Plusnet via Broadband Genie",
+      "price": 26.99,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "BT-owned and on the same network, for less than BT itself. Rises £4 each 31 March; effective cost about £24.86 a month after the reward card."
+    },
+    {
+      "name": "EE Full Fibre 900, 900Mb, 24 months + £145 reward card",
+      "retailer": "EE via Broadband Genie",
+      "price": 26.99,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The same monthly price as Plusnet with a slightly smaller reward. Rises £4 each 31 March; effective cost about £25.28 a month."
+    },
+    {
+      "name": "BT Full Fibre 500, 500Mb, 24 months + £135 reward card",
+      "retailer": "BT via Broadband Genie",
+      "price": 27.99,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Wait for BF",
+      "verdictLevel": "wait",
+      "note": "Dearer than Vodafone's 910Mb deal for half the speed. Rises £4 each 31 March, with an effective cost of about £26.70. Only pick BT if you specifically want BT's service or TV extras."
+    },
+    {
+      "name": "Zen Full Fibre Max, 1.6Gb, 24 months, fixed price",
+      "retailer": "Zen via Broadband Genie",
+      "price": 45.0,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Expensive, but the price is fixed for the whole contract, with a £15 setup fee. For heavy users who want top speed and no yearly rises."
+    }
+  ],
+  "body": "## Full fibre, part fibre and cable: what's the difference?\n\n**Full fibre** (sometimes called FTTP) runs fibre-optic cable all the way into your home. It's the fastest and most reliable type and usually gives upload speeds as fast or nearly as fast as downloads.\n\n**Part fibre** (often sold as \"superfast\" or \"fibre broadband\", around 36Mb to 67Mb) uses fibre to the street cabinet and old copper phone line for the last stretch. It's slower and is being phased out as the copper network closes.\n\n**Virgin Media** uses its own cable network. Downloads are very fast, but uploads are lower than on full fibre. See our [broadband deals guide](/guides/broadband-deals-uk/) for Virgin Media and 5G options.\n\n## The networks: Openreach vs alt-nets\n\nMost full fibre in the UK is built by **Openreach**. BT, EE, Plusnet, Sky, Vodafone, TalkTalk, Zen and many others sell broadband over it, so the line is the same whoever you pick. That means you should choose on price, router and customer service, not on speed claims.\n\n**Alternative networks (alt-nets)** build their own fibre and often undercut the big names:\n\n- **Hyperoptic** wires blocks of flats and new-build estates in many cities. Its prices are the cheapest we've seen for gigabit speeds.\n- **Community Fibre** covers much of London.\n- **Gigaclear** and **Lightning Fibre** focus on rural and semi-rural areas, often villages where Openreach hasn't reached yet.\n- Many smaller local networks exist too, so check what your street can get.\n\nThe catch is coverage. Alt-nets only reach certain streets or buildings, so check your postcode on a comparison site to see which can serve you.\n\n## How much speed do you need?\n\n- **150Mb:** fine for one to three people.\n- **500Mb:** comfortable for a busy family with several 4K streams and video calls.\n- **900Mb to 1Gb:** often only a few pounds more, and the best choice if you upload video, game online or work from home with large files.\n\nRight now gigabit full fibre costs only around £3 to £6 a month more than mid-speed plans, so it's often worth going up a tier.\n\n## Target prices\n\nUswitch puts the average starting price of a full-fibre deal at about £28 a month (August 2026 data). Today's listings beat that easily, so aim for:\n\n- **500Mb:** under £22 a month on Openreach, or under £15 on an alt-net.\n- **900Mb to 1Gb:** under £25 a month on Openreach, or under £20 on an alt-net.\n\nAlways compare the effective cost over the contract. Most providers add £3.50 or £4 a month each spring, and some smaller ones have one large jump after an introductory period, as Fibrely's £10 rise shows.\n\n## Should you wait for Black Friday?\n\nFull-fibre deals rarely drop much further on the day itself. Many are already badged as Black Friday offers and will run until Cyber Monday on 30 November. If your contract has ended, switch now. Our [broadband Black Friday deals guide](/guides/broadband-black-friday-deals-2026/) tracks the seasonal offers, and [every Black Friday 2026 guide](/black-friday/) is in one place.\n\n## Frequently asked questions\n\n### How do I know if I can get full fibre?\n\nEnter your postcode and house number on a comparison site or a provider's website. It shows which networks reach your address, including alt-nets. Openreach also has its own fibre checker.\n\n### Is Hyperoptic better than BT?\n\nOn price and upload speed, often yes: Hyperoptic's 1Gb plan costs £17 a month on 24 months, against £28.99 for BT Full Fibre 900. BT has wider coverage, a bigger support operation and extras like TV. If Hyperoptic serves your building, it's usually the better value.\n\n### Does full fibre need a landline?\n\nNo. Full fibre doesn't use a copper phone line. If you want a home phone, providers offer a digital voice service that plugs into the router.\n\n### Will I need an engineer visit?\n\nIf your home has never had full fibre, an engineer usually fits a small box inside and connects the fibre, which takes a few hours. If it's already installed, switching is often just a matter of plugging in the new router.\n\n### Are alt-nets reliable?\n\nThe established ones, such as Hyperoptic, Community Fibre and Gigaclear, have large customer bases and generally good reviews. Smaller networks vary, so check recent reviews and look for a cancellation guarantee. Hyperoptic, for example, lets you cancel within 30 days without a fee."
+}

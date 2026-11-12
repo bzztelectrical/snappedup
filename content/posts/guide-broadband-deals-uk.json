@@ -1,0 +1,88 @@
+{
+  "type": "guide",
+  "date": "2026-11-12",
+  "updated": "2026-11-12",
+  "slug": "broadband-deals-uk",
+  "seoTitle": "Broadband Deals UK: Best Prices This Month",
+  "tags": [
+    "broadband"
+  ],
+  "title": "Broadband deals UK: the best prices this month and the true cost",
+  "description": "The best UK broadband deals this month, from Vodafone full fibre at £18.50 to Virgin 264Mb at £18.99, with the real 24-month cost. Checked 12 Nov 2026.",
+  "intro": "**The cheapest full-fibre deal we can confirm today is Vodafone Full Fibre 150 at £18.50 a month on a 24-month contract, with a gift voucher and no setup fee. That offer ends at 9am on 18 November 2026.** If you want more speed, Virgin Media's M250 (about 260Mb) is £18.99 a month, and Vodafone Full Fibre 910 gives near-gigabit speeds for £24.50.\n\nEvery deal below rises in price each spring, so we've added the provider's fixed rises and the comparison site's own \"effective\" monthly cost where it's shown. Prices were checked on Broadband Genie (broadband.co.uk) and Uswitch on 12 November 2026 and depend on what's available at your address.",
+  "deals": [
+    {
+      "name": "Vodafone Full Fibre 150, 150Mb, 24 months + voucher",
+      "retailer": "Vodafone via Broadband Genie",
+      "price": 18.5,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "A Broadband Genie exclusive ending 9am on 18 November. Rises £3.50 each April, and the page puts the effective cost at about £19.17 a month once the voucher is counted. The page quotes both a £75 voucher and a £115 gift card, so check which you get before ordering."
+    },
+    {
+      "name": "Virgin Media M250 Fibre Broadband, about 260Mb, 24 months",
+      "retailer": "Virgin Media via Uswitch",
+      "price": 18.99,
+      "url": "https://www.uswitch.com/broadband/",
+      "verdict": "Good price",
+      "verdictLevel": "great",
+      "note": "No setup cost and up to £300 towards leaving another contract early. Rises £4 each April, averaging about £23.32 a month over the contract. The best all-rounder if Virgin's network reaches you."
+    },
+    {
+      "name": "Virgin Media Gig1 Fibre Broadband, 1Gb, 24 months",
+      "retailer": "Virgin Media via Uswitch",
+      "price": 23.99,
+      "url": "https://www.uswitch.com/broadband/",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Gigabit speed for £5 a month more than M250. Rises £4 each April, so the average works out at about £28.32. Upload speed (around 104Mb) is lower than on full fibre."
+    },
+    {
+      "name": "Vodafone Full Fibre 910, 910Mb, 24 months + £140 voucher",
+      "retailer": "Vodafone via Broadband Genie",
+      "price": 24.5,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "great",
+      "note": "The cheapest big-name near-gigabit full-fibre deal we found today. Rises £3.50 each April; with the £140 voucher, Broadband Genie puts the effective cost at about £22.46 a month."
+    },
+    {
+      "name": "Plusnet Full Fibre 900, 900Mb, 24 months + £155 reward card",
+      "retailer": "Plusnet via Broadband Genie",
+      "price": 26.99,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Runs on the same Openreach network as BT for less. Rises £4 each 31 March. Broadband Genie puts the effective cost at about £24.86 a month after the reward card."
+    },
+    {
+      "name": "EE Full Fibre 900, 900Mb, 24 months + £145 reward card",
+      "retailer": "EE via Broadband Genie",
+      "price": 26.99,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The same price as Plusnet for the same speed, with a slightly smaller reward card. Rises £4 each 31 March, with an effective cost of about £25.28 a month."
+    },
+    {
+      "name": "Hyperoptic 1Gb Full Fibre, 900Mb average, 24 months",
+      "retailer": "Hyperoptic via Uswitch",
+      "price": 17.0,
+      "url": "https://www.uswitch.com/broadband/providers/hyperoptic/",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Very cheap for gigabit full fibre with matching upload speeds, but only in flats and new builds that Hyperoptic has wired. Rises £4 each April. No setup cost, and a 30-day cancel guarantee."
+    },
+    {
+      "name": "Vodafone 5G Outdoor Broadband 150, 24 months + voucher",
+      "retailer": "Vodafone via Broadband Genie",
+      "price": 12.5,
+      "url": "https://www.broadband.co.uk/broadband",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Home broadband over 5G with no line needed, using an outdoor receiver. Rises £3.50 each April. Only worth it with a strong 5G signal at home; the page quotes both £130 and £160 for the voucher."
+    }
+  ],
+  "body": "## Which broadband deal should you get?\n\nStart with your postcode. What you can get depends on which networks reach your home, so enter it on a comparison site before you fall for any headline price. Then work through three questions.\n\n**1. Which network reaches you?** Most homes can now get full fibre on the Openreach network (used by BT, EE, Plusnet, Sky, Vodafone, TalkTalk and others), Virgin Media's cable network, or both. Some can also get an alternative network such as Hyperoptic, Community Fibre, Gigaclear or a local firm. These alt-nets are often the cheapest per megabit, and our [full-fibre broadband guide](/guides/full-fibre-broadband-deals/) compares them.\n\n**2. How much speed do you need?**\n\n- **Around 150Mb:** fine for one to three people streaming, browsing and video calling.\n- **250Mb to 500Mb:** the sweet spot for families, 4K streaming and working from home.\n- **900Mb and up:** worth it for big households, gamers downloading huge files, or anyone uploading lots of video. Today it often costs only £5 to £6 a month more than mid-speed.\n\n**3. What will it cost over the whole contract?** This is where most people go wrong.\n\n## How to work out the true cost\n\nSince January 2025, Ofcom rules have made providers state mid-contract rises in pounds and pence. That makes the sums easy:\n\n- **Add the rises.** BT, EE and Plusnet add £4 a month every 31 March. Virgin Media and Hyperoptic add £4 every April. Vodafone adds £3.50 every April. Sky and NOW only say prices \"may rise\", so ask for the figure before you sign.\n- **Take off vouchers and reward cards.** A £150 reward card on a 24-month contract is worth about £6.25 a month. You usually have to claim it online within a few months, so set a reminder.\n- **Add setup fees.** Most deals above have none, but some faster packages charge £15 to £30.\n\nOn a 24-month deal starting now, you pay the starting price for about five months, then two rises. A £24.50 deal rising £3.50 a year averages about £28.30 a month before any voucher. Broadband Genie shows an \"effective\" monthly figure that does this maths for you, including the reward, which is why we quote it above.\n\n## What's a good price right now?\n\nUswitch puts the average starting price of a full-fibre deal at about £28 a month (August 2026 data). Based on today's listings, good targets are:\n\n- **150Mb full fibre:** under £20 a month.\n- **250Mb to 500Mb:** under £22 a month to start.\n- **900Mb to 1Gb:** under £25 a month, or an effective cost under £25 after rewards.\n\nIf you're out of contract and paying more than about £35 a month, you're very likely overpaying. Providers give their best prices to new customers, so switching (or haggling with your current provider using these figures) is usually worth it.\n\n## Is it worth waiting for Black Friday?\n\nNot really. Broadband offers run for weeks rather than a single day, and many of today's prices are already badged as Black Friday deals. They normally carry on until Cyber Monday on 30 November, and some into December. If you've found a deal at or below the targets above and your contract has ended, take it now. Some offers, like Vodafone's Full Fibre 150 exclusive, have a fixed end date. See our [broadband Black Friday deals guide](/guides/broadband-black-friday-deals-2026/) for the seasonal offers, or browse [every Black Friday 2026 guide](/black-friday/).\n\n## How to switch\n\nOfcom's One Touch Switch process means you usually only need to contact the new provider. It arranges the move and cancels your old service, and you get 14 days to change your mind after signing up. Check your current contract end date first, as leaving early can mean a fee, although Virgin Media and Sky offer some credit towards it on selected deals.\n\n## Frequently asked questions\n\n### What is the cheapest broadband in the UK right now?\n\nOf the big providers, Vodafone Full Fibre 150 at £18.50 a month and Virgin Media M250 at £18.99 are the cheapest fixed-line deals we found on 12 November 2026. If Hyperoptic covers your building, its 1Gb plan at £17 a month on 24 months is cheaper still. 5G home broadband can be lower again, but it depends on your signal.\n\n### Is full fibre better than Virgin Media?\n\nBoth are fast enough for almost any home. Full fibre usually has much faster upload speeds, which helps with video calls and backing up photos. Virgin Media's cable network is very fast for downloads and often cheaper. Pick whichever gives the better price at your address.\n\n### Do broadband prices go up every year?\n\nYes, on almost every contract. Most providers now add a fixed £3.50 or £4 a month each spring. A few firms, such as Zen and some smaller networks, offer a fixed price for the whole contract.\n\n### Should I take a 12-month or 24-month contract?\n\nA 24-month contract is usually cheaper each month, but it locks you in for longer and includes two price rises. A 12-month deal costs a little more but lets you switch to a new-customer price sooner.\n\n### Do I need a landline for broadband?\n\nNo. Full fibre, Virgin Media and 5G broadband don't need a phone line or landline package. If you want a home phone, most providers offer a digital phone that plugs into the router.\n\nSwitching your mobile too? Our [SIM-only Black Friday deals guide](/guides/sim-only-black-friday-deals-2026/) has the best SIM deals right now."
+}
