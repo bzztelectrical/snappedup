@@ -47,3 +47,14 @@ The user finds "Real or fake?" repetitive. Go through this list in order, one pe
 8. **Black Friday countdown:** "X days to go" with the top 3 deals already live.
 
 Every format keeps the same rules: full first frame, about 15 seconds, prices from today or yesterday only, claims only as far as the post's notes support, caption without spoilers, #ad, and Branded content switched on.
+
+## Style change (12 Nov 2026, user): buying-guide suggestions, not games
+The user wants the videos to work more like a **buying guide**: helpful recommendations rather than quizzes. Each video takes **one buying question** that a site guide answers, gives the **2–3 picks** we'd recommend, and sends viewers to the full guide.
+
+Structure (about 15–20 seconds, full first frame):
+1. **Hook (0–1s):** the question as a headline, with the best pick already visible, e.g. "Which air fryer should you buy this Black Friday?" over the top pick and its price.
+2. **Picks (one scene each):** a label (BEST OVERALL / BEST BUDGET / BEST FOR FAMILIES / BEST GIFT), the product, price and shop, and one line on who it's for. Each line must come from the guide or post notes.
+3. **Tip:** one buying tip from the guide, such as "Don't pay more than £X" or "Wait for Black Friday on the Dyson".
+4. **End card:** "Full guide: snappedupdeals.co.uk" plus the guide's topic.
+
+Rotate the topic every day, preferring guides that earn (Awin partners first, then high-commission Amazon categories): air fryers, Hamleys and kids' toys, perfume gift sets, Dyson vs Shark, Christmas gifts for him or her under £50, airport parking for Christmas, coffee machines (Rocket), STEM gifts (Tinkerer), advent calendars, TVs and AirPods. Vary the angle as well: "3 picks", "budget vs premium", "don't buy X, buy Y", "the one I'd actually buy". Captions ask a question to get comments, e.g. "Which would you go for?"
