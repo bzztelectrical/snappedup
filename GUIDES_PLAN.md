@@ -44,7 +44,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] broadband-deals-uk: Best broadband deals UK this month (BT, Hyperoptic, Sky, Virgin, Plusnet, TalkTalk, Hey Broadband)
 - [x] full-fibre-broadband-deals: Full-fibre broadband deals UK: Hyperoptic vs BT vs alt-nets (Gigaclear, Lightning Fibre)
 - [ ] bristol-airport-parking-deals: Bristol Airport parking deals: cheapest options and booking tips
-- [ ] holiday-park-deals-uk: UK holiday park deals and breaks (Away Resorts, Shorefield)
+- [ ] holiday-park-deals-uk: UK holiday park deals and breaks (Away Resorts, Shorefield) — NOTE 13 Nov: skipped (programme not yet in site.json; date-dependent prices)
 - [x] mattress-black-friday-deals-2026: Mattress Black Friday deals 2026 UK (Silentnight, Ergo Flex, Archers)
 - [x] coffee-machine-black-friday-deals-2026: Coffee machine Black Friday deals 2026 (Rocket Espresso, Ninja, De'Longhi)
 - [x] smeg-black-friday-deals-2026: SMEG kettle, toaster and fridge Black Friday deals 2026
@@ -77,12 +77,12 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 ## Winter / home
 - [x] electric-blanket-deals-uk: Electric blanket deals UK (and running costs)
 - [x] heated-clothes-airer-deals-uk: Heated clothes airer deals UK
-- [ ] cheapest-heater-to-run-uk: Cheapest electric heater to run UK
+- [x] cheapest-heater-to-run-uk: Cheapest electric heater to run UK
 - [x] dehumidifier-deals-uk: Dehumidifier deals UK
 
 ## Hobbies
 - [x] pokemon-elite-trainer-box-deals-uk: Pokémon Elite Trainer Box deals UK (at or below RRP)
-- [ ] pokemon-tcg-black-friday-deals-2026: Pokémon TCG Black Friday deals 2026 UK
+- [x] pokemon-tcg-black-friday-deals-2026: Pokémon TCG Black Friday deals 2026 UK
 
 ## Comparisons (evergreen)
 - [ ] shark-vs-dyson-cordless: Shark vs Dyson cordless vacuum: which to buy
