@@ -85,7 +85,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] pokemon-tcg-black-friday-deals-2026: Pokémon TCG Black Friday deals 2026 UK
 
 ## Comparisons (evergreen)
-- [ ] shark-vs-dyson-cordless: Shark vs Dyson cordless vacuum: which to buy
+- [x] shark-vs-dyson-cordless: Shark vs Dyson cordless vacuum: which to buy
 - [ ] kindle-vs-kindle-paperwhite: Kindle vs Kindle Paperwhite: is it worth paying more?
 
 ## Product-level targets (easier to rank than brand pages; add as time allows)
