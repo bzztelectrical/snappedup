@@ -43,7 +43,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 ## New Awin verticals (high earnings per click; add once the programme approves, or write now and link direct)
 - [x] broadband-deals-uk: Best broadband deals UK this month (BT, Hyperoptic, Sky, Virgin, Plusnet, TalkTalk, Hey Broadband)
 - [x] full-fibre-broadband-deals: Full-fibre broadband deals UK: Hyperoptic vs BT vs alt-nets (Gigaclear, Lightning Fibre)
-- [ ] bristol-airport-parking-deals: Bristol Airport parking deals: cheapest options and booking tips
+- [ ] bristol-airport-parking-deals: Bristol Airport parking deals: cheapest options and booking tips — NOTE 14 Nov: skipped (parking sites block automated quotes, as with the other parking items)
 - [ ] holiday-park-deals-uk: UK holiday park deals and breaks (Away Resorts, Shorefield) — NOTE 13 Nov: skipped (programme not yet in site.json; date-dependent prices)
 - [x] mattress-black-friday-deals-2026: Mattress Black Friday deals 2026 UK (Silentnight, Ergo Flex, Archers)
 - [x] coffee-machine-black-friday-deals-2026: Coffee machine Black Friday deals 2026 (Rocket Espresso, Ninja, De'Longhi)
@@ -86,11 +86,11 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 
 ## Comparisons (evergreen)
 - [x] shark-vs-dyson-cordless: Shark vs Dyson cordless vacuum: which to buy
-- [ ] kindle-vs-kindle-paperwhite: Kindle vs Kindle Paperwhite: is it worth paying more?
+- [x] kindle-vs-kindle-paperwhite: Kindle vs Kindle Paperwhite: is it worth paying more?
 
 ## Product-level targets (easier to rank than brand pages; add as time allows)
 - [x] ninja-creami-deals-uk: Ninja Creami deals UK (which model, lowest prices)
-- [ ] ninja-slushi-deals-uk: Ninja Slushi deals UK
+- [x] ninja-slushi-deals-uk: Ninja Slushi deals UK
 - [ ] ninja-double-stack-deals-uk: Ninja Double Stack air fryer deals UK
 - [ ] dyson-airwrap-deals-uk: Dyson Airwrap deals UK (and cheaper alternatives)
 - [ ] dyson-v15-deals-uk: Dyson V15 Detect deals UK
