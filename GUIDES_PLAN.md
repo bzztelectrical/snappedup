@@ -91,8 +91,8 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 ## Product-level targets (easier to rank than brand pages; add as time allows)
 - [x] ninja-creami-deals-uk: Ninja Creami deals UK (which model, lowest prices)
 - [x] ninja-slushi-deals-uk: Ninja Slushi deals UK
-- [ ] ninja-double-stack-deals-uk: Ninja Double Stack air fryer deals UK
-- [ ] dyson-airwrap-deals-uk: Dyson Airwrap deals UK (and cheaper alternatives)
+- [x] ninja-double-stack-deals-uk: Ninja Double Stack air fryer deals UK
+- [x] dyson-airwrap-deals-uk: Dyson Airwrap deals UK (and cheaper alternatives)
 - [ ] dyson-v15-deals-uk: Dyson V15 Detect deals UK
 - [ ] airpods-pro-deals-uk: AirPods Pro deals UK
 - [ ] apple-watch-deals-uk: Apple Watch deals UK
