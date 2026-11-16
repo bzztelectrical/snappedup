@@ -1,3 +1,7 @@
+## REFRESH FIRST (16 Nov 2026, from Cloudflare 7-day traffic)
+- [ ] perfume-gift-sets-black-friday-2026 is now the #4 page (29 visits in 7 days), but its prices are from 24 Oct. Re-check every price at The Perfume Shop / Superdrug / Boots and update before writing anything new. John Lewis has 25% off selected fragrance (16 Nov).
+- Top pages, 7 days to 16 Nov: when-is-black-friday 60, airpods-black-friday 34, home 31, perfume-gift-sets 29, tv-black-friday 23. Keep these fresh daily until Cyber Monday.
+
 # Guides plan
 
 Evergreen buying guides to write, roughly in priority order. The daily task takes the top unchecked item, publishes it as a `type: "guide"` post, and ticks it here. Re-order freely; add ideas found while researching.
