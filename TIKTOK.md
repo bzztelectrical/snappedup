@@ -32,9 +32,31 @@ The 8 Nov "Real or fake?" video opened on a full frame (product, was-price and t
 
 Conclusion: faceless text-and-emoji slides lose people in the first second whatever the layout. Successful UK deal accounts use real product shots or footage, a voiceover, and often a person on camera. Next options to test: real product images (only from sources we're allowed to use, e.g. Awin product feeds), an in-app TikTok text-to-speech voiceover, and a trending sound. Or keep TikTok as low-effort and put the effort into Google, which is where the site's buyers come from.
 
+## Why views dropped (analysis 16 Nov 2026, TikTok Studio per-post analytics)
+| Posted | Format | Length | Views | Avg watch | Full % | Search traffic |
+|---|---|---|---|---|---|---|
+| 1 Nov | winter lows | 22s | 736 | 2.02s | 0.5% | 7.2% |
+| 1 Nov | winter lows | 22s | 736 | 1.66s | 0.7% | 7.9% |
+| 2 Nov | buy or wait | 21s | 760 | 2.09s | 0.6% | 7.4% |
+| 5 Nov | real or fake | 19s | 735 | 1.94s | 0.9% | 4.1% |
+| 6 Nov | guess the price | 22s | 777 | 2.32s | 0.5% | 6.1% |
+| 8 Nov | real or fake (instant) | 15s | 244 | 1.9s | 1.6% | 0.4% |
+| 12 Nov | real or fake | 15s | 256 | 3.14s | 1.5% | 0.4% |
+- **Every video loses most viewers at 0:01**, and that's been true from the start. The ~740 views were TikTok's standard test push for a new account. After 5 posts in a row where almost nobody watched past a second or followed (2 followers in total), TikTok cut the test push to ~250. The drop is the algorithm reacting to weak retention across the account, not to one bad video.
+- **What else changed on 8 and 12 Nov:** (1) captions with 11 hashtags, several unrelated to the video (#bluey #legobluey #garmin), so TikTok was less sure who to show it to; (2) **search traffic fell from 4–8% to 0.4%** because the first line stopped leading with "Black Friday 2026 UK", the phrase people actually search; (3) gaps of 2–4 days between posts.
+- **Fixes in the v2 engine (`tiktok/gen2.py`, from the 16 Nov batch):**
+  - ~9.6s total instead of 15–22s, so the completion rate goes up.
+  - The first frame is already full: a bright red background, big hook text and the keyword pill "BLACK FRIDAY 2026 UK" at frame 0, with no build-up from a dark screen.
+  - A countdown format (#3 → #2 → #1, best last) gives viewers a reason to stay.
+  - A progress bar runs across the top, fast slide transitions, and a beat track with hits on each reveal.
+  - The end card asks a comment question, then the URL.
+- **Captions:** the first line leads with the searched phrase (e.g. "Which AirPods to buy this Black Friday 2026 UK"), with **5 hashtags max**: #ad + 4 relevant ones.
+- **Post every day at 19:30** (the weekly batch makes this possible).
+- **Next lever if v2 doesn't beat ~750:** real visuals (photos or clips of the product, or a screen-recording of our own guide page) and a voiceover. Retention on faceless text slides has a ceiling.
+
 ## How TikTok runs now (16 Nov 2026, user: "i cant reply every day")
 **Weekly batch, one approval.** Replaces the daily video + daily approval and the "pause after 3 days" rule.
-- Every **Monday 07:30** (send_later reminder, renewed each week): make **7 buying-guide videos** for Mon–Sun with the engine in scratchpad `tt8/gen.py` + `tt8/specs.json` (one spec per day: hook, 3 picks, tip, end question, caption). Keep the specs in this repo too (`tiktok/specs-YYYY-MM-DD.json`) because the scratchpad can be wiped.
+- Every **Monday 07:30** (send_later reminder, renewed each week): make **7 buying-guide videos** for Mon–Sun with the engine in scratchpad `tt8/gen2.py` + `specs.json` + `v2.json` (repo copies in tiktok/) (one spec per day: hook, 3 picks, tip, end question, caption). Keep the specs in this repo too (`tiktok/specs-YYYY-MM-DD.json`) because the scratchpad can be wiped.
 - **No exact prices in the videos.** They post up to 7 days after they're made. Every pick says "Today's price: snappedupdeals.co.uk". Target prices ("don't pay more than") from a guide are fine.
 - Claims only as the site's guides support. Awin partners first (Hamleys, Rocket, parking once that guide exists).
 - Send the user all 7 videos + captions + times in **one message**. They reply "post all" (or "all except N"). Then upload and schedule each in TikTok Studio at 19:30 on its day (TikTok allows up to 10 days ahead). Branded content on, #ad in caption.
