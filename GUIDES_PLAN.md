@@ -1,5 +1,6 @@
 ## REFRESH FIRST (16 Nov 2026, from Cloudflare 7-day traffic)
 - [ ] perfume-gift-sets-black-friday-2026 is now the #4 page (29 visits in 7 days), but its prices are from 24 Oct. Re-check every price at The Perfume Shop / Superdrug / Boots and update before writing anything new. John Lewis has 25% off selected fragrance (16 Nov).
+- **The top pages earn almost nothing.** AirPods (Very/John Lewis), perfume (The Perfume Shop), TV (Currys/Richer Sounds/Argos) and when-is-BF have no Amazon or Awin picks. Amazon converts at ~11% for us (Associates, 16 Nov: £14.53 this month, 5 items, 46 clicks). On each refresh, add the Amazon listing as a pick **whenever Amazon's price is within a few pounds of the cheapest** (check via PriceSpy). Never pick a worse deal just because it earns. when-is-BF now links Amazon's BF page + Prime trial (16 Nov).
 - Top pages, 7 days to 16 Nov: when-is-black-friday 60, airpods-black-friday 34, home 31, perfume-gift-sets 29, tv-black-friday 23. Keep these fresh daily until Cyber Monday.
 
 # Guides plan
