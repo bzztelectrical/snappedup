@@ -93,7 +93,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] ninja-slushi-deals-uk: Ninja Slushi deals UK
 - [x] ninja-double-stack-deals-uk: Ninja Double Stack air fryer deals UK
 - [x] dyson-airwrap-deals-uk: Dyson Airwrap deals UK (and cheaper alternatives)
-- [ ] dyson-v15-deals-uk: Dyson V15 Detect deals UK
+- [x] dyson-v15-deals-uk: Dyson V15 Detect deals UK
 - [ ] airpods-pro-deals-uk: AirPods Pro deals UK
 - [ ] apple-watch-deals-uk: Apple Watch deals UK
 - [ ] ipad-deals-uk: iPad deals UK (which model to buy)
