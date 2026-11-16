@@ -28,10 +28,10 @@ def hook(t,gt):
     kicker(d,230,V2.get("kicker","BLACK FRIDAY 2026 UK"))
     fh=f("InterDisplay-Black.otf",132); y=420
     for i,ln in enumerate(V2["hook"]):
-        k=1+0.35*(1-ease((t-0.08*i)/0.22))
+        k=1+0.12*(1-ease((t-0.08*i)/0.22))
         lay=text_layer(ln,fh,YEL if i==len(V2["hook"])-1 else PAPER)
         paste_scaled(im,lay,W/2,y+70,k); y+=150
-    e=emoji(V2["emoji"],380); paste_scaled(im,e,W/2,y+290+12*math.sin(t*9),1+0.4*(1-ease(t/0.25)),rot=8*math.sin(t*6))
+    e=emoji(V2["emoji"],380); paste_scaled(im,e,W/2,y+290+12*math.sin(t*9),1+0.2*(1-ease(t/0.25)),rot=8*math.sin(t*6))
     if True: ctext(ImageDraw.Draw(im),1560,"Ranked, with the #1 last ↓" if not up else "All 3 are live now ↓",f("Inter-Black.otf",50),PAPER)
     im=shake(im,t); progress(im,gt); return im
 def pick(k,t,gt,dur):
