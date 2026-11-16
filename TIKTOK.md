@@ -32,7 +32,15 @@ The 8 Nov "Real or fake?" video opened on a full frame (product, was-price and t
 
 Conclusion: faceless text-and-emoji slides lose people in the first second whatever the layout. Successful UK deal accounts use real product shots or footage, a voiceover, and often a person on camera. Next options to test: real product images (only from sources we're allowed to use, e.g. Awin product feeds), an in-app TikTok text-to-speech voiceover, and a trending sound. Or keep TikTok as low-effort and put the effort into Google, which is where the site's buyers come from.
 
-## Paused again (16 Nov 2026)
+## How TikTok runs now (16 Nov 2026, user: "i cant reply every day")
+**Weekly batch, one approval.** Replaces the daily video + daily approval and the "pause after 3 days" rule.
+- Every **Monday 07:30** (send_later reminder, renewed each week): make **7 buying-guide videos** for Mon–Sun with the engine in scratchpad `tt8/gen.py` + `tt8/specs.json` (one spec per day: hook, 3 picks, tip, end question, caption). Keep the specs in this repo too (`tiktok/specs-YYYY-MM-DD.json`) because the scratchpad can be wiped.
+- **No exact prices in the videos.** They post up to 7 days after they're made. Every pick says "Today's price: snappedupdeals.co.uk". Target prices ("don't pay more than") from a guide are fine.
+- Claims only as the site's guides support. Awin partners first (Hamleys, Rocket, parking once that guide exists).
+- Send the user all 7 videos + captions + times in **one message**. They reply "post all" (or "all except N"). Then upload and schedule each in TikTok Studio at 19:30 on its day (TikTok allows up to 10 days ahead). Branded content on, #ad in caption.
+- If they don't reply, **no daily nagging.** Leave the batch waiting; drop any day whose date has passed when they do reply.
+
+## Paused again (16 Nov 2026), superseded by the weekly batch above
 Paused again after 3 days with no reply (13–15 Nov). The 13 Nov air fryer buying-guide video was uploaded but never approved, and its 19:30 slot has passed; it's still unscheduled in TikTok Studio. The 14 Nov Hamleys video wasn't made. No reminders are set. Restart only when the user asks, starting with the Hamleys topic and prices checked that day.
 
 ## Paused (12 Nov 2026)
