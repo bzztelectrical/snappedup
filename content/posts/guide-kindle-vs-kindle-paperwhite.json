@@ -1,7 +1,7 @@
 {
   "type": "guide",
   "date": "2026-11-14",
-  "updated": "2026-11-14",
+  "updated": "2026-11-16",
   "slug": "kindle-vs-kindle-paperwhite",
   "seoTitle": "Kindle vs Kindle Paperwhite: Is It Worth Paying More?",
   "title": "Kindle vs Kindle Paperwhite: is it worth paying more in 2026?",
@@ -10,16 +10,17 @@
     "black-friday",
     "gifts"
   ],
-  "intro": "**Yes, if you read most days: the Paperwhite's bigger 7-inch screen, warm light and waterproofing are worth it, and right now the better Paperwhite Signature Edition is just £139.99 at John Lewis, cheaper than the standard model.** For occasional readers, the basic Kindle at £84.99 (Argos and John Lewis) is the better buy.\n\nPrices checked at Argos and John Lewis on 14 November 2026. Black Friday is on 27 November, so we'll update this page as prices change.",
+  "intro": "**Yes, if you read most days: the Paperwhite's bigger 7-inch screen, warm light and waterproofing are worth it, and right now the better Paperwhite Signature Edition is just £139.99 at Amazon, Argos and John Lewis, cheaper than the standard model.** For occasional readers, the basic Kindle at £84.99 (Argos and John Lewis) is the better buy.\n\nPrices checked at Argos and John Lewis on 14 November 2026, and the Signature Edition again on PriceSpy on 16 November, when Amazon's own Kindle deals started. Black Friday is on 27 November, so we'll update this page as prices change.",
   "deals": [
     {
       "name": "Amazon Kindle Paperwhite Signature Edition (2024), 32GB, Metallic Black",
-      "retailer": "John Lewis",
+      "retailer": "Amazon",
       "price": 139.99,
-      "url": "https://www.johnlewis.com/amazon-kindle-paperwhite-2024-signature-edition-waterproof-ereader-7-inch-high-resolution-illuminated-touch-screen-with-auto-adjusting-front-light-and-wireless-charging-32gb/metallic-black/p112750425",
+      "url": "https://www.amazon.co.uk/s?k=Kindle+Paperwhite+Signature+Edition+2024",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "Everything the Paperwhite has plus auto-adjusting light, wireless charging, 32GB and no ads, for £45 less than the standard model. John Lewis shows £50 off. The best-value Kindle this week."
+      "note": "Everything the Paperwhite has plus auto-adjusting light, wireless charging, 32GB and no ads, for £45 less than the standard model. £139.99 at Amazon, Argos and John Lewis (Very is £139), the lowest PriceSpy has recorded. The best-value Kindle this week.",
+      "was": 189.99
     },
     {
       "name": "Amazon Kindle (2024), 6-inch, 16GB, Black",
