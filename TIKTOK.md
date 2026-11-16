@@ -42,6 +42,9 @@ Conclusion: faceless text-and-emoji slides lose people in the first second whate
 | 6 Nov | guess the price | 22s | 777 | 2.32s | 0.5% | 6.1% |
 | 8 Nov | real or fake (instant) | 15s | 244 | 1.9s | 1.6% | 0.4% |
 | 12 Nov | real or fake | 15s | 256 | 3.14s | 1.5% | 0.4% |
+| 16 Nov 22:13 | v2 Hamleys countdown | 9.6s | (9 after 30 min) | | | |
+
+Week of 16 Nov (v2): Hamleys posted 16 Nov 22:13 (late, because approval came at 22:11). Rocket, gifts for him, AirPods, Airwrap, Kindle and BF-week are scheduled 17–22 Nov at 19:30, all with Branded content on. **Compare their views with the ~750 baseline on 24 Nov.**
 - **Every video loses most viewers at 0:01**, and that's been true from the start. The ~740 views were TikTok's standard test push for a new account. After 5 posts in a row where almost nobody watched past a second or followed (2 followers in total), TikTok cut the test push to ~250. The drop is the algorithm reacting to weak retention across the account, not to one bad video.
 - **What else changed on 8 and 12 Nov:** (1) captions with 11 hashtags, several unrelated to the video (#bluey #legobluey #garmin), so TikTok was less sure who to show it to; (2) **search traffic fell from 4–8% to 0.4%** because the first line stopped leading with "Black Friday 2026 UK", the phrase people actually search; (3) gaps of 2–4 days between posts.
 - **Fixes in the v2 engine (`tiktok/gen2.py`, from the 16 Nov batch):**
