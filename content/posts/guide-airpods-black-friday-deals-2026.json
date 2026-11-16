@@ -1,71 +1,55 @@
 {
   "type": "guide",
   "date": "2026-10-21",
-  "updated": "2026-10-30",
+  "updated": "2026-11-16",
   "slug": "airpods-black-friday-deals-2026",
   "title": "AirPods Black Friday deals 2026 UK: which models will actually drop?",
   "seoTitle": "AirPods Black Friday Deals 2026 UK: Prices to Wait For",
-  "description": "AirPods Black Friday 2026: current UK prices for AirPods 5, Pro 3 and Max 2, last year's lows and the price worth waiting for on each.",
+  "description": "AirPods Black Friday 2026: today's best UK prices for AirPods 5, Pro 3 and Max 2, last year's lows and the price worth waiting for on each.",
   "tags": [
     "black-friday"
   ],
-  "intro": "**Short answer: the AirPods Pro 3 are the ones to wait for. They're £219 at John Lewis and Very today, but they fell to about £183 at Amazon in October's Prime sale, so hold out for Black Friday.** The best buy right now is the AirPods 5 at £119: they have noise cancelling as standard, which makes them £10 cheaper than the older AirPods 4 with ANC. The first real AirPods Max 2 discount has also appeared, at £449.10 at Very.\n\nCurrys started its Black Friday sale on 28 October with a price guarantee running to 1 December. Black Friday itself is on 27 November. We'll update this page as prices move. Prices were last checked on 30 October 2026.",
+  "intro": "**Short answer: the best AirPods deal today is the AirPods 5 with Wireless Charging Case at £119 at Amazon. That's £20 off and the lowest price recorded, the same money as the standard AirPods 5 elsewhere.** The AirPods Pro 3 are £200 at Amazon and AO, £19 under list, but they were about £183 at Amazon in October's Prime sale, so wait for Amazon's Black Friday Week (19 to 30 November) if you can. The AirPods Max 2 are £449 at Amazon, AO and Boots.\n\nBlack Friday itself is on 27 November. We'll update this page as prices move. Prices were last checked on PriceSpy's live retailer listings on 16 November 2026.",
   "deals": [
     {
+      "name": "Apple AirPods 5 with Wireless Charging Case",
+      "retailer": "Amazon",
+      "price": 119.0,
+      "was": 139.0,
+      "url": "https://www.amazon.co.uk/s?k=Apple+AirPods+5+Wireless+Charging+Case",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "£20 off, and the same price as the standard AirPods 5 at AO and Argos, so you get wireless charging for nothing. £119 is the lowest PriceSpy has recorded for this version."
+    },
+    {
       "name": "Apple AirPods Pro 3",
-      "retailer": "Very",
-      "price": 219.0,
-      "url": "https://www.very.co.uk/apple-airpodsnbsppronbsp3/1601214439.prd",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "Full price, and John Lewis is the same. Very's page shows a 10%-off code (FLASH10) that would bring them to about £197, but it doesn't say whether AirPods are included, so check at checkout. They were about £183 at Amazon in early October, so we'd wait for under £190."
+      "retailer": "Amazon",
+      "price": 200.0,
+      "was": 219.0,
+      "url": "https://www.amazon.co.uk/s?k=Apple+AirPods+Pro+3",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£19 under Apple's price, and AO is the same. Sold by Amazon, so returns are easy. They were about £183 at Amazon in October's Prime sale, so if you can wait, look for under £190 in Black Friday Week."
+    },
+    {
+      "name": "Apple AirPods Max 2",
+      "retailer": "Amazon",
+      "price": 449.0,
+      "was": 499.0,
+      "url": "https://www.amazon.co.uk/s?k=Apple+AirPods+Max+2",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£50 off, matched by AO and Boots. Amazon's £449 was for the Purple colour when we checked, so check the price of the one you want."
     },
     {
       "name": "Apple AirPods 5",
-      "retailer": "Very",
+      "retailer": "Argos",
       "price": 119.0,
-      "url": "https://www.very.co.uk/apple-airpods-5/1601367852.prd",
-      "verdict": "Best value",
+      "url": "https://www.argos.co.uk/search/airpods-5/",
+      "verdict": "Seasonal pick",
       "verdictLevel": "good",
-      "note": "Not discounted, but noise cancelling is now standard, so these undercut the AirPods 4 with ANC by £10 and have a better water rating. In stock at Very and £119 at John Lewis too."
-    },
-    {
-      "name": "Apple AirPods 5 with Wireless Charging Case",
-      "retailer": "Very",
-      "price": 139.0,
-      "url": "https://www.very.co.uk/browse/technology-headphones/brand--apple",
-      "verdict": "New model",
-      "verdictLevel": "wait",
-      "note": "£20 more for a case that charges on a wireless pad and a volume swipe on the stem. Only worth it if you already charge your phone wirelessly. Also £139 at John Lewis."
-    },
-    {
-      "name": "Apple AirPods 4 with Active Noise Cancellation",
-      "retailer": "John Lewis",
-      "price": 129.0,
-      "url": "https://www.johnlewis.com/apple-airpods-4th-generation-with-active-noise-cancellation-usb-c-charging-case-2024/p112608885",
-      "verdict": "Buy AirPods 5",
-      "verdictLevel": "wait",
-      "note": "Still £129 while stocks last, and now sold out at Very. The newer AirPods 5 cost £10 less and cancel more noise, so only buy these if you want a wireless case for under £130."
-    },
-    {
-      "name": "Apple AirPods Max 2, Midnight",
-      "retailer": "Very",
-      "price": 449.1,
-      "was": 499.0,
-      "url": "https://www.very.co.uk/apple-airpodsnbsp2-nbspmidnight/1601281886.prd",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£49.90 off, the first cut we've seen on the Max 2 at a big UK retailer. Other colours are still £499 at Very, and John Lewis is at the full £499."
-    },
-    {
-      "name": "Apple AirPods Max (USB-C, previous model), Blue",
-      "retailer": "Very",
-      "price": 419.0,
-      "url": "https://www.very.co.uk/apple-airpods-max-blue/1601049001.prd",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "Leftover stock of the original Max. Midnight is £424, Purple and Orange £469, and John Lewis has sold out. With the Max 2 now £449.10, we'd only buy these under £400."
+      "note": "Full price at Argos, AO and Boots. The version with the wireless charging case is the same £119 at Amazon, so that's the better buy today."
     }
   ],
-  "body": "## AirPods prices to aim for this Black Friday\n\nThese are the lowest UK prices we've seen recently. At or below these, it's a genuinely good deal.\n\n- **AirPods Pro 3 (RRP £219):** about £183 at Amazon during Prime Big Deal Days, 6–7 October 2026. Anything under £190 is good; under £180 would be the best yet.\n- **AirPods 5 (RRP £119):** no discount yet. A first Black Friday cut of £10–£20 is possible but not certain. Even at full price they're better value than the AirPods 4 with ANC.\n- **AirPods 5 with Wireless Charging Case (RRP £139):** also full price everywhere we checked.\n- **AirPods 4 with ANC (RRP £169):** £129 at John Lewis, but no longer worth it now the AirPods 5 cost less. Last Black Friday they were £149.\n- **AirPods 4 (RRP £119):** £99 at John Lewis and Very, but sold out online at both.\n- **AirPods Max 2 (RRP £499):** £449.10 for the Midnight colour at Very. Anything under £450 is a good price; under £430 would be better still.\n\n## Which AirPods should you buy?\n\n**AirPods 5:** open-fit buds with no silicone tips, now with noise cancelling as standard. Comfortable if in-ear tips bother you, but because they don't seal, they still let in more noise than the Pro models. At £119 they're the cheapest sensible AirPods this year, and the AirPods 4 they replace aren't worth buying at £129.\n\n**AirPods Pro 3:** the ones most people should buy. They seal in your ear, so noise cancelling is much stronger, and they include heart-rate tracking for workouts. Worth the extra if you commute or travel.\n\n**AirPods Max 2:** over-ear headphones with the best sound in the range, but heavy and expensive. Very's £449.10 is the first cut we've seen from a big UK retailer, and it's only on one colour.\n\n## Will AirPods be cheaper on Black Friday 2026?\n\nMost likely, yes, for the Pro 3. Last year they were brand new and stayed at full price through Black Friday, while older models were cut. This year they're a year old, they've already dropped to about £183, and Amazon usually matches or beats its own Prime sale prices in November. The AirPods 5 are in the position the Pro 3 were in last year: new, and unlikely to see a big cut.\n\n**Currys** started its Black Friday sale early, on 28 October. Its price guarantee means that if you buy before 24 November and the price drops again before 1 December, you can claim the difference, as long as you register by 1 December. We couldn't check Currys' AirPods prices today, so compare before you buy.\n\nApple itself doesn't cut prices. Last year it offered an Apple gift card with AirPods instead (£40 with the Pro 3), which is worth less than a straight discount at Amazon or Currys.\n\n## Avoid these traps\n\n- **Marketplace sellers.** You'll see AirPods Pro 3 and Max 2 cheaper on eBay and OnBuy from third-party sellers. Some are fine, but fakes are common. Stick to Apple, Amazon (sold by Amazon), Argos, Currys, John Lewis or Very.\n- **Old \"was\" prices.** Some retailers quote a \"was\" price that only applied for a few weeks in the summer. Compare with the target prices above instead.\n- **AirPods Pro 2.** They're no longer sold new by the big retailers, so a cheap \"Pro 2\" listing is likely old stock or a marketplace seller.\n\n### Will AirPods Pro 3 be cheaper on Black Friday 2026?\n\nProbably. They hit about £183 at Amazon in early October, and big Black Friday prices usually match or beat Prime sale prices. Aim for under £190.\n\n### Are the AirPods 5 worth buying over the AirPods 4?\n\nYes. The AirPods 5 have noise cancelling as standard for £119, which is £10 less than the AirPods 4 with ANC, and they cancel more noise. The only reason to pick the 4 with ANC is if you want a wireless charging case without paying £139.\n\n### Where is cheapest for AirPods in the UK?\n\nAmazon usually has the lowest price on the Pro models during big sales. John Lewis and Very often match each other, and Very currently has the only AirPods Max 2 discount we've found.\n\n### Is Apple releasing new AirPods before Christmas?\n\nNot as far as we know. The AirPods 5 arrived in September and the AirPods Max 2 in March. Rumours of a camera-equipped model point to next year.\n\nSee also our [Black Friday 2026 guides](/black-friday/), including [Kindle](/guides/kindle-black-friday-deals-2026/) and [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/), and [what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/)."
+  "body": "## AirPods prices to aim for this Black Friday\n\nThese are today's prices from big UK retailers, and the lows to beat. At or below the lows, it's a genuinely good deal.\n\n- **AirPods Pro 3 (RRP £219):** £200 at Amazon and AO today. They were about £183 at Amazon during Prime Big Deal Days, 6–7 October 2026. Anything under £190 is good; under £180 would be the best yet.\n- **AirPods 5 (RRP £119):** still £119 at AO, Argos and Boots. A first Black Friday cut is possible but not certain.\n- **AirPods 5 with Wireless Charging Case (RRP £139):** £119 at Amazon today, the lowest price PriceSpy has recorded. Buy now.\n- **AirPods 4 with ANC (RRP £169):** £129 at Argos and John Lewis, but no longer worth it now the AirPods 5 cost less.\n- **AirPods Max 2 (RRP £499):** £449 at Amazon, AO and Boots. Under £450 is a good price; under £430 would be better still.\n\n## Which AirPods should you buy?\n\n**AirPods 5:** open-fit buds with no silicone tips, now with noise cancelling as standard. Comfortable if in-ear tips bother you, but because they don't seal, they still let in more noise than the Pro models. At £119 they're the cheapest sensible AirPods this year, and the wireless-charging version is the same £119 at Amazon right now, and the AirPods 4 they replace aren't worth buying at £129.\n\n**AirPods Pro 3:** the ones most people should buy. They seal in your ear, so noise cancelling is much stronger, and they include heart-rate tracking for workouts. Worth the extra if you commute or travel.\n\n**AirPods Max 2:** over-ear headphones with the best sound in the range, but heavy and expensive. £449 at Amazon, AO and Boots is £50 off list.\n\n## Will AirPods be cheaper on Black Friday 2026?\n\nMost likely, yes, for the Pro 3. Last year they were brand new and stayed at full price through Black Friday, while older models were cut. This year they're a year old, they've already dropped to about £183, and Amazon usually matches or beats its own Prime sale prices in November. The AirPods 5 are in the position the Pro 3 were in last year: new, and unlikely to see a big cut.\n\n**Currys** started its Black Friday sale early, on 28 October. Its price guarantee means that if you buy before 24 November and the price drops again before 1 December, you can claim the difference, as long as you register by 1 December. We couldn't check Currys' AirPods prices today, so compare before you buy.\n\nApple itself doesn't cut prices. Last year it offered an Apple gift card with AirPods instead (£40 with the Pro 3), which is worth less than a straight discount at Amazon or Currys.\n\n## Avoid these traps\n\n- **Marketplace sellers.** You'll see AirPods Pro 3 and Max 2 cheaper on eBay and OnBuy from third-party sellers. Some are fine, but fakes are common. Stick to Apple, Amazon (sold by Amazon), Argos, Currys, John Lewis or Very.\n- **Old \"was\" prices.** Some retailers quote a \"was\" price that only applied for a few weeks in the summer. Compare with the target prices above instead.\n- **AirPods Pro 2.** They're no longer sold new by the big retailers, so a cheap \"Pro 2\" listing is likely old stock or a marketplace seller.\n\n### Will AirPods Pro 3 be cheaper on Black Friday 2026?\n\nProbably. They hit about £183 at Amazon in early October, and big Black Friday prices usually match or beat Prime sale prices. Aim for under £190.\n\n### Are the AirPods 5 worth buying over the AirPods 4?\n\nYes. The AirPods 5 have noise cancelling as standard for £119, which is £10 less than the AirPods 4 with ANC, and they cancel more noise. The only reason to pick the 4 with ANC is if you want a wireless charging case without paying £139.\n\n### Where is cheapest for AirPods in the UK?\n\nAmazon usually has the lowest price on the Pro models during big sales. John Lewis and Very often match each other, and Very currently has the only AirPods Max 2 discount we've found.\n\n### Is Apple releasing new AirPods before Christmas?\n\nNot as far as we know. The AirPods 5 arrived in September and the AirPods Max 2 in March. Rumours of a camera-equipped model point to next year.\n\nSee also our [Black Friday 2026 guides](/black-friday/), including [Kindle](/guides/kindle-black-friday-deals-2026/) and [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/), and [what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/)."
 }
