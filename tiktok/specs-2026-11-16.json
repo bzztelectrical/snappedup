@@ -1,65 +1,380 @@
 {
-"d1": {"out":"snappeddeals-hamleys-toys-16nov.mp4",
- "hook":["3 Hamleys toys","worth buying","for Christmas"],"sub":"from the Hamleys gift list","hookemoji":"🧸",
- "picks":[
-  {"label":"BEST FOR AGES 3+","col":"green","emoji":"🏎","shop":"Hamleys","name":"Glow Flip Super Track Racer","line":"A glow-in-the-dark track with a car that flips"},
-  {"label":"BEST FOR BIGGER KIDS","col":"amber","emoji":"🚙","shop":"Hamleys","name":"Big Wheel Stunt Car with Spray","line":"A chunky remote-control stunt car with a mist-spray effect"},
-  {"label":"BEST FIRST CHRISTMAS","col":"pink","emoji":"🧸","shop":"Hamleys","name":"Hamleys Arthur Bear","line":"A soft Hamleys teddy. A classic new-baby present"}],
- "tip":{"title":"Don't wait on advent calendars","emoji":"⏰","rows":["Lego advent calendars sell out before December","Buy them now, not on Black Friday"]},
- "endq":["Which would","they pick?"],"endline":"Full Hamleys guide + today's prices",
- "caption":"Which of these would your kids actually play with on Christmas morning? 🎄 3 Hamleys toys worth buying, plus why you shouldn't leave Lego advent calendars until Black Friday. Today's prices in the full guide: snappedupdeals.co.uk (link in bio) #ad #hamleys #christmasgifts #christmastoys #giftideas #blackfriday #ukdeals #toys"},
-"d2": {"out":"snappeddeals-rocket-espresso-17nov.mp4",
- "hook":["Rocket espresso:","which one","should you buy?"],"sub":"Appartamento vs Mozzafiato","hookemoji":"☕",
- "picks":[
-  {"label":"BEST FOR MOST PEOPLE","col":"green","emoji":"☕","shop":"Rocket Espresso","name":"Appartamento TCA","line":"Compact, with adjustable brew temperature"},
-  {"label":"CHEAPEST WAY IN","col":"amber","emoji":"🤍","shop":"Rocket Espresso","name":"Appartamento 2.0","line":"No temperature control. A short flush before each shot sorts it"},
-  {"label":"QUIETER + MAINS WATER","col":"blue","emoji":"🔇","shop":"Rocket Espresso","name":"Mozzafiato R","line":"A rotary pump: quieter, and it can plumb into the mains"}],
- "tip":{"title":"Budget for the grinder","emoji":"⚙","rows":["Great espresso needs a good grinder","Rocket's machine + grinder bundles cost less than buying both separately"]},
- "endq":["Which would","you go for?"],"endline":"Full Rocket guide + today's prices",
- "caption":"Thinking about a proper espresso machine for Christmas? ☕ Which Rocket would you go for: Appartamento or Mozzafiato? Our picks, plus the grinder tip most people miss. Full comparison: snappedupdeals.co.uk (link in bio) #ad #rocketespresso #espresso #coffeemachine #homebarista #coffeetok #giftideas #ukdeals"},
-"d3": {"out":"snappeddeals-gifts-for-him-18nov.mp4",
- "hook":["Christmas gifts","for him","under £50"],"sub":"that he'll actually use","hookemoji":"🎁",
- "picks":[
-  {"label":"BEST FOR BEARDS","col":"green","emoji":"🧔","shop":"Amazon","name":"Philips OneBlade 360","line":"Trims, edges and shaves, with a head that follows the jaw"},
-  {"label":"BEST FOR THE GYM","col":"amber","emoji":"💪","shop":"Amazon","name":"Renpho massage gun","line":"For runners, gym-goers and stiff desk shoulders"},
-  {"label":"BEST FOR WEEKENDS AWAY","col":"blue","emoji":"🔊","shop":"Currys","name":"JBL Go 5 speaker","line":"Pocket-sized and waterproof. Shower, garage or campsite"}],
- "tip":{"title":"Don't know his aftershave?","emoji":"🤔","rows":["Get a miniatures set instead of one big bottle","Versace's 4 x 5ml set lets him try them all"]},
- "endq":["Which one's","for him?"],"endline":"8 checked gift ideas under £50",
- "caption":"Stuck on what to get him this year? 🎁 3 Christmas gifts under £50 he'll actually use, plus the aftershave trick when you don't know what he wears. Which one's going under your tree? All 8 ideas with today's prices: snappedupdeals.co.uk (link in bio) #ad #giftsforhim #christmasgifts #giftideas #giftsforboyfriend #giftsfordad #blackfriday #ukdeals"},
-"d4": {"out":"snappeddeals-shark-vs-dyson-19nov.mp4",
- "hook":["Shark or Dyson?","Which cordless","should you buy?"],"sub":"the honest answer","hookemoji":"🧹","hooksize":98,
- "picks":[
-  {"label":"LIGHTEST","col":"green","emoji":"🪶","shop":"Argos","name":"Dyson V12 Detect Slim","line":"About 2.2kg, with a laser that lights up dust"},
-  {"label":"BEST FOR PETS","col":"amber","emoji":"🐕","shop":"Argos","name":"Shark PowerDetect Clean & Empty","line":"Empties itself, and the brush roll won't tangle with hair"},
-  {"label":"BEST FOR BIG HOMES","col":"blue","emoji":"🏡","shop":"Argos","name":"Dyson V15 Detect","line":"More suction and a bigger bin than the V12"}],
- "tip":{"title":"Cleaning power? Close to a draw","emoji":"⚖","rows":["Reviewers rate them about level","Choose on weight, pets and price","Shark's bendy wand gets under the sofa"]},
- "endq":["Team Shark or","Team Dyson?"],"endline":"Full guide + today's prices",
- "caption":"Team Shark or Team Dyson? 🧹 The honest answer: they clean about the same, so pick on weight, pets and price. Our 3 picks for different homes, with today's Black Friday prices: snappedupdeals.co.uk (link in bio) #ad #dyson #sharkvacuum #cordlessvacuum #cleantok #blackfriday #ukdeals #homehacks"},
-"d5": {"out":"snappeddeals-airwrap-20nov.mp4",
- "hook":["Dyson Airwrap:","buy now or","wait?"],"sub":"plus the cheaper alternative","hookemoji":"💇",
- "picks":[
-  {"label":"BEST VALUE AIRWRAP","col":"green","emoji":"✨","shop":"Argos","name":"Airwrap Origin","line":"The cheapest way into a genuine Airwrap"},
-  {"label":"BEST FOR GADGET FANS","col":"pink","emoji":"📱","shop":"AO","name":"Airwrap i.d.","line":"App-connected, with the full attachment set"},
-  {"label":"THE CHEAPER ALTERNATIVE","col":"amber","emoji":"💨","shop":"Amazon","name":"Shark FlexStyle","line":"Does most of the same job for a lot less"}],
- "tip":{"title":"Don't pay more than","emoji":"🎯","rows":[["Airwrap i.d.","£330"],["Shark FlexStyle","£200"]],"source":"Target prices from our price tracking"},
- "endq":["Airwrap or","FlexStyle?"],"endline":"Full Airwrap guide + today's prices",
- "caption":"Airwrap or FlexStyle? 💇‍♀️ Which Dyson Airwrap is worth it, which to wait on, and the target price to hold out for this Black Friday. Today's prices: snappedupdeals.co.uk (link in bio) #ad #dysonairwrap #airwrap #sharkflexstyle #hairtok #blackfriday #ukdeals #beautydeals"},
-"d6": {"out":"snappeddeals-kindle-21nov.mp4",
- "hook":["Kindle or","Paperwhite?","Which to buy"],"sub":"Amazon's device deals are on","hookemoji":"📚",
- "picks":[
-  {"label":"BEST ALL-ROUNDER","col":"green","emoji":"✨","shop":"John Lewis","name":"Paperwhite Signature Edition","line":"Auto-adjusting light, wireless charging and no ads"},
-  {"label":"BEST FOR LIGHT READERS","col":"amber","emoji":"📖","shop":"Argos","name":"Kindle (2024)","line":"Light, pocketable, with a sharp 300ppi screen"},
-  {"label":"ONLY FOR COMICS","col":"pink","emoji":"🎨","shop":"John Lewis","name":"Kindle Colorsoft","line":"Worth it for comics, graphic novels and cookbooks"}],
- "tip":{"title":"Amazon BF Week is live","emoji":"⏰","rows":[["Amazon BF Week","19–30 Nov"],["Black Friday","Fri 27 Nov"],["Cyber Monday","Mon 30 Nov"]]},
- "endq":["Which one","are you?"],"endline":"Full guide + today's prices",
- "caption":"Kindle or Paperwhite: which one are you? 📚 Who should pay more, who shouldn't, and the one most people should skip. Amazon's Black Friday Week is on now, so check today's prices: snappedupdeals.co.uk (link in bio) #ad #kindle #kindlepaperwhite #booktok #reading #blackfriday #amazondeals #ukdeals"},
-"d7": {"out":"snappeddeals-black-friday-week-22nov.mp4",
- "hook":["Black Friday","is this Friday.","Do this first"],"sub":"3 sales already live","hookemoji":"🛒",
- "picks":[
-  {"label":"ALREADY LIVE","col":"green","emoji":"🛍","shop":"Argos","name":"Argos Black Friday","line":"Badged items carry a price guarantee until Christmas Day"},
-  {"label":"ALREADY LIVE","col":"amber","emoji":"📦","shop":"Amazon","name":"Black Friday Week","line":"Runs right through to Cyber Monday, 30 November"},
-  {"label":"ALREADY LIVE","col":"blue","emoji":"🏷","shop":"John Lewis","name":"John Lewis Black Friday","line":"Matches prices at 25 big-name rivals"}],
- "tip":{"title":"The key dates","emoji":"⏰","rows":[["Black Friday","Fri 27 Nov"],["Cyber Monday","Mon 30 Nov"],["Amazon","19–30 Nov"]]},
- "endq":["What's on","your list?"],"endline":"Every retailer's dates + live deals",
- "caption":"Black Friday is this Friday (27 Nov) 🛒 These sales are already live, and the price guarantees mean you don't have to wait. What's on your list? Every UK retailer's dates and the best live deals: snappedupdeals.co.uk (link in bio) #ad #blackfriday #blackfriday2026 #cybermonday #ukdeals #argos #amazondeals #moneysaving"}
+ "d1": {
+  "out": "snappeddeals-hamleys-toys-16nov.mp4",
+  "hook": [
+   "3 Hamleys toys",
+   "worth buying",
+   "for Christmas"
+  ],
+  "sub": "from the Hamleys gift list",
+  "hookemoji": "🧸",
+  "picks": [
+   {
+    "label": "BEST FOR AGES 3+",
+    "col": "green",
+    "emoji": "🏎",
+    "shop": "Hamleys",
+    "name": "Glow Flip Super Track Racer",
+    "line": "A glow-in-the-dark track with a car that flips"
+   },
+   {
+    "label": "BEST FOR BIGGER KIDS",
+    "col": "amber",
+    "emoji": "🚙",
+    "shop": "Hamleys",
+    "name": "Big Wheel Stunt Car with Spray",
+    "line": "A chunky remote-control stunt car with a mist-spray effect"
+   },
+   {
+    "label": "BEST FIRST CHRISTMAS",
+    "col": "pink",
+    "emoji": "🧸",
+    "shop": "Hamleys",
+    "name": "Hamleys Arthur Bear",
+    "line": "A soft Hamleys teddy. A classic new-baby present"
+   }
+  ],
+  "tip": {
+   "title": "Don't wait on advent calendars",
+   "emoji": "⏰",
+   "rows": [
+    "Lego advent calendars sell out before December",
+    "Buy them now, not on Black Friday"
+   ]
+  },
+  "endq": [
+   "Which would",
+   "they pick?"
+  ],
+  "endline": "Full Hamleys guide + today's prices",
+  "caption": "Which of these would your kids actually play with on Christmas morning? 🎄 3 Hamleys toys worth buying, plus why you shouldn't leave Lego advent calendars until Black Friday. Today's prices in the full guide: snappedupdeals.co.uk (link in bio) #ad #hamleys #christmasgifts #christmastoys #giftideas #blackfriday #ukdeals #toys"
+ },
+ "d2": {
+  "out": "snappeddeals-rocket-espresso-17nov.mp4",
+  "hook": [
+   "Rocket espresso:",
+   "which one",
+   "should you buy?"
+  ],
+  "sub": "Appartamento vs Mozzafiato",
+  "hookemoji": "☕",
+  "picks": [
+   {
+    "label": "BEST FOR MOST PEOPLE",
+    "col": "green",
+    "emoji": "☕",
+    "shop": "Rocket Espresso",
+    "name": "Appartamento TCA",
+    "line": "Compact, with adjustable brew temperature"
+   },
+   {
+    "label": "CHEAPEST WAY IN",
+    "col": "amber",
+    "emoji": "🤍",
+    "shop": "Rocket Espresso",
+    "name": "Appartamento 2.0",
+    "line": "No temperature control. A short flush before each shot sorts it"
+   },
+   {
+    "label": "QUIETER + MAINS WATER",
+    "col": "blue",
+    "emoji": "🔇",
+    "shop": "Rocket Espresso",
+    "name": "Mozzafiato R",
+    "line": "A rotary pump: quieter, and it can plumb into the mains"
+   }
+  ],
+  "tip": {
+   "title": "Budget for the grinder",
+   "emoji": "⚙",
+   "rows": [
+    "Great espresso needs a good grinder",
+    "Rocket's machine + grinder bundles cost less than buying both separately"
+   ]
+  },
+  "endq": [
+   "Which would",
+   "you go for?"
+  ],
+  "endline": "Full Rocket guide + today's prices",
+  "caption": "Thinking about a proper espresso machine for Christmas? ☕ Which Rocket would you go for: Appartamento or Mozzafiato? Our picks, plus the grinder tip most people miss. Full comparison: snappedupdeals.co.uk (link in bio) #ad #rocketespresso #espresso #coffeemachine #homebarista #coffeetok #giftideas #ukdeals"
+ },
+ "d3": {
+  "out": "snappeddeals-gifts-for-him-18nov.mp4",
+  "hook": [
+   "Christmas gifts",
+   "for him",
+   "under £50"
+  ],
+  "sub": "that he'll actually use",
+  "hookemoji": "🎁",
+  "picks": [
+   {
+    "label": "BEST FOR BEARDS",
+    "col": "green",
+    "emoji": "🧔",
+    "shop": "Amazon",
+    "name": "Philips OneBlade 360",
+    "line": "Trims, edges and shaves, with a head that follows the jaw"
+   },
+   {
+    "label": "BEST FOR THE GYM",
+    "col": "amber",
+    "emoji": "💪",
+    "shop": "Amazon",
+    "name": "Renpho massage gun",
+    "line": "For runners, gym-goers and stiff desk shoulders"
+   },
+   {
+    "label": "BEST FOR WEEKENDS AWAY",
+    "col": "blue",
+    "emoji": "🔊",
+    "shop": "Currys",
+    "name": "JBL Go 5 speaker",
+    "line": "Pocket-sized and waterproof. Shower, garage or campsite"
+   }
+  ],
+  "tip": {
+   "title": "Don't know his aftershave?",
+   "emoji": "🤔",
+   "rows": [
+    "Get a miniatures set instead of one big bottle",
+    "Versace's 4 x 5ml set lets him try them all"
+   ]
+  },
+  "endq": [
+   "Which one's",
+   "for him?"
+  ],
+  "endline": "8 checked gift ideas under £50",
+  "caption": "Stuck on what to get him this year? 🎁 3 Christmas gifts under £50 he'll actually use, plus the aftershave trick when you don't know what he wears. Which one's going under your tree? All 8 ideas with today's prices: snappedupdeals.co.uk (link in bio) #ad #giftsforhim #christmasgifts #giftideas #giftsforboyfriend #giftsfordad #blackfriday #ukdeals"
+ },
+ "d4": {
+  "out": "snappeddeals-airpods-19nov.mp4",
+  "hook": [
+   "Which AirPods",
+   "should you buy",
+   "this Black Friday?"
+  ],
+  "sub": "3 picks and 1 to skip",
+  "hookemoji": "🎧",
+  "hooksize": 98,
+  "picks": [
+   {
+    "label": "BEST VALUE",
+    "col": "green",
+    "emoji": "🎧",
+    "shop": "Amazon",
+    "name": "AirPods 5 with Wireless Charging Case",
+    "line": "Same price as the standard AirPods 5 right now"
+   },
+   {
+    "label": "BEST FOR COMMUTING",
+    "col": "amber",
+    "emoji": "🚇",
+    "shop": "Amazon",
+    "name": "AirPods Pro 3",
+    "line": "The strongest noise cancelling, plus heart-rate tracking"
+   },
+   {
+    "label": "BEST SOUND",
+    "col": "blue",
+    "emoji": "🎵",
+    "shop": "Amazon",
+    "name": "AirPods Max 2",
+    "line": "Over-ear, with the best sound in the range"
+   }
+  ],
+  "tip": {
+   "title": "Skip the AirPods 4 ANC",
+   "emoji": "🚫",
+   "rows": [
+    "The AirPods 5 have noise cancelling as standard",
+    "And they cost less"
+   ]
+  },
+  "endq": [
+   "Which pair",
+   "are you after?"
+  ],
+  "endline": "Full AirPods guide + today's prices",
+  "caption": "Which AirPods should you actually buy this Black Friday? 🎧 Our 3 picks for every budget, and the pair to skip. Today's prices and the lows to wait for: snappedupdeals.co.uk (link in bio) #ad #airpods #airpodspro #apple #blackfriday #amazondeals #ukdeals #techtok"
+ },
+ "d5": {
+  "out": "snappeddeals-airwrap-20nov.mp4",
+  "hook": [
+   "Dyson Airwrap:",
+   "buy now or",
+   "wait?"
+  ],
+  "sub": "plus the cheaper alternative",
+  "hookemoji": "💇",
+  "picks": [
+   {
+    "label": "BEST VALUE AIRWRAP",
+    "col": "green",
+    "emoji": "✨",
+    "shop": "Argos",
+    "name": "Airwrap Origin",
+    "line": "The cheapest way into a genuine Airwrap"
+   },
+   {
+    "label": "BEST FOR GADGET FANS",
+    "col": "pink",
+    "emoji": "📱",
+    "shop": "AO",
+    "name": "Airwrap i.d.",
+    "line": "App-connected, with the full attachment set"
+   },
+   {
+    "label": "THE CHEAPER ALTERNATIVE",
+    "col": "amber",
+    "emoji": "💨",
+    "shop": "Amazon",
+    "name": "Shark FlexStyle",
+    "line": "Does most of the same job for a lot less"
+   }
+  ],
+  "tip": {
+   "title": "Don't pay more than",
+   "emoji": "🎯",
+   "rows": [
+    [
+     "Airwrap i.d.",
+     "£330"
+    ],
+    [
+     "Shark FlexStyle",
+     "£200"
+    ]
+   ],
+   "source": "Target prices from our price tracking"
+  },
+  "endq": [
+   "Airwrap or",
+   "FlexStyle?"
+  ],
+  "endline": "Full Airwrap guide + today's prices",
+  "caption": "Airwrap or FlexStyle? 💇‍♀️ Which Dyson Airwrap is worth it, which to wait on, and the target price to hold out for this Black Friday. Today's prices: snappedupdeals.co.uk (link in bio) #ad #dysonairwrap #airwrap #sharkflexstyle #hairtok #blackfriday #ukdeals #beautydeals"
+ },
+ "d6": {
+  "out": "snappeddeals-kindle-21nov.mp4",
+  "hook": [
+   "Kindle or",
+   "Paperwhite?",
+   "Which to buy"
+  ],
+  "sub": "Amazon's device deals are on",
+  "hookemoji": "📚",
+  "picks": [
+   {
+    "label": "BEST ALL-ROUNDER",
+    "col": "green",
+    "emoji": "✨",
+    "shop": "Amazon",
+    "name": "Paperwhite Signature Edition",
+    "line": "Auto-adjusting light, wireless charging and no ads"
+   },
+   {
+    "label": "BEST FOR LIGHT READERS",
+    "col": "amber",
+    "emoji": "📖",
+    "shop": "Argos",
+    "name": "Kindle (2024)",
+    "line": "Light, pocketable, with a sharp 300ppi screen"
+   },
+   {
+    "label": "ONLY FOR COMICS",
+    "col": "pink",
+    "emoji": "🎨",
+    "shop": "John Lewis",
+    "name": "Kindle Colorsoft",
+    "line": "Worth it for comics, graphic novels and cookbooks"
+   }
+  ],
+  "tip": {
+   "title": "Amazon BF Week is live",
+   "emoji": "⏰",
+   "rows": [
+    [
+     "Amazon BF Week",
+     "19–30 Nov"
+    ],
+    [
+     "Black Friday",
+     "Fri 27 Nov"
+    ],
+    [
+     "Cyber Monday",
+     "Mon 30 Nov"
+    ]
+   ]
+  },
+  "endq": [
+   "Which one",
+   "are you?"
+  ],
+  "endline": "Full guide + today's prices",
+  "caption": "Kindle or Paperwhite: which one are you? 📚 Who should pay more, who shouldn't, and the one most people should skip. Amazon's Black Friday Week is on now, so check today's prices: snappedupdeals.co.uk (link in bio) #ad #kindle #kindlepaperwhite #booktok #reading #blackfriday #amazondeals #ukdeals"
+ },
+ "d7": {
+  "out": "snappeddeals-black-friday-week-22nov.mp4",
+  "hook": [
+   "Black Friday",
+   "is this Friday.",
+   "Do this first"
+  ],
+  "sub": "3 sales already live",
+  "hookemoji": "🛒",
+  "picks": [
+   {
+    "label": "ALREADY LIVE",
+    "col": "green",
+    "emoji": "🛍",
+    "shop": "Argos",
+    "name": "Argos Black Friday",
+    "line": "Badged items carry a price guarantee until Christmas Day"
+   },
+   {
+    "label": "ALREADY LIVE",
+    "col": "amber",
+    "emoji": "📦",
+    "shop": "Amazon",
+    "name": "Black Friday Week",
+    "line": "Runs right through to Cyber Monday, 30 November"
+   },
+   {
+    "label": "ALREADY LIVE",
+    "col": "blue",
+    "emoji": "🏷",
+    "shop": "John Lewis",
+    "name": "John Lewis Black Friday",
+    "line": "Matches prices at 25 big-name rivals"
+   }
+  ],
+  "tip": {
+   "title": "The key dates",
+   "emoji": "⏰",
+   "rows": [
+    [
+     "Black Friday",
+     "Fri 27 Nov"
+    ],
+    [
+     "Cyber Monday",
+     "Mon 30 Nov"
+    ],
+    [
+     "Amazon",
+     "19–30 Nov"
+    ]
+   ]
+  },
+  "endq": [
+   "What's on",
+   "your list?"
+  ],
+  "endline": "Every retailer's dates + live deals",
+  "caption": "Black Friday is this Friday (27 Nov) 🛒 These sales are already live, and the price guarantees mean you don't have to wait. What's on your list? Every UK retailer's dates and the best live deals: snappedupdeals.co.uk (link in bio) #ad #blackfriday #blackfriday2026 #cybermonday #ukdeals #argos #amazondeals #moneysaving"
+ }
 }
