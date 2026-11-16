@@ -32,6 +32,12 @@ The 8 Nov "Real or fake?" video opened on a full frame (product, was-price and t
 
 Conclusion: faceless text-and-emoji slides lose people in the first second whatever the layout. Successful UK deal accounts use real product shots or footage, a voiceover, and often a person on camera. Next options to test: real product images (only from sources we're allowed to use, e.g. Awin product feeds), an in-app TikTok text-to-speech voiceover, and a trending sound. Or keep TikTok as low-effort and put the effort into Google, which is where the site's buyers come from.
 
+## Music (user, 16 Nov 2026: "play popular music, the music on the vids is really bad")
+- **Don't bake music into the video any more.** `gen2.py` now renders only quiet transition sounds (set `BEAT=1` to bring back the old synth beat; don't).
+- **Add the music in TikTok Studio at upload:** click **Sounds** (right of the preview), pick a popular track from what TikTok offers there (trending/most-used first, upbeat, fits a countdown), then turn the original sound down to ~10–20% so the whoosh hits sit under the track. Check the track is still attached in the preview before scheduling.
+- **Licensing:** our posts have Branded content on (they're ads), so TikTok only allows tracks from its **Commercial Music Library** on them. That's what the Sounds panel offers for these posts, and it includes plenty of popular and trending tracks, but not every chart hit. Never add a song from outside TikTok's library to the file: it would be muted or taken down, and it isn't licensed for ads.
+- **Vary the track across the week**, and prefer sounds that are trending that week.
+
 ## Why views dropped (analysis 16 Nov 2026, TikTok Studio per-post analytics)
 | Posted | Format | Length | Views | Avg watch | Full % | Search traffic |
 |---|---|---|---|---|---|---|

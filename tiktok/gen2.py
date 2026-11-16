@@ -82,12 +82,13 @@ def whoosh(): n=int(SR*0.22); k=np.convolve(np.random.randn(n),np.ones(25)/25,'s
 def ding(fq=1318.5): n=int(SR*0.5); tt=np.arange(n)/SR; return 0.25*(np.sin(2*np.pi*fq*tt)+0.6*np.sin(2*np.pi*fq*1.5*tt))*envl(n,0.002,0.18)
 def riser(d): n=int(SR*d); tt=np.arange(n)/SR; fq=200+1200*(tt/d)**2; return 0.12*np.sin(2*np.pi*np.cumsum(fq)/SR)*(tt/d)
 bt=0.0
-while bt<TOT: add(bt,kick()); add(bt+0.25,hat()); bt+=0.5
+if os.environ.get('BEAT')=='1':
+    while bt<TOT: add(bt,kick()); add(bt+0.25,hat()); bt+=0.5
 add(0,whoosh()); add(0.02,ding(988))
 for i,(nm,st,du) in enumerate(T[1:4]):
     add(st-0.05,whoosh()); add(st+0.15,ding(1318.5 if i<2 else 1760))
 add(T[3][1]-0.6,riser(0.6)); add(T[4][1]-0.05,whoosh()); add(T[4][1]+0.1,ding(1568))
-a=np.tanh(a[:int(SR*TOT)]*1.2)*0.85; st=np.stack([a,a],1); import wave
+a=np.tanh(a[:int(SR*TOT)]*1.2)*(0.85 if os.environ.get('BEAT')=='1' else 0.35); st=np.stack([a,a],1); import wave
 w=wave.open("sfx2.wav","wb"); w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes((st*32767).astype(np.int16).tobytes()); w.close()
 subprocess.run(["ffmpeg","-hide_banner","-loglevel","error","-y","-f","concat","-safe","0","-i","list2.txt","-i","sfx2.wav","-c:v","copy","-c:a","aac","-b:a","160k","-shortest","-movflags","+faststart",out],check=True)
 print("done",out,round(TOT,1))
