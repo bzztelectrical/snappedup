@@ -125,6 +125,7 @@ function layout({ title, seoTitle, description, pathname, body, type = "website"
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="partnerboostverifycode" content="32dc01246faccb7f5b3cad5016dd5033" />
 <title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(description || site.description)}">
 <link rel="canonical" href="${esc(canonical)}">
