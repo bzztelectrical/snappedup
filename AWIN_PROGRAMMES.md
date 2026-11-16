@@ -100,3 +100,10 @@ Awin makes you wait 30 days after a rejection before reapplying.
 
 Declined/ignored: Lunzo PL, DE, HU invitations (non-UK audiences).
 New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shorefield Holidays ("doesn't complement brand"), Neilson Holidays ("doesn't work with this publisher type"), Lightning Fibre ("doesn't complement brand").
+
+## Other networks
+### PartnerBoost (Edifier UK, via Thraive Agency / Lesley)
+- 16 Nov 2026: publisher account **snappedupdeals, ID 3627187**. Website channel **3364792** (snappedupdeals.co.uk) verified via meta tag in build.mjs (`partnerboostverifycode`), so don't remove that tag. Promotional type set to Content/Blog, with UK region and keywords.
+- The account is still under review: the menu only shows Settings, so we can't browse or apply to brands yet. Basic Info won't save until the user adds date of birth (and optionally gender and address). The user needs to set up a payment method too.
+- Once approved, apply to **Edifier UK (139277)**, or ask Lesley to invite publisher ID 3627187 directly. Commission is 10%. Early Bird BF offers run until 30 Nov.
+### Tradedoubler (MERACH DTC): not joined yet. MERACH is moving to Impact, so check with Lesley before signing up.
