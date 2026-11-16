@@ -32,6 +32,9 @@ The 8 Nov "Real or fake?" video opened on a full frame (product, was-price and t
 
 Conclusion: faceless text-and-emoji slides lose people in the first second whatever the layout. Successful UK deal accounts use real product shots or footage, a voiceover, and often a person on camera. Next options to test: real product images (only from sources we're allowed to use, e.g. Awin product feeds), an in-app TikTok text-to-speech voiceover, and a trending sound. Or keep TikTok as low-effort and put the effort into Google, which is where the site's buyers come from.
 
+## Paused again (16 Nov 2026)
+Paused again after 3 days with no reply (13–15 Nov). The 13 Nov air fryer buying-guide video was uploaded but never approved, and its 19:30 slot has passed; it's still unscheduled in TikTok Studio. The 14 Nov Hamleys video wasn't made. No reminders are set. Restart only when the user asks, starting with the Hamleys topic and prices checked that day.
+
 ## Paused (12 Nov 2026)
 Daily TikTok videos are paused. The 8 Nov and 10 Nov uploads were never approved, and the 9 Nov question about the approach went unanswered. No more videos are scheduled or reminders set until the user asks to restart. The 10 Nov video is still waiting, unscheduled, in TikTok Studio on the laptop, and the files are in Desktop\\snapped-up\\tiktok.
 
