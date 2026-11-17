@@ -48,7 +48,7 @@ Conclusion: faceless text-and-emoji slides lose people in the first second whate
 | 6 Nov | guess the price | 22s | 777 | 2.32s | 0.5% | 6.1% |
 | 8 Nov | real or fake (instant) | 15s | 244 | 1.9s | 1.6% | 0.4% |
 | 12 Nov | real or fake | 15s | 256 | 3.14s | 1.5% | 0.4% |
-| 16 Nov 22:13 | v2 Hamleys countdown | 9.6s | (9 after 30 min) | | | |
+| 16 Nov 22:13 | v2 Hamleys countdown | 9.6s | 239 (10h) | 1.41s | 0.8% | 2.0% |
 
 Week of 16 Nov (v2): Hamleys posted 16 Nov 22:13 (late, because approval came at 22:11). Rocket, gifts for him, AirPods, Airwrap, Kindle and BF-week are scheduled 17–22 Nov at 19:30, all with Branded content on. **Compare their views with the ~750 baseline on 24 Nov.**
 - **Every video loses most viewers at 0:01**, and that's been true from the start. The ~740 views were TikTok's standard test push for a new account. After 5 posts in a row where almost nobody watched past a second or followed (2 followers in total), TikTok cut the test push to ~250. The drop is the algorithm reacting to weak retention across the account, not to one bad video.
@@ -100,3 +100,8 @@ Structure (about 15–20 seconds, full first frame):
 4. **End card:** "Full guide: snappedupdeals.co.uk" plus the guide's topic.
 
 Rotate the topic every day, preferring guides that earn (Awin partners first, then high-commission Amazon categories): air fryers, Hamleys and kids' toys, perfume gift sets, Dyson vs Shark, Christmas gifts for him or her under £50, airport parking for Christmas, coffee machines (Rocket), STEM gifts (Tinkerer), advent calendars, TVs and AirPods. Vary the angle as well: "3 picks", "budget vs premium", "don't buy X, buy Y", "the one I'd actually buy". Captions ask a question to get comments, e.g. "Which would you go for?"
+
+## 17 Nov check
+- The v2 Hamleys countdown got 239 views and 1.41s average watch. Most viewers still swipe at 0:01, so the new edit didn't fix the first second. It was also posted late (22:13).
+- **TikTok has sent ~0 visits to the site:** Cloudflare referrers for 7 days show no tiktok.com, and nearly all traffic is direct/search. The site is growing without it (107 visits in 24h on 17 Nov, +45%).
+- **Verdict on text-on-colour slides:** they don't hold viewers past a second. Judge the scheduled 17–22 Nov posts on 24 Nov. If they're still around 250, change format to **real product visuals** (official affiliate creatives/product images from Awin partners such as Hamleys and Rocket, which are provided for promotion; never Amazon images, which the Associates rules don't allow outside its API) or stop spending effort on TikTok and put it into the site.
