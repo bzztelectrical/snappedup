@@ -1,33 +1,46 @@
 {
   "type": "guide",
   "date": "2026-10-31",
-  "updated": "2026-10-31",
+  "updated": "2026-11-17",
   "slug": "coffee-machine-black-friday-deals-2026",
   "title": "Coffee machine Black Friday deals 2026 UK: De'Longhi, Sage, Ninja and Nespresso",
   "seoTitle": "Coffee Machine Black Friday Deals 2026 UK: Prices",
   "description": "The coffee machine deals worth buying before Black Friday 2026, from a £54 Nespresso to the De'Longhi Magnifica Evo at £349, with target prices.",
-  "tags": ["black-friday", "home"],
-  "intro": "**Short answer: the best coffee machine deal right now is the De'Longhi Magnifica Evo with LatteCrema milk system (ECAM290.83) at £349 from Very, £230 off a price AO still charges today.** For pods, the Nespresso Vertuo Pop is £54, close to the roughly £52 it sold for at this point last year.\n\nSage and Ninja's espresso machines are discounted too, but both have been cheaper in past sales, so those are worth waiting for. Very and Currys both promise to refund the difference if their price drops again before early December, which makes their early prices a safer buy than most. Prices were checked on 31 October 2026.",
+  "tags": [
+    "black-friday",
+    "home"
+  ],
+  "intro": "**Short answer: the best coffee machine deal right now is the De'Longhi Magnifica Evo Next bean-to-cup at £379.99 from Amazon, £219 off.** For pods, the Nespresso Vertuo Pop is down to £49 at Currys, cheaper than the roughly £52 it sold for at this point last year.\n\nThe Sage Barista Express is £499.99 at Currys, but that's about £50 above its record low, so it's still worth waiting for. Prices for the De'Longhi, Nespresso and Sage were checked on 17 November 2026; the other cards were last confirmed on 31 October, so check the retailer before buying. More live offers on our [Black Friday live deals page](/guides/black-friday-2026-live-deals-uk/).",
   "deals": [
     {
-      "name": "De'Longhi Magnifica Evo bean-to-cup with LatteCrema (ECAM290.83.TB)",
-      "retailer": "Very",
-      "price": 349,
-      "was": 579,
-      "url": "https://www.very.co.uk/delonghi-bean-to-cup-ecam29083-magnifica-evo/1600882183.prd/",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "The automatic milk version for the price the basic Evo usually sells for. The 'was' price is real: AO charges £579 for it today. De'Longhi's own site matches at £349.99."
-    },
-    {
-      "name": "Nespresso Vertuo Pop by Krups (XN920140)",
-      "retailer": "John Lewis",
-      "price": 54,
-      "was": 99.99,
-      "url": "https://www.johnlewis.com/nespresso-vertuo-pop-coffee-pod-machine-by-krups/p111959698",
+      "name": "De'Longhi Magnifica Evo Next Bean-to-Cup Coffee Machine",
+      "retailer": "Amazon",
+      "price": 379.99,
+      "was": 599,
+      "url": "https://www.amazon.co.uk/s?k=De'Longhi+Magnifica+Evo+Next",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "The simplest way into Nespresso. It was about £52 at this time last year, so this is near the usual sale price. Very matches at £54."
+      "note": "The updated Magnifica Evo: grinds fresh beans and froths milk at a touch. £219 off, and the easiest way to café-style drinks without learning to tamp."
+    },
+    {
+      "name": "Nespresso Vertuo Pop by Krups",
+      "retailer": "Currys",
+      "price": 49,
+      "was": 99,
+      "url": "https://www.currys.co.uk/search?q=nespresso+vertuo+pop",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "Half price and below last year's early-November price of about £52. Pods cost more than beans over time, so it suits occasional coffee drinkers."
+    },
+    {
+      "name": "Sage the Barista Express",
+      "retailer": "Currys",
+      "price": 499.99,
+      "was": 629.99,
+      "url": "https://www.currys.co.uk/search?q=sage+barista+express",
+      "verdict": "Wait for BF",
+      "verdictLevel": "wait",
+      "note": "£130 off, but it has been about £50 cheaper before (Amazon sold it for £449 on Black Friday 2025). Aim for £449."
     },
     {
       "name": "De'Longhi Stilosa manual espresso machine (EC260BK)",
@@ -37,34 +50,6 @@
       "verdict": "Good price",
       "verdictLevel": "good",
       "note": "A basic pump espresso machine with a steam wand, about £10 less than at John Lewis and Currys. It was around £85 last Black Friday."
-    },
-    {
-      "name": "Philips Series 3300 LatteGo bean-to-cup (EP3347/90)",
-      "retailer": "Very",
-      "price": 332,
-      "url": "https://www.very.co.uk/philips-series-3300-ep334790-fully-automatic-bean-to-cup-coffee-machine/1601197616.prd",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "LatteGo's two-part milk jug is the easiest milk system to clean. Very lists it as 'was £549', which we couldn't verify, so judge it against the De'Longhi above."
-    },
-    {
-      "name": "Sage the Barista Express (Black Truffle)",
-      "retailer": "Very",
-      "price": 479,
-      "was": 629,
-      "url": "https://www.very.co.uk/sage-the-barista-express-espresso-machine-black-truffle/1601217967.prd",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "£20 under Sage's own price, but Amazon sold it for £449 on Black Friday 2025 and again in October. Aim for £449."
-    },
-    {
-      "name": "Ninja Luxe Café Premier (ES601UK)",
-      "retailer": "John Lewis",
-      "price": 449,
-      "url": "https://www.johnlewis.com/ninja-luxe-cafe-premier-series-coffee-machine/stainless-steel/p112574711",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "Espresso, drip and cold brew in one, with a grinder that doses for you. £100 under its usual £549, but it was £435 last Black Friday and has been £420. More in our [Ninja Black Friday guide](/guides/ninja-black-friday-deals-2026/)."
     },
     {
       "name": "Sage the Barista Pro (SES878)",
