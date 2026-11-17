@@ -1,83 +1,72 @@
 {
   "type": "guide",
   "date": "2026-10-19",
-  "updated": "2026-10-26",
+  "updated": "2026-11-17",
   "slug": "ninja-black-friday-deals-2026",
   "title": "Ninja Black Friday deals 2026: what's cheap now and what to wait for",
   "description": "The best Ninja deals in the run-up to Black Friday 2026, plus last year's Black Friday prices so you know a real bargain when you see one.",
-  "intro": "**Short answer: the Ninja Slushi at £199.99 is already £24 cheaper than its lowest price last Black Friday, so buy it now if it's on your list.** The Perfect Temperature kettle (£59.99) and the CRISPi air fryer (£120) are also close to Black Friday prices. For bigger Ninja kit, like the Creami Scoop & Swirl, Double Stack and Foodi MAX, last year's Black Friday prices were noticeably lower than today's, so it's worth waiting until 27 November.\n\nWe update this page as prices move. These prices were last checked on 26 October 2026.",
+  "intro": "**Short answer: the Ninja Foodi Dual Zone AF300UK at £119.99 and the CRISPi at £99, both at Amazon, are already below last year's Black Friday prices, so buy those now.** The Foodi 4-in-1 (AF200UK) is £99.99 at Argos, matching last year's low. For the Creami Soft Serve (£289 at Amazon) and the Double Stack XL (£199.99 at Ninja), last year's Black Friday prices were lower, so wait until Amazon's Black Friday Week starts on 19 November.\n\nWe update this page as prices move. These prices were last checked on 17 November 2026; items we couldn't re-check today (Slushi, kettle, BlendBOSS) have been removed until we can.",
   "deals": [
     {
-      "name": "Ninja SLUSHi frozen drink maker (FS301UK)",
+      "name": "Ninja Foodi Dual Zone 7.6L Air Fryer (AF300UK)",
+      "retailer": "Amazon",
+      "price": 119.99,
+      "was": 199.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+AF300UK",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "The two-drawer Ninja most families buy, at its lowest price this year. It was around £125 last Black Friday, so this already beats it."
+    },
+    {
+      "name": "Ninja CRISPi 4-in-1 portable glass air fryer",
+      "retailer": "Amazon",
+      "price": 99,
+      "was": 149.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Crispi",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Down from £120 in October and below last Black Friday's £117. Glass dishes double as serving and storage containers. Best for one or two people."
+    },
+    {
+      "name": "Ninja Foodi 4-in-1 Air Fryer (AF200UK)",
+      "retailer": "Argos",
+      "price": 99.99,
+      "was": 159.99,
+      "url": "https://www.argos.co.uk/search/ninja-af200uk/",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A single-drawer 5.2L basket that suits most couples. £99.99 matches last year's Black Friday low. Worth checking Amazon too, as it usually matches Argos."
+    },
+    {
+      "name": "Ninja Foodi StaySharp Knife Block with Integrated Sharpener",
+      "retailer": "Amazon",
+      "price": 109.99,
+      "was": 179.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Foodi+StaySharp+Knife+Block",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "Five knives and a block with a built-in sharpener, £70 off. A good gift for someone setting up a kitchen."
+    },
+    {
+      "name": "Ninja CREAMi Soft Serve",
+      "retailer": "Amazon",
+      "price": 289,
+      "was": 349,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Creami+Soft+Serve",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Makes soft-serve style ice cream and frozen yoghurt as well as scoopable tubs. £60 off, but Creami prices usually dip further in Black Friday Week."
+    },
+    {
+      "name": "Ninja Double Stack XL Air Fryer (SL451UK)",
       "retailer": "Ninja",
       "price": 199.99,
-      "was": 299.99,
-      "url": "https://www.sharkninja.co.uk/ninja-slushi-frozen-drink-maker-fs301uk/FS301UK.html",
-      "verdict": "Buy now",
-      "verdictLevel": "great",
-      "note": "£100 off, and lower than the £224 it hit last Black Friday. Makes slushies, frozen cocktails and milkshakes."
-    },
-    {
-      "name": "Ninja Perfect Temperature kettle (KT200UK)",
-      "retailer": "Amazon",
-      "price": 59.99,
-      "was": 99.99,
-      "url": "https://www.amazon.co.uk/Ninja-Kettle-KT200UK-Perfect-Temperature/dp/B09KM4H1VL",
-      "verdict": "Buy now",
-      "verdictLevel": "great",
-      "note": "Still £59.99, about £10 less than Argos, AO and Very. It was £58 last Black Friday, so there's little to gain by waiting. Lets you set exact temperatures for tea, coffee or baby formula."
-    },
-    {
-      "name": "Ninja CRISPi 4-in-1 portable glass air fryer (FN101UK), Sage",
-      "retailer": "Amazon",
-      "price": 120,
-      "was": 179.99,
-      "url": "https://www.amazon.co.uk/Ninja-CRISPi-Portable-Fryer-3-8L/dp/B0DK258XN4",
-      "verdict": "Near BF low",
-      "verdictLevel": "good",
-      "note": "Down from £124 last week. It was £117 last Black Friday and dipped to about £110 this autumn, so you might save a few pounds by waiting. Glass dishes double as storage containers."
-    },
-    {
-      "name": "Ninja CREAMi Deluxe 10-in-1 (NC501UK), Black",
-      "retailer": "AO",
-      "price": 202,
-      "was": 249,
-      "url": "https://ao.com/product/nc501uk-ninja-creami-deluxe-10in1-ice-cream-maker-black-100077-708.aspx",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£47 off. Bigger tubs than the original Creami, and it does frozen drinks too. Could drop a little further in November."
-    },
-    {
-      "name": "Ninja BlendBOSS tumbler blender (DB351UK), Stone",
-      "retailer": "Ninja",
-      "price": 109.99,
-      "was": 129.99,
-      "url": "https://www.sharkninja.co.uk/ninja-blendboss-tumbler-blender-stone-db351ukst/DB351UKST.html",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£20 off at Ninja. We couldn't confirm Amazon's price today. A solid all-round blender for smoothies and soups."
-    },
-    {
-      "name": "Ninja CREAMi Scoop & Swirl (NC701UK)",
-      "retailer": "Amazon",
-      "price": 299.99,
-      "was": 349.99,
-      "url": "https://www.amazon.co.uk/s?k=Ninja+Creami+Scoop+Swirl+NC701UK",
+      "url": "https://www.sharkninja.co.uk/search?q=SL451UK",
       "verdict": "Wait for BF",
       "verdictLevel": "wait",
-      "note": "The price has gone up since last week. It has been about £255 in the last three months and £273 last Black Friday, so hold off."
-    },
-    {
-      "name": "Ninja Thirsti 530ml travel bottle",
-      "retailer": "Ninja",
-      "price": 24.99,
-      "was": 30,
-      "url": "https://www.sharkninja.co.uk/kitchen/kitchenware/drink-bottles",
-      "verdict": "Stocking filler",
-      "verdictLevel": "good",
-      "note": "Adds flavour and fizz to water. A small discount, but a good price for a gift. The 700ml version is £29.99."
+      "note": "Two stacked drawers in a narrow footprint. It was about £188 last Black Friday, so wait, and compare Amazon and Argos before you buy."
     }
   ],
-  "body": "## Ninja prices to aim for this Black Friday\n\nThese are the prices Ninja products hit during last year's Black Friday and Cyber Monday sales (late November to early December 2025). If you see something at or below this figure, it's a genuinely good deal.\n\n- **Ninja Slushi frozen drinks maker:** £224 (already beaten: £199.99 at Ninja on 26 October)\n- **Ninja Creami Scoop & Swirl:** £273 (usually £349.99)\n- **Ninja Crispi portable air fryer:** £117 (usually £149.99)\n- **Ninja Foodi MAX Dual Zone (AF400UK):** £143 (usually £229)\n- **Ninja Foodi 4-in-1 air fryer (AF200UK):** £99.99 (usually £119.99)\n- **Ninja Double Stack XL air fryer:** £188 (usually £269.99)\n- **Ninja Combi 12-in-1 multi-cooker:** £179.99 (usually £279.99)\n- **Ninja Foodi 11-in-1 SmartLid multi-cooker:** £179.99 (usually £279.99)\n- **Ninja Blast portable blender:** £39.99 (usually £49.99)\n\n## Which Ninja is worth buying?\n\n**Air fryers:** for most households, a dual-drawer model is the one to get, because you can cook a main and a side at the same time. The Foodi MAX Dual Zone is the best value at its Black Friday price. The Double Stack XL fits the same capacity into a narrower footprint, which matters in a small kitchen. The Crispi suits one or two people, or anyone who wants to cook and store food in the same glass dish.\n\n**Creami vs Slushi:** the Creami makes proper scoopable ice cream from a base you freeze the day before. The Slushi makes slushies and frozen drinks on demand. If it's a family gift, the Slushi gets more use in summer and the Creami gets more use all year.\n\n**Kettles and blenders:** these get smaller discounts, but the Perfect Temperature kettle is already at a good price now. The Luxe Café Mini Plus coffee machine is full price everywhere we checked, so wait for that.\n\n## When do Ninja prices drop?\n\nBlack Friday 2026 is on **Friday 27 November**, and Cyber Monday on **30 November**. Ninja products usually start getting cut in the week before, and the lowest prices often appear on Amazon, Argos and Currys at the same time, because they match each other. Ninja's own website runs its own sale too, but often isn't the cheapest.\n\n### Is it worth waiting for Black Friday for a Ninja air fryer?\n\nFor bigger models, usually yes: last year the Foodi MAX Dual Zone and Double Stack XL were £80 or more cheaper than their usual prices. Smaller models like the Crispi only drop by a few pounds more.\n\n### Are Black Friday Ninja deals real discounts?\n\nMostly. Ninja's \"was\" prices are its standard prices, and the brand rarely inflates them before a sale. Even so, check the price against the target list above before you buy.\n\n### Where is cheapest for Ninja on Black Friday?\n\nAmazon, Argos and Currys usually match each other within hours. Very and Ninja's own site sometimes go lower on specific models, which we'll flag here as the sale goes on.\n\nSee also our [air fryer Black Friday deals 2026](/guides/air-fryer-black-friday-deals-2026/), the [Shark Black Friday deals 2026](/guides/shark-black-friday-deals-2026/), the [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/) and [every Black Friday 2026 guide](/black-friday/).",
+  "body": "## Ninja prices to aim for this Black Friday\n\nThese are the prices Ninja products hit during last year's Black Friday and Cyber Monday sales (late November to early December 2025). If you see something at or below this figure, it's a genuinely good deal.\n\n- **Ninja Slushi frozen drinks maker:** £224 (it was £199.99 at Ninja in late October; we couldn't re-check it today)\n- **Ninja Creami Scoop & Swirl:** £273 (usually £349.99)\n- **Ninja Crispi portable air fryer:** £117 (already beaten: £99 at Amazon on 17 November)\n- **Ninja Foodi MAX Dual Zone (AF400UK):** £143 (usually £229)\n- **Ninja Foodi 4-in-1 air fryer (AF200UK):** £99.99 (matched: £99.99 at Argos on 17 November)\n- **Ninja Double Stack XL air fryer:** £188 (usually £269.99; £199.99 at Ninja on 16 November)\n- **Ninja Combi 12-in-1 multi-cooker:** £179.99 (usually £279.99)\n- **Ninja Foodi 11-in-1 SmartLid multi-cooker:** £179.99 (usually £279.99)\n- **Ninja Blast portable blender:** £39.99 (usually £49.99)\n\n## Which Ninja is worth buying?\n\n**Air fryers:** for most households, a dual-drawer model is the one to get, because you can cook a main and a side at the same time. The Foodi MAX Dual Zone is the best value at its Black Friday price. The Double Stack XL fits the same capacity into a narrower footprint, which matters in a small kitchen. The Crispi suits one or two people, or anyone who wants to cook and store food in the same glass dish.\n\n**Creami vs Slushi:** the Creami makes proper scoopable ice cream from a base you freeze the day before. The Slushi makes slushies and frozen drinks on demand. If it's a family gift, the Slushi gets more use in summer and the Creami gets more use all year.\n\n**Kettles and blenders:** these get smaller discounts than the air fryers, so don't rush. If you want a Ninja coffee machine, compare our [coffee machine Black Friday guide](/guides/coffee-machine-black-friday-deals-2026/) first.\n\n## When do Ninja prices drop?\n\nBlack Friday 2026 is on **Friday 27 November**, and Cyber Monday on **30 November**. Ninja products usually start getting cut in the week before, and the lowest prices often appear on Amazon, Argos and Currys at the same time, because they match each other. Ninja's own website runs its own sale too, but often isn't the cheapest.\n\n### Is it worth waiting for Black Friday for a Ninja air fryer?\n\nFor bigger models, usually yes: last year the Foodi MAX Dual Zone and Double Stack XL were £80 or more cheaper than their usual prices. Smaller models like the Crispi only drop by a few pounds more.\n\n### Are Black Friday Ninja deals real discounts?\n\nMostly. Ninja's \"was\" prices are its standard prices, and the brand rarely inflates them before a sale. Even so, check the price against the target list above before you buy.\n\n### Where is cheapest for Ninja on Black Friday?\n\nAmazon, Argos and Currys usually match each other within hours. Very and Ninja's own site sometimes go lower on specific models, which we'll flag here as the sale goes on.\n\nSee also our [air fryer Black Friday deals 2026](/guides/air-fryer-black-friday-deals-2026/), the [Shark Black Friday deals 2026](/guides/shark-black-friday-deals-2026/), the [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/) and [every Black Friday 2026 guide](/black-friday/).",
   "seoTitle": "Ninja Black Friday Deals 2026 UK: Prices to Wait For"
 }
