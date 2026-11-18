@@ -107,13 +107,13 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] airpods-pro-deals-uk: AirPods Pro deals UK
 - [x] apple-watch-deals-uk: Apple Watch deals UK
 - [x] ipad-deals-uk: iPad deals UK (which model to buy)
-- [ ] nintendo-switch-2-bundle-deals-uk: Nintendo Switch 2 bundle deals UK
-- [ ] ps5-bundle-deals-uk: PS5 bundle deals UK
-- [ ] lego-advent-calendar-2026-deals: Lego advent calendar 2026 deals
+- [ ] nintendo-switch-2-bundle-deals-uk: Nintendo Switch 2 bundle deals UK — NOTE 18 Nov pm: passed over for higher-earning Amazon-device topics (consoles pay 1%)
+- [ ] ps5-bundle-deals-uk: PS5 bundle deals UK — NOTE 18 Nov pm: passed over (consoles 1%)
+- [ ] lego-advent-calendar-2026-deals: Lego advent calendar 2026 deals — NOTE 18 Nov pm: overlaps lego-advent-calendar-2026; refresh that page instead
 - [ ] oled-tv-deals-uk: OLED TV deals UK (LG C-series and rivals)
 - [ ] robot-vacuum-deals-uk: Robot vacuum deals UK
 - [ ] ring-doorbell-deals-uk: Ring doorbell deals UK
-- [ ] echo-dot-deals-uk: Echo Dot and Alexa deals UK
-- [ ] fire-tv-stick-deals-uk: Fire TV Stick deals UK
+- [ ] echo-dot-deals-uk: Echo Dot and Alexa deals UK — NOTE 18 Nov pm: skipped, no dated UK Echo prices found (only Oct launch prices); retry from 19 Nov when Amazon Black Friday Week starts
+- [x] fire-tv-stick-deals-uk: Fire TV Stick deals UK
 - [ ] nespresso-deals-uk: Nespresso machine deals UK
 - [ ] heated-throw-deals-uk: Heated throw deals UK
