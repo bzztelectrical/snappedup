@@ -1,5 +1,6 @@
 ## REFRESH FIRST (16 Nov 2026, from Cloudflare 7-day traffic)
 - **Order to refresh (top pages, 24h to 17 Nov 08:45):** airpods-black-friday-deals-2026 (32 visits; Amazon picks done 16 Nov, so keep its prices current), when-is-black-friday-2026-uk (13), perfume-gift-sets-black-friday-2026 (8), rocket-espresso-machine-review (5, Awin), dyson-v15-deals-uk (5). Done 16 Nov: AirPods, TV, Kindle (Amazon picks added).
+- NOTE 18 Nov 13:53: AirPods refresh skipped (no UK prices dated 17/18 Nov found). Dyson BF guide corrected: V12 back to £429 (PriceSpy), V15 £649; V8 Origin £199.99 Amazon added as the pick.
 - [x] dyson-v15-deals-uk: check Amazon on each model via PriceSpy and add it where cheapest or close. NOTE 18 Nov 09:53: PriceSpy shows no Amazon.co.uk offer for the V15 Absolute; deals ended (back to £649), guide set to 'wait'.
 - NOTE 17 Nov 17:54: perfume and KitchenAid refresh skipped again: no dated UK prices found (T3 fragrance blog last updated 6 Nov; HUKD Amazon perfume/KitchenAid deals expired or undated). Refreshed Kindle, coffee machine and Oral-B guides instead.
 - NOTE 17 Nov 13:53: AirPods 5 WCC £119 Amazon deal ended (back to £139); AirPods guide corrected. Perfume refresh still pending: The Perfume Shop pages couldn't be fetched this run.
