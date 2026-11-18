@@ -1,0 +1,109 @@
+{
+  "type": "daily",
+  "date": "2026-11-18",
+  "title": "Blink bundle £24.99, Tefal XXL air fryer £109.99 and COSRX snail essence £9.99",
+  "description": "Wednesday's UK deals: Blink camera and doorbell bundle £24.99, Tefal 11L air fryer £109.99, COSRX snail essence £9.99, plus Nutribullet and Nespresso.",
+  "intro": "**Wednesday's standout is a Blink Outdoor 4 camera and Blink Video Doorbell bundle for £24.99 at Amazon.** In the kitchen, the Tefal XXL 11-litre air fryer is £109.99, the Nutribullet 600 Series is £49.95 and the Nespresso Vertuo Pop is half price at £49. For skincare fans, COSRX's Black Friday sale on Amazon starts today, with its Snail 96 Mucin Power Essence at £9.99.\n\nPrices were reported on 17 November, or announced for today, so check the product page before you buy. Buy now or wait? Amazon's Black Friday Week starts tomorrow (19 November), so smart-home and tech prices could still move. The Blink bundle and COSRX essence are already very cheap, and the iPad is one to wait on.",
+  "deals": [
+    {
+      "name": "Blink Outdoor 4 camera + Blink Video Doorbell bundle",
+      "retailer": "Amazon",
+      "price": 24.99,
+      "was": 129.98,
+      "url": "https://www.amazon.co.uk/s?k=Blink+Outdoor+4+Blink+Video+Doorbell+bundle",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "A wireless outdoor camera and a battery doorbell for £25. The 'was' price adds both list prices together, but this is still less than either usually costs alone. Blink's cloud plan is optional; without it you get live view and alerts. Compare it with Ring in our [home security deals guide](/guides/home-security-deals-uk/)."
+    },
+    {
+      "name": "Tefal XXL 11L Air Fryer",
+      "retailer": "Amazon",
+      "price": 109.99,
+      "was": 199.99,
+      "url": "https://www.amazon.co.uk/s?k=Tefal+XXL+11L+air+fryer",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A big 11-litre single-basket air fryer, so it suits families and batch cooking more than a small model. Under £110 is a fair price for this size. More options in our [air fryer Black Friday guide](/guides/air-fryer-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Nutribullet 600 Series Blender",
+      "retailer": "Amazon",
+      "price": 49.95,
+      "was": 69.99,
+      "url": "https://www.amazon.co.uk/s?k=Nutribullet+600+Series",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The classic personal blender for smoothies and protein shakes, blending straight into a cup you can take with you. Around £50 is a good price for the 600-watt model."
+    },
+    {
+      "name": "COSRX Advanced Snail 96 Mucin Power Essence",
+      "retailer": "Amazon",
+      "price": 9.99,
+      "url": "https://www.amazon.co.uk/s?k=COSRX+Advanced+Snail+96+Mucin+Power+Essence",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "The cult hydrating essence that went viral on TikTok. COSRX says £9.99 is its lowest price on Amazon UK, and the sale runs from today to 30 November. Its Snail 92 All in One Cream is £11.99 in the same sale."
+    },
+    {
+      "name": "Nespresso Vertuo Pop coffee machine",
+      "retailer": "Currys",
+      "price": 49,
+      "was": 99,
+      "url": "https://www.currys.co.uk/search?q=Nespresso+Vertuo+Pop",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "Nespresso's smallest Vertuo machine, which reads each pod's barcode and brews espresso or a full mug at one button press. Half price makes it a cheap way into pod coffee, though the pods cost more than beans over time. See our [coffee machine Black Friday guide](/guides/coffee-machine-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Kenwood kMix KMX760 Stand Mixer",
+      "retailer": "Currys",
+      "price": 219,
+      "was": 479.99,
+      "url": "https://www.currys.co.uk/search?q=Kenwood+kMix+KMX760",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A sturdy metal-bodied stand mixer for cakes, bread and meringues. Ignore the £480 'was' price, which it rarely sells at; £219 is still a lot of mixer for the money next to a KitchenAid. Compare in our [KitchenAid Black Friday guide](/guides/kitchenaid-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Levoit Core Mini Air Purifier",
+      "retailer": "Amazon",
+      "price": 37.98,
+      "was": 49.99,
+      "url": "https://www.amazon.co.uk/s?k=Levoit+Core+Mini+air+purifier",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A small, quiet purifier for a bedroom or home office, useful for dust and pet hair. It's for one small room, not a whole floor."
+    },
+    {
+      "name": "Tapo P110 Smart Plug with Energy Monitoring (2-pack)",
+      "retailer": "Amazon",
+      "price": 14.24,
+      "was": 23.99,
+      "url": "https://www.amazon.co.uk/s?k=Tapo+P110+2+pack",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Two smart plugs that show how much electricity each appliance uses, handy for finding the energy hogs this winter. About £7 a plug is a good price."
+    },
+    {
+      "name": "Nothing Ear (3a) wireless earbuds",
+      "retailer": "Amazon",
+      "price": 59,
+      "was": 99,
+      "url": "https://www.amazon.co.uk/s?k=Nothing+Ear+3a",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Noise-cancelling earbuds with Nothing's see-through design, for £40 less than usual. A sensible gift for anyone who doesn't need AirPods."
+    },
+    {
+      "name": "Apple iPad (A16, 11-inch, 128GB, Wi-Fi)",
+      "retailer": "Amazon",
+      "price": 399,
+      "was": 429,
+      "url": "https://www.amazon.co.uk/s?k=Apple+iPad+A16+128GB",
+      "verdict": "Wait for BF",
+      "verdictLevel": "wait",
+      "note": "£30 off Apple's £429 price, which rose by £100 in June. It's a small saving, so wait for Black Friday Week unless you need it now. Our new [iPad deals UK guide](/guides/ipad-deals-uk/) explains which model to buy."
+    }
+  ],
+  "body": "## Worth waiting for?\n\nAmazon's Black Friday Week starts tomorrow and runs to Cyber Monday on 30 November. Many of its best prices need Prime, so if you're not a member, our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains when to start the 30-day trial. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) lists every retailer's dates.\n\nApple discounts have been small so far. The iPad is only £30 off, so unless you need one this week, wait to see what Amazon does from tomorrow.\n\n## This week: Black Friday kitchen deals\n\nAir fryers, blenders and pod coffee machines are already close to their lows. Our [Black Friday kitchen deals 2026 spotlight](/spotlight/black-friday-kitchen-deals-2026/) shows what to buy now, what to wait for and the prices worth paying."
+}

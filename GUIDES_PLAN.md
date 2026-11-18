@@ -105,7 +105,7 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [x] dyson-v15-deals-uk: Dyson V15 Detect deals UK
 - [x] airpods-pro-deals-uk: AirPods Pro deals UK
 - [x] apple-watch-deals-uk: Apple Watch deals UK
-- [ ] ipad-deals-uk: iPad deals UK (which model to buy)
+- [x] ipad-deals-uk: iPad deals UK (which model to buy)
 - [ ] nintendo-switch-2-bundle-deals-uk: Nintendo Switch 2 bundle deals UK
 - [ ] ps5-bundle-deals-uk: PS5 bundle deals UK
 - [ ] lego-advent-calendar-2026-deals: Lego advent calendar 2026 deals
