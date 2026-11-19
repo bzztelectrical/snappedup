@@ -110,7 +110,18 @@ function dealCard(d) {
     ${off ? `<span class="off">−${off}%</span>` : ""}
     <a class="btn" href="${esc(href)}" rel="sponsored nofollow noopener" target="_blank">See deal<span aria-hidden="true"> →</span></a>
   </div>
+  ${amazonCompare(d)}
 </article>`;
+}
+
+// Secondary "compare on Amazon" link on every non-Amazon card (tagged search; opt out with "amazonCompare": false).
+function amazonCompare(d) {
+  if (d.amazonCompare === false) return "";
+  if (/amazon/i.test(d.retailer || "") || /amazon\.co\.uk/.test(d.url || "")) return "";
+  const q = String(d.name || "").replace(/\([^)]*\)/g, " ").replace(/[+–—|]/g, " ").replace(/\s+/g, " ").trim();
+  if (!q) return "";
+  const url = affiliate(`https://www.amazon.co.uk/s?k=${encodeURIComponent(q).replace(/%20/g, "+")}`);
+  return `<a class="amz-compare" href="${esc(url)}" rel="sponsored nofollow noopener" target="_blank">Compare today's price on Amazon<span aria-hidden="true"> →</span></a>`;
 }
 
 const deals = (list = []) => (list.length ? `<div class="deals">${list.map(dealCard).join("\n")}</div>` : "");

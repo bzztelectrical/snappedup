@@ -151,3 +151,7 @@ nav a:hover { color: var(--ink); }
 
 .crumbs { font-size: 0.85rem; color: var(--muted); margin: 22px 0 -24px; }
 .crumbs a { color: var(--muted); }
+
+/* secondary Amazon price-check link on non-Amazon deal cards */
+.amz-compare { display: inline-block; align-self: flex-start; margin-top: 2px; font-size: 0.86rem; font-weight: 600; color: var(--muted); text-decoration: underline; text-decoration-color: #ff9900; text-underline-offset: 3px; }
+.amz-compare:hover { color: var(--ink); }
