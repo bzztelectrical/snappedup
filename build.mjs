@@ -4,6 +4,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import crypto from "node:crypto";
 
 const ROOT = path.dirname(new URL(import.meta.url).pathname);
 const OUT = path.join(ROOT, "dist");
@@ -116,6 +117,8 @@ const deals = (list = []) => (list.length ? `<div class="deals">${list.map(dealC
 
 // Sitewide Amazon bar: filled in once posts are loaded (see "sitewide Amazon ticker" below).
 let topBanner = "";
+// Cache-buster: changes whenever style.css changes, so browsers never pair new HTML with an old stylesheet.
+const cssVersion = crypto.createHash("md5").update(fs.readFileSync(path.join(ROOT, "static/style.css"))).digest("hex").slice(0, 8);
 
 const disclosureNote = `<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
 
@@ -146,7 +149,7 @@ function layout({ title, seoTitle, description, pathname, body, type = "website"
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/feed.xml">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/style.css?v=${cssVersion}">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}
 </head>
 <body>
