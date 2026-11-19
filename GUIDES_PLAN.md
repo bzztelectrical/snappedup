@@ -15,8 +15,8 @@
 Why: Christmas gift searches peak from late November to about 20 December and nearly everything on these lists is sold on Amazon. Every card also gets an automatic Amazon compare link, and gift pages convert well. After that come high-ticket Amazon categories (more £ per sale) and January/Valentine's pages, which need to be live 3–6 weeks early to rank. Each guide: 8–12 picks across a spread of prices, a short "best overall / best cheap / best splurge" summary at the top, and FAQs.
 
 ### A. Christmas gifts (write by 10 Dec, refresh weekly until 20 Dec)
-- [ ] christmas-gifts-for-dad-2026: Christmas gifts for Dad 2026 UK: ideas he'll actually use
-- [ ] christmas-gifts-for-mum-2026: Christmas gifts for Mum 2026 UK
+- [x] christmas-gifts-for-dad-2026: Christmas gifts for Dad 2026 UK: ideas he'll actually use
+- [x] christmas-gifts-for-mum-2026: Christmas gifts for Mum 2026 UK
 - [ ] gifts-for-men-who-have-everything-uk: Gifts for men who have everything (UK)
 - [ ] gifts-for-women-who-have-everything-uk: Gifts for women who have everything (UK)
 - [ ] gifts-for-teenage-boys-2026: Best gifts for teenage boys 2026 UK
