@@ -9,7 +9,7 @@
   "tags": [
     "black-friday"
   ],
-  "intro": "**Last checked: Thursday 19 November, 9:53am.** The three standouts right now: the **Kindle Paperwhite Signature Edition at £139.99** (still its record low), the **Garmin fēnix 8 at £484.99**, well under its recent low, and the **Ninja Foodi Dual Zone AF300UK air fryer at £119.99**, below last year's Black Friday price. All three are at Amazon.\n\nBlack Friday 2026 is on Friday 27 November, and Amazon's Black Friday Week started this morning and runs to 30 November. We check this page three times a day and remove anything that has sold out or gone back up. This morning we added the Garmin fēnix 8, the Fire TV Stick 4K Max (£46.99), the Ninja StaySharp knife block and Argos's Lego Hogsmeade Village, and took off deals we couldn't re-check today (Tefal XXL, Shark Stratos, Blink Mini and the Invictus gift set). Prices were reported on 18 and 19 November, so check the price on the retailer's page before you buy.",
+  "intro": "**Last checked: Thursday 19 November, 1:53pm.** The three standouts right now: the **Kindle Paperwhite Signature Edition at £139.99** (still its record low), the **Garmin fēnix 8 at £484.99**, well under its recent low, and the **Ninja Foodi Dual Zone AF300UK air fryer at £119.99**, below last year's Black Friday price. All three are at Amazon.\n\nBlack Friday 2026 is on Friday 27 November, and Amazon's Black Friday Week runs until 30 November. We check this page three times a day and remove anything that has sold out or gone back up. This afternoon we added the Samsung Galaxy Watch Ultra (£349), the Oura Ring 5 (£399), Philips Hue Festavia Christmas lights (£119.99) and Lego Rivendell (£350), all at Amazon. We took off the two Beats deals, the Oral-B iO3 and the Philips OneBlade because we couldn't re-check their prices today. Prices were reported on 18 and 19 November, so check the price on the retailer's page before you buy.",
   "deals": [
     {
       "name": "Amazon Kindle Paperwhite Signature Edition (2024, 32GB)",
@@ -29,7 +29,7 @@
       "url": "https://www.amazon.co.uk/s?k=Garmin+fenix+8+47mm",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "Garmin's top multisport watch with maps and a torch. Which?'s six-month low on Amazon was about £553, so £484.99 is well below anything seen recently. Check the case size and screen type on the listing."
+      "note": "Garmin's top multisport watch with maps and a torch, still £484.99 on 19 November. Which?'s six-month low on Amazon was about £553, so this is well below anything seen recently. Check the case size and screen type on the listing."
     },
     {
       "name": "Ninja Foodi Dual Zone 7.6L Air Fryer (AF300UK)",
@@ -40,6 +40,16 @@
       "verdict": "Lowest price",
       "verdictLevel": "great",
       "note": "The two-drawer Ninja most families buy. It was £125 to £128 last Black Friday, so this already beats it. More in our [air fryer Black Friday guide](/guides/air-fryer-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Samsung Galaxy Watch Ultra (2025)",
+      "retailer": "Amazon",
+      "price": 349,
+      "was": 599,
+      "url": "https://www.amazon.co.uk/s?k=Samsung+Galaxy+Watch+Ultra+2025",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "Samsung's toughest smartwatch with a titanium case and multi-day battery, £250 off at Amazon (listed 19 November). Best with an Android phone; iPhone owners should look at Apple Watch instead."
     },
     {
       "name": "Amazon Fire TV Stick 4K Max (latest model)",
@@ -72,14 +82,14 @@
       "note": "Amazon's own 4K TV with Fire TV built in, at its lowest price yet. A sensible bedroom or second-room TV. More in our [TV Black Friday guide](/guides/tv-black-friday-deals-2026/)."
     },
     {
-      "name": "Beats Powerbeats Fit Wireless Earbuds",
+      "name": "Oura Ring 5",
       "retailer": "Amazon",
-      "price": 99,
-      "was": 199.95,
-      "url": "https://www.amazon.co.uk/s?k=Beats+Powerbeats+Fit",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "Half price. Secure wingtip fit for running and the gym, with active noise cancelling and quick pairing with iPhones. Reported this morning (18 November)."
+      "price": 399,
+      "was": 499,
+      "url": "https://www.amazon.co.uk/s?k=Oura+Ring+5",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A sleep and recovery tracker you wear as a ring, £100 off at Amazon (listed 19 November). Remember the app needs a monthly membership after the first month, so factor that in."
     },
     {
       "name": "Ring Battery Video Doorbell + Ring Indoor Camera bundle",
@@ -162,16 +172,6 @@
       "note": "Noise-cancelling earbuds with a clear, punchy sound for £40 off. A cheaper alternative to AirPods; see our [AirPods Black Friday guide](/guides/airpods-black-friday-deals-2026/) for Apple prices."
     },
     {
-      "name": "Beats Studio Pro Wireless Over-Ear Headphones",
-      "retailer": "Amazon",
-      "price": 159,
-      "was": 249.95,
-      "url": "https://www.amazon.co.uk/s?k=Beats+Studio+Pro",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "Noise-cancelling over-ears with USB-C audio. A good alternative to the Sony XM4 if you use an iPhone. Reported this morning (18 November)."
-    },
-    {
       "name": "Sonos Move 2 Portable Speaker",
       "retailer": "Amazon",
       "price": 359,
@@ -179,7 +179,16 @@
       "url": "https://www.amazon.co.uk/s?k=Sonos+Move+2",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "A big-sounding battery speaker that works on Wi-Fi at home and Bluetooth in the garden. £90 off at Amazon, reported 18 November."
+      "note": "A big-sounding battery speaker that works on Wi-Fi at home and Bluetooth in the garden. £90 off at Amazon, still live on 19 November."
+    },
+    {
+      "name": "Philips Hue Festavia Smart String Lights (20m)",
+      "retailer": "Amazon",
+      "price": 119.99,
+      "url": "https://www.amazon.co.uk/s?k=Philips+Hue+Festavia+20m",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "good",
+      "note": "App-controlled Christmas tree lights with gradient effects, 30% off at Amazon this morning (19 November), with an extra voucher on some listings. Festavia usually sells for £149 to £264 depending on length. Needs a Hue Bridge for the full feature set."
     },
     {
       "name": "Microsoft Surface Laptop (13.8-inch, Snapdragon X2 Plus, 16GB, 512GB)",
@@ -202,26 +211,6 @@
       "note": "Dries and adds volume in one go with a round brush head. £24.99 at Amazon (Currys is £25) is a record low and a good stocking filler. More haircare in our [ghd Black Friday guide](/guides/ghd-black-friday-deals-2026/)."
     },
     {
-      "name": "Oral-B iO Series 3 Electric Toothbrush",
-      "retailer": "Amazon",
-      "price": 49.99,
-      "url": "https://www.amazon.co.uk/s?k=Oral-B+iO+Series+3",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "The cheapest way into Oral-B's iO range. Ignore the £175 'was' price; around £50 is a fair price. See our [Oral-B Black Friday guide](/guides/oral-b-black-friday-deals-2026/).",
-      "was": 175
-    },
-    {
-      "name": "Philips OneBlade 360 Face Trimmer and Shaver",
-      "retailer": "Amazon",
-      "price": 39.99,
-      "was": 59.99,
-      "url": "https://www.amazon.co.uk/s?k=Philips+OneBlade+360",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "Trims, edges and shaves with one flexible blade. A dependable gift under £40."
-    },
-    {
       "name": "Ninja CREAMi Soft Serve",
       "retailer": "Amazon",
       "price": 289,
@@ -229,7 +218,7 @@
       "url": "https://www.amazon.co.uk/s?k=Ninja+Creami+Soft+Serve",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "Soft-serve and scoopable ice cream in one machine, £60 off. Creami prices often dip again in Black Friday Week. See our [Ninja Black Friday guide](/guides/ninja-black-friday-deals-2026/)."
+      "note": "Soft-serve and scoopable ice cream in one machine, £60 off at Amazon (still £289 on 19 November). Creami prices often dip again in Black Friday Week. See our [Ninja Black Friday guide](/guides/ninja-black-friday-deals-2026/)."
     },
     {
       "name": "LEGO Star Wars Advent Calendar 2026",
@@ -252,6 +241,15 @@
       "note": "A 3,228-piece display set with 12 minifigures, £90 off at Argos (reported 18 November). [Check Amazon's price](https://www.amazon.co.uk/s?k=LEGO+Hogsmeade+Village+Collectors+Edition) too, as it often matches. More in our [Lego Black Friday guide](/guides/lego-black-friday-deals-2026/)."
     },
     {
+      "name": "LEGO Icons The Lord of the Rings: Rivendell (10316)",
+      "retailer": "Amazon",
+      "price": 350,
+      "url": "https://www.amazon.co.uk/s?k=LEGO+10316+Rivendell",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The huge 6,000-plus-piece Rivendell display set at 18% off on Amazon (listed 19 November). A big one-off gift for adult Lego fans. More in our [Lego Black Friday guide](/guides/lego-black-friday-deals-2026/)."
+    },
+    {
       "name": "Ninja Foodi StaySharp 6-piece Knife Block (K32006UK)",
       "retailer": "Amazon",
       "price": 109.99,
@@ -262,5 +260,5 @@
       "note": "Five knives with a sharpener built into the block. It hit about £99 last Black Friday, so this could drop another £10 before 27 November. See our [Ninja Black Friday guide](/guides/ninja-black-friday-deals-2026/)."
     }
   ],
-  "body": "## Tech\n\nThe best tech deals right now are on Amazon's own devices: the Kindle Paperwhite Signature, the Ring doorbell bundle, the £24.99 Blink Outdoor 4 and doorbell bundle and the Fire TV Stick 4K. The standard Kindle is £119.99 too, and the faster Fire TV Stick 4K Max is £46.99. The Garmin fēnix 8 at £484.99 is the standout watch deal. Echo speakers are only modestly cut so far (the Echo Spot is £54.99), so they may drop further this week. For laptops, the Surface Laptop at £899 is the biggest cut we've seen. Amazon's own Ember 50-inch 4K TV is at its lowest price yet at £269.99. For headphones, Beats Powerbeats Fit earbuds are half price at £99 and the Beats Studio Pro are £159 and the Sonos Move 2 portable speaker is £359.\n\nMore: [Kindle](/guides/kindle-black-friday-deals-2026/), [Ring doorbells](/guides/ring-doorbell-black-friday-deals-2026/), [AirPods](/guides/airpods-black-friday-deals-2026/), [TVs](/guides/tv-black-friday-deals-2026/) and [Amazon Black Friday 2026](/guides/amazon-black-friday-2026-uk/).\n\n## Home & kitchen\n\nNinja's air fryers are already at or below last year's Black Friday prices, so there's little reason to wait. Coffee machines are well discounted too (the De'Longhi Magnifica Evo Next is £379.99 at Amazon), the Ninja StaySharp knife block is £109.99, and the Dyson V8 Origin at £199.99 (Amazon) is the standout vacuum deal. The Dyson V15 Detect Absolute deals have ended (it's back to about £649), so we've removed it; see our [Dyson V15 guide](/guides/dyson-v15-deals-uk/) for the price to wait for.\n\nMore: [air fryers](/guides/air-fryer-black-friday-deals-2026/), [Ninja](/guides/ninja-black-friday-deals-2026/), [coffee machines](/guides/coffee-machine-black-friday-deals-2026/), [Dyson](/guides/dyson-black-friday-deals-2026/) and [Shark](/guides/shark-black-friday-deals-2026/).\n\n## Beauty\n\nGrooming and haircare gifts are the safest buys: the Oral-B iO3 and Philips OneBlade are at fair prices that rarely go lower, and the Revlon One-Step volumiser is at a record-low £24.99 at Amazon. Perfume gift sets are now properly discounted: The Perfume Shop has Lancôme La Vie Est Belle at £56.24, and Superdrug's Black Friday fragrance event runs until 1 December. Amazon sells most of the same sets, so [compare Amazon's perfume gift set prices](https://www.amazon.co.uk/s?k=perfume+gift+set) before you buy.\n\nMore: [perfume gift sets](/guides/perfume-gift-sets-black-friday-2026/), [ghd](/guides/ghd-black-friday-deals-2026/) and [Oral-B](/guides/oral-b-black-friday-deals-2026/).\n\n## Toys & gifts\n\nAdvent calendars need to arrive by 1 December, so buy those now. For bigger Lego gifts, Argos has Hogsmeade Village down to £260. For toys, Hamleys is running its own Black Friday event, and our guide shows what's worth buying there. Switch 2 bundles are worth checking again as Amazon's sale goes on.\n\nMore: [Hamleys Black Friday 2026](/guides/hamleys-black-friday-2026/), [Lego](/guides/lego-black-friday-deals-2026/), [Lego advent calendars](/guides/lego-advent-calendar-2026/) and [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/).\n\n## How we pick these deals\n\nEvery price comes from the retailer or a trusted deals source dated today or yesterday. We compare it with price history and last year's Black Friday prices, and we leave out deals where the 'was' price is inflated. When Amazon matches the cheapest shop, we link Amazon. Many Amazon prices need Prime during Black Friday Week; our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time a trial.\n\n### When is Black Friday 2026 in the UK?\n\nFriday 27 November, with Cyber Monday on 30 November. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) lists every retailer's dates.\n\n### Should I buy now or wait for Black Friday?\n\nIf a deal here is marked 'Lowest price', it's already at or below last year's Black Friday price, so buy it. Items marked 'Good price' could still fall a little in the final week.\n\n### How often is this page updated?\n\nThree times a day, every day until Cyber Monday. Deals that end or go up in price are removed.\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand prices to wait for."
+  "body": "## Tech\n\nThe best tech deals right now are on Amazon's own devices: the Kindle Paperwhite Signature, the Ring doorbell bundle, the £24.99 Blink Outdoor 4 and doorbell bundle and the Fire TV Stick 4K. The standard Kindle is £119.99 too, and the faster Fire TV Stick 4K Max is £46.99. The Garmin fēnix 8 at £484.99 is the standout watch deal. Echo speakers are only modestly cut so far (the Echo Spot is £54.99), so they may drop further this week. For laptops, the Surface Laptop at £899 is the biggest cut we've seen. Amazon's own Ember 50-inch 4K TV is at its lowest price yet at £269.99. For wearables, the Samsung Galaxy Watch Ultra is £349 (£250 off) and the Oura Ring 5 is £399. For audio, Nothing Ear (3a) earbuds are £59 and the Sonos Move 2 portable speaker is £359. We've dropped the Beats deals until we can confirm they're still live.\n\nMore: [Kindle](/guides/kindle-black-friday-deals-2026/), [Ring doorbells](/guides/ring-doorbell-black-friday-deals-2026/), [AirPods](/guides/airpods-black-friday-deals-2026/), [TVs](/guides/tv-black-friday-deals-2026/) and [Amazon Black Friday 2026](/guides/amazon-black-friday-2026-uk/).\n\n## Home & kitchen\n\nNinja's air fryers are already at or below last year's Black Friday prices, so there's little reason to wait. Coffee machines are well discounted too (the De'Longhi Magnifica Evo Next is £379.99 at Amazon), the Ninja StaySharp knife block is £109.99, the Dyson V8 Origin at £199.99 (Amazon) is the standout vacuum deal, and Philips Hue Festavia smart Christmas lights are 30% off at £119.99. The Dyson V15 Detect Absolute deals have ended (it's back to about £649), so we've removed it; see our [Dyson V15 guide](/guides/dyson-v15-deals-uk/) for the price to wait for.\n\nMore: [air fryers](/guides/air-fryer-black-friday-deals-2026/), [Ninja](/guides/ninja-black-friday-deals-2026/), [coffee machines](/guides/coffee-machine-black-friday-deals-2026/), [Dyson](/guides/dyson-black-friday-deals-2026/) and [Shark](/guides/shark-black-friday-deals-2026/).\n\n## Beauty\n\nThe Revlon One-Step volumiser is at a record-low £24.99 at Amazon, and ghd has cut the Duet Style hot air styler to £259 (£120 off) on its own site. Perfume gift sets are now properly discounted: The Perfume Shop has Lancôme La Vie Est Belle at £56.24, and Superdrug's Black Friday fragrance event runs until 1 December. Amazon sells most of the same sets, so [compare Amazon's perfume gift set prices](https://www.amazon.co.uk/s?k=perfume+gift+set) before you buy.\n\nMore: [perfume gift sets](/guides/perfume-gift-sets-black-friday-2026/), [ghd](/guides/ghd-black-friday-deals-2026/) and [Oral-B](/guides/oral-b-black-friday-deals-2026/).\n\n## Toys & gifts\n\nAdvent calendars need to arrive by 1 December, so buy those now. For bigger Lego gifts, Argos has Hogsmeade Village down to £260 and Amazon has Rivendell at £350. For toys, Hamleys is running its own Black Friday event, and our guide shows what's worth buying there. Switch 2 bundles are worth checking again as Amazon's sale goes on.\n\nMore: [Hamleys Black Friday 2026](/guides/hamleys-black-friday-2026/), [Lego](/guides/lego-black-friday-deals-2026/), [Lego advent calendars](/guides/lego-advent-calendar-2026/) and [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/).\n\n## How we pick these deals\n\nEvery price comes from the retailer or a trusted deals source dated today or yesterday. We compare it with price history and last year's Black Friday prices, and we leave out deals where the 'was' price is inflated. When Amazon matches the cheapest shop, we link Amazon. Many Amazon prices need Prime during Black Friday Week; our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time a trial.\n\n### When is Black Friday 2026 in the UK?\n\nFriday 27 November, with Cyber Monday on 30 November. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) lists every retailer's dates.\n\n### Should I buy now or wait for Black Friday?\n\nIf a deal here is marked 'Lowest price', it's already at or below last year's Black Friday price, so buy it. Items marked 'Good price' could still fall a little in the final week.\n\n### How often is this page updated?\n\nThree times a day, every day until Cyber Monday. Deals that end or go up in price are removed.\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand prices to wait for."
 }
