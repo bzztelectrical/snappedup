@@ -114,17 +114,10 @@ function dealCard(d) {
 
 const deals = (list = []) => (list.length ? `<div class="deals">${list.map(dealCard).join("\n")}</div>` : "");
 
-// Sitewide Amazon bar: first entry whose "until" date (UK) hasn't passed. Rebuilt on every push.
-const todayUK = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/London" });
-const topBanner = (() => {
-  const b = (site.topBanners || []).find((x) => x.until >= todayUK);
-  if (!b) return "";
-  return `<a class="top-banner" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank">
-  <span class="wrap tb-inner"><span class="tb-ad">Ad</span><span class="tb-text"><strong>${esc(b.text)}</strong></span><span class="tb-cta">${esc(b.cta)} <span aria-hidden="true">→</span></span></span>
-</a>`;
-})();
+// Sitewide Amazon bar: filled in once posts are loaded (see "sitewide Amazon ticker" below).
+let topBanner = "";
 
-const disclosureNote =`<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
+const disclosureNote = `<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
 
 function layout({ title, seoTitle, description, pathname, body, type = "website", jsonld, image }) {
   const fullTitle = seoTitle ? seoTitle : title ? (title.length > 48 ? title : `${title} | ${site.name}`) : `${site.name} | ${site.tagline}`;
@@ -205,6 +198,54 @@ for (const p of posts) {
     if (!d.name || !d.url || d.price == null) throw new Error(`${p.file}: every deal needs name, url, price`);
   }
 }
+
+// ---------- sitewide Amazon ticker ----------
+// Banner text/link: first topBanners entry whose "until" (UK date) hasn't passed.
+// Ticker items: Amazon picks from posts updated today or yesterday only (never stale prices).
+const todayUK = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/London" });
+const yesterdayUK = new Date(Date.now() - 864e5).toLocaleDateString("en-CA", { timeZone: "Europe/London" });
+topBanner = (() => {
+  const b = (site.topBanners || []).find((x) => x.until >= todayUK);
+  if (!b) return "";
+  const seen = new Set();
+  const items = [];
+  for (const p of [...posts].sort((x, y) => (y.updated || y.date).localeCompare(x.updated || x.date))) {
+    if ((p.updated || p.date) < yesterdayUK) continue;
+    for (const d of p.deals || []) {
+      if (d.retailer !== "Amazon" || !/amazon\.co\.uk/.test(d.url)) continue;
+      const key = d.name.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim().split(" ").slice(0, 4).join(" "); // one per product family
+      const key2 = key.split(" ").slice(0, 2).join(" ") + "@" + d.price; // same brand, same price = same product
+      if (seen.has(key) || seen.has(key2)) continue;
+      seen.add(key);
+      seen.add(key2);
+      items.push(d);
+    }
+  }
+  // Rank by our own verdict, not by "was" prices (many are inflated RRPs we tell readers to ignore).
+  const rank = { great: 0, good: 1 };
+  items.sort((x, y) => (rank[x.verdictLevel] ?? 2) - (rank[y.verdictLevel] ?? 2));
+  const pick = items.slice(0, 14);
+  const cta = `<a class="tb-cta" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank"><span class="tb-cta-long">${esc(b.cta)}</span><span class="tb-cta-short">All deals</span><span aria-hidden="true"> →</span></a>`;
+  const label = `<span class="tb-label"><span class="tb-ad">Ad</span><strong>${esc(b.text)}</strong></span>`;
+  if (pick.length < 4) {
+    return `<div class="top-banner"><div class="tb-inner tb-static">${label}${cta}</div></div>`;
+  }
+  const li = (d, hidden) => {
+    const badge = d.verdictLevel === "great" && d.verdict && d.verdict.length <= 16 ? ` <span class="tb-off">${esc(d.verdict)}</span>` : "";
+    return `<li><a href="${esc(affiliate(d.url))}" rel="sponsored nofollow noopener" target="_blank"${hidden ? ' tabindex="-1"' : ""}><span class="tb-name">${esc(d.name)}</span> <span class="tb-price">${gbp(d.price)}</span>${badge}</a></li>`;
+  };
+  const list = (hidden) => `<ul class="tb-list"${hidden ? ' aria-hidden="true"' : ""}>${pick.map((d) => li(d, hidden)).join("")}</ul>`;
+  const secs = Math.max(30, pick.length * 5);
+  const checked = new Date().toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "Europe/London" });
+  return `<div class="top-banner" role="region" aria-label="Amazon deals (affiliate links)">
+  <div class="tb-inner">
+    ${label}
+    <div class="tb-ticker"><div class="tb-track" style="--tb-secs:${secs}s">${list(false)}${list(true)}</div></div>
+    ${cta}
+  </div>
+  <p class="tb-note">Amazon prices checked ${esc(checked)} · prices change fast · we may earn commission</p>
+</div>`;
+})();
 
 const pages = readJsonDir(path.join(ROOT, "content/pages"));
 const SECTION = { spotlight: "spotlight", guide: "guides", daily: "deals" };
