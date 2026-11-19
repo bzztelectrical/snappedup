@@ -3,7 +3,8 @@
 Set up 19 Nov 2026 (user: "instagram is logged in set it up").
 - Profile: username snappedupdeals, name "Snapped Up", logo = pinterest/snappedup-logo.png, category Shopping & retail (shown), public, Creator (professional) account so posts can be scheduled and insights seen. Not linked to Facebook yet (no Facebook Page exists; never link the user's personal Facebook).
 - Bio: "UK deals actually worth having. Prices checked daily. / Black Friday + Christmas gift guides. / All deals: snappedupdeals.co.uk (affiliate links)".
-- **Website link: NOT set.** Instagram only allows bio links in the mobile app. The user needs to add https://snappedupdeals.co.uk in the app (Edit profile → Links → Add external link).
+- **Website link: NOT set, and Instagram won't allow it until 19 Dec 2026** (new-account limit; user, 19 Nov). Until then captions must NOT say "link in bio". Use "Type snappedupdeals.co.uk into your browser" or "Search Snapped Up Deals on Google" instead. After 19 Dec the user adds the link in the app and captions can go back to "link in bio".
+- (Old note) Instagram only allows bio links in the mobile app. The user needs to add https://snappedupdeals.co.uk in the app (Edit profile → Links → Add external link).
 
 ## How it runs
 - Part of the Monday weekly batch (same single "post all" approval as TikTok + Pinterest).
