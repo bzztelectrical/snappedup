@@ -48,5 +48,28 @@
       "intro": "Gift guides by budget and by person, with real current prices. We update them through to Christmas, so you'll find what's still in stock and still a good deal."
     }
   ],
-  "homeTitle": "UK Deals & Black Friday 2026 Price Guides | Snapped Up"
+  "homeTitle": "UK Deals & Black Friday 2026 Price Guides | Snapped Up",
+  "topBanners": [
+    {
+      "until": "2026-11-30",
+      "label": "Amazon",
+      "text": "Amazon Black Friday is live",
+      "cta": "See today's Amazon deals",
+      "url": "https://www.amazon.co.uk/blackfriday"
+    },
+    {
+      "until": "2026-12-24",
+      "label": "Amazon",
+      "text": "Amazon Christmas deals",
+      "cta": "See today's Amazon deals",
+      "url": "https://www.amazon.co.uk/deals"
+    },
+    {
+      "until": "2099-12-31",
+      "label": "Amazon",
+      "text": "Amazon's deals of the day",
+      "cta": "See today's Amazon deals",
+      "url": "https://www.amazon.co.uk/deals"
+    }
+  ]
 }

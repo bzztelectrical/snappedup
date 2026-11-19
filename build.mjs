@@ -114,7 +114,17 @@ function dealCard(d) {
 
 const deals = (list = []) => (list.length ? `<div class="deals">${list.map(dealCard).join("\n")}</div>` : "");
 
-const disclosureNote = `<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
+// Sitewide Amazon bar: first entry whose "until" date (UK) hasn't passed. Rebuilt on every push.
+const todayUK = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/London" });
+const topBanner = (() => {
+  const b = (site.topBanners || []).find((x) => x.until >= todayUK);
+  if (!b) return "";
+  return `<a class="top-banner" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank">
+  <span class="wrap tb-inner"><span class="tb-ad">Ad</span><span class="tb-text"><strong>${esc(b.text)}</strong></span><span class="tb-cta">${esc(b.cta)} <span aria-hidden="true">→</span></span></span>
+</a>`;
+})();
+
+const disclosureNote =`<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
 
 function layout({ title, seoTitle, description, pathname, body, type = "website", jsonld, image }) {
   const fullTitle = seoTitle ? seoTitle : title ? (title.length > 48 ? title : `${title} | ${site.name}`) : `${site.name} | ${site.tagline}`;
@@ -147,6 +157,7 @@ function layout({ title, seoTitle, description, pathname, body, type = "website"
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}
 </head>
 <body>
+${topBanner}
 <header class="site-head">
   <div class="wrap head-inner">
     <a class="logo" href="/"><span class="logo-mark" aria-hidden="true"></span>Snapped&nbsp;Up</a>
