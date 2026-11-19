@@ -11,6 +11,67 @@
 - **The top pages earn almost nothing.** AirPods (Very/John Lewis), perfume (The Perfume Shop), TV (Currys/Richer Sounds/Argos) and when-is-BF have no Amazon or Awin picks. Amazon converts at ~11% for us (Associates, 16 Nov: £14.53 this month, 5 items, 46 clicks). On each refresh, add the Amazon listing as a pick **whenever Amazon's price is within a few pounds of the cheapest** (check via PriceSpy). Never pick a worse deal just because it earns. when-is-BF now links Amazon's BF page + Prime trial (16 Nov).
 - Top pages, 7 days to 16 Nov: when-is-black-friday 60, airpods-black-friday 34, home 31, perfume-gift-sets 29, tv-black-friday 23. Keep these fresh daily until Cyber Monday.
 
+## RAMP-UP (19 Nov 2026): work this list top to bottom before anything else (user: £1,000/week by end of Feb 2027)
+Why: Christmas gift searches peak from late November to about 20 December and nearly everything on these lists is sold on Amazon. Every card also gets an automatic Amazon compare link, and gift pages convert well. After that come high-ticket Amazon categories (more £ per sale) and January/Valentine's pages, which need to be live 3–6 weeks early to rank. Each guide: 8–12 picks across a spread of prices, a short "best overall / best cheap / best splurge" summary at the top, and FAQs.
+
+### A. Christmas gifts (write by 10 Dec, refresh weekly until 20 Dec)
+- [ ] christmas-gifts-for-dad-2026: Christmas gifts for Dad 2026 UK: ideas he'll actually use
+- [ ] christmas-gifts-for-mum-2026: Christmas gifts for Mum 2026 UK
+- [ ] gifts-for-men-who-have-everything-uk: Gifts for men who have everything (UK)
+- [ ] gifts-for-women-who-have-everything-uk: Gifts for women who have everything (UK)
+- [ ] gifts-for-teenage-boys-2026: Best gifts for teenage boys 2026 UK
+- [ ] gifts-for-teenage-girls-2026: Best gifts for teenage girls 2026 UK
+- [ ] gifts-for-gamers-uk: Gifts for gamers UK (under £20, £50 and £100)
+- [ ] tech-gifts-under-50-uk: Best tech gifts under £50 UK
+- [ ] christmas-gifts-under-20-uk: Christmas gifts under £20 UK
+- [ ] christmas-gifts-under-30-uk: Christmas gifts under £30 UK
+- [ ] gifts-for-boyfriend-christmas-2026: Christmas gifts for your boyfriend 2026
+- [ ] gifts-for-girlfriend-christmas-2026: Christmas gifts for your girlfriend 2026
+- [ ] christmas-gifts-for-grandparents-uk: Christmas gifts for grandparents UK
+- [ ] lego-gifts-for-adults-uk: Best Lego sets for adults (gift guide)
+- [ ] stocking-fillers-for-adults-uk: Stocking fillers for adults UK
+- [ ] gifts-for-coffee-lovers-uk: Gifts for coffee lovers UK (Rocket Espresso for the splurge, Awin)
+- [ ] gifts-for-gardeners-uk: Gifts for gardeners UK
+- [ ] gifts-for-people-who-love-cooking-uk: Gifts for people who love cooking UK
+- [ ] gifts-for-runners-uk: Gifts for runners UK
+- [ ] gifts-for-book-lovers-uk: Gifts for book lovers UK (Kindle + Audible/Kindle Unlimited bounty mentions)
+- [ ] best-toys-for-3-year-olds-2026: Best toys for 3-year-olds 2026 UK
+- [ ] best-toys-for-5-year-olds-2026: Best toys for 5-year-olds 2026 UK
+- [ ] best-toys-for-8-year-olds-2026: Best toys for 8-year-olds 2026 UK
+- [ ] best-gifts-for-10-year-olds-2026: Best gifts for 10-year-olds 2026 UK
+- [ ] last-minute-christmas-gifts-amazon-2026: Last-minute Christmas gifts with Amazon next-day delivery (publish ~12 Dec; include Amazon's last order dates)
+
+### B. Amazon bounty pages (free sign-ups pay £3–£5 each; evergreen)
+- [ ] amazon-music-unlimited-free-trial-uk: Amazon Music Unlimited free trial UK: how long, price after, how to cancel (£4.50 bounty)
+- [ ] prime-video-free-trial-uk: Prime Video free trial UK and what's on it this month (£3)
+- [ ] prime-student-uk: Amazon Prime Student UK: 6-month free trial, who qualifies (£3)
+- [ ] audible-vs-kindle-unlimited-uk: Audible vs Kindle Unlimited: which subscription is worth it? (both bounties)
+- [ ] best-audiobooks-for-christmas-2026: Best audiobooks to gift or listen to this Christmas (Audible trial)
+
+### C. High-ticket Amazon categories (more per sale)
+- [ ] robot-vacuum-deals-uk: Best robot vacuum deals UK (Roborock, Eufy, Shark)
+- [ ] laptop-deals-uk: Best laptop deals UK (under £500, £800, £1,000)
+- [ ] soundbar-deals-uk: Best soundbar deals UK (Sonos, Samsung, LG, Sony)
+- [ ] smartwatch-deals-uk: Best smartwatch deals UK (Apple, Samsung, Garmin)
+- [ ] garmin-deals-uk: Garmin deals UK: Forerunner, Venu and fēnix
+- [ ] noise-cancelling-headphones-deals-uk: Best noise-cancelling headphones deals UK (Sony, Bose, Edifier)
+- [ ] gaming-monitor-deals-uk: Best gaming monitor deals UK
+- [ ] bean-to-cup-coffee-machine-deals-uk: Best bean-to-cup coffee machine deals UK (De'Longhi, Sage)
+- [ ] tv-under-500-uk: Best TVs under £500 UK
+- [ ] samsung-galaxy-tab-deals-uk: Samsung Galaxy Tab deals UK
+
+### D. Boxing Day, January and Valentine's (live by the dates shown)
+- [ ] amazon-boxing-day-sale-2026: Amazon Boxing Day sale 2026: what to expect (by 10 Dec)
+- [ ] january-sales-2027-uk: January sales 2027 UK: dates and best deals (by 15 Dec)
+- [ ] fitness-tracker-deals-uk: Best fitness tracker deals UK (new year; by 20 Dec)
+- [ ] exercise-bike-deals-uk: Best exercise bike deals UK (by 20 Dec)
+- [ ] home-gym-equipment-deals-uk: Home gym equipment deals UK: dumbbells, benches, mats (by 20 Dec)
+- [ ] air-fryer-deals-uk: Best air fryer deals UK (evergreen version of the BF page; by 1 Jan)
+- [ ] blue-monday-self-care-gifts: Self-care treats under £25 (by 5 Jan)
+- [ ] valentines-gifts-for-him-2027: Valentine's gifts for him 2027 UK (by 15 Jan)
+- [ ] valentines-gifts-for-her-2027: Valentine's gifts for her 2027 UK (by 15 Jan)
+- [ ] mothers-day-gifts-2027-uk: Mother's Day gifts 2027 UK (UK Mother's Day is 14 Mar 2027; by 10 Feb)
+
 # Guides plan
 
 Evergreen buying guides to write, roughly in priority order. The daily task takes the top unchecked item, publishes it as a `type: "guide"` post, and ticks it here. Re-order freely; add ideas found while researching.
