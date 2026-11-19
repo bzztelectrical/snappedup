@@ -124,7 +124,16 @@ function amazonCompare(d) {
   return `<a class="amz-compare" href="${esc(url)}" rel="sponsored nofollow noopener" target="_blank">Compare today's price on Amazon<span aria-hidden="true"> →</span></a>`;
 }
 
-const deals = (list = []) => (list.length ? `<div class="deals">${list.map(dealCard).join("\n")}</div>` : "");
+// "Our top picks" box at the top of guides: 3 direct product links (great verdicts first, then Amazon), above the intro.
+function quickPicks(list = []) {
+  if (!list || list.length < 4) return "";
+  const rank = (d) => (d.verdictLevel === "great" ? 0 : d.verdictLevel === "good" ? 1 : 2) * 2 + (/amazon/i.test(d.retailer || "") ? 0 : 1);
+  const pick = [...list].map((d, i) => [d, i]).sort((a, b) => rank(a[0]) - rank(b[0]) || a[1] - b[1]).slice(0, 3).map((x) => x[0]);
+  const row = (d) => `<li><span class="qp-name">${esc(d.name)}</span><span class="qp-meta"><strong>${gbp(d.price)}</strong> at ${esc(d.retailer || "")}</span><a class="qp-btn" href="${esc(affiliate(d.url))}" rel="sponsored nofollow noopener" target="_blank">See deal<span aria-hidden="true"> →</span></a></li>`;
+  return `<aside class="quick-picks" aria-label="Our top picks"><p class="qp-title">Our top picks right now</p><ol>${pick.map(row).join("")}</ol><p class="qp-note">Prices as checked on the date above. <a href="#deals">See all ${list.length} picks ↓</a></p></aside>`;
+}
+
+const deals = (list = []) => (list.length ? `<div class="deals" id="deals">${list.map(dealCard).join("\n")}</div>` : "");
 
 // Sitewide Amazon bar: filled in once posts are loaded (see "sitewide Amazon ticker" below).
 let topBanner = "";
@@ -309,6 +318,7 @@ for (const p of posts) {
 <article class="post">
   <p class="kicker">${p.type === "spotlight" ? "This week's spotlight" : p.type === "guide" ? "Buying guide · Updated" : "Daily deals"} · <time datetime="${p.updated || p.date}">${fmtDate(p.updated || p.date)}</time></p>
   <h1>${esc(p.title)}</h1>
+  ${p.type === "guide" ? quickPicks(p.deals) : ""}
   <div class="prose lede">${md(p.intro || "")}</div>
   ${deals(p.deals)}
   ${p.body ? `<div class="prose">${md(p.body)}</div>` : ""}
