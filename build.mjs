@@ -213,7 +213,8 @@ topBanner = (() => {
   const seen = new Set();
   const items = [];
   for (const p of [...posts].sort((x, y) => (y.updated || y.date).localeCompare(x.updated || x.date))) {
-    if ((p.updated || p.date) < yesterdayUK) continue;
+    // fresh = updated today/yesterday, or a partner promo with fixed prices until p.tickerUntil
+    if ((p.updated || p.date) < yesterdayUK && !(p.tickerUntil && p.tickerUntil >= todayUK)) continue;
     let fromThis = 0;
     for (const d of p.deals || []) {
       if (fromThis >= 3) break; // variety: max 3 ticker items per page
