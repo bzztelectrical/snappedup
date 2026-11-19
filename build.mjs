@@ -229,9 +229,11 @@ topBanner = (() => {
   items.sort((x, y) => (rank[x.verdictLevel] ?? 2) - (rank[y.verdictLevel] ?? 2));
   const pick = items.slice(0, 14);
   const cta = `<a class="tb-cta" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank"><span class="tb-cta-long">${esc(b.cta)}</span><span class="tb-cta-short">All deals</span><span aria-hidden="true"> →</span></a>`;
+  const tbScript = `<script>(()=>{const b=document.querySelector(".top-banner");if(!b)return;const f=()=>document.documentElement.style.setProperty("--tb-h",b.offsetHeight+"px");f();if(window.ResizeObserver)new ResizeObserver(f).observe(b);})();</script>`;
   const label = `<span class="tb-label"><span class="tb-ad">Ad</span><strong>${esc(b.text)}</strong></span>`;
   if (pick.length < 4) {
-    return `<div class="top-banner"><div class="tb-inner tb-static">${label}${cta}</div></div>`;
+    return `<div class="top-banner"><div class="tb-inner tb-static">${label}${cta}</div></div>
+${tbScript}`;
   }
   const li = (d, hidden) => {
     const badge = d.verdictLevel === "great" && d.verdict && d.verdict.length <= 16 ? ` <span class="tb-off">${esc(d.verdict)}</span>` : "";
@@ -247,7 +249,8 @@ topBanner = (() => {
     ${cta}
   </div>
   <p class="tb-note">Amazon prices checked ${esc(checked)} · prices change fast · we may earn commission</p>
-</div>`;
+</div>
+${tbScript}`;
 })();
 
 const pages = readJsonDir(path.join(ROOT, "content/pages"));

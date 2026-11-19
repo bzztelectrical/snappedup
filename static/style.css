@@ -22,7 +22,7 @@
   }
 }
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--tb-h, 0px) + 76px); }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.6 var(--sans); }
 a { color: inherit; text-decoration-color: var(--tag); text-underline-offset: 3px; }
 a:hover { color: var(--tag); }
@@ -42,7 +42,9 @@ nav a { text-decoration: none; color: var(--muted); }
 nav a:hover { color: var(--ink); }
 
 /* sitewide Amazon ticker */
-.top-banner { background: #131921; color: #fff; font-size: 0.9rem; border-bottom: 3px solid #ff9900; }
+.top-banner { background: #131921; color: #fff; font-size: 0.9rem; border-bottom: 3px solid #ff9900; position: sticky; top: 0; z-index: 20; }
+/* header sits just under the pinned Amazon bar (height set by a tiny script; falls back to 0) */
+.top-banner ~ .site-head { top: var(--tb-h, 0px); }
 .top-banner a { color: #fff; text-decoration: none; }
 .tb-inner { display: flex; align-items: center; gap: 14px; min-height: 46px; padding: 0 16px; max-width: 1400px; margin: 0 auto; }
 .tb-static { justify-content: center; }
@@ -72,6 +74,8 @@ nav a:hover { color: var(--ink); }
   .tb-inner { flex-wrap: wrap; gap: 0 10px; padding: 6px 12px 0; justify-content: space-between; }
   .tb-label { order: 1; font-size: 0.85rem; }
   .tb-cta { order: 2; font-size: 0.8rem; padding: 4px 11px; }
+  html { scroll-padding-top: calc(var(--tb-h, 0px) + 12px); }
+  .top-banner ~ .site-head { position: relative; top: 0; } /* phones: only the Amazon bar stays pinned */
   .tb-cta-long { display: none; }
   .tb-cta-short { display: inline; }
   .tb-note { font-size: 0.62rem; padding: 0 8px 4px; }
