@@ -70,7 +70,7 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [ ] blue-monday-self-care-gifts: Self-care treats under £25 (by 5 Jan)
 - [ ] valentines-gifts-for-him-2027: Valentine's gifts for him 2027 UK (by 15 Jan)
 - [ ] valentines-gifts-for-her-2027: Valentine's gifts for her 2027 UK (by 15 Jan)
-- [ ] mothers-day-gifts-2027-uk: Mother's Day gifts 2027 UK (UK Mother's Day is 14 Mar 2027; by 10 Feb)
+- [ ] mothers-day-gifts-2027-uk: Mother's Day gifts 2027 UK (UK Mother's Day is Sun 7 Mar 2027; by 5 Feb)
 
 # Guides plan
 
