@@ -1,0 +1,260 @@
+{
+ "source": "Lesley Lv (Thraive/PartnerBoost) email 19 Nov 2026, 'Edifier Deal Information.xlsx', UK tab. One colour per model listed; other colours same price except S880DB Black £234.91, S300 Black Walnut/Brown £199.48, MP330 Black/White £79.99, G2000 Pro White £88.99, MR5 White £188.99.",
+ "valid": "2026-11-19 to 2026-11-30 (Amazon UK)",
+ "codes": "US/CA only, none for UK",
+ "deals": [
+  {
+   "model": "S5",
+   "category": "Subwoofers",
+   "colour": "Black",
+   "discountPct": 40.6,
+   "price": 296.99,
+   "impliedList": 499.98,
+   "asin": "B0D6B6SDGJ",
+   "url": "https://www.amazon.co.uk/dp/B0D6B6SDGJ",
+   "dates": "Nov 19–30 2026"
+  },
+  {
+   "model": "ES850NB",
+   "category": "Headphones",
+   "colour": "Black",
+   "discountPct": 53.34,
+   "price": 69.99,
+   "impliedList": 150.0,
+   "asin": "B0F1FVM3LT",
+   "url": "https://www.amazon.co.uk/dp/B0F1FVM3LT",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "WH950NB (2025)",
+   "category": "Headphones",
+   "colour": "Black",
+   "discountPct": 55.56,
+   "price": 79.99,
+   "impliedList": 180.0,
+   "asin": "B0F6S7B3R6",
+   "url": "https://www.amazon.co.uk/dp/B0F6S7B3R6",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "G5 MAX",
+   "category": "Headphones",
+   "colour": "Cosmic Gray",
+   "discountPct": 31.25,
+   "price": 109.99,
+   "impliedList": 159.99,
+   "asin": "B0GKPB74M8",
+   "url": "https://www.amazon.co.uk/dp/B0GKPB74M8",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "NeoBuds Plus",
+   "category": "Earphones",
+   "colour": "Shadow Black",
+   "discountPct": 46.16,
+   "price": 69.99,
+   "impliedList": 130.0,
+   "asin": "B0DHRMD3JT",
+   "url": "https://www.amazon.co.uk/dp/B0DHRMD3JT",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "NeoBuds Planar",
+   "category": "Earphones",
+   "colour": "Shadow Black",
+   "discountPct": 55.0,
+   "price": 89.99,
+   "impliedList": 199.98,
+   "asin": "B0DR7LSNQ7",
+   "url": "https://www.amazon.co.uk/dp/B0DR7LSNQ7",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "MR4.5",
+   "category": "Speakers",
+   "colour": "Black",
+   "discountPct": 20.0,
+   "price": 159.99,
+   "impliedList": 199.99,
+   "asin": "B0H14MPKMT",
+   "url": "https://www.amazon.co.uk/dp/B0H14MPKMT",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "MR5",
+   "category": "Speakers",
+   "colour": "Black",
+   "discountPct": 32.14,
+   "price": 189.99,
+   "impliedList": 279.97,
+   "asin": "B0F28FTWVQ",
+   "url": "https://www.amazon.co.uk/dp/B0F28FTWVQ",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "QR65",
+   "category": "Speakers",
+   "colour": "Black",
+   "discountPct": 39.4,
+   "price": 199.99,
+   "impliedList": 330.02,
+   "asin": "B0CPSNSSB5",
+   "url": "https://www.amazon.co.uk/dp/B0CPSNSSB5",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "M90",
+   "category": "Speakers",
+   "colour": "Satin Black",
+   "discountPct": 26.67,
+   "price": 219.99,
+   "impliedList": 300.0,
+   "asin": "B0GC539V44",
+   "url": "https://www.amazon.co.uk/dp/B0GC539V44",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "S880DB MKII",
+   "category": "Speakers",
+   "colour": "White",
+   "discountPct": 31.47,
+   "price": 229.99,
+   "impliedList": 335.6,
+   "asin": "B0FCFYSZSY",
+   "url": "https://www.amazon.co.uk/dp/B0FCFYSZSY",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "R2750DB MKII",
+   "category": "Speakers",
+   "colour": "Black Walnut",
+   "discountPct": 22.86,
+   "price": 269.99,
+   "impliedList": 350.0,
+   "asin": "B0FYHFZF65",
+   "url": "https://www.amazon.co.uk/dp/B0FYHFZF65",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "T5s",
+   "category": "Subwoofers",
+   "colour": "Black",
+   "discountPct": 26.67,
+   "price": 109.99,
+   "impliedList": 149.99,
+   "asin": "B0GXK5515P",
+   "url": "https://www.amazon.co.uk/dp/B0GXK5515P",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "MP330",
+   "category": "Speakers",
+   "colour": "Woodgrain",
+   "discountPct": 46.16,
+   "price": 69.99,
+   "impliedList": 130.0,
+   "asin": "B0F1FWLGBP",
+   "url": "https://www.amazon.co.uk/dp/B0F1FWLGBP",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "S300",
+   "category": "Speakers",
+   "colour": "Pearl White",
+   "discountPct": 26.92,
+   "price": 189.99,
+   "impliedList": 259.98,
+   "asin": "B0F8Q45J4V",
+   "url": "https://www.amazon.co.uk/dp/B0F8Q45J4V",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "G2000 Pro",
+   "category": "Speakers",
+   "colour": "Phantom Black",
+   "discountPct": 40.0,
+   "price": 89.99,
+   "impliedList": 149.98,
+   "asin": "B0F8HFXXVZ",
+   "url": "https://www.amazon.co.uk/dp/B0F8HFXXVZ",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "R20BT",
+   "category": "Speakers",
+   "colour": "Black",
+   "discountPct": 45.01,
+   "price": 32.99,
+   "impliedList": 59.99,
+   "asin": "B0FZHMG8TM",
+   "url": "https://www.amazon.co.uk/dp/B0FZHMG8TM",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "G1000 II",
+   "category": "Speakers",
+   "colour": "Black",
+   "discountPct": 57.15,
+   "price": 29.99,
+   "impliedList": 69.99,
+   "asin": "B0F8QSQR7V",
+   "url": "https://www.amazon.co.uk/dp/B0F8QSQR7V",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "M60",
+   "category": "Speakers",
+   "colour": "Black",
+   "discountPct": 31.25,
+   "price": 109.99,
+   "impliedList": 159.99,
+   "asin": "B0D95QG8W4",
+   "url": "https://www.amazon.co.uk/dp/B0D95QG8W4",
+   "dates": "Nov 10–30 2026"
+  },
+  {
+   "model": "A60",
+   "category": "Speakers",
+   "colour": "Walnut",
+   "discountPct": 35.72,
+   "price": 269.99,
+   "impliedList": 420.02,
+   "asin": "B0H13SBKKS",
+   "url": "https://www.amazon.co.uk/dp/B0H13SBKKS",
+   "dates": "Nov 19–30 2026"
+  },
+  {
+   "model": "A80",
+   "category": "Speakers",
+   "colour": "Walnut",
+   "discountPct": 35.0,
+   "price": 454.99,
+   "impliedList": 699.98,
+   "asin": "B0H2HFCFS6",
+   "url": "https://www.amazon.co.uk/dp/B0H2HFCFS6",
+   "dates": "Nov 19–30 2026"
+  },
+  {
+   "model": "A100",
+   "category": "Speakers",
+   "colour": "Black",
+   "discountPct": 35.0,
+   "price": 519.99,
+   "impliedList": 799.98,
+   "asin": "B0H2HQS8CZ",
+   "url": "https://www.amazon.co.uk/dp/B0H2HQS8CZ",
+   "dates": "Nov 19–30 2026"
+  },
+  {
+   "model": "A200T",
+   "category": "Speakers",
+   "colour": "Red Walnut",
+   "discountPct": 35.0,
+   "price": 584.99,
+   "impliedList": 899.98,
+   "asin": "B0H1464XHD",
+   "url": "https://www.amazon.co.uk/dp/B0H1464XHD",
+   "dates": "Nov 19–30 2026"
+  }
+ ]
+}

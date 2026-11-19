@@ -108,3 +108,10 @@ New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shore
 - Once approved, apply to **Edifier UK (139277)**, or ask Lesley to invite publisher ID 3627187 directly. Commission is 10%. Early Bird BF offers run until 30 Nov.
 - 19 Nov: replied to Lesley from hello@ (now verified in Gmail Send-as): accepted 10%, gave publisher ID 3627187, asked her to invite us to Edifier UK 139277, asked for the deal sheet as an attachment, asked whether to join MERACH on Tradedoubler now or wait for Impact.
 ### Tradedoubler (MERACH DTC): not joined yet. MERACH is moving to Impact, so check with Lesley before signing up.
+
+### 19 Nov 2026, Lesley's reply (14:22)
+- She has sent the PartnerBoost invitation (not in Gmail yet, so check the PartnerBoost dashboard once the user logs in) and the Edifier deal sheet. UK deals are saved in partners/edifier-uk-bf-2026.json: Amazon UK, 19–30 Nov. Discount codes are US/CA only, none for the UK.
+- Published guides/edifier-black-friday-deals-2026-uk with 15 picks, linked to amazon.co.uk/dp/ASIN using our Amazon tag. When the PartnerBoost Edifier links are live, swap those URLs to PartnerBoost links (and keep the disclosure).
+- Use Edifier picks in the BF live page and in any headphones/speaker/gaming/home-office guides until 30 Nov. After 30 Nov, re-check prices before keeping them.
+- MERACH: she'll update us when its Impact programme launches.
+- She asked if our traffic is all organic or if we buy any. Reply drafted for the user's OK (traffic is all organic).

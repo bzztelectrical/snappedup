@@ -214,7 +214,9 @@ topBanner = (() => {
   const items = [];
   for (const p of [...posts].sort((x, y) => (y.updated || y.date).localeCompare(x.updated || x.date))) {
     if ((p.updated || p.date) < yesterdayUK) continue;
+    let fromThis = 0;
     for (const d of p.deals || []) {
+      if (fromThis >= 3) break; // variety: max 3 ticker items per page
       if (d.retailer !== "Amazon" || !/amazon\.co\.uk/.test(d.url)) continue;
       const key = d.name.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim().split(" ").slice(0, 4).join(" "); // one per product family
       const key2 = key.split(" ").slice(0, 2).join(" ") + "@" + d.price; // same brand, same price = same product
@@ -222,6 +224,7 @@ topBanner = (() => {
       seen.add(key);
       seen.add(key2);
       items.push(d);
+      fromThis++;
     }
   }
   // Rank by our own verdict, not by "was" prices (many are inflated RRPs we tell readers to ignore).
