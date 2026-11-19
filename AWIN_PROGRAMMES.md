@@ -106,4 +106,5 @@ New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shore
 - 16 Nov 2026: publisher account **snappedupdeals, ID 3627187**. Website channel **3364792** (snappedupdeals.co.uk) verified via meta tag in build.mjs (`partnerboostverifycode`), so don't remove that tag. Promotional type set to Content/Blog, with UK region and keywords.
 - The account is still under review: the menu only shows Settings, so we can't browse or apply to brands yet. Basic Info won't save until the user adds date of birth (and optionally gender and address). The user needs to set up a payment method too.
 - Once approved, apply to **Edifier UK (139277)**, or ask Lesley to invite publisher ID 3627187 directly. Commission is 10%. Early Bird BF offers run until 30 Nov.
+- 19 Nov: replied to Lesley from hello@ (now verified in Gmail Send-as): accepted 10%, gave publisher ID 3627187, asked her to invite us to Edifier UK 139277, asked for the deal sheet as an attachment, asked whether to join MERACH on Tradedoubler now or wait for Impact.
 ### Tradedoubler (MERACH DTC): not joined yet. MERACH is moving to Impact, so check with Lesley before signing up.
