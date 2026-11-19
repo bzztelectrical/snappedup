@@ -1,6 +1,7 @@
 ## REFRESH FIRST (16 Nov 2026, from Cloudflare 7-day traffic)
 - **Order to refresh (top pages, 24h to 17 Nov 08:45):** airpods-black-friday-deals-2026 (32 visits; Amazon picks done 16 Nov, so keep its prices current), when-is-black-friday-2026-uk (13), perfume-gift-sets-black-friday-2026 (8), rocket-espresso-machine-review (5, Awin), dyson-v15-deals-uk (5). Done 16 Nov: AirPods, TV, Kindle (Amazon picks added).
 - NOTE 18 Nov 13:53: AirPods refresh skipped (no UK prices dated 17/18 Nov found). Dyson BF guide corrected: V12 back to £429 (PriceSpy), V15 £649; V8 Origin £199.99 Amazon added as the pick.
+- NOTE 19 Nov (afternoon run): one guide only (heated-throw-deals-uk). Echo, robot vacuum and Nespresso skipped for lack of dated Amazon prices; parking and Tinkerer items still blocked.
 - NOTE 19 Nov (morning run): no new guide written. Sources were thin: HotUKDeals, Hamleys, T3 and Trusted Reviews couldn't be fetched, and Which?'s Amazon page gave only historic prices. No dated Echo Dot price found, so echo-dot-deals-uk still pending. Refreshed amazon-black-friday-2026-uk (BF Week live, 18 Nov Amazon prices) and when-is-black-friday-2026-uk.
 - NOTE 18 Nov 17:53: Shark refresh skipped (no dated UK Shark prices found; sharkninja.co.uk BF page lists no prices). Prime trial guide corrected (BF Week 19–30 Nov confirmed). Ninja StaySharp knife block hit ~£99 last Nov per Which?, so marked Good price not Big drop.
 - [x] dyson-v15-deals-uk: check Amazon on each model via PriceSpy and add it where cheapest or close. NOTE 18 Nov 09:53: PriceSpy shows no Amazon.co.uk offer for the V15 Absolute; deals ended (back to £649), guide set to 'wait'.
@@ -113,9 +114,9 @@ UK search volumes on Bing over the last 3 months. Google is roughly 20-30x bigge
 - [ ] ps5-bundle-deals-uk: PS5 bundle deals UK — NOTE 18 Nov pm: passed over (consoles 1%)
 - [ ] lego-advent-calendar-2026-deals: Lego advent calendar 2026 deals — NOTE 18 Nov pm: overlaps lego-advent-calendar-2026; refresh that page instead
 - [ ] oled-tv-deals-uk: OLED TV deals UK (LG C-series and rivals)
-- [ ] robot-vacuum-deals-uk: Robot vacuum deals UK
+- [ ] robot-vacuum-deals-uk: Robot vacuum deals UK — NOTE 19 Nov pm: skipped, no dated Amazon robot-vac prices (only 8 Nov Roborock and 19 Nov Ecovacs brand-site prices, not a partner)
 - [ ] ring-doorbell-deals-uk: Ring doorbell deals UK
-- [ ] echo-dot-deals-uk: Echo Dot and Alexa deals UK — NOTE 18 Nov pm: skipped, no dated UK Echo prices found (only Oct launch prices); retry from 19 Nov when Amazon Black Friday Week starts
+- [ ] echo-dot-deals-uk: Echo Dot and Alexa deals UK — NOTE 19 Nov pm: still no dated Amazon Echo prices (PriceSpy doesn't list Amazon for Echo devices; Trusted Reviews/TechRadar live blogs couldn't be fetched). NOTE 18 Nov pm: skipped, no dated UK Echo prices found (only Oct launch prices); retry from 19 Nov when Amazon Black Friday Week starts
 - [x] fire-tv-stick-deals-uk: Fire TV Stick deals UK
-- [ ] nespresso-deals-uk: Nespresso machine deals UK
-- [ ] heated-throw-deals-uk: Heated throw deals UK
+- [ ] nespresso-deals-uk: Nespresso machine deals UK — NOTE 19 Nov pm: skipped, PriceSpy shows Amazon only for a £99 Vertuo Pop bundle; no dated Amazon machine prices
+- [x] heated-throw-deals-uk: Heated throw deals UK
