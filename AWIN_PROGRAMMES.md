@@ -121,3 +121,11 @@ New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shore
 - **USER RULE: keep every link on our Amazon tag (snappedup-21). Do NOT use PartnerBoost/brand links anywhere.** The user doesn't want to lose Amazon's 24-hour basket commission. Joining was only to keep the brands (and Lesley) happy.
 - The other 32 invites are US/EU-only, so they were ignored (they earn nothing from UK traffic).
 - A payment method in PartnerBoost is still not set up. Only the user can do that, and it only matters if we ever use brand links.
+
+### 20 Nov 2026: EXCEPTION for Edifier (user: "make her happy let the guide go to her link, lets set up like a side bubble on the page for her products")
+- guides/edifier-black-friday-deals-2026-uk now uses PartnerBoost product short links (pboost.me/…, 10% commission, 14-day cookie). The links are in partners/edifier-uk-bf-2026.json. Every price was checked against Amazon's live price via PartnerBoost QuickLinks on 20 Nov, and all match the deal sheet.
+- Sitewide "Edifier Black Friday" side bubble (bottom-right, closable, collapsed on phones) driven by site.json → edifierBubble, until 2026-11-30. The ticker features the first 3 Edifier picks first (tickerUntil + pinned).
+- The builder must NEVER add our Amazon tag to pboost.me links (affiliate() only touches amazon.co.uk hosts, so that's fine).
+- **Everything else on the site stays on our Amazon tag.** This exception is Edifier only. Don't use other PartnerBoost brands' links without asking the user.
+- After 30 Nov: the bubble switches off automatically. Re-check Edifier prices before keeping the guide's prices, and ask Lesley for the December deal sheet.
+- MERACH: Lesley suggests Tradedoubler while its Impact programme is set up. The user needs to create a Tradedoubler publisher account (not done yet).

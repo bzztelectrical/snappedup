@@ -140,6 +140,31 @@ let topBanner = "";
 // Cache-buster: changes whenever style.css changes, so browsers never pair new HTML with an old stylesheet.
 const cssVersion = crypto.createHash("md5").update(fs.readFileSync(path.join(ROOT, "static/style.css"))).digest("hex").slice(0, 8);
 
+
+// Edifier (PartnerBoost) side bubble, sitewide until site.edifierBubble.until (user, 20 Nov 2026). Hidden on the Edifier guide itself; closable per session.
+const partnerBubble = (() => {
+  const b = site.edifierBubble;
+  const today = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/London" });
+  if (!b || b.until < today) return "";
+  const rows = b.picks.map((d) => `<li><a href="${esc(d.url)}" rel="sponsored nofollow noopener" target="_blank"><span class="pb-name">${esc(d.name)}</span><span class="pb-price">${gbp(d.price)}${d.was ? ` <s>${gbp(d.was)}</s>` : ""}</span></a></li>`).join("");
+  return `<aside class="partner-bubble" id="pb" data-guide="${esc(b.guide)}" aria-label="Edifier Black Friday deals (ad)">
+  <button class="pb-toggle" type="button" aria-expanded="false" aria-controls="pb-panel"><span class="pb-dot" aria-hidden="true"></span>Edifier Black Friday <span class="pb-chev" aria-hidden="true">▴</span></button>
+  <div class="pb-panel" id="pb-panel">
+    <div class="pb-head"><span class="pb-ad">Ad</span><strong>Edifier on Amazon</strong><button class="pb-close" type="button" aria-label="Close">×</button></div>
+    <p class="pb-sub">Black Friday prices until 30 Nov</p>
+    <ul>${rows}</ul>
+    <a class="pb-all" href="${esc(b.guide)}">All 15 Edifier deals →</a>
+  </div>
+</aside>
+<script>(()=>{const el=document.getElementById("pb");if(!el)return;if(location.pathname===el.dataset.guide){el.remove();return;}
+let st=null;try{st=sessionStorage.getItem("pb")}catch(e){}
+if(st==="closed"){el.remove();return;}
+const t=el.querySelector(".pb-toggle");const set=o=>{el.classList.toggle("open",o);t.setAttribute("aria-expanded",o);try{sessionStorage.setItem("pb",o?"open":"min")}catch(e){}};
+if(st==="open"||(st===null&&matchMedia("(min-width: 1100px)").matches))el.classList.add("open"),t.setAttribute("aria-expanded","true");
+t.addEventListener("click",()=>set(!el.classList.contains("open")));
+el.querySelector(".pb-close").addEventListener("click",()=>{el.remove();try{sessionStorage.setItem("pb","closed")}catch(e){}});})();</script>`;
+})();
+
 const disclosureNote = `<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
 
 function layout({ title, seoTitle, description, pathname, body, type = "website", jsonld, image }) {
@@ -197,6 +222,7 @@ ${body}
     <p class="small">As an Amazon Associate, Snapped Up earns from qualifying purchases. Prices and availability change quickly, so always check the retailer's page before you buy.</p>
   </div>
 </footer>
+${partnerBubble}
 </body>
 </html>`;
 }
@@ -238,19 +264,20 @@ topBanner = (() => {
     let fromThis = 0;
     for (const d of p.deals || []) {
       if (fromThis >= 3) break; // variety: max 3 ticker items per page
-      if (d.retailer !== "Amazon" || !/amazon\.co\.uk/.test(d.url)) continue;
-      const key = d.name.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim().split(" ").slice(0, 4).join(" "); // one per product family
+      const pinned = !!(p.tickerUntil && p.tickerUntil >= todayUK); // partner promo we promised to feature
+      if (d.retailer !== "Amazon" || !(/amazon\.co\.uk/.test(d.url) || (pinned && /pboost\.me/.test(d.url)))) continue;
+      const key = d.name.toLowerCase().replace(/^(amazon|apple)\s+/, "").replace(/[^a-z0-9]+/g, " ").trim().split(" ").slice(0, 4).join(" "); // one per product family
       const key2 = key.split(" ").slice(0, 2).join(" ") + "@" + d.price; // same brand, same price = same product
       if (seen.has(key) || seen.has(key2)) continue;
       seen.add(key);
       seen.add(key2);
-      items.push(d);
+      items.push({ ...d, pinned });
       fromThis++;
     }
   }
   // Rank by our own verdict, not by "was" prices (many are inflated RRPs we tell readers to ignore).
   const rank = { great: 0, good: 1 };
-  items.sort((x, y) => (rank[x.verdictLevel] ?? 2) - (rank[y.verdictLevel] ?? 2));
+  items.sort((x, y) => (y.pinned ? 1 : 0) - (x.pinned ? 1 : 0) || (rank[x.verdictLevel] ?? 2) - (rank[y.verdictLevel] ?? 2));
   const pick = items.slice(0, 14);
   const cta = `<a class="tb-cta" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank"><span class="tb-cta-long">${esc(b.cta)}</span><span class="tb-cta-short">All deals</span><span aria-hidden="true"> →</span></a>`;
   const tbScript = `<script>(()=>{const b=document.querySelector(".top-banner");if(!b)return;const f=()=>document.documentElement.style.setProperty("--tb-h",b.offsetHeight+"px");f();if(window.ResizeObserver)new ResizeObserver(f).observe(b);})();</script>`;

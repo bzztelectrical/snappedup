@@ -71,5 +71,30 @@
       "cta": "See today's Amazon deals",
       "url": "https://www.amazon.co.uk/deals"
     }
-  ]
+  ],
+  "edifierBubble": {
+    "until": "2026-11-30",
+    "guide": "/guides/edifier-black-friday-deals-2026-uk/",
+    "storefront": "https://pboost.me/q6P6hasv",
+    "picks": [
+      {
+        "name": "WH950NB noise-cancelling headphones",
+        "price": 79.99,
+        "was": 179.99,
+        "url": "https://pboost.me/G6P6RZt9"
+      },
+      {
+        "name": "NeoBuds Planar earbuds",
+        "price": 89.99,
+        "was": 199.99,
+        "url": "https://pboost.me/j6P62Vzwz"
+      },
+      {
+        "name": "G1000 II desktop speakers",
+        "price": 29.99,
+        "was": 69.99,
+        "url": "https://pboost.me/I6P6Xkx5"
+      }
+    ]
+  }
 }

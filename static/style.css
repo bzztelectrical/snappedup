@@ -171,3 +171,27 @@ nav a:hover { color: var(--ink); }
 .qp-note { margin: 6px 0 0; font-size: 0.8rem; color: var(--muted); }
 nav a { white-space: nowrap; }
 @media (max-width: 560px) { nav { flex-wrap: wrap; gap: 4px 14px; font-size: 0.9rem; } .head-inner { padding-top: 8px; padding-bottom: 8px; } }
+
+/* Edifier partner bubble (bottom-right) */
+.partner-bubble { position: fixed; right: 16px; bottom: 16px; z-index: 30; width: 290px; max-width: calc(100vw - 32px); font-size: 0.9rem; }
+.pb-toggle { margin-left: auto; display: flex; align-items: center; gap: 8px; background: #111; color: #fff; border: 0; border-radius: 999px; padding: 10px 16px; font: inherit; font-weight: 700; cursor: pointer; box-shadow: 0 6px 20px rgba(0,0,0,.25); }
+.pb-dot { width: 9px; height: 9px; border-radius: 50%; background: #ff9900; box-shadow: 0 0 0 3px rgba(255,153,0,.3); }
+.pb-chev { transition: transform .2s; }
+.partner-bubble.open .pb-chev { transform: rotate(180deg); }
+.pb-panel { display: none; margin-bottom: 8px; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-top: 4px solid #111; border-radius: 14px; padding: 12px 14px; box-shadow: 0 10px 30px rgba(0,0,0,.18); }
+.partner-bubble.open .pb-panel { display: block; }
+.partner-bubble { display: flex; flex-direction: column-reverse; align-items: flex-end; }
+.pb-panel { width: 100%; }
+.pb-head { display: flex; align-items: center; gap: 8px; }
+.pb-head strong { flex: 1; }
+.pb-ad { font-size: .66rem; letter-spacing: .1em; text-transform: uppercase; border: 1px solid var(--line); border-radius: 4px; padding: 1px 5px; color: var(--muted); }
+.pb-close { background: none; border: 0; font-size: 1.3rem; line-height: 1; color: var(--muted); cursor: pointer; padding: 0 2px; }
+.pb-sub { margin: 2px 0 6px; font-size: .8rem; color: var(--muted); }
+.pb-panel ul { list-style: none; margin: 0; padding: 0; }
+.pb-panel li a { display: flex; justify-content: space-between; gap: 10px; padding: 8px 0; border-top: 1px solid var(--line); text-decoration: none; }
+.pb-panel li:first-child a { border-top: 0; }
+.pb-name { font-weight: 600; line-height: 1.25; }
+.pb-price { white-space: nowrap; font-weight: 800; text-align: right; }
+.pb-price s { display: block; font-weight: 400; font-size: .75rem; color: var(--muted); }
+.pb-all { display: block; margin-top: 6px; text-align: center; background: #111; color: #fff !important; border-radius: 10px; padding: 8px; font-weight: 700; text-decoration: none; }
+@media (max-width: 560px) { .partner-bubble { right: 10px; bottom: 10px; } .pb-toggle { padding: 8px 13px; font-size: .82rem; } }
