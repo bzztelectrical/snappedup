@@ -19,8 +19,8 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [x] christmas-gifts-for-mum-2026: Christmas gifts for Mum 2026 UK
 - [x] gifts-for-men-who-have-everything-uk: Gifts for men who have everything (UK)
 - [x] gifts-for-women-who-have-everything-uk: Gifts for women who have everything (UK)
-- [ ] gifts-for-teenage-boys-2026: Best gifts for teenage boys 2026 UK
-- [ ] gifts-for-teenage-girls-2026: Best gifts for teenage girls 2026 UK
+- [x] gifts-for-teenage-boys-2026: Best gifts for teenage boys 2026 UK
+- [x] gifts-for-teenage-girls-2026: Best gifts for teenage girls 2026 UK
 - [ ] gifts-for-gamers-uk: Gifts for gamers UK (under £20, £50 and £100)
 - [ ] tech-gifts-under-50-uk: Best tech gifts under £50 UK
 - [ ] christmas-gifts-under-20-uk: Christmas gifts under £20 UK
