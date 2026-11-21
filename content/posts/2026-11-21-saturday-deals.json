@@ -1,0 +1,100 @@
+{
+  "type": "daily",
+  "date": "2026-11-21",
+  "title": "Oral-B iO3 £49.99, Dyson V8 £199.99 and Fire TV Stick 4K £31.99 today",
+  "description": "Saturday's best UK deals: Oral-B iO Series 3 £49.99, Dyson V8 £199.99, Fire TV Stick 4K £31.99 and the Ninja StaySharp knife block £109.99.",
+  "intro": "**Today's standout is the Oral-B iO Series 3 electric toothbrush at £49.99 on Amazon, with the Dyson V8 cordless vacuum at £199.99 close behind.** Amazon's Black Friday Week sale is now in its third day and runs to Cyber Monday (30 November), so most of the strongest prices are there. We've also got the Fire TV Stick 4K at what TechRadar calls its lowest-ever price, a Blink camera and doorbell bundle for under £25, and two kitchen buys for our [Black Friday kitchen spotlight](/spotlight/black-friday-kitchen-deals-2026/).\n\nEvery price below was published on 20 November 2026 (TechRadar's UK Black Friday live blog), so check the product page before you buy, as Amazon prices can change by the hour. Buy now or wait? Amazon's own devices rarely drop further on Black Friday itself (27 November). The toothbrush, blender and heater are already well below their usual prices, so there's little reason to hold out.",
+  "deals": [
+    {
+      "name": "Oral-B iO Series 3 electric toothbrush",
+      "retailer": "Amazon",
+      "price": 49.99,
+      "was": 175,
+      "url": "https://www.amazon.co.uk/s?k=Oral-B+iO+Series+3",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "The cheapest way into Oral-B's iO range, with the round oscillating head, a pressure sensor and a two-minute timer. Ignore the £175 'was' price, as it rarely sells for that, but under £50 is a good price for an iO. More models in our [Oral-B Black Friday guide](/guides/oral-b-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Dyson V8 cordless vacuum",
+      "retailer": "Amazon",
+      "price": 199.99,
+      "was": 329.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+V8+cordless+vacuum",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Dyson's entry-level stick vacuum: light, strong enough for most homes and easy to switch to a handheld for stairs and the car. Around £200 is where it tends to sit in big sales. Compare it with newer models in our [Dyson Black Friday guide](/guides/dyson-black-friday-deals-2026/) and [Shark vs Dyson](/guides/shark-vs-dyson-cordless/)."
+    },
+    {
+      "name": "Ninja Foodi StaySharp knife block (6-piece)",
+      "retailer": "Amazon",
+      "price": 109.99,
+      "was": 179.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Foodi+StaySharp+knife+block",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Five knives in a block with a sharpener built in, so the blades stay keen without any effort. Which?'s price history shows it hit about £99 last November, so this is good rather than a record. A solid gift for anyone who cooks."
+    },
+    {
+      "name": "Nutribullet 600 Series blender",
+      "retailer": "Amazon",
+      "price": 49.95,
+      "was": 69.99,
+      "url": "https://www.amazon.co.uk/s?k=Nutribullet+600+Series",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A compact personal blender for smoothies, shakes and sauces that takes up very little worktop space. A modest but real saving on a model that rarely drops much. See more in our [kitchen deals spotlight](/spotlight/black-friday-kitchen-deals-2026/)."
+    },
+    {
+      "name": "Amazon Fire TV Stick 4K",
+      "retailer": "Amazon",
+      "price": 31.99,
+      "was": 69.99,
+      "url": "https://www.amazon.co.uk/s?k=Fire+TV+Stick+4K",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Plugs into any HDMI TV and adds Netflix, iPlayer, Disney+ and the rest in 4K with Dolby Vision. TechRadar lists this as its lowest-ever price. Our [Fire TV Stick deals guide](/guides/fire-tv-stick-deals-uk/) compares the Select, 4K and 4K Max."
+    },
+    {
+      "name": "Blink Outdoor 4 camera + Blink Video Doorbell bundle",
+      "retailer": "Amazon",
+      "price": 24.99,
+      "was": 129.98,
+      "url": "https://www.amazon.co.uk/s?k=Blink+Outdoor+4+Blink+Video+Doorbell+bundle",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "A battery-powered outdoor camera and a video doorbell for £25. The 'was' figure adds two list prices together, but it's still very cheap. Clips are saved locally only with a Sync Module, otherwise you'll want a Blink subscription. Compare with Ring in our [home security deals guide](/guides/home-security-deals-uk/)."
+    },
+    {
+      "name": "Lego Classic Large Creative Brick Box (790 pieces)",
+      "retailer": "Amazon",
+      "price": 28.99,
+      "was": 44.99,
+      "url": "https://www.amazon.co.uk/s?k=Lego+Classic+Large+Creative+Brick+Box+10698",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A big tub of mixed bricks, wheels and windows with no fixed build, great for younger children (4+) and for topping up an existing collection. More ideas in our [Lego Black Friday guide](/guides/lego-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Shokz OpenRun Pro 2",
+      "retailer": "Amazon",
+      "price": 126,
+      "was": 169,
+      "url": "https://www.amazon.co.uk/s?k=Shokz+OpenRun+Pro+2",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Open-ear headphones that sit in front of your ears, so runners and cyclists can still hear traffic. TechRadar reports this as their lowest-ever price. A strong gift for anyone sporty."
+    },
+    {
+      "name": "Dreo electric heater",
+      "retailer": "Amazon",
+      "price": 39.99,
+      "was": 64.99,
+      "url": "https://www.amazon.co.uk/s?k=Dreo+electric+heater",
+      "verdict": "Seasonal pick",
+      "verdictLevel": "good",
+      "note": "A compact heater for warming one room quickly, handy for a home office. Heating one room is often cheaper than running the whole system, but check our [cheapest heater to run](/guides/cheapest-heater-to-run-uk/) guide first."
+    }
+  ],
+  "body": "## Worth waiting for?\n\nMostly no. Amazon set most of its Black Friday Week prices on 19 November, and its own devices (Fire TV, Blink, Ring, Kindle) tend to stay at the same price until Cyber Monday. Big-ticket vacuums and coffee machines are the ones that can still dip on 27 November, so if you're after a Dyson V15 or a bean-to-cup machine, keep an eye on our [Dyson](/guides/dyson-black-friday-deals-2026/) and [coffee machine](/guides/coffee-machine-black-friday-deals-2026/) guides.\n\nMany Amazon prices are for Prime members only. If you're not a member, a [Prime free trial](https://www.amazon.co.uk/amazonprime) covers the whole sale; our [Prime trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how it works.\n\nThis week's spotlight is [Black Friday kitchen deals](/spotlight/black-friday-kitchen-deals-2026/), and every brand guide is on our [Black Friday 2026 hub](/black-friday/). Shopping for presents? Start with our [Christmas gift guides](/christmas-gifts/)."
+}

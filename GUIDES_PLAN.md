@@ -1,6 +1,7 @@
 ## REFRESH FIRST (16 Nov 2026, from Cloudflare 7-day traffic)
 - **Order to refresh (top pages, 24h to 17 Nov 08:45):** airpods-black-friday-deals-2026 (32 visits; Amazon picks done 16 Nov, so keep its prices current), when-is-black-friday-2026-uk (13), perfume-gift-sets-black-friday-2026 (8), rocket-espresso-machine-review (5, Awin), dyson-v15-deals-uk (5). Done 16 Nov: AirPods, TV, Kindle (Amazon picks added).
 - NOTE 18 Nov 13:53: AirPods refresh skipped (no UK prices dated 17/18 Nov found). Dyson BF guide corrected: V12 back to £429 (PriceSpy), V15 £649; V8 Origin £199.99 Amazon added as the pick.
+- NOTE 21 Nov (morning run): wrote gifts-for-gamers-uk; refreshed when-is-black-friday and when-is-cyber-monday (20 Nov TechRadar prices). No dated Awin-partner (Hamleys etc.) deals found; Trusted Reviews blocked fetch; PC Gamer UK headset prices dated 24 Oct so not used.
 - NOTE 19 Nov (afternoon run): one guide only (heated-throw-deals-uk). Echo, robot vacuum and Nespresso skipped for lack of dated Amazon prices; parking and Tinkerer items still blocked.
 - NOTE 19 Nov (morning run): no new guide written. Sources were thin: HotUKDeals, Hamleys, T3 and Trusted Reviews couldn't be fetched, and Which?'s Amazon page gave only historic prices. No dated Echo Dot price found, so echo-dot-deals-uk still pending. Refreshed amazon-black-friday-2026-uk (BF Week live, 18 Nov Amazon prices) and when-is-black-friday-2026-uk.
 - NOTE 18 Nov 17:53: Shark refresh skipped (no dated UK Shark prices found; sharkninja.co.uk BF page lists no prices). Prime trial guide corrected (BF Week 19–30 Nov confirmed). Ninja StaySharp knife block hit ~£99 last Nov per Which?, so marked Good price not Big drop.
@@ -21,7 +22,7 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [x] gifts-for-women-who-have-everything-uk: Gifts for women who have everything (UK)
 - [x] gifts-for-teenage-boys-2026: Best gifts for teenage boys 2026 UK
 - [x] gifts-for-teenage-girls-2026: Best gifts for teenage girls 2026 UK
-- [ ] gifts-for-gamers-uk: Gifts for gamers UK (under £20, £50 and £100)
+- [x] gifts-for-gamers-uk: Gifts for gamers UK (under £20, £50 and £100)
 - [ ] tech-gifts-under-50-uk: Best tech gifts under £50 UK
 - [ ] christmas-gifts-under-20-uk: Christmas gifts under £20 UK
 - [ ] christmas-gifts-under-30-uk: Christmas gifts under £30 UK
