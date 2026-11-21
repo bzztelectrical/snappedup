@@ -204,7 +204,7 @@ ${topBanner}
     <a class="logo" href="/"><span class="logo-mark" aria-hidden="true"></span>Snapped&nbsp;Up</a>
     <nav>
       <a href="/deals/">Daily deals</a>
-${(site.hubs || []).filter((h) => h.nav).map((h) => `      <a href="/${h.slug}/">${esc(h.navLabel || h.title)}</a>`).join("\n")}
+${(site.hubs || []).filter((h) => h.nav && (!h.navUntil || h.navUntil >= todayUK)).map((h) => `      <a href="/${h.slug}/">${esc(h.navLabel || h.title)}</a>`).join("\n")}
       <a href="/guides/">Guides</a>
       <a href="/spotlight/">Spotlights</a>
       <a href="/about/">About</a>
