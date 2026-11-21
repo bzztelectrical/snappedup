@@ -4,6 +4,7 @@
 - NOTE 21 Nov 13:53 (BF live run): live page 25 cards (24 Amazon); added Oral-B iO3 £49.99, Sony WH-1000XM6 £298, De'Longhi Magnifica Evo Next £379; dropped Apple Watch 11 + two Hue deals (unconfirmed). Refreshed Switch 2 guide (stale 30 Oct Smyths cards replaced with 21 Nov Amazon £399 Sports Resort bundle), Ninja, when-is-BF. Shark guide still stale: no dated 2026 Shark prices found (Currys Stratos £199 is non-earning).
 - NOTE 21 Nov 09:53 (BF live run): live page 25 cards (24 Amazon); added Bose Smart Soundbar £329 + Fire TV Stick 4K £31.99, dropped Sonos Move 2 and Rivendell (unconfirmed). AirPods guide re-checked (no change). Shark and Switch 2 refresh skipped: newest UK prices dated 19 Nov or older.
 - NOTE 21 Nov (morning run): wrote gifts-for-gamers-uk; refreshed when-is-black-friday and when-is-cyber-monday (20 Nov TechRadar prices). No dated Awin-partner (Hamleys etc.) deals found; Trusted Reviews blocked fetch; PC Gamer UK headset prices dated 24 Oct so not used.
+- NOTE 21 Nov (afternoon run): wrote tech-gifts-under-50-uk (10 cards, 9 Amazon) and christmas-gifts-under-20-uk (9 cards, all Amazon) from TechRadar 21 Nov and GamesRadar 20 Nov prices. Skipped Sony WF-C510 (TechRadar price label inconsistent) and summary-only prices.
 - NOTE 19 Nov (afternoon run): one guide only (heated-throw-deals-uk). Echo, robot vacuum and Nespresso skipped for lack of dated Amazon prices; parking and Tinkerer items still blocked.
 - NOTE 19 Nov (morning run): no new guide written. Sources were thin: HotUKDeals, Hamleys, T3 and Trusted Reviews couldn't be fetched, and Which?'s Amazon page gave only historic prices. No dated Echo Dot price found, so echo-dot-deals-uk still pending. Refreshed amazon-black-friday-2026-uk (BF Week live, 18 Nov Amazon prices) and when-is-black-friday-2026-uk.
 - NOTE 18 Nov 17:53: Shark refresh skipped (no dated UK Shark prices found; sharkninja.co.uk BF page lists no prices). Prime trial guide corrected (BF Week 19–30 Nov confirmed). Ninja StaySharp knife block hit ~£99 last Nov per Which?, so marked Good price not Big drop.
@@ -25,8 +26,8 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [x] gifts-for-teenage-boys-2026: Best gifts for teenage boys 2026 UK
 - [x] gifts-for-teenage-girls-2026: Best gifts for teenage girls 2026 UK
 - [x] gifts-for-gamers-uk: Gifts for gamers UK (under £20, £50 and £100)
-- [ ] tech-gifts-under-50-uk: Best tech gifts under £50 UK
-- [ ] christmas-gifts-under-20-uk: Christmas gifts under £20 UK
+- [x] tech-gifts-under-50-uk: Best tech gifts under £50 UK
+- [x] christmas-gifts-under-20-uk: Christmas gifts under £20 UK
 - [ ] christmas-gifts-under-30-uk: Christmas gifts under £30 UK
 - [ ] gifts-for-boyfriend-christmas-2026: Christmas gifts for your boyfriend 2026
 - [ ] gifts-for-girlfriend-christmas-2026: Christmas gifts for your girlfriend 2026
