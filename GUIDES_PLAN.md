@@ -18,6 +18,9 @@
 - **The top pages earn almost nothing.** AirPods (Very/John Lewis), perfume (The Perfume Shop), TV (Currys/Richer Sounds/Argos) and when-is-BF have no Amazon or Awin picks. Amazon converts at ~11% for us (Associates, 16 Nov: £14.53 this month, 5 items, 46 clicks). On each refresh, add the Amazon listing as a pick **whenever Amazon's price is within a few pounds of the cheapest** (check via PriceSpy). Never pick a worse deal just because it earns. when-is-BF now links Amazon's BF page + Prime trial (16 Nov).
 - Top pages, 7 days to 16 Nov: when-is-black-friday 60, airpods-black-friday 34, home 31, perfume-gift-sets 29, tv-black-friday 23. Keep these fresh daily until Cyber Monday.
 
+## SEO REALITY CHECK (22 Nov 2026): read before choosing a topic
+Search Console: 9 Google clicks in 3 months, average position ~35. The site is new with no backlinks, so we cannot win head terms like "black friday 2026", "christmas gifts" or "air fryer deals" against the big publishers yet. Prefer LONG-TAIL titles that name a specific product, person or price: "Ninja Crispi vs Ninja Double Stack", "is the Kindle Colorsoft worth it", "best gifts for a 10-year-old boy under £30", "AirPods 4 vs AirPods 5". Put the exact product or question in the title and the first sentence. Keep a list item's slug, but make its title more specific when you write it.
+
 ## RAMP-UP (19 Nov 2026): work this list top to bottom before anything else (user: £1,000/week by end of Feb 2027)
 Why: Christmas gift searches peak from late November to about 20 December and nearly everything on these lists is sold on Amazon. Every card also gets an automatic Amazon compare link, and gift pages convert well. After that come high-ticket Amazon categories (more £ per sale) and January/Valentine's pages, which need to be live 3–6 weeks early to rank. Each guide: 8–12 picks across a spread of prices, a short "best overall / best cheap / best splurge" summary at the top, and FAQs.
 
