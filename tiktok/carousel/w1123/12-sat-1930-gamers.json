@@ -1,0 +1,30 @@
+{
+ "kicker": "GAMER GIFTS",
+ "hook": "3 gifts every gamer will use",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/dualsense.png",
+   "name": "PS5 DualSense controller",
+   "line": "The safest PS5 gift: pads wear out, and a second one means a friend can play too."
+  },
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/xbox.png",
+   "name": "Xbox Wireless Controller",
+   "line": "Works with Xbox, Windows PCs and phones, so it suits PC gamers too."
+  },
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/nothing-ear3a.png",
+   "name": "Nothing Ear (3a)",
+   "line": "Noise-cancelling earbuds for gaming on a phone or a Switch 2 on the bus."
+  }
+ ],
+ "endq": "PlayStation or Xbox?",
+ "endsub": "More gamer gifts + prices"
+}

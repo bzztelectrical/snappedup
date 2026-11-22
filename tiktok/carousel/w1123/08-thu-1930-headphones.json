@@ -1,0 +1,30 @@
+{
+ "kicker": "HEADPHONE GIFTS",
+ "hook": "3 headphone gifts for every budget",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/sonos-ace.png",
+   "name": "Sonos Ace",
+   "line": "Strong noise cancelling, and it can take over your Sonos soundbar's sound. Well under its usual price."
+  },
+  {
+   "label": "LOWEST PRICE",
+   "shop": "Amazon",
+   "img": "img/shokz.png",
+   "name": "Shokz OpenRun Pro 2",
+   "line": "Open-ear, so runners and cyclists can still hear what's around them."
+  },
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/nothing-ear3a.png",
+   "name": "Nothing Ear (3a)",
+   "line": "Noise-cancelling earbuds for well under the price of AirPods."
+  }
+ ],
+ "endq": "Over-ear or earbuds?",
+ "endsub": "All headphone deals + prices"
+}

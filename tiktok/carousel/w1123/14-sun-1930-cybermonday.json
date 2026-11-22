@@ -1,0 +1,42 @@
+{
+ "kicker": "CYBER MONDAY · MON 30 NOV",
+ "hook": "Cyber Monday: what to know",
+ "sub": "Before you buy tomorrow",
+ "countup": true,
+ "picks": [
+  {
+   "label": "STILL ON",
+   "shop": "Amazon",
+   "big": "AMAZON",
+   "name": "Amazon's sale runs to Monday",
+   "line": "Amazon's Black Friday Week runs right through Cyber Monday."
+  },
+  {
+   "label": "PRICE GUARANTEE",
+   "shop": "Argos",
+   "big": "ARGOS",
+   "name": "Argos price guarantee",
+   "line": "Badged items carry a price guarantee until Christmas Day."
+  },
+  {
+   "label": "ENDS 17 DEC",
+   "shop": "Audible",
+   "big": "99p",
+   "name": "Audible stays cheap",
+   "line": "Audible's 99p a month offer runs past Cyber Monday, to 17 December."
+  }
+ ],
+ "tip": {
+  "label": "OUR ADVICE",
+  "title": "Don't get rushed",
+  "rows": [
+   "Check the price history, not the 'was' price",
+   "If it's on your list and at our target price, buy it",
+   "If not, don't panic-buy"
+  ]
+ },
+ "endq": "What are you waiting for?",
+ "endsub": "Live Cyber Monday deals",
+ "foot": "Live deals → snappedupdeals.co.uk/start",
+ "swipe": "Swipe for the details →"
+}

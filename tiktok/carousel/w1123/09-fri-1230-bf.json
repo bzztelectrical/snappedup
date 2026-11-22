@@ -1,0 +1,31 @@
+{
+ "kicker": "IT'S BLACK FRIDAY",
+ "hook": "3 Black Friday deals we'd buy today",
+ "sub": "Genuine drops, prices checked",
+ "picks": [
+  {
+   "label": "RECORD LOW",
+   "shop": "Amazon",
+   "img": "img/kindle-pw-sig.png",
+   "name": "Kindle Paperwhite Signature",
+   "line": "Wireless charging, an auto-adjusting light and 32GB. The lowest price it's been."
+  },
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/ring-battery.png",
+   "name": "Ring Doorbell + Indoor Camera",
+   "line": "A wire-free doorbell plus an indoor camera for about the usual price of the doorbell alone."
+  },
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/sonos-ace.png",
+   "name": "Sonos Ace headphones",
+   "line": "Sonos' noise-cancelling over-ears, well under their usual price."
+  }
+ ],
+ "endq": "What did you buy?",
+ "endsub": "Live Black Friday deals, updated 3x a day",
+ "foot": "Live deals → snappedupdeals.co.uk/start"
+}

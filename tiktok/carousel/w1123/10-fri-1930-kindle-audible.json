@@ -1,0 +1,32 @@
+{
+ "kicker": "BOOK LOVER GIFTS",
+ "hook": "Kindle or Audible for Christmas?",
+ "sub": "Pick by how they read",
+ "countup": true,
+ "picks": [
+  {
+   "label": "FOR READERS",
+   "shop": "Amazon",
+   "img": "img/kindle-basic.png",
+   "name": "Kindle (2026)",
+   "line": "A record low for the newest basic Kindle. Much easier on the eyes at night than a phone."
+  },
+  {
+   "label": "FOR BOOKWORMS",
+   "shop": "Amazon",
+   "img": "img/kindle-pw-sig.png",
+   "name": "Kindle Paperwhite Signature",
+   "line": "Waterproof, wireless charging and an auto-adjusting light. The lowest price it's been."
+  },
+  {
+   "label": "FOR LISTENERS",
+   "shop": "Audible via Amazon",
+   "big": "99p",
+   "name": "Audible: 99p a month for 3 months",
+   "line": "Plus a £10 bonus for eligible members. Ends 17 December."
+  }
+ ],
+ "endq": "Reader or listener?",
+ "endsub": "Kindle deals + the Audible offer",
+ "swipe": "Swipe to choose →"
+}

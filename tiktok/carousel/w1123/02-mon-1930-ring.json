@@ -1,0 +1,29 @@
+{
+ "hook": "Which Ring doorbell should you buy?",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "LOWEST PRICE",
+   "shop": "Amazon",
+   "img": "img/ring-battery.png",
+   "name": "Ring Battery Video Doorbell (2K)",
+   "line": "Half price and wire-free, so it's the one for renters or anyone without doorbell wiring."
+  },
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/ring-plus.png",
+   "name": "Ring Battery Doorbell Plus + Chime",
+   "line": "Shows more of your doorstep, so you can see parcels. Close to half price as a bundle."
+  },
+  {
+   "label": "BUDGET PICK",
+   "shop": "Amazon",
+   "img": "img/blink-outdoor4.png",
+   "name": "Blink Outdoor 4 + free Blink Mini",
+   "line": "A wire-free outdoor camera plus an indoor one. Can save clips without a monthly plan."
+  }
+ ],
+ "endq": "Ring or Blink?",
+ "endsub": "Every Ring deal + today's prices"
+}

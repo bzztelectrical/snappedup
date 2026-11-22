@@ -1,0 +1,29 @@
+{
+ "hook": "Best TV deals this Black Friday",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/lg-b6.png",
+   "name": "LG B6 OLED (55-inch)",
+   "line": "LG's cheapest OLED, with perfect blacks. Much cheaper than it was in October."
+  },
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/lg-c6.png",
+   "name": "LG C6 OLED (65-inch)",
+   "line": "LG's new mid-range OLED and brighter than the B6. Could still fall by Cyber Monday."
+  },
+  {
+   "label": "LOWEST PRICE",
+   "shop": "Amazon",
+   "big": "BEDROOM TV",
+   "name": "Amazon Ember 4-Series (50-inch)",
+   "line": "Amazon's own 4K TV with Fire TV built in. A sensible bedroom or second-room TV."
+  }
+ ],
+ "endq": "OLED or Mini LED?",
+ "endsub": "Every TV deal + prices to wait for"
+}

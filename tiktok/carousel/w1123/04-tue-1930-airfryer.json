@@ -1,0 +1,32 @@
+{
+ "kicker": "NINJA AIR FRYERS",
+ "hook": "3 Ninja air fryers worth buying",
+ "sub": "Which one suits your kitchen?",
+ "countup": true,
+ "picks": [
+  {
+   "label": "FOR 1–2 PEOPLE",
+   "shop": "Amazon",
+   "img": "img/ninja-crispi.png",
+   "name": "Ninja Crispi",
+   "line": "Glass dishes go from air fryer to table to fridge. The lowest price it's been."
+  },
+  {
+   "label": "ONE BIG DRAWER",
+   "shop": "Argos",
+   "img": "img/ninja-af200.png",
+   "name": "Ninja AF200UK",
+   "line": "Ninja quality without the big price. Stretch a little for the dual-drawer AF300 at Amazon."
+  },
+  {
+   "label": "FOR FAMILIES",
+   "shop": "Ninja",
+   "img": "img/ninja-doublestack.png",
+   "name": "Ninja Double Stack XL",
+   "line": "Two stacked drawers in the footprint of one, plus a cooking probe."
+  }
+ ],
+ "endq": "Which one's in your kitchen?",
+ "endsub": "Every air fryer deal + prices",
+ "swipe": "Swipe to compare →"
+}

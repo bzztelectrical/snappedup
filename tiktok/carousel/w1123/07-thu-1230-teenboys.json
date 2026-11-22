@@ -1,0 +1,30 @@
+{
+ "kicker": "CHRISTMAS GIFTS 2026",
+ "hook": "3 gifts teenage boys actually want",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/dualsense.png",
+   "name": "PS5 DualSense controller",
+   "line": "The gift almost every console-owning teen will use. Pads wear out fast."
+  },
+  {
+   "label": "BIG DROP",
+   "shop": "Amazon",
+   "img": "img/nothing-ear3a.png",
+   "name": "Nothing Ear (3a)",
+   "line": "Noise-cancelling earbuds with see-through styling. Better value than AirPods on Android."
+  },
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/oneblade.png",
+   "name": "Philips OneBlade 360",
+   "line": "A first shaver that's hard to cut yourself with. Good for older teens."
+  }
+ ],
+ "endq": "Any teen on your list?",
+ "endsub": "More ideas + today's prices"
+}

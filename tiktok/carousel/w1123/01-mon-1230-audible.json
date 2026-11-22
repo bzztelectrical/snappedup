@@ -1,0 +1,42 @@
+{
+ "kicker": "AUDIBLE BLACK FRIDAY",
+ "hook": "3 months of Audible for under £3",
+ "sub": "99p a month · ends 17 Dec",
+ "countup": true,
+ "picks": [
+  {
+   "label": "THE OFFER",
+   "shop": "Audible via Amazon",
+   "big": "99p",
+   "name": "99p a month for 3 months",
+   "line": "Audible's Black Friday offer for eligible members. Ends 17 December."
+  },
+  {
+   "label": "BONUS",
+   "shop": "Audible",
+   "big": "+£10",
+   "name": "Plus a £10 Audible bonus",
+   "line": "Extra Audible credit on top, for eligible members."
+  },
+  {
+   "label": "REMEMBER",
+   "shop": "Audible",
+   "big": "CANCEL",
+   "name": "Set a reminder",
+   "line": "It renews at the normal price after 3 months unless you cancel. Books you get are yours to keep."
+  }
+ ],
+ "tip": {
+  "label": "GOOD TO KNOW",
+  "title": "Before you sign up",
+  "rows": [
+   "Sign up in a web browser, not the app",
+   "Eligibility depends on past trials",
+   "You can cancel any time"
+  ]
+ },
+ "endq": "Audiobook or paperback?",
+ "endsub": "How to claim + how to cancel",
+ "foot": "How to claim → snappedupdeals.co.uk/start",
+ "swipe": "Swipe for the details →"
+}

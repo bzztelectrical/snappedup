@@ -1,0 +1,30 @@
+{
+ "kicker": "CHRISTMAS GIFTS 2026",
+ "hook": "3 Christmas gifts Mum will love",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "RECORD LOW",
+   "shop": "Amazon",
+   "img": "img/kindle-pw-sig.png",
+   "name": "Kindle Paperwhite Signature",
+   "line": "Wireless charging and an auto-adjusting light. The lowest price it's been."
+  },
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/applewatch11.png",
+   "name": "Apple Watch Series 11",
+   "line": "For a mum with an iPhone: fitness, sleep and notifications on her wrist."
+  },
+  {
+   "label": "HALF PRICE",
+   "shop": "Amazon",
+   "img": "img/revlon.png",
+   "name": "Revlon One-Step Volumiser",
+   "line": "Dries and styles in one go for a bouncy blow-dry at home."
+  }
+ ],
+ "endq": "What's Mum getting?",
+ "endsub": "More ideas + today's prices"
+}

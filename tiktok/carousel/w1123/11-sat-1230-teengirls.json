@@ -1,0 +1,30 @@
+{
+ "kicker": "CHRISTMAS GIFTS 2026",
+ "hook": "3 gifts teenage girls actually want",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/airpods-5.png",
+   "name": "Apple AirPods 5",
+   "line": "Still the earbuds most teens with an iPhone ask for. They show up in Find My if lost."
+  },
+  {
+   "label": "HALF PRICE",
+   "shop": "Amazon",
+   "img": "img/revlon.png",
+   "name": "Revlon One-Step Volumiser",
+   "line": "The cult brush-dryer for a bouncy blow-dry. The lowest price it's been."
+  },
+  {
+   "label": "RECORD LOW",
+   "shop": "Amazon",
+   "img": "img/kindle-basic.png",
+   "name": "Kindle (2026)",
+   "line": "For the BookTok reader. Add a Kindle Unlimited free trial for romance and YA."
+  }
+ ],
+ "endq": "Any teen on your list?",
+ "endsub": "More ideas + today's prices"
+}

@@ -43,7 +43,7 @@ if not imgs:
     yy=card[1]+90
     for p in picks:
         yy=ctext(d,yy,p.get("big",p["name"]),f("InterDisplay-Black.otf",120),INK)+10
-        yy=ctext(d,yy,"✓ "+p["label"].capitalize(),f("Inter-Black.otf",46),(46,170,90))+60
+        yy=ctext(d,yy,"✓ "+p["label"].capitalize().replace(" dec"," Dec").replace(" nov"," Nov"),f("Inter-Black.otf",46),(46,170,90))+60
 if imgs:
     ch=card[3]-card[1]; cwid=card[2]-card[0]
     top=prod(imgs[0]["img"],(cwid-120,int(ch*0.55))); im.paste(top,(card[0]+(cwid-top.width)//2,card[1]+40+(int(ch*0.55)-top.height)//2))
@@ -69,7 +69,7 @@ for k,i in enumerate(order):
         e=p.get("big","");y=ctext(d,560,e,f("InterDisplay-Black.otf",150),RED) ; y=max(y+60,1000)
     y=ltext(d,70,y,p["name"],f("InterDisplay-Black.otf",96),INK,mw=940)
     y=ltext(d,70,y+20,p["line"],f("Inter-Bold.otf",54),MUTED,mw=940,lh=1.2)
-    d.rectangle((0,1780,W,H),fill=CREAM); ctext(d,1815,S.get("foot","Today's price → snappedupdeals.co.uk"),f("Inter-Black.otf",44),INK)
+    d.rectangle((0,1780,W,H),fill=CREAM); ctext(d,1815,S.get("foot","Today's price → snappedupdeals.co.uk/start"),f("Inter-Black.otf",44),INK)
     im.save(f"{out}/{k+2:02d}.jpg",quality=92)
 # tip (optional)
 k=n+2
@@ -89,7 +89,12 @@ if S.get("tip"):
 im=Image.new("RGB",(W,H),RED); d=ImageDraw.Draw(im)
 y=ctext(d,520,S["endq"],f("InterDisplay-Black.otf",130),PAPER,lh=1.05)
 ctext(d,y+40,"Tell us in the comments ↓",f("Inter-Black.otf",56),YEL)
-fo=f("InterDisplay-Black.otf",84); t="snappedupdeals.co.uk"; tw=d.textlength(t,font=fo); yy=y+220
+t=S.get("url","snappedupdeals.co.uk/start"); fs=84
+while True:
+    fo=f("InterDisplay-Black.otf",fs); tw=d.textlength(t,font=fo)
+    if tw<=W-200 or fs<=40: break
+    fs-=4
+yy=y+220
 d.rounded_rectangle(((W-tw)/2-44,yy,(W+tw)/2+44,yy+150),radius=34,fill=PAPER); d.text(((W-tw)/2,yy+26),t,font=fo,fill=INK)
 ctext(d,yy+200,S.get("endsub","Full ranking + today's prices"),f("Inter-Black.otf",52),PAPER)
 ctext(d,1700,"#ad · We may earn commission from links. Prices change.",f("Inter-Bold.otf",34),PAPER)

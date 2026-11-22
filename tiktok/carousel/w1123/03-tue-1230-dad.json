@@ -1,0 +1,30 @@
+{
+ "kicker": "CHRISTMAS GIFTS 2026",
+ "hook": "3 gifts Dad will actually use",
+ "sub": "Ranked, with the #1 last",
+ "picks": [
+  {
+   "label": "LOWEST PRICE",
+   "shop": "Amazon",
+   "img": "img/fenix8.png",
+   "name": "Garmin fēnix 8",
+   "line": "Maps, multi-week battery and every sports mode going. The lowest price it's been."
+  },
+  {
+   "label": "LOWEST PRICE",
+   "shop": "Amazon",
+   "img": "img/shokz.png",
+   "name": "Shokz OpenRun Pro 2",
+   "line": "Open-ear headphones, so he can still hear traffic on a run or a ride."
+  },
+  {
+   "label": "GOOD PRICE",
+   "shop": "Amazon",
+   "img": "img/oneblade.png",
+   "name": "Philips OneBlade 360",
+   "line": "Trims, edges and shaves with one blade. A gift he'll use every week."
+  }
+ ],
+ "endq": "What's Dad getting?",
+ "endsub": "More ideas + today's prices"
+}
