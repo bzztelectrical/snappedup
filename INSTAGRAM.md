@@ -24,3 +24,6 @@ How-to that works on web: Create → Post → upload all slides to the file inpu
 
 ## 22 Nov 2026
 Captions until 19 Dec: "Type snappedupdeals.co.uk/start into your browser". After the bio link unlocks, set the bio link to https://snappedupdeals.co.uk/start/.
+
+## 23–29 Nov batch (approved 22 Nov, "post all")
+Instagram web has NO scheduler (Advanced Settings only has like counts and comments; checked 22 Nov), and Meta Business Suite needs a Facebook Page we don't have. So each of the 14 carousels is posted live at its slot (12:00 and 19:00, 23–29 Nov) by a timed wake-up of the main Claude session, using the files on the laptop at Desktop\snapped-up\w1123\ig\<name>\ and the captions in tiktok/carousel/w1123/captions.json. If the laptop/Chrome is off at a slot, that post goes out at the next slot.

@@ -25,3 +25,8 @@ Set up 18 Nov 2026 (user: "set up the profile, add our logo and get posting").
 | 18 Nov | Kindle vs Kindle Paperwhite | Tech | /guides/kindle-vs-kindle-paperwhite/ |
 | 18 Nov | Dyson Airwrap vs Shark FlexStyle | Christmas gifts | /guides/dyson-airwrap-deals-uk/ |
 | 18 Nov | When is Black Friday 2026 UK | BF 2026 | /guides/when-is-black-friday-2026-uk/ |
+
+## 23–29 Nov batch (approved 22 Nov, "post all")
+The account is personal, so Pinterest has no "publish later" (that's a business-account feature). Instead all 35 pins were created on 22 Nov as **drafts** (Pin drafts panel in pin-creation-tool; drafts last 30 days) with title, description, link and board filled in, and a timed wake-up publishes each day's 5 at 09:00 (23–29 Nov). Titles, descriptions, links and boards: pinterest/pins-w1123-meta.json.
+Converting to a free business account would unlock scheduling and bulk CSV upload (and analytics); worth asking the user.
+Pin flow that works: Create new → find "File Upload" input → upload one image → title (711,211), description (711,310), link (711,419) → board field (711,519) → Best Tech 293 / Black Friday 344 / Christmas 394 → check with a zoom.

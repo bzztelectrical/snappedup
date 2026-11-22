@@ -117,3 +117,8 @@ Rotate the topic every day, preferring guides that earn (Awin partners first, th
 
 ## 22 Nov 2026: one address on every post
 End slides and captions say **snappedupdeals.co.uk/start** (no clickable links on TikTok). /start/ lists today's best picks plus shortcuts and shows as its own path in Cloudflare Web Analytics: that's how we measure what TikTok/Instagram send. Volume: 2 carousels a day (12:30 and 19:30) from the 23 Nov batch, because Google sends ~0 visitors (Search Console, 22 Nov) and social is the engine.
+
+## 23–29 Nov batch: scheduled 22 Nov ("post all")
+All 14 photo carousels scheduled in TikTok Studio (12:30 and 19:30 daily, 23–29 Nov), each with sound, 5 hashtags and the Branded content disclosure. Verified in Studio → Posts: 14 scheduled slots 23 Nov 12:30 to 29 Nov 19:30.
+Fast web flow that works (Studio): /tiktokstudio/upload → Photos tab → file input → title (500,212) → description (500,300), hashtags typed one at a time with a trailing space → JS click on the "Add sound" button → "Use" in the Sounds list → JS: `input[type=radio][value=schedule]`.click(), click the "Show more" text, `input[role=switch]`[0].click() (disclose), checkbox index 4 (Branded content) → scroll the schedule radio to the top, then click the date field (412,121), JS-click `.day.valid` with the day number, click the time field (220,121), JS-pick `.tiktok-timepicker-option-text.tiktok-timepicker-left/right` → click away → Schedule (211,628).
+Judge on 30 Nov: views per carousel vs the 145–167 of the 20–21 Nov carousels, and /start/ visits in Cloudflare.
