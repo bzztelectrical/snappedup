@@ -1,6 +1,7 @@
 ## REFRESH FIRST (16 Nov 2026, from Cloudflare 7-day traffic)
 - **Order to refresh (top pages, 24h to 17 Nov 08:45):** airpods-black-friday-deals-2026 (32 visits; Amazon picks done 16 Nov, so keep its prices current), when-is-black-friday-2026-uk (13), perfume-gift-sets-black-friday-2026 (8), rocket-espresso-machine-review (5, Awin), dyson-v15-deals-uk (5). Done 16 Nov: AirPods, TV, Kindle (Amazon picks added).
 - NOTE 18 Nov 13:53: AirPods refresh skipped (no UK prices dated 17/18 Nov found). Dyson BF guide corrected: V12 back to £429 (PriceSpy), V15 £649; V8 Origin £199.99 Amazon added as the pick.
+- NOTE 22 Nov (morning run): wrote gifts-for-girlfriend-christmas-2026 (12 cards, all Amazon) from TechRadar 21/22 Nov and T3 21 Nov prices; refreshed when-is-BF and when-is-Cyber-Monday. No dated Awin-partner deals found again. No dated women's fragrance prices found, so the guide links the perfume guide instead.
 - NOTE 21 Nov 13:53 (BF live run): live page 25 cards (24 Amazon); added Oral-B iO3 £49.99, Sony WH-1000XM6 £298, De'Longhi Magnifica Evo Next £379; dropped Apple Watch 11 + two Hue deals (unconfirmed). Refreshed Switch 2 guide (stale 30 Oct Smyths cards replaced with 21 Nov Amazon £399 Sports Resort bundle), Ninja, when-is-BF. Shark guide still stale: no dated 2026 Shark prices found (Currys Stratos £199 is non-earning).
 - NOTE 21 Nov 09:53 (BF live run): live page 25 cards (24 Amazon); added Bose Smart Soundbar £329 + Fire TV Stick 4K £31.99, dropped Sonos Move 2 and Rivendell (unconfirmed). AirPods guide re-checked (no change). Shark and Switch 2 refresh skipped: newest UK prices dated 19 Nov or older.
 - NOTE 21 Nov (morning run): wrote gifts-for-gamers-uk; refreshed when-is-black-friday and when-is-cyber-monday (20 Nov TechRadar prices). No dated Awin-partner (Hamleys etc.) deals found; Trusted Reviews blocked fetch; PC Gamer UK headset prices dated 24 Oct so not used.
@@ -31,7 +32,7 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [x] christmas-gifts-under-20-uk: Christmas gifts under £20 UK
 - [x] christmas-gifts-under-30-uk: Christmas gifts under £30 UK
 - [x] gifts-for-boyfriend-christmas-2026: Christmas gifts for your boyfriend 2026
-- [ ] gifts-for-girlfriend-christmas-2026: Christmas gifts for your girlfriend 2026
+- [x] gifts-for-girlfriend-christmas-2026: Christmas gifts for your girlfriend 2026
 - [ ] christmas-gifts-for-grandparents-uk: Christmas gifts for grandparents UK
 - [ ] lego-gifts-for-adults-uk: Best Lego sets for adults (gift guide)
 - [ ] stocking-fillers-for-adults-uk: Stocking fillers for adults UK
