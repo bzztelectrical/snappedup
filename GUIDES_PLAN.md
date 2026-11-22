@@ -3,6 +3,7 @@
 - NOTE 18 Nov 13:53: AirPods refresh skipped (no UK prices dated 17/18 Nov found). Dyson BF guide corrected: V12 back to £429 (PriceSpy), V15 £649; V8 Origin £199.99 Amazon added as the pick.
 - NOTE 22 Nov 13:53 (BF live run): live page 25 cards (23 Amazon); added Kindle Scribe Colorsoft £439, Ninja BlendBoss £80, Echo Show 8 £119.99; dropped Ember 50-inch TV and Sony WH-1000XM6 (not re-confirmed). Refreshed perfume gift sets (TPS La Vie Est Belle and Boss sets gone; now Burberry Goddess £59.40 JL, Boss 100ml £54.60 JL, La Vie Est Belle 30ml £45.89 Amazon) and coffee machines (Baristina £249.99 + Bambino Plus £349 Amazon added; undated Stilosa/Barista Pro cards removed). Hamleys guide still has no dated prices.
 - NOTE 22 Nov 09:53 (BF live run): live page 24 cards (22 Amazon); added Sonos Ace £199, Kids Tablet 8 £124, Bose Smart Soundbar £329; dropped Ember 65 Mini-LED, Revlon One-Step, Nothing Ear (3a) (unconfirmed). Refreshed AirPods (WCC £119 Amazon re-confirmed) and Shark (stale Oct cards replaced: Stratos £199 + PowerDetect Speed £229.99 Currys, Dyson V8 £199.99 Amazon). Trusted Reviews blocks fetch.
+- NOTE 22 Nov (afternoon run): wrote christmas-gifts-for-grandparents-uk (10 cards, all Amazon; prices from TechRadar 21/22 Nov, as re-confirmed on today's live page) and lego-gifts-for-adults-uk (12 cards, all Amazon, TechRadar Insiders Weekend roundup 21 Nov + Which? 21 Nov). Heated throw prices (19 Nov) too old to reuse; no dated Aura/photo-frame UK prices found. GamesRadar Lego live blog last updated 20 Nov, so not used.
 - NOTE 22 Nov (morning run): wrote gifts-for-girlfriend-christmas-2026 (12 cards, all Amazon) from TechRadar 21/22 Nov and T3 21 Nov prices; refreshed when-is-BF and when-is-Cyber-Monday. No dated Awin-partner deals found again. No dated women's fragrance prices found, so the guide links the perfume guide instead.
 - NOTE 21 Nov 13:53 (BF live run): live page 25 cards (24 Amazon); added Oral-B iO3 £49.99, Sony WH-1000XM6 £298, De'Longhi Magnifica Evo Next £379; dropped Apple Watch 11 + two Hue deals (unconfirmed). Refreshed Switch 2 guide (stale 30 Oct Smyths cards replaced with 21 Nov Amazon £399 Sports Resort bundle), Ninja, when-is-BF. Shark guide still stale: no dated 2026 Shark prices found (Currys Stratos £199 is non-earning).
 - NOTE 21 Nov 09:53 (BF live run): live page 25 cards (24 Amazon); added Bose Smart Soundbar £329 + Fire TV Stick 4K £31.99, dropped Sonos Move 2 and Rivendell (unconfirmed). AirPods guide re-checked (no change). Shark and Switch 2 refresh skipped: newest UK prices dated 19 Nov or older.
@@ -38,8 +39,8 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [x] christmas-gifts-under-30-uk: Christmas gifts under £30 UK
 - [x] gifts-for-boyfriend-christmas-2026: Christmas gifts for your boyfriend 2026
 - [x] gifts-for-girlfriend-christmas-2026: Christmas gifts for your girlfriend 2026
-- [ ] christmas-gifts-for-grandparents-uk: Christmas gifts for grandparents UK
-- [ ] lego-gifts-for-adults-uk: Best Lego sets for adults (gift guide)
+- [x] christmas-gifts-for-grandparents-uk: Christmas gifts for grandparents UK
+- [x] lego-gifts-for-adults-uk: Best Lego sets for adults (gift guide)
 - [ ] stocking-fillers-for-adults-uk: Stocking fillers for adults UK
 - [ ] gifts-for-coffee-lovers-uk: Gifts for coffee lovers UK (Rocket Espresso for the splurge, Awin)
 - [ ] gifts-for-gardeners-uk: Gifts for gardeners UK
