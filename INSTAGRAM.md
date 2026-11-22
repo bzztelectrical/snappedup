@@ -19,6 +19,7 @@ Set up 19 Nov 2026 (user: "instagram is logged in set it up").
 | 19 Nov 2026 | Which Kindle should you buy? | 6 | Starter |
 | 19 Nov 2026 | Dyson Airwrap or Shark FlexStyle? | 6 | Starter; tip slide changed to "prices to wait for are in our guide" (no prices on images) |
 | 19 Nov 2026 | Which AirPods to buy this Black Friday | 6 | Starter; AirPods 5 line corrected (WCC £119 deal ended 17 Nov) |
+| 22 Nov 2026 | 3 gifts grandparents will actually use | 5 | Gap-filler after 3 quiet days (user: "last post on insta was 3 days ago"); from today's grandparents guide; spec tiktok/carousel/extra/grandparents.json |
 
 How-to that works on web: Create → Post → upload all slides to the file input → crop icon bottom-left → **4:5** (default is 1:1, which cuts slides) → Next → Next → click the caption box via its ref (clicking by coordinates can miss, and typing outside the box fires Instagram's keyboard shortcuts) → click inside the caption to close hashtag suggestions → Share. Slides: TikTok 9:16 slides scaled into 1080×1350 with the slide's own background colour as padding (scratch script; see the 19 Nov session).
 
@@ -27,3 +28,6 @@ Captions until 19 Dec: "Type snappedupdeals.co.uk/start into your browser". Afte
 
 ## 23–29 Nov batch (approved 22 Nov, "post all")
 Instagram web has NO scheduler (Advanced Settings only has like counts and comments; checked 22 Nov), and Meta Business Suite needs a Facebook Page we don't have. So each of the 14 carousels is posted live at its slot (12:00 and 19:00, 23–29 Nov) by a timed wake-up of the main Claude session, using the files on the laptop at Desktop\snapped-up\w1123\ig\<name>\ and the captions in tiktok/carousel/w1123/captions.json. If the laptop/Chrome is off at a slot, that post goes out at the next slot.
+
+## Rule (22 Nov)
+Never let Instagram go a day without a post. If a weekly batch hasn't started yet, post a gap-filler carousel built from that day's newest guide.

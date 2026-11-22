@@ -1,0 +1,12 @@
+{
+ "kicker": "CHRISTMAS GIFTS 2026",
+ "hook": "3 gifts grandparents will actually use",
+ "sub": "No fiddly tech, just useful",
+ "picks": [
+  {"label": "FOR READERS", "shop": "Amazon", "img": "img/kindle-pw-sig.png", "name": "Kindle Paperwhite Signature", "line": "Any book in large print, a light that adjusts itself, and it charges on a pad, so no fiddly cable."},
+  {"label": "PEACE OF MIND", "shop": "Amazon", "img": "img/ring-battery.png", "name": "Ring Battery Doorbell", "line": "See who's at the door from a phone before opening it. Battery-powered, so no wiring."},
+  {"label": "EASY DINNERS", "shop": "Amazon", "img": "img/ninja-crispi.png", "name": "Ninja Crispi", "line": "A small air fryer that cooks in glass dishes they can serve from and put straight in the fridge."}
+ ],
+ "endq": "What are you getting your grandparents?",
+ "endsub": "10 gift ideas + today's prices"
+}
