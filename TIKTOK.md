@@ -114,3 +114,6 @@ Rotate the topic every day, preferring guides that earn (Awin partners first, th
 - The v2 Hamleys countdown got 239 views and 1.41s average watch. Most viewers still swipe at 0:01, so the new edit didn't fix the first second. It was also posted late (22:13).
 - **TikTok has sent ~0 visits to the site:** Cloudflare referrers for 7 days show no tiktok.com, and nearly all traffic is direct/search. The site is growing without it (107 visits in 24h on 17 Nov, +45%).
 - **Verdict on text-on-colour slides:** they don't hold viewers past a second. Judge the scheduled 17–22 Nov posts on 24 Nov. If they're still around 250, change format to **real product visuals** (official affiliate creatives/product images from Awin partners such as Hamleys and Rocket, which are provided for promotion; never Amazon images, which the Associates rules don't allow outside its API) or stop spending effort on TikTok and put it into the site.
+
+## 22 Nov 2026: one address on every post
+End slides and captions say **snappedupdeals.co.uk/start** (no clickable links on TikTok). /start/ lists today's best picks plus shortcuts and shows as its own path in Cloudflare Web Analytics: that's how we measure what TikTok/Instagram send. Volume: 2 carousels a day (12:30 and 19:30) from the 23 Nov batch, because Google sends ~0 visitors (Search Console, 22 Nov) and social is the engine.

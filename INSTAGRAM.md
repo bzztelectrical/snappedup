@@ -21,3 +21,6 @@ Set up 19 Nov 2026 (user: "instagram is logged in set it up").
 | 19 Nov 2026 | Which AirPods to buy this Black Friday | 6 | Starter; AirPods 5 line corrected (WCC £119 deal ended 17 Nov) |
 
 How-to that works on web: Create → Post → upload all slides to the file input → crop icon bottom-left → **4:5** (default is 1:1, which cuts slides) → Next → Next → click the caption box via its ref (clicking by coordinates can miss, and typing outside the box fires Instagram's keyboard shortcuts) → click inside the caption to close hashtag suggestions → Share. Slides: TikTok 9:16 slides scaled into 1080×1350 with the slide's own background colour as padding (scratch script; see the 19 Nov session).
+
+## 22 Nov 2026
+Captions until 19 Dec: "Type snappedupdeals.co.uk/start into your browser". After the bio link unlocks, set the bio link to https://snappedupdeals.co.uk/start/.
