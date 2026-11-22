@@ -436,6 +436,33 @@ for (const pg of pages) {
     body: `<article class="post page"><h1>${esc(pg.title)}</h1><div class="prose">${md(pg.body)}</div></article>` }));
 }
 
+// /start/: the one address we say on TikTok/Instagram (no clickable links there). Today's best picks plus shortcuts.
+// Shows up as its own path in Web Analytics, which gives us social attribution. noindex: it's a landing page, not an SEO page.
+{
+  const fresh = [...posts].filter((p) => (p.updated || p.date) >= yesterdayUK || (p.tickerUntil && p.tickerUntil >= todayUK))
+    .sort((a, b) => (b.updated || b.date).localeCompare(a.updated || a.date));
+  const seen = new Set(); const top = [];
+  for (const p of fresh) for (const d of p.deals || []) {
+    if (top.length >= 8 || d.verdictLevel !== "great" || d.ticker === false) continue;
+    const k = d.name.toLowerCase().split(" ").slice(0, 3).join(" ");
+    if (seen.has(k)) continue; seen.add(k); top.push(d);
+  }
+  const links = [
+    ["Black Friday live deals", "/guides/black-friday-2026-live-deals-uk/", todayUK <= "2026-11-30"],
+    ["Christmas gift guides", "/christmas-gifts/", todayUK <= "2026-12-25"],
+    ["Audible: £0.99 a month for 3 months", "/guides/audible-free-trial-deals-uk/", todayUK <= "2026-12-17"],
+    ["Edifier headphones & speakers sale", "/guides/edifier-black-friday-deals-2026-uk/", todayUK <= "2026-11-30"],
+    ["Today's daily deals", "/deals/", true],
+  ].filter((x) => x[2]);
+  const body = `<section class="page-head"><h1>Today's best deals</h1><p>Picked and price-checked by Snapped Up. Tap any deal to see it at the shop.</p>
+<p class="start-links">${links.map(([t, u]) => `<a class="btn start-btn" href="${u}">${esc(t)} →</a>`).join(" ")}</p></section>
+${deals(top)}
+${disclosureNote}`;
+  const html = layout({ title: "Today's best deals", description: "Snapped Up's best UK deals today, price-checked.", pathname: "/start/", body })
+    .replace('<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">', '<meta name="robots" content="noindex, follow">');
+  write(path.join("start", "index.html"), html);
+}
+
 // 404
 write("404.html", layout({ title: "Page not found", pathname: "/404.html",
   body: `<section class="page-head"><h1>That deal's gone.</h1><p>The page you wanted isn't here. <a href="/">Head back to today's picks</a>.</p></section>` }));

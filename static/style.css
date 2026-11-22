@@ -195,3 +195,5 @@ nav a { white-space: nowrap; }
 .pb-price s { display: block; font-weight: 400; font-size: .75rem; color: var(--muted); }
 .pb-all { display: block; margin-top: 6px; text-align: center; background: #111; color: #fff !important; border-radius: 10px; padding: 8px; font-weight: 700; text-decoration: none; }
 @media (max-width: 560px) { .partner-bubble { right: 10px; bottom: 10px; } .pb-toggle { padding: 8px 13px; font-size: .82rem; } }
+.start-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.start-btn { margin-left: 0; display: inline-block; }
