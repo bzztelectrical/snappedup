@@ -265,6 +265,7 @@ topBanner = (() => {
     for (const d of p.deals || []) {
       if (fromThis >= 3) break; // variety: max 3 ticker items per page
       const pinned = !!(p.tickerUntil && p.tickerUntil >= todayUK); // partner promo we promised to feature
+      if (d.ticker === false) continue;
       if (d.retailer !== "Amazon" || !(/amazon\.co\.uk/.test(d.url) || (pinned && /pboost\.me/.test(d.url)))) continue;
       const key = d.name.toLowerCase().replace(/^(amazon|apple)\s+/, "").replace(/[^a-z0-9]+/g, " ").trim().split(" ").slice(0, 4).join(" "); // one per product family
       const key2 = key.split(" ").slice(0, 2).join(" ") + "@" + d.price; // same brand, same price = same product

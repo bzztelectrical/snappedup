@@ -40,9 +40,9 @@
     },
     {
       "name": "Audible Standard: £0.99 a month for 3 months (then £5.99)",
-      "retailer": "Audible",
+      "retailer": "Amazon",
       "price": 0.99,
-      "url": "https://www.audible.co.uk/",
+      "url": "https://www.amazon.co.uk/hz/audible/mlp",
       "verdict": "Big drop",
       "verdictLevel": "great",
       "note": "Audible's current offer runs until 28 December 2026. You get one audiobook a month to keep. Prime members can instead get two free audiobooks on the Premium free trial. See our [Audible guide](/guides/audible-free-trial-deals-uk/)."
