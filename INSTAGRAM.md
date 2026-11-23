@@ -21,6 +21,7 @@ Set up 19 Nov 2026 (user: "instagram is logged in set it up").
 | 19 Nov 2026 | Which AirPods to buy this Black Friday | 6 | Starter; AirPods 5 line corrected (WCC £119 deal ended 17 Nov) |
 | 22 Nov 2026 | 3 gifts grandparents will actually use | 5 | Gap-filler after 3 quiet days (user: "last post on insta was 3 days ago"); from today's grandparents guide; spec tiktok/carousel/extra/grandparents.json |
 | 23 Nov 2026 12:01 | 3 months of Audible for under £3 (01-mon-1230-audible) | 6 | Batch 23–29 Nov |
+| 23 Nov 2026 19:02 | Which Ring doorbell should you buy? (02-mon-1930-ring) | 5 | Batch 23–29 Nov. Web layout at 1519×784: crop (474,688) → 4:5 (500,604) → Next (1034,86) → Next (1166,86) → caption (1040,180), check document.activeElement is the caption before typing → Share (1166,86). Don't click inside the filter grid. |
 
 How-to that works on web: Create → Post → upload all slides to the file input → crop icon bottom-left → **4:5** (default is 1:1, which cuts slides) → Next → Next → click the caption box via its ref (clicking by coordinates can miss, and typing outside the box fires Instagram's keyboard shortcuts) → click inside the caption to close hashtag suggestions → Share. Slides: TikTok 9:16 slides scaled into 1080×1350 with the slide's own background colour as padding (scratch script; see the 19 Nov session).
 
