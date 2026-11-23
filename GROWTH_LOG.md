@@ -22,3 +22,10 @@
 - A "Snapped Up" link-in-bio style landing page (/start/) listing this week's top 5 deals, used as the one URL we say on TikTok/Instagram, so typed visits land on a high-converting page and show up as a path in Web Analytics (attribution).
 - Make every carousel's end slide say "snappedupdeals.co.uk/start", so it's measurable.
 - Internal links from the AirPods page (our #1 page) to the gift guides and the Audible page.
+
+## 23 Nov 2026: critical review after user push ("clicks are going down... we should be seeing a massive climb")
+- Facts: ~180 real visits/day, flat all week (Cloudflare WA, bots excluded). ~26% of visitors click to Amazon (good). Amazon clicks/day fell ~60 → ~47 while earnings rose to £15–17/day purely on Black Friday basket size. Run-rate ≈ £110/week.
+- Diagnosis: the site converts; it has no volume channel. Google ~0 (new domain), TikTok/Instagram have no clickable links (~150 views/post), Pinterest only 5 pins/day.
+- Shipped today: IndexNow (static/<key>.txt + .github/workflows/indexnow.yml). All 138 URLs submitted to Bing/Yandex (HTTP 202); every push and a nightly run re-submit new/updated pages. Bing/DDG/Yahoo index in days, not months.
+- Ramp plan, in order of expected clicks: (1) Pinterest 5 → 20 pins/day, a fresh pin for every guide (needs free business account for scheduling/bulk CSV); (2) TikTok business account → website link in bio; (3) email capture on /start + guides with a daily top-5 email (needs MailerLite account); (4) Facebook Page (biggest UK deals audience; also unlocks Instagram scheduling via Meta Business Suite).
+- Judge on Sun 29 Nov: target 400+ visits/day and 100+ Amazon clicks/day. Anything that hasn't moved the numbers gets cut.
