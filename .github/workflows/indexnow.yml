@@ -1,0 +1,37 @@
+name: IndexNow ping
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 21 * * *"
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Cloudflare Pages deploy
+        if: github.event_name == 'push'
+        run: sleep 150
+      - name: Submit new and updated URLs to IndexNow (Bing, Yandex, Seznam, Naver)
+        run: |
+          python3 - <<'PY'
+          import json, re, urllib.request, datetime
+          host = "snappedupdeals.co.uk"
+          key = "b742fb88db8e5e166f1d26914f187a25"
+          xml = urllib.request.urlopen(f"https://{host}/sitemap.xml", timeout=30).read().decode()
+          today = datetime.date.today()
+          keep = {str(today), str(today - datetime.timedelta(days=1))}
+          urls = []
+          for m in re.finditer(r"<url><loc>([^<]+)</loc>(?:<lastmod>([^<]+)</lastmod>)?</url>", xml):
+              loc, lm = m.group(1), m.group(2)
+              if lm in keep or loc.rstrip("/").endswith(host):
+                  urls.append(loc)
+          print(len(urls), "URLs")
+          if urls:
+              body = json.dumps({"host": host, "key": key, "keyLocation": f"https://{host}/{key}.txt", "urlList": urls[:10000]}).encode()
+              req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+              try:
+                  r = urllib.request.urlopen(req, timeout=30); print("IndexNow", r.status)
+              except urllib.error.HTTPError as e:
+                  print("IndexNow", e.code, e.read()[:300])
+          PY
