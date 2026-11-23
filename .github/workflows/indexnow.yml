@@ -13,6 +13,12 @@ jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build sitemap
+        run: node build.mjs > /dev/null
       - name: Wait for Cloudflare Pages deploy
         if: github.event_name == 'push'
         run: sleep 150
@@ -22,7 +28,7 @@ jobs:
           import json, re, urllib.request, datetime
           host = "snappedupdeals.co.uk"
           key = "b742fb88db8e5e166f1d26914f187a25"
-          xml = urllib.request.urlopen(f"https://{host}/sitemap.xml", timeout=30).read().decode()
+          xml = open("dist/sitemap.xml").read()
           today = datetime.date.today()
           keep = {str(today), str(today - datetime.timedelta(days=1))}
           urls = []
