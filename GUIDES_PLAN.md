@@ -1,6 +1,7 @@
 ## REFRESH FIRST (16 Nov 2026, from Cloudflare 7-day traffic)
 - **Order to refresh (top pages, 24h to 17 Nov 08:45):** airpods-black-friday-deals-2026 (32 visits; Amazon picks done 16 Nov, so keep its prices current), when-is-black-friday-2026-uk (13), perfume-gift-sets-black-friday-2026 (8), rocket-espresso-machine-review (5, Awin), dyson-v15-deals-uk (5). Done 16 Nov: AirPods, TV, Kindle (Amazon picks added).
 - NOTE 18 Nov 13:53: AirPods refresh skipped (no UK prices dated 17/18 Nov found). Dyson BF guide corrected: V12 back to £429 (PriceSpy), V15 £649; V8 Origin £199.99 Amazon added as the pick.
+- NOTE 23 Nov (morning run): wrote gifts-for-gardeners-uk (8 cards, all Amazon, prices from PriceSpy Amazon listings viewed 23 Nov; no garden roundup dated 22/23 Nov had current prices). Skipped Bosch EasyPrune (Amazon stock 'Incoming'), Sophie Conran tool bag (PriceSpy listing mismatch) and undated HUKD Felco 2. New spotlight: black-friday-vacuum-deals-2026. Refreshed when-is-BF and when-is-Cyber-Monday (Cyber Monday cards replaced with 22 Nov-confirmed prices). Nothing dated 23 Nov found in TechRadar/T3 live blogs at run time; Shark PowerDetect back up at Amazon (£398.77).
 - NOTE 22 Nov 17:53 (BF live run): live page 25 cards (23 Amazon); added AirPods Pro 3 £165 (new low), Technics EAH-AZ100 £179.99, Lego Classic Brick Box £28.99; dropped Echo Show 8, Kids Tablet 8 (conflicting £124/£149) and Lego Gingerbread (not re-confirmed). Refreshed AirPods (Pro 3 £165), when-is-BF and Smeg (kettle/TSF01/DCF02 no longer discounted on SMEG site; now ECF02+grinder £349, frother bundle £279.95, hand blender £69.95).
 - NOTE 22 Nov 13:53 (BF live run): live page 25 cards (23 Amazon); added Kindle Scribe Colorsoft £439, Ninja BlendBoss £80, Echo Show 8 £119.99; dropped Ember 50-inch TV and Sony WH-1000XM6 (not re-confirmed). Refreshed perfume gift sets (TPS La Vie Est Belle and Boss sets gone; now Burberry Goddess £59.40 JL, Boss 100ml £54.60 JL, La Vie Est Belle 30ml £45.89 Amazon) and coffee machines (Baristina £249.99 + Bambino Plus £349 Amazon added; undated Stilosa/Barista Pro cards removed). Hamleys guide still has no dated prices.
 - NOTE 22 Nov 09:53 (BF live run): live page 24 cards (22 Amazon); added Sonos Ace £199, Kids Tablet 8 £124, Bose Smart Soundbar £329; dropped Ember 65 Mini-LED, Revlon One-Step, Nothing Ear (3a) (unconfirmed). Refreshed AirPods (WCC £119 Amazon re-confirmed) and Shark (stale Oct cards replaced: Stratos £199 + PowerDetect Speed £229.99 Currys, Dyson V8 £199.99 Amazon). Trusted Reviews blocks fetch.
@@ -45,7 +46,7 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [x] lego-gifts-for-adults-uk: Best Lego sets for adults (gift guide)
 - [x] stocking-fillers-for-adults-uk: Stocking fillers for adults UK
 - [x] gifts-for-coffee-lovers-uk: Gifts for coffee lovers UK (Rocket Espresso for the splurge, Awin)
-- [ ] gifts-for-gardeners-uk: Gifts for gardeners UK
+- [x] gifts-for-gardeners-uk: Gifts for gardeners UK
 - [ ] gifts-for-people-who-love-cooking-uk: Gifts for people who love cooking UK
 - [ ] gifts-for-runners-uk: Gifts for runners UK
 - [ ] gifts-for-book-lovers-uk: Gifts for book lovers UK (Kindle + Audible/Kindle Unlimited bounty mentions)
