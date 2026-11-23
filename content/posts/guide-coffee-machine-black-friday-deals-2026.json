@@ -1,7 +1,7 @@
 {
   "type": "guide",
   "date": "2026-10-31",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "slug": "coffee-machine-black-friday-deals-2026",
   "title": "Coffee machine Black Friday deals 2026 UK: De'Longhi, Sage, Ninja and Nespresso",
   "seoTitle": "Coffee Machine Black Friday Deals 2026 UK: Prices",
@@ -10,7 +10,7 @@
     "black-friday",
     "home"
   ],
-  "intro": "**Short answer: the best coffee machine deal right now is the De'Longhi Magnifica Evo Next bean-to-cup at £379 from Amazon, £220 off.** For pods, the Nespresso Vertuo Pop is £49 at John Lewis, and the Philips Baristina is £249.99 at Amazon.\n\nThe Sage Barista Express is £479.95 to £499.99, still above last year's £449, so it's worth waiting for. The Sage Bambino Plus is £349 at Amazon. Prices were checked on 21 and 22 November 2026; the Rocket card was last confirmed earlier in November, so check the retailer before buying. More live offers on our [Black Friday live deals page](/guides/black-friday-2026-live-deals-uk/).",
+  "intro": "**Short answer: the best coffee machine deal right now is the De'Longhi Magnifica Evo Next bean-to-cup at £379 from Amazon, £220 off.** For a manual espresso machine with a grinder, the De'Longhi La Specialista Arte is £329 at Amazon (£200 off); for pods, the Nespresso Vertuo Pop is £49 at John Lewis and the Lavazza Tabli is £99 at Amazon.\n\nThe Sage Barista Express is £499.99 at Currys, still above last year's £449, so it's worth waiting for. The Sage Bambino Plus is £349 at Amazon. Prices were checked on 21 and 22 November 2026; the Rocket card was last confirmed earlier in November, so check the retailer before buying. More live offers on our [Black Friday live deals page](/guides/black-friday-2026-live-deals-uk/).",
   "deals": [
     {
       "name": "De'Longhi Magnifica Evo Next Bean-to-Cup Coffee Machine",
@@ -23,6 +23,26 @@
       "note": "The updated Magnifica Evo: grinds fresh beans and froths milk at a touch. £379 at Amazon (TechRadar, 21 November), £220 off, and the easiest way to café-style drinks without learning to tamp."
     },
     {
+      "name": "De'Longhi La Specialista Arte Bean-to-Cup Espresso Machine",
+      "retailer": "Amazon",
+      "price": 329,
+      "was": 529.99,
+      "url": "https://www.amazon.co.uk/s?k=De%27Longhi+La+Specialista+Arte",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£200 off at Amazon (TechRadar, 22 November). A manual espresso machine with a built-in grinder and steam wand, so it's the cheaper rival to the Sage Barista Express (£499.99)."
+    },
+    {
+      "name": "Philips Baristina Espresso Machine",
+      "retailer": "Amazon",
+      "price": 249.99,
+      "was": 299.99,
+      "url": "https://www.amazon.co.uk/s?k=Philips+Baristina",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A compact bean-to-cup that grinds, tamps and brews with one swipe of the handle. £249.99 at Amazon, £50 off (TechRadar, 22 November)."
+    },
+    {
       "name": "Nespresso Vertuo Pop",
       "retailer": "John Lewis",
       "price": 49,
@@ -33,6 +53,36 @@
       "note": "Half price, from £49 at John Lewis today (22 November; some colours cost a few pounds more). Below last year's early-November price of about £52. Pods cost more than beans over time, so it suits occasional coffee drinkers."
     },
     {
+      "name": "De'Longhi Dedica Style Espresso Machine",
+      "retailer": "Amazon",
+      "price": 129,
+      "was": 178.99,
+      "url": "https://www.amazon.co.uk/s?k=De%27Longhi+Dedica+Style",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£129 at Amazon (TechRadar, 22 November). A slim, simple espresso machine for ground coffee; pair it with a grinder if you want fresh beans."
+    },
+    {
+      "name": "Ninja Prestige DualBrew Coffee Machine",
+      "retailer": "Amazon",
+      "price": 169.99,
+      "was": 259.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Prestige+DualBrew",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£90 off at Amazon (TechRadar, 22 November). Makes espresso-style shots from pods or grounds plus filter coffee, with a built-in frother."
+    },
+    {
+      "name": "Lavazza A Modo Mio Tabli Pod Machine",
+      "retailer": "Amazon",
+      "price": 99,
+      "was": 199,
+      "url": "https://www.amazon.co.uk/s?k=Lavazza+Tabli",
+      "verdict": "Big drop",
+      "verdictLevel": "good",
+      "note": "Half price at Amazon (TechRadar, 22 November). A compact pod machine with a milk frother, a good alternative to Nespresso if you like Lavazza's pods."
+    },
+    {
       "name": "Sage the Barista Express",
       "retailer": "Currys",
       "price": 499.99,
@@ -41,16 +91,6 @@
       "verdict": "Wait for BF",
       "verdictLevel": "wait",
       "note": "£499.99 at Currys (TechRadar, 22 November), and John Lewis has some colours from £479.95 today. That's still above the £449 Amazon charged on Black Friday 2025, so aim for £449 to £479."
-    },
-    {
-      "name": "Philips Baristina Espresso Machine",
-      "retailer": "Amazon",
-      "price": 249.99,
-      "was": 299.99,
-      "url": "https://www.amazon.co.uk/s?k=Philips+Baristina",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "A compact bean-to-cup that grinds, tamps and brews with one swipe of the handle. £50 off at Amazon today (TechRadar, 22 November), and John Lewis matches it. Milk frothing needs a separate frother."
     },
     {
       "name": "Sage the Bambino Plus",

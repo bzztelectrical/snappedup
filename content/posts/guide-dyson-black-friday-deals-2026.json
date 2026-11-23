@@ -1,11 +1,11 @@
 {
   "type": "guide",
   "date": "2026-10-20",
-  "updated": "2026-11-20",
+  "updated": "2026-11-23",
   "slug": "dyson-black-friday-deals-2026",
   "title": "Dyson Black Friday deals 2026 UK: prices to wait for",
   "description": "Today's Dyson vacuum and hair tool prices next to last year's Black Friday lows, so you know which deals are real and which to wait on.",
-  "intro": "**The best Dyson deal today is the Dyson V8 Origin at £199.99 at Amazon, £130 off and level with last Black Friday's best V8 price. It was still at that price this morning, 20 November.** The two most popular models have gone back up since last week: the V12 Detect Slim Absolute is now £429 at AO, Very and Currys (it was £349.99 on 14 November), and the V15 Detect Absolute is back to £649.\n\nSo buy the V8 now if it suits your home, but wait on the V12 and V15: both dropped to Black Friday prices earlier this month and are likely to again before 27 November. The V8 Origin price was re-checked on 20 November; the V12 and V15 prices were checked on 18 November at AO, Very, Currys and Argos, so check those before you buy.",
+  "intro": "**The best Dyson deal today is the Dyson V8 Origin at £199.99 at Amazon, £130 off and level with last Black Friday's best V8 price.** The Dyson Clean+Wash Hygiene floor cleaner is also at its cheapest yet, £259 at Amazon, and Dyson has the Supersonic Origin hair dryer at £174.99 and the Airwrap i.d. at £369.99.\n\nWe've taken the V12 Detect Slim and V15 Detect cards off for now: their last confirmed prices (£429 and £649 on 18 November) were above their lows, and we haven't found newer dated UK prices. Both dropped to Black Friday prices earlier this month, so wait for the next drop rather than paying full price. Prices on this page were reported on 22 and 23 November 2026; check the retailer before you buy. More offers on our [Black Friday live deals page](/guides/black-friday-2026-live-deals-uk/).",
   "deals": [
     {
       "name": "Dyson V8 Origin Cordless Vacuum",
@@ -15,36 +15,47 @@
       "url": "https://www.amazon.co.uk/s?k=Dyson+V8+Origin",
       "verdict": "Matches BF low",
       "verdictLevel": "great",
-      "note": "The cheapest current Dyson stick vacuum, still £199.99 in Amazon's Black Friday Week picks on 20 November. The V8 reached £199 last Black Friday, so this is as low as we expect it to go. Best for flats and smaller homes."
+      "note": "The cheapest current Dyson stick vacuum, still £199.99 at Amazon on today's checks (22–23 November). The V8 reached £199 last Black Friday, so this is a genuine low. Best for flats and smaller homes."
     },
     {
-      "name": "Dyson V12 Detect Slim Absolute Cordless Vacuum",
-      "retailer": "AO",
-      "price": 429,
-      "was": 549.99,
-      "url": "https://ao.com/search?search=dyson+v12+detect+slim+absolute",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "£429 at AO, Very and Currys on 18 November, up from £349.99 last week. It's fallen to £349 to £399 several times recently, so wait for the next drop."
+      "name": "Dyson Clean+Wash Hygiene Wet Floor Cleaner",
+      "retailer": "Amazon",
+      "price": 259,
+      "was": 429.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+Clean+Wash+Hygiene",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "The cheapest it has been, reported by TechRadar on 22 November. A wet cleaner for hard floors, so it complements a cordless vacuum rather than replacing one."
     },
     {
-      "name": "Dyson V12 Detect Slim Absolute Cordless Vacuum",
-      "retailer": "Argos",
-      "price": 429.99,
-      "was": 549.99,
-      "url": "https://www.argos.co.uk/product/9851418",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "Argos is a penny behind the others. It matched the £349.99 low last week, so it's worth watching."
+      "name": "Dyson Supersonic Origin Hair Dryer (Black/Nickel)",
+      "retailer": "Dyson",
+      "price": 174.99,
+      "was": 249.99,
+      "url": "https://www.dyson.co.uk/hair-care/hair-dryers/supersonic-origin",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£75 off at Dyson in the Black/Nickel colour only (TechRadar, 22 November). The same dryer as the standard Supersonic with fewer attachments in the box."
     },
     {
-      "name": "Dyson V15 Detect Absolute Cordless Vacuum",
-      "retailer": "Very",
-      "price": 649,
-      "url": "https://www.very.co.uk/search/dyson-v15-detect-absolute",
-      "verdict": "Wait for BF",
-      "verdictLevel": "wait",
-      "note": "Back to full price after £479 on 17 November. Don't pay £649: it's been £449 to £479 several times this month. Our [Dyson V15 deals guide](/guides/dyson-v15-deals-uk/) tracks it daily."
+      "name": "Dyson Airwrap i.d. Multi-Styler (Straight + Wavy)",
+      "retailer": "Dyson",
+      "price": 369.99,
+      "was": 479.99,
+      "url": "https://www.dyson.co.uk/hair-care/hair-stylers/airwrap-id",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£110 off at Dyson (TechRadar, 22 November). Airwraps rarely drop further than this; buy direct from Dyson or an authorised retailer to avoid fakes."
+    },
+    {
+      "name": "Dyson Purifier Humidify+Cool (PH2)",
+      "retailer": "John Lewis",
+      "price": 549,
+      "was": 699,
+      "url": "https://www.johnlewis.com/search?search-term=dyson%20purifier%20humidify%20cool",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£150 off at John Lewis (TechRadar, 22 November). Purifies, humidifies and cools in one; worth it mainly for allergy sufferers or dry, centrally heated homes."
     },
     {
       "name": "Shark Stratos Cordless Vacuum",
