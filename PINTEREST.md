@@ -30,3 +30,8 @@ Set up 18 Nov 2026 (user: "set up the profile, add our logo and get posting").
 The account is personal, so Pinterest has no "publish later" (that's a business-account feature). Instead all 35 pins were created on 22 Nov as **drafts** (Pin drafts panel in pin-creation-tool; drafts last 30 days) with title, description, link and board filled in, and a timed wake-up publishes each day's 5 at 09:00 (23–29 Nov). Titles, descriptions, links and boards: pinterest/pins-w1123-meta.json.
 Converting to a free business account would unlock scheduling and bulk CSV upload (and analytics); worth asking the user.
 Pin flow that works: Create new → find "File Upload" input → upload one image → title (711,211), description (711,310), link (711,419) → board field (711,519) → Best Tech 293 / Black Friday 344 / Christmas 394 → check with a zoom.
+
+## Published from the 23–29 Nov drafts
+| Date | Pins | Notes |
+|---|---|---|
+| 23 Nov 09:00 | Audible 3 months under £3 · Which Ring doorbell · BF deals we'd actually buy · When is Cyber Monday 2026 · Christmas gifts Dad | Bulk publish: tick the 5 drafts' checkboxes in the Pin drafts panel → red Publish button at the bottom of the panel |
