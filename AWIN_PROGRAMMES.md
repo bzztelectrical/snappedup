@@ -130,3 +130,5 @@ New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shore
 - After 30 Nov: the bubble switches off automatically. Re-check Edifier prices before keeping the guide's prices, and ask Lesley for the December deal sheet.
 - MERACH: Lesley suggests Tradedoubler while its Impact programme is set up. The user needs to create a Tradedoubler publisher account (not done yet).
 - 20 Nov 11:50: replied to Lesley from hello@ (user approved). Told her: PartnerBoost links live on the Edifier guide, Edifier panel sitewide + first in the ticker until 30 Nov, asked for the MERACH Tradedoubler programme link and Edifier's December deal list.
+
+- 24 Nov (user decision): Edifier moved to the END of the ticker (still in it until 30 Nov) and the side bubble now starts closed. Reason: PartnerBoost showed 117 Edifier clicks in 7 days, 0 orders, while Amazon clicks fell ~13/day after Edifier went first on 20 Nov.

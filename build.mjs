@@ -160,7 +160,7 @@ const partnerBubble = (() => {
 let st=null;try{st=sessionStorage.getItem("pb")}catch(e){}
 if(st==="closed"){el.remove();return;}
 const t=el.querySelector(".pb-toggle");const set=o=>{el.classList.toggle("open",o);t.setAttribute("aria-expanded",o);try{sessionStorage.setItem("pb",o?"open":"min")}catch(e){}};
-if(st==="open"||(st===null&&matchMedia("(min-width: 1100px)").matches))el.classList.add("open"),t.setAttribute("aria-expanded","true");
+if(st==="open")el.classList.add("open"),t.setAttribute("aria-expanded","true");
 t.addEventListener("click",()=>set(!el.classList.contains("open")));
 el.querySelector(".pb-close").addEventListener("click",()=>{el.remove();try{sessionStorage.setItem("pb","closed")}catch(e){}});})();</script>`;
 })();
@@ -279,7 +279,11 @@ topBanner = (() => {
   // Rank by our own verdict, not by "was" prices (many are inflated RRPs we tell readers to ignore).
   const rank = { great: 0, good: 1 };
   items.sort((x, y) => (y.pinned ? 1 : 0) - (x.pinned ? 1 : 0) || (rank[x.verdictLevel] ?? 2) - (rank[y.verdictLevel] ?? 2));
-  const pick = items.slice(0, 14);
+  // Partner (PartnerBoost/Edifier) items go LAST (user, 24 Nov): in 7 days they took 117 clicks with 0 orders
+  // while Amazon clicks fell ~13/day. Amazon picks (incl. the pinned Audible bounty) lead the ticker.
+  const isPartner = (d) => /pboost\.me/.test(d.url);
+  const amzItems = items.filter((d) => !isPartner(d)), partnerItems = items.filter(isPartner);
+  const pick = [...amzItems.slice(0, 14 - Math.min(3, partnerItems.length)), ...partnerItems.slice(0, 3)];
   const cta = `<a class="tb-cta" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank"><span class="tb-cta-long">${esc(b.cta)}</span><span class="tb-cta-short">All deals</span><span aria-hidden="true"> →</span></a>`;
   const tbScript = `<script>(()=>{const b=document.querySelector(".top-banner");if(!b)return;const f=()=>document.documentElement.style.setProperty("--tb-h",b.offsetHeight+"px");f();if(window.ResizeObserver)new ResizeObserver(f).observe(b);})();</script>`;
   const label = `<span class="tb-label"><span class="tb-ad">Ad</span><strong>${esc(b.text)}</strong></span>`;
