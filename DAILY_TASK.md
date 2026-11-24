@@ -112,3 +112,11 @@ Markdown supported: `##`/`###` headings, paragraphs, `-` and `1.` lists, `**bold
 ## 5. Report
 
 Finish with a 4-line summary: daily post title, guide written and guides refreshed, number of picks, and anything the owner should know (e.g. a retailer that blocked access, or a spotlight topic chosen).
+
+
+## GOOGLE RULES (24 Nov 2026, user: "make the page better so it gets ranked more by google")
+- seoTitle leads with the exact words people search (check GUIDES_PLAN.md → REFRESH FIRST for Search Console queries), year + UK, under 60 characters.
+- Open every guide with a bold one-paragraph direct answer to the search (dates, price, which to buy).
+- Every guide ends with 3–5 `### Question?` FAQs worded the way people search (these become FAQ structured data).
+- Never leave time-sensitive copy stale: a page that says a sale 'is expected to start' after it started loses clicks. When you touch a page, fix any date-relative wording and set updated.
+- Pages Google already shows us on page 1–2 get refreshed before new guides are written.
