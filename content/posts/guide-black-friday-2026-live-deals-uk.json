@@ -9,7 +9,7 @@
   "tags": [
     "black-friday"
   ],
-  "intro": "**Last checked: Tuesday 24 November, 1:53pm.** The three standouts right now: the **AirPods Pro 3 at £165** at Amazon (still their lowest ever), the award-winning **TCL P8L 65-inch Mini LED TV at £699** at Amazon (£150 off) and the **Apple Watch Ultra 3 at £495** at Argos (over £250 off, very rare for Apple).\n\nBlack Friday is three days away, on Friday 27 November, and Amazon's Black Friday Week runs until 30 November. We check this page three times a day and remove anything that has sold out or gone back up. This afternoon we added the TCL P8L TV, the Sony PS-LX3BT turntable at £199 and the Lego Neuschwanstein Castle at £189.99, all at Amazon. To make room we took off the Mac mini, the Apple Watch Series 11 and the iPad Air, which were only modest discounts. **PS5 buyers:** consoles are in short supply since GTA VI launched, but a DualSense controller is £42.99 at Amazon; see our [PS5 guide](/guides/ps5-black-friday-deals-2026/) before paying a reseller's price. Prices were reported on 23 and 24 November, so check the retailer's page before you buy. Many Amazon prices need Prime: a [free Prime trial](https://www.amazon.co.uk/amazonprime) covers the whole sale.",
+  "intro": "**Last checked: Tuesday 24 November, 5:53pm.** The three standouts right now: the **AirPods Pro 3 at £165** at Amazon (still their lowest ever), the new **Kindle (2026) at a record-low £119.99** at Amazon, and the **Ring Battery Doorbell plus Indoor Camera for £39.99** at Amazon.\n\nBlack Friday is three days away, on Friday 27 November, and Amazon's Black Friday Week runs until 30 November. We check this page three times a day and remove anything that has sold out or gone back up. This evening we added the Kindle, Shokz OpenRun Pro 2 (£126, lowest ever), reMarkable 2 bundle (£399, record low), Oral-B iO3 (£49.99), Bose QuietComfort Earbuds (£99), Fire TV Stick 4K (£31.99), the Switch 2 Sports Resort bundle (£399), Lego Game Boy (£35.99) and a Ninja StaySharp knife block (£109.99), all at Amazon. We took off deals we couldn't re-confirm in the last two days (Kindle Paperwhite Signature, Sonos Ace, Dyson Clean+Wash, Blink camera, Ninja AF300UK) plus a few weaker ones. **PS5 buyers:** consoles are in short supply since GTA VI launched; see our [PS5 guide](/guides/ps5-black-friday-deals-2026/) before paying a reseller's price. Prices were reported on 23 and 24 November, so check the retailer's page before you buy. Many Amazon prices need Prime: a [free Prime trial](https://www.amazon.co.uk/amazonprime) covers the whole sale.",
   "deals": [
     {
       "name": "Apple AirPods Pro 3",
@@ -22,6 +22,16 @@
       "note": "Still £165 at Amazon on 24 November (T3) and 23 November (Macworld): the lowest UK price yet. The AirPods most people should buy."
     },
     {
+      "name": "Amazon Kindle (2026, 16GB)",
+      "retailer": "Amazon",
+      "price": 119.99,
+      "was": 149.99,
+      "url": "https://www.amazon.co.uk/s?k=Amazon+Kindle+16GB+2026",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "A record low for the newest basic Kindle, £119.99 at Amazon on 24 November (TechRadar). Glare-free screen, adjustable light and weeks of battery. Add a [Kindle Unlimited trial](https://www.amazon.co.uk/kindle-dbs/hz/subscribe/ku) for free books, and see our [Kindle guide](/guides/kindle-black-friday-deals-2026/)."
+    },
+    {
       "name": "Ring Battery Video Doorbell + Ring Indoor Camera bundle",
       "retailer": "Amazon",
       "price": 39.99,
@@ -29,17 +39,7 @@
       "url": "https://www.amazon.co.uk/s?k=Ring+Battery+Video+Doorbell+Indoor+Camera+bundle",
       "verdict": "Big drop",
       "verdictLevel": "great",
-      "note": "A wire-free doorbell plus a plug-in indoor camera for about what the doorbell alone usually costs, still £39.99 this morning (22 November). The 'was' price adds the two list prices together, but £40 for both is still excellent. See our [Ring doorbell guide](/guides/ring-doorbell-black-friday-deals-2026/). Re-confirmed on 23 November (afternoon)."
-    },
-    {
-      "name": "JBL Live 780NC Wireless Noise Cancelling Headphones",
-      "retailer": "Amazon",
-      "price": 99,
-      "was": 170,
-      "url": "https://www.amazon.co.uk/s?k=JBL+Live+780NC",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "A new low of £99 at Amazon on 23 November (What Hi-Fi), £71 off. Big, comfortable over-ears with decent noise cancelling for well under half the price of a Sony or Bose."
+      "note": "A wire-free doorbell plus a plug-in indoor camera for about what the doorbell alone usually costs; still £39.99 at Amazon on 24 November (TechRadar). The 'was' price adds the two list prices together, but £40 for both is excellent. See our [Ring doorbell guide](/guides/ring-doorbell-black-friday-deals-2026/)."
     },
     {
       "name": "TCL P8L 65-inch Mini LED 4K TV",
@@ -62,6 +62,36 @@
       "note": "Over £250 off at Argos (TechRadar, 23 November), a rare cut for Apple's top watch. Amazon isn't matching it yet, so Argos is the one to use. Still £495 at Argos on 23 November (TechRadar). Amazon doesn't match it yet; use the compare link to check."
     },
     {
+      "name": "JBL Live 780NC Wireless Noise Cancelling Headphones",
+      "retailer": "Amazon",
+      "price": 99,
+      "was": 170,
+      "url": "https://www.amazon.co.uk/s?k=JBL+Live+780NC",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "A new low of £99 at Amazon on 23 November (What Hi-Fi), £71 off. Big, comfortable over-ears with decent noise cancelling for well under half the price of a Sony or Bose."
+    },
+    {
+      "name": "Shokz OpenRun Pro 2 Bone Conduction Headphones",
+      "retailer": "Amazon",
+      "price": 126,
+      "was": 169,
+      "url": "https://www.amazon.co.uk/s?k=Shokz+OpenRun+Pro+2",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "Their lowest price yet, £126 at Amazon on 24 November (TechRadar). Open-ear headphones that leave you able to hear traffic, the ones most runners and cyclists want. See [gifts for runners](/guides/gifts-for-runners-uk/)."
+    },
+    {
+      "name": "reMarkable 2 with Marker Plus and Book Folio",
+      "retailer": "Amazon",
+      "price": 399,
+      "was": 549,
+      "url": "https://www.amazon.co.uk/s?k=reMarkable+2+Marker+Plus+Book+Folio",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "A record-low £399 at Amazon on 24 November (TechRadar) for the paper-feel writing tablet with the eraser pen and a folio case. For note-takers and students; for reading, a Kindle is far cheaper."
+    },
+    {
       "name": "Amazon Kindle Colorsoft (16GB)",
       "retailer": "Amazon",
       "price": 144.99,
@@ -72,23 +102,54 @@
       "note": "Amazon's colour-screen Kindle, great for comics, cookbooks and highlighting. TechRadar lists it at £144.99 today, and Which?'s price data puts that at its cheapest ever. A [Kindle Unlimited trial](https://www.amazon.co.uk/kindle-dbs/hz/subscribe/ku) adds free books. See our [Kindle guide](/guides/kindle-black-friday-deals-2026/)."
     },
     {
-      "name": "Amazon Kindle Paperwhite Signature Edition (2024, 32GB)",
+      "name": "Oral-B iO Series 3 Electric Toothbrush",
       "retailer": "Amazon",
-      "price": 139.99,
-      "was": 229.99,
-      "url": "https://www.amazon.co.uk/s?k=Kindle+Paperwhite+Signature+Edition",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "Wireless charging, an auto-adjusting light and 32GB of storage. Still £139.99 in TechRadar's Amazon picks today (22 November), the lowest price it has been. See our [Kindle Black Friday guide](/guides/kindle-black-friday-deals-2026/)."
-    },
-    {
-      "name": "Amazon Ember 75-inch TV",
-      "retailer": "Amazon",
-      "price": 959,
-      "url": "https://www.amazon.co.uk/s?k=Amazon+Ember+75+inch+TV",
+      "price": 49.99,
+      "was": 175,
+      "url": "https://www.amazon.co.uk/s?k=Oral-B+iO+Series+3",
       "verdict": "Big drop",
       "verdictLevel": "great",
-      "note": "40% off at Amazon (T3, 23 November). A lot of screen for under £1,000, with Fire TV built in. Fine for films and sport; serious gamers should look at the TV guide."
+      "note": "£49.99 at Amazon on 24 November (TechRadar). The 'was' price is the list price it rarely sells at, but under £50 for an iO brush with a pressure sensor is very good. See our [Oral-B guide](/guides/oral-b-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Ninja Crispi Portable Glass Air Fryer",
+      "retailer": "Amazon",
+      "price": 99,
+      "was": 149.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Crispi",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "£99 at Amazon on 24 November (TechRadar), under last year's Black Friday price of £117. Cooks in glass dishes you can serve from and store leftovers in. Good for one or two people."
+    },
+    {
+      "name": "Amazon Ember 50-inch 4-Series 4K TV",
+      "retailer": "Amazon",
+      "price": 269.99,
+      "was": 499.99,
+      "url": "https://www.amazon.co.uk/s?k=Amazon+Ember+50+inch+4-Series",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "A lowest-ever £269.99 at Amazon, re-confirmed on 24 November (TechRadar). A 50-inch 4K TV with Fire TV built in for a bedroom or kitchen. See our [TV guide](/guides/tv-black-friday-deals-2026/)."
+    },
+    {
+      "name": "Bose QuietComfort Earbuds",
+      "retailer": "Amazon",
+      "price": 99,
+      "was": 179.95,
+      "url": "https://www.amazon.co.uk/s?k=Bose+QuietComfort+Earbuds",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£99 at Amazon on 24 November (TechRadar), with some colours at a record low. Strong noise cancelling for well under AirPods Pro money."
+    },
+    {
+      "name": "Amazon Fire TV Stick 4K",
+      "retailer": "Amazon",
+      "price": 31.99,
+      "was": 69.99,
+      "url": "https://www.amazon.co.uk/s?k=Amazon+Fire+TV+Stick+4K",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "The lowest price it has been, £31.99 at Amazon on 24 November (TechRadar). Turns any TV with an HDMI port into a smart TV; an easy gift."
     },
     {
       "name": "Dyson V8 Origin Cordless Vacuum",
@@ -111,26 +172,6 @@
       "note": "About £150 off at Amazon (T3, 23 November). Bose's best noise cancelling; pick these over the Sony XM5 if comfort on long flights matters most."
     },
     {
-      "name": "Sonos Ace Noise Cancelling Headphones",
-      "retailer": "Amazon",
-      "price": 199,
-      "was": 349,
-      "url": "https://www.amazon.co.uk/s?k=Sonos+Ace+headphones",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "Sonos' over-ear headphones with strong noise cancelling that can also take over your Sonos soundbar's audio. Still £150 off at Amazon in TechRadar's picks today (22 November), well under the £279 to £299 they usually sell for. See our [AirPods guide](/guides/airpods-black-friday-deals-2026/) if you prefer Apple."
-    },
-    {
-      "name": "Ninja Foodi Dual Zone 7.6L Air Fryer (AF300UK)",
-      "retailer": "Amazon",
-      "price": 119.99,
-      "was": 199.99,
-      "url": "https://www.amazon.co.uk/s?k=Ninja+AF300UK",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "The two-drawer Ninja most families buy. It was £125 to £128 last Black Friday, so this already beats it. More in our [air fryer Black Friday guide](/guides/air-fryer-black-friday-deals-2026/)."
-    },
-    {
       "name": "Philips Sonicare DiamondClean 9000 Electric Toothbrush",
       "retailer": "Amazon",
       "price": 109.99,
@@ -139,16 +180,6 @@
       "verdict": "Lowest price",
       "verdictLevel": "great",
       "note": "Philips' premium sonic brush with app tracking and a charging glass. TechRadar reports £109.99 at Amazon today, a record low. See our [Oral-B guide](/guides/oral-b-black-friday-deals-2026/) if you prefer a rotating head."
-    },
-    {
-      "name": "Dyson Clean+Wash Hygiene Wet Floor Cleaner",
-      "retailer": "Amazon",
-      "price": 259,
-      "was": 429.99,
-      "url": "https://www.amazon.co.uk/s?k=Dyson+Clean+Wash+Hygiene",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "The cheapest it has been, according to TechRadar on 22 November. A hard-floor wet cleaner for kitchens and bathrooms, not a vacuum replacement for carpets."
     },
     {
       "name": "Sony PS-LX3BT Bluetooth Turntable",
@@ -161,34 +192,14 @@
       "note": "£100 off at Amazon (What Hi-Fi, 24 November). Plays records through Bluetooth speakers or headphones as well as a normal hi-fi, so it's an easy Christmas present for a new vinyl fan."
     },
     {
-      "name": "Apple Pencil Pro",
+      "name": "Nintendo Switch 2 + Switch Sports Resort bundle",
       "retailer": "Amazon",
-      "price": 96,
-      "was": 129,
-      "url": "https://www.amazon.co.uk/s?k=Apple+Pencil+Pro",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "£33 off at Amazon (Macworld, 23 November). Works with recent iPad Air, iPad Pro and iPad mini models only, so check yours first."
-    },
-    {
-      "name": "Amazon Ember 50-inch 4-Series 4K TV",
-      "retailer": "Amazon",
-      "price": 269.99,
-      "was": 499.99,
-      "url": "https://www.amazon.co.uk/s?k=Amazon+Ember+50+inch+4-Series",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "A record low, re-confirmed by TechRadar on 22 November. A simple 4K TV with Fire TV built in: good for a bedroom or second room, not a home-cinema set."
-    },
-    {
-      "name": "Apple AirTag (2nd gen) 4-pack",
-      "retailer": "Amazon",
-      "price": 74,
-      "was": 99,
-      "url": "https://www.amazon.co.uk/s?k=Apple+AirTag+4+pack+2nd+generation",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "£18.50 a tag (Macworld, prices checked 23 November), a little up on the weekend's £71.78 but still £25 off. An easy stocking filler for keys, bags and suitcases."
+      "price": 399,
+      "was": 439.99,
+      "url": "https://www.amazon.co.uk/s?k=Nintendo+Switch+2+Sports+Resort+bundle",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£399 at Amazon on 24 November (TechRadar): the console plus a game for less than the two separately. Console discounts are rare, so this is the one to buy. See our [Switch 2 guide](/guides/nintendo-switch-2-black-friday-deals-2026/)."
     },
     {
       "name": "Garmin fēnix 8 (47mm)",
@@ -201,34 +212,34 @@
       "note": "£484.99 at Amazon on 23 November (T3), £215 off and within a few pounds of the lowest price we've seen (£479.99 this morning). Prices on this one have moved several times this week, so check before you buy."
     },
     {
-      "name": "Ninja Crispi Portable Glass Air Fryer",
+      "name": "LEGO Game Boy (72046)",
       "retailer": "Amazon",
-      "price": 99,
-      "was": 149.99,
-      "url": "https://www.amazon.co.uk/s?k=Ninja+Crispi",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "Cooks in glass dishes you can serve from and store leftovers in. Under last year's Black Friday price of £117. Good for one or two people."
-    },
-    {
-      "name": "Blink Outdoor 4 Camera + free Blink Mini 2K+",
-      "retailer": "Amazon",
-      "price": 24.99,
-      "was": 109.98,
-      "url": "https://www.amazon.co.uk/s?k=Blink+Outdoor+4+Blink+Mini+2K",
+      "price": 35.99,
+      "was": 54.99,
+      "url": "https://www.amazon.co.uk/s?k=LEGO+Game+Boy+72046",
       "verdict": "Big drop",
       "verdictLevel": "great",
-      "note": "A battery-powered outdoor camera plus an indoor plug-in camera for £24.99 (TechRadar, 21 November). Saving clips needs a Blink subscription or a Sync Module with a USB stick. See our [Ring doorbell guide](/guides/ring-doorbell-black-friday-deals-2026/)."
+      "note": "£19 off at Amazon on 24 November (TechRadar). A life-size brick Game Boy for adult fans and retro gamers; see [Lego gifts for adults](/guides/lego-gifts-for-adults-uk/)."
     },
     {
-      "name": "Apple MacBook Air 13-inch (M5, 16GB, 512GB)",
+      "name": "Ninja Foodi StaySharp Knife Block",
       "retailer": "Amazon",
-      "price": 1148.97,
-      "was": 1299,
-      "url": "https://www.amazon.co.uk/s?k=MacBook+Air+13+M5+512GB",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£150 off at Amazon (Macworld, 23 November), cheaper than John Lewis's £1,199. The 512GB storage is worth having on a laptop you'll keep for years."
+      "price": 109.99,
+      "was": 179.99,
+      "url": "https://www.amazon.co.uk/s?k=Ninja+Foodi+StaySharp+Knife+Block",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£70 off at Amazon on 24 November (TechRadar). The block has a built-in sharpener, so the knives stay sharp without any effort. A good gift for [people who love cooking](/guides/gifts-for-people-who-love-cooking-uk/)."
+    },
+    {
+      "name": "Apple AirTag (2nd gen) 4-pack",
+      "retailer": "Amazon",
+      "price": 74,
+      "was": 99,
+      "url": "https://www.amazon.co.uk/s?k=Apple+AirTag+4+pack+2nd+generation",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£18.50 a tag (Macworld, prices checked 23 November), a little up on the weekend's £71.78 but still £25 off. An easy stocking filler for keys, bags and suitcases."
     },
     {
       "name": "Sony WH-CH520 Wireless Headphones",
@@ -241,15 +252,6 @@
       "note": "Back to their lowest price, £25 at Amazon on 23 November (What Hi-Fi). No noise cancelling, but 50-hour battery and light enough for kids or the commute. An easy stocking filler."
     },
     {
-      "name": "LEGO Neuschwanstein Castle (3,455 pieces)",
-      "retailer": "Amazon",
-      "price": 189.99,
-      "url": "https://www.amazon.co.uk/s?k=LEGO+Neuschwanstein+Castle",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "21% off at Amazon (T3, 23 November). A big display build for adult Lego fans; a good main present for someone who has everything."
-    },
-    {
       "name": "LEGO Classic Large Creative Brick Box (10698)",
       "retailer": "Amazon",
       "price": 28.99,
@@ -257,8 +259,8 @@
       "url": "https://www.amazon.co.uk/s?k=LEGO+Classic+Large+Creative+Brick+Box+10698",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "790 mixed bricks in a storage box, a gift that suits almost any age from 4 up. £28.99 in TechRadar's Amazon picks today (22 November). More in our [Lego Black Friday guide](/guides/lego-black-friday-deals-2026/)."
+      "note": "£28.99 at Amazon, re-confirmed on 24 November (TechRadar). 790 bricks with ideas booklets, an easy gift for almost any age from 4 up. See our [Lego guide](/guides/lego-black-friday-deals-2026/)."
     }
   ],
-  "body": "## Tech\n\nThe best tech deals right now are on Amazon's own devices: the Kindle Paperwhite Signature at £139.99, the Kindle Colorsoft at its lowest-ever £144.99, the Ring doorbell bundle at £39.99 and a Blink Outdoor 4 camera with a free Blink Mini for £24.99. The Garmin fēnix 8 (47mm) is £484.99, a few pounds above its low. For Apple, the Apple Watch Ultra 3 is £495 at Argos (over £250 off), a 4-pack of AirTags is £74, the Apple Pencil Pro is £96 and the MacBook Air M5 (512GB) is £1,148.97 at Amazon. The AirPods Pro 3 are still at their lowest-ever £165 at Amazon, and the AirPods 5 with Wireless Charging Case are £119.\n\nFor audio, the JBL Live 780NC are a record-low £99, the Bose QuietComfort Ultra are £298.79, the Sonos Ace are £199 and Sony's WH-CH520 are £25 for a cheap commuting or kids' pair. Sony's PS-LX3BT Bluetooth turntable is £100 off at £199. For TVs, the TCL P8L 65-inch Mini LED is £699 (a What Hi-Fi? Award winner), the Amazon Ember 50-inch is a record-low £269.99 and the Ember 75-inch is £959. PS5 consoles are hard to find at the normal price, but controllers are cheap: a DualSense is £42.99 at Amazon.\n\nMore: [Kindle](/guides/kindle-black-friday-deals-2026/), [Ring doorbells](/guides/ring-doorbell-black-friday-deals-2026/), [AirPods](/guides/airpods-black-friday-deals-2026/), [TVs](/guides/tv-black-friday-deals-2026/), [Apple Watch](/guides/apple-watch-deals-uk/) and [Amazon Black Friday 2026](/guides/amazon-black-friday-2026-uk/).\n\n## Home & kitchen\n\nNinja's air fryers are already at or below last year's Black Friday prices: the AF300UK dual-zone is £119.99 and the Crispi glass air fryer £99. The Dyson V8 Origin at £199.99 (Amazon) is the standout cordless vacuum deal, the Dyson Clean+Wash Hygiene floor cleaner is its cheapest yet at £259. The Sage Bambino Plus is £349 at Amazon, but that isn't its lowest ever, so it's not on the list.\n\nMore: [air fryers](/guides/air-fryer-black-friday-deals-2026/), [Ninja](/guides/ninja-black-friday-deals-2026/), [coffee machines](/guides/coffee-machine-black-friday-deals-2026/), [Dyson](/guides/dyson-black-friday-deals-2026/) and [Shark](/guides/shark-black-friday-deals-2026/).\n\n## Beauty\n\nElectric toothbrushes are the best beauty deals today: the Philips Sonicare DiamondClean 9000 is a record-low £109.99 at Amazon. For fragrance gifts, Superdrug's Black Friday event runs until 1 December, and Amazon sells most of the same sets, so [compare Amazon's perfume gift set prices](https://www.amazon.co.uk/s?k=perfume+gift+set) before you buy.\n\nMore: [perfume gift sets](/guides/perfume-gift-sets-black-friday-2026/), [ghd](/guides/ghd-black-friday-deals-2026/) and [Oral-B](/guides/oral-b-black-friday-deals-2026/).\n\n## Toys & gifts\n\nAdvent calendars need to arrive by 1 December, so buy those now. The Lego Classic Large Creative Brick Box is £28.99 at Amazon, an easy gift for almost any age, and for adult Lego fans the 3,455-piece Neuschwanstein Castle is £189.99 (21% off). For readers, an [Audible membership](/guides/audible-free-trial-deals-uk/) is £0.99 a month for three months until 17 December and can be given as a gift. For toys, Hamleys is running its own Black Friday event, and our guide shows what's worth buying there.\n\nMore: [Hamleys Black Friday 2026](/guides/hamleys-black-friday-2026/), [Lego](/guides/lego-black-friday-deals-2026/), [Lego advent calendars](/guides/lego-advent-calendar-2026/) and [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [PS5](/guides/ps5-black-friday-deals-2026/).\n\n## How we pick these deals\n\nEvery price comes from the retailer or a trusted deals source dated today or yesterday. We compare it with price history and last year's Black Friday prices, and we leave out deals where the 'was' price is inflated. When Amazon matches the cheapest shop, we link Amazon. Many Amazon prices need Prime during Black Friday Week; our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time a trial.\n\n### When is Black Friday 2026 in the UK?\n\nFriday 27 November, with Cyber Monday on 30 November. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) lists every retailer's dates.\n\n### Should I buy now or wait for Black Friday?\n\nIf a deal here is marked 'Lowest price', it's already at or below last year's Black Friday price, so buy it. Items marked 'Good price' could still fall a little in the final week.\n\n### How often is this page updated?\n\nThree times a day, every day until Cyber Monday. Deals that end or go up in price are removed.\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand prices to wait for."
+  "body": "## Tech\n\nAmazon's own devices lead again: the new Kindle is a record-low £119.99, the Kindle Colorsoft is £144.99, the Fire TV Stick 4K is its cheapest yet at £31.99 and the Ring doorbell bundle is £39.99. For Apple, the AirPods Pro 3 are still £165, the Apple Watch Ultra 3 is £495 at Argos (over £250 off) and a 4-pack of AirTags is £74. The reMarkable 2 writing tablet bundle is a record-low £399, and the Garmin fēnix 8 (47mm) is £484.99.\n\nFor audio, the JBL Live 780NC are a record-low £99, the Shokz OpenRun Pro 2 are their lowest yet at £126, the Bose QuietComfort Earbuds are £99, the Bose QuietComfort Ultra headphones £298.79, and Sony's WH-CH520 are £25 for a cheap commuting or kids' pair. Sony's PS-LX3BT turntable is £199. For TVs, the TCL P8L 65-inch Mini LED is £699 and the Amazon Ember 50-inch £269.99. Gamers: the Switch 2 with Switch Sports Resort is £399, and PS5 consoles are hard to find at the normal price.\n\nMore: [Kindle](/guides/kindle-black-friday-deals-2026/), [Ring doorbells](/guides/ring-doorbell-black-friday-deals-2026/), [AirPods](/guides/airpods-black-friday-deals-2026/), [TVs](/guides/tv-black-friday-deals-2026/), [Apple Watch](/guides/apple-watch-deals-uk/), [Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [Amazon Black Friday 2026](/guides/amazon-black-friday-2026-uk/).\n\n## Home & kitchen\n\nThe Ninja Crispi glass air fryer is £99, below last year's Black Friday price, and the Ninja StaySharp knife block is £70 off at £109.99. The Dyson V8 Origin at £199.99 is the standout cordless vacuum deal. We've taken the Ninja AF300UK dual-zone off until we can re-confirm its price; TechRadar says it's at its lowest of the year at Amazon.\n\nMore: [air fryers](/guides/air-fryer-black-friday-deals-2026/), [Ninja](/guides/ninja-black-friday-deals-2026/), [coffee machines](/guides/coffee-machine-black-friday-deals-2026/), [Dyson](/guides/dyson-black-friday-deals-2026/) and [Shark](/guides/shark-black-friday-deals-2026/).\n\n## Beauty\n\nElectric toothbrushes are the best beauty deals today: the Oral-B iO Series 3 is £49.99 and the Philips Sonicare DiamondClean 9000 £109.99, both at Amazon. For hair, the Dyson Airwrap Origin is down to £279 at AO (£299 at Amazon) and the Airwrap i.d. is £369 at Amazon; see our [Dyson Airwrap price guide](/guides/dyson-airwrap-deals-uk/). For fragrance gifts, [compare Amazon's perfume gift set prices](https://www.amazon.co.uk/s?k=perfume+gift+set) before you buy.\n\nMore: [perfume gift sets](/guides/perfume-gift-sets-black-friday-2026/), [ghd](/guides/ghd-black-friday-deals-2026/) and [Oral-B](/guides/oral-b-black-friday-deals-2026/).\n\n## Toys & gifts\n\nAdvent calendars need to arrive by 1 December, so buy those now. The Lego Classic Large Creative Brick Box is £28.99 at Amazon, an easy gift for almost any age, and the Lego Game Boy is £35.99 for adult fans. For readers, an [Audible membership](/guides/audible-free-trial-deals-uk/) is £0.99 a month for three months until 17 December and can be given as a gift. For toys, Hamleys is running its own Black Friday event, and our guide shows what's worth buying there.\n\nMore: [Hamleys Black Friday 2026](/guides/hamleys-black-friday-2026/), [Lego](/guides/lego-black-friday-deals-2026/), [Lego advent calendars](/guides/lego-advent-calendar-2026/), [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [PS5](/guides/ps5-black-friday-deals-2026/).\n\n## How we pick these deals\n\nEvery price comes from the retailer or a trusted deals source dated today or yesterday. We compare it with price history and last year's Black Friday prices, and we leave out deals where the 'was' price is inflated. When Amazon matches the cheapest shop, we link Amazon. Many Amazon prices need Prime during Black Friday Week; our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time a trial.\n\n### When is Black Friday 2026 in the UK?\n\nFriday 27 November, with Cyber Monday on 30 November. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) lists every retailer's dates.\n\n### Should I buy now or wait for Black Friday?\n\nIf a deal here is marked 'Lowest price', it's already at or below last year's Black Friday price, so buy it. Items marked 'Good price' could still fall a little in the final week.\n\n### How often is this page updated?\n\nThree times a day, every day until Cyber Monday. Deals that end or go up in price are removed.\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand prices to wait for."
 }
