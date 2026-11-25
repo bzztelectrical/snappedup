@@ -35,3 +35,6 @@ Instagram web has NO scheduler (Advanced Settings only has like counts and comme
 
 ## Rule (22 Nov)
 Never let Instagram go a day without a post. If a weekly batch hasn't started yet, post a gap-filler carousel built from that day's newest guide.
+
+## Channel address (from 25 Nov)
+Use **snappedupdeals.co.uk/ig** in every caption, slide and link for this channel (not /start). Same page as /start, but it shows up as its own path in Cloudflare Web Analytics, so we can finally see what this channel sends. 98% of visits arrive with no referrer, so this is the only attribution we have. (Already-scheduled 23 to 29 Nov posts and pin drafts still say /start; leave them.)

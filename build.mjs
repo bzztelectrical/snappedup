@@ -465,6 +465,10 @@ ${disclosureNote}`;
   const html = layout({ title: "Today's best deals", description: "Snapped Up's best UK deals today, price-checked.", pathname: "/start/", body })
     .replace('<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">', '<meta name="robots" content="noindex, follow">');
   write(path.join("start", "index.html"), html);
+  // Per-channel copies (25 Nov): 98% of visits arrive with no referrer, so we can't tell TikTok from Instagram from
+  // Pinterest from WhatsApp. Each channel gets its own short address; Web Analytics' Path view is then the attribution.
+  // /tt = TikTok, /ig = Instagram, /pin = Pinterest, /fb = Facebook. Same page, canonical /start/, noindex.
+  for (const ch of ["tt", "ig", "pin", "fb"]) write(path.join(ch, "index.html"), html);
 }
 
 // 404

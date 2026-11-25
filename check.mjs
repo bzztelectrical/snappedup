@@ -73,7 +73,8 @@ for (const f of htmlFiles) {
   const h1 = (h.match(/<h1[\s>]/g) || []).length;
   if (h1 !== 1) warn(rel, `${h1} <h1> tags (should be 1)`);
   const t = (h.match(/<title>([^<]*)<\/title>/) || [])[1];
-  if (t) { if (titles.has(t)) err(rel, `duplicate <title> with ${titles.get(t)}`); titles.set(t, rel); }
+  const noindex = /<meta name="robots" content="noindex/.test(h);
+  if (t && !noindex) { if (titles.has(t)) err(rel, `duplicate <title> with ${titles.get(t)}`); titles.set(t, rel); }
   for (const m of h.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) { try { JSON.parse(m[1]); } catch { err(rel, "invalid JSON-LD"); } }
 }
 const sitemap = fs.readFileSync(path.join(DIST, "sitemap.xml"), "utf8");

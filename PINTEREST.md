@@ -36,3 +36,6 @@ Pin flow that works: Create new → find "File Upload" input → upload one imag
 |---|---|---|
 | 23 Nov 09:00 | Audible 3 months under £3 · Which Ring doorbell · BF deals we'd actually buy · When is Cyber Monday 2026 · Christmas gifts Dad | Bulk publish: tick the 5 drafts' checkboxes in the Pin drafts panel → red Publish button at the bottom of the panel |
 | 24 Nov 09:01 | Which Ninja air fryer · Christmas gifts Mum · Cheapest gift for a book lover · Secret Santa under £10 · Gifts teenage boys | Bulk publish, drafts 30 → 25 |
+
+## Channel address (from 25 Nov)
+Use **snappedupdeals.co.uk/pin** in every caption, slide and link for this channel (not /start). Same page as /start, but it shows up as its own path in Cloudflare Web Analytics, so we can finally see what this channel sends. 98% of visits arrive with no referrer, so this is the only attribution we have. (Already-scheduled 23 to 29 Nov posts and pin drafts still say /start; leave them.)
