@@ -120,3 +120,5 @@ Finish with a 4-line summary: daily post title, guide written and guides refresh
 - Every guide ends with 3–5 `### Question?` FAQs worded the way people search (these become FAQ structured data).
 - Never leave time-sensitive copy stale: a page that says a sale 'is expected to start' after it started loses clicks. When you touch a page, fix any date-relative wording and set updated.
 - Pages Google already shows us on page 1–2 get refreshed before new guides are written.
+
+**Never-stale titles (25 Nov):** six brand guides still had "Prices to Wait For" in their seoTitle during live Black Friday week. Every morning, grep seoTitle/title/description for future-tense words ("to wait for", "expected", "will start", "coming") on pages whose event has started, and fix them. No prices in seoTitles (they go stale overnight).
