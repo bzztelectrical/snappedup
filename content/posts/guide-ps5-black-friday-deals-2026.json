@@ -9,7 +9,7 @@
   "tags": [
     "black-friday"
   ],
-  "intro": "**Short answer: there's still no real PS5 console discount this Black Friday, because stock has run out at most UK shops since GTA VI launched on 19 November.** The best console buys right now are the **PS5 Pro at its normal £789.99 at Argos**, which still had stock on 23 and 24 November, and Very's **PS5 Digital + GTA VI + DualSense Edge bundle at £699**. Don't pay resellers: on Amazon the new PS5 Pro is only sold by marketplace sellers from about £1,299.\n\nCurrys and John Lewis are out of stock of the standard consoles, and Argos and Amazon mostly have them only in two-controller bundles. Controllers are the real deal: a DualSense is **£42.99 at Amazon** (Nova Pink and Cosmic Red) and the DualSense Edge is **£149.99 at Amazon**. The PlayStation Portal is £219 at Currys, AO and Very. Black Friday is this Friday, 27 November, and Amazon's Black Friday Week runs to 30 November. Prices last checked on Wednesday 25 November 2026. For other gaming and tech deals, see our [Black Friday 2026 live deals page](/guides/black-friday-2026-live-deals-uk/).",
+  "intro": "**Short answer: there's still no real PS5 console discount this Black Friday, because stock has run out at most UK shops since GTA VI launched on 19 November.** The best console buys right now are the **PS5 Pro at its normal £789.99 at Argos**, which still had stock on 23 and 24 November, and Very's **PS5 Digital + GTA VI + DualSense Edge bundle at £699**. Don't pay resellers: on Amazon the new PS5 Pro is only sold by marketplace sellers from about £1,299.\n\nCurrys and John Lewis are out of stock of the standard consoles, and Argos and Amazon mostly have them only in two-controller bundles. Controllers are the real deal: a DualSense is **£42.99 at Amazon** (Nova Pink and Cosmic Red) and the DualSense Edge is down to **£149 at Amazon**. The PlayStation Portal is £219 at Currys, AO and Very. Black Friday is this Friday, 27 November, and Amazon's Black Friday Week runs to 30 November. A £70 PlayStation Store code is £60.85 at ShopTo, and the SteelSeries Arctis Nova 7 Gen 2 headset is £108 at Amazon. Prices last checked on Wednesday 25 November 2026 at 6pm. For other gaming and tech deals, see our [Black Friday 2026 live deals page](/guides/black-friday-2026-live-deals-uk/).",
   "deals": [
     {
       "name": "Sony PlayStation 5 Pro (2TB, digital)",
@@ -30,7 +30,7 @@
       "verdict": "Good price",
       "verdictLevel": "good",
       "amazonCompare": false,
-      "note": "£699 at Very, £78 under its listed £777 (T3's UK deals page, updated 25 November). Not a big discount, but it's a new console at a fair price while most shops are sold out. Check the delivery date before you pay: What Hi-Fi saw some Very bundles not arriving until 21 December."
+      "note": "£699 at Very, £78 under its listed £777 (T3's UK deals page, updated 25 November). Not a big discount, but it's a new console at a fair price while most shops are sold out. Check the delivery date before you pay: What Hi-Fi saw some Very bundles not arriving until 21 December. Note that Very says this bundle won't ship until 21 December (GamesRadar, 25 November), so it may not arrive before Christmas week; check the date at checkout."
     },
     {
       "name": "Sony DualSense Wireless Controller (Nova Pink)",
@@ -55,11 +55,11 @@
     {
       "name": "Sony DualSense Edge Wireless Controller (Midnight Black)",
       "retailer": "Amazon",
-      "price": 149.99,
+      "price": 149,
       "url": "https://www.amazon.co.uk/s?k=DualSense+Edge+Midnight+Black",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "The cheapest listing on PriceSpy on 24 November, sold by Amazon; other shops want £169.99 to £199.99. Worth it for back paddles and swappable sticks if you play a lot of shooters."
+      "note": "£149 at Amazon UK on the evening of 25 November (GamesRadar's PS5 live blog, 17:17), a little under the £149.99 it's been all week; other shops want £169.99 to £199.99. Worth it for back paddles and swappable sticks if you play competitively."
     },
     {
       "name": "Sony DualSense Wireless Controller (Icon Blue or Wolverine Limited Edition)",
@@ -70,6 +70,35 @@
       "verdict": "Good price",
       "verdictLevel": "good",
       "note": "Currys has the premium limited-edition pads at £56, about £19 off (GamesRadar, 24 November). The 007 First Light pad is also £56 there against £87.99 at Amazon."
+    },
+    {
+      "name": "SteelSeries Arctis Nova 7 Gen 2 Wireless Headset (Magenta)",
+      "retailer": "Amazon",
+      "price": 108,
+      "url": "https://www.amazon.co.uk/s?k=SteelSeries+Arctis+Nova+7+Gen+2",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£108 at Amazon in Magenta, with the black version about £129 (GamesRadar, 25 November). A comfortable wireless headset that works with PS5, PC and phone at the same time."
+    },
+    {
+      "name": "Star Wars Zero Company (PS5)",
+      "retailer": "Amazon",
+      "price": 34.99,
+      "url": "https://www.amazon.co.uk/s?k=Star+Wars+Zero+Company+PS5",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£34.99 at Amazon UK (GamesRadar, 25 November). A turn-based Star Wars tactics game; Hell is Us is also down to £15 at Amazon."
+    },
+    {
+      "name": "PlayStation Store £70 credit (digital code)",
+      "retailer": "ShopTo",
+      "price": 60.85,
+      "was": 70,
+      "url": "https://www.shopto.net/en/search/?search=playstation+store+70",
+      "amazonCompare": false,
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£60.85 at ShopTo (TechRadar UK and GamesRadar, 25 November), so about 13% off anything on the PlayStation Store, including PS Plus. ShopTo also has the GTA VI disc at £61.85."
     },
     {
       "name": "Sony PlayStation Portal Remote Player",
