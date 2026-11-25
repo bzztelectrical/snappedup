@@ -91,6 +91,8 @@ Why: Christmas gift searches peak from late November to about 20 December and ne
 - [ ] samsung-galaxy-tab-deals-uk: Samsung Galaxy Tab deals UK
 
 ### D. Boxing Day, January and Valentine's (live by the dates shown)
+- [ ] boxing-day-sales-2026-uk (REFRESH, by 5 Dec; growth 25 Nov): our only Boxing Day page has 0 earning cards and was last updated 30 Oct. Rewrite around Amazon's Boxing Day sale with dated Amazon prices, and keep the retailer start-date table. It will catch traffic leaving the Black Friday pages via the hub.
+- [ ] audible-gift-membership-uk: How to give Audible as a Christmas gift (1, 3, 6 or 12 months), prices and how it works (by 5 Dec; confirm gift prices on Amazon's Audible pages before writing; link the £0.99 offer for the buyer too)
 - [ ] amazon-boxing-day-sale-2026: Amazon Boxing Day sale 2026: what to expect (by 10 Dec)
 - [ ] january-sales-2027-uk: January sales 2027 UK: dates and best deals (by 15 Dec)
 - [ ] fitness-tracker-deals-uk: Best fitness tracker deals UK (new year; by 20 Dec)

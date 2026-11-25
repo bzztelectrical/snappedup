@@ -122,3 +122,7 @@ Finish with a 4-line summary: daily post title, guide written and guides refresh
 - Pages Google already shows us on page 1–2 get refreshed before new guides are written.
 
 **Never-stale titles (25 Nov):** six brand guides still had "Prices to Wait For" in their seoTitle during live Black Friday week. Every morning, grep seoTitle/title/description for future-tense words ("to wait for", "expected", "will start", "coming") on pages whose event has started, and fix them. No prices in seoTitles (they go stale overnight).
+
+**After Cyber Monday (growth run 25 Nov).** From 1 Dec the builder automatically shows a "Black Friday and Cyber Monday have ended" notice on every page whose slug contains black-friday or cyber-monday, and swaps the Black Friday hub intro (site.json eventNotices / hubs.endedIntro). On 1–2 Dec, also rewrite the seoTitle and description of the busiest BF pages (AirPods, PS5, BF live, when-is-BF, Amazon BF) so they no longer say "live" (e.g. "AirPods Deals UK: Prices After Black Friday 2026"); never leave "live now" copy on an ended event. Keep the slugs.
+
+**Audible box (growth run 25 Nov).** Until 17 Dec the builder adds one labelled Audible box (site.json bountyBox) to daily posts and to gift/Kindle/AirPods/headphone/Christmas guides that don't already link Audible. Don't add a second Audible box by hand to those pages; a one-line mention in the text is fine. If Amazon changes or ends the offer early, edit or remove bountyBox in site.json the same day.

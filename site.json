@@ -37,7 +37,9 @@
       "seoTitle": "Black Friday 2026 UK Deals: Guides & Target Prices",
       "description": "Black Friday 2026 is on 27 November. Our brand-by-brand guides show what's already cheap, what to wait for and the prices worth paying.",
       "intro": "**Black Friday 2026 is on Friday 27 November, and Cyber Monday is on 30 November.** UK retailers start cutting prices weeks before, but many 'deals' aren't real. Each guide below covers one brand or product. It shows what's genuinely cheap right now, last year's Black Friday prices, and the price worth waiting for.\n\nWe update these guides every few days through November, so the prices stay current.",
-      "navUntil": "2026-12-01"
+      "navUntil": "2026-12-01",
+      "endedAfter": "2026-11-30",
+      "endedIntro": "**Black Friday 2026 (27 November) and Cyber Monday (30 November) have ended.** The guides below show what each brand cost during the sale, which is a useful benchmark for the Boxing Day and January sales. Prices on each page are dated, and many will have gone back up since.\n\nShopping now? Our [Christmas gift guides](/christmas-gifts/) and [today's deals](/deals/) are checked daily, and our [Boxing Day sales guide](/guides/boxing-day-sales-2026-uk/) covers what comes next."
     },
     {
       "slug": "christmas-gifts",
@@ -99,5 +101,76 @@
         "url": "https://pboost.me/I6P6Xkx5"
       }
     ]
-  }
+  },
+  "bountyBox": {
+    "until": "2026-12-17",
+    "headline": "Audible: £0.99 a month for 3 months, plus a £10 bonus.",
+    "text": "Audible's Black Friday offer for eligible members ends on 17 December 2026. It renews at the normal monthly price unless you cancel, so set a reminder if you only want the offer.",
+    "cta": "Check your Audible offer on Amazon",
+    "url": "https://www.amazon.co.uk/hz/audible/mlp",
+    "guide": "/guides/audible-free-trial-deals-uk/",
+    "match": [
+      "gift",
+      "gifts",
+      "kindle",
+      "airpods",
+      "headphone",
+      "earbud",
+      "book",
+      "runner",
+      "stocking",
+      "grandparent",
+      "mum",
+      "dad",
+      "christmas",
+      "black-friday-2026-live",
+      "amazon-black-friday",
+      "when-is",
+      "cyber-monday",
+      "boxing-day",
+      "echo",
+      "fire-tv",
+      "teenage",
+      "prime"
+    ],
+    "exclude": [
+      "edifier",
+      "audible",
+      "kindle-unlimited",
+      "toys",
+      "kids",
+      "hamleys",
+      "pokemon",
+      "stem-",
+      "advent",
+      "year-olds",
+      "lego-black-friday"
+    ]
+  },
+  "eventNotices": [
+    {
+      "endedAfter": "2026-11-30",
+      "until": "2027-01-31",
+      "match": [
+        "black-friday",
+        "cyber-monday"
+      ],
+      "headline": "Black Friday and Cyber Monday 2026 have ended.",
+      "text": "The prices on this page were last checked on {date}, and many will have gone back up. For prices you can get today:",
+      "links": [
+        [
+          "Amazon's deals today",
+          "https://www.amazon.co.uk/deals"
+        ],
+        [
+          "Christmas gift guides",
+          "/christmas-gifts/"
+        ],
+        [
+          "Today's hand-picked deals",
+          "/deals/"
+        ]
+      ]
+    }
+  ]
 }

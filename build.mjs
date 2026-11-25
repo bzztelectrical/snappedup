@@ -125,12 +125,45 @@ function amazonCompare(d) {
 }
 
 // "Our top picks" box at the top of guides: 3 direct product links (great verdicts first, then Amazon), above the intro.
+// Does this link earn us anything? Amazon (tag), eBay (campid), Awin partners with an ID, PartnerBoost.
+function earns(raw) {
+  let h; try { h = new URL(raw).hostname.replace(/^www\./, ""); } catch { return false; }
+  if (/(^|\.)amazon\.co\.uk$|(^|\.)ebay\.co\.uk$|pboost\.me$/.test(h)) return true;
+  return Object.entries(site.affiliate?.awinMerchants || {}).some(([d, id]) => id && h.endsWith(d));
+}
 function quickPicks(list = []) {
   if (!list || list.length < 4) return "";
-  const rank = (d) => (d.verdictLevel === "great" ? 0 : d.verdictLevel === "good" ? 1 : 2) * 2 + (/amazon/i.test(d.retailer || "") ? 0 : 1);
+  // Leak fix (growth 25 Nov): within a verdict level, picks that earn (Amazon, Awin partners) come before shops that don't,
+  // and a non-earning pick gets an "or compare on Amazon" link so the three most-clicked buttons on a page can still pay.
+  const rank = (d) => (d.verdictLevel === "great" ? 0 : d.verdictLevel === "good" ? 1 : 2) * 2 + (earns(d.url) ? 0 : 1);
   const pick = [...list].map((d, i) => [d, i]).sort((a, b) => rank(a[0]) - rank(b[0]) || a[1] - b[1]).slice(0, 3).map((x) => x[0]);
-  const row = (d) => `<li><span class="qp-name">${esc(d.name)}</span><span class="qp-meta"><strong>${gbp(d.price)}</strong> at ${esc(d.retailer || "")}</span><a class="qp-btn" href="${esc(affiliate(d.url))}" rel="sponsored nofollow noopener" target="_blank">See deal<span aria-hidden="true"> →</span></a></li>`;
+  const alt = (d) => { if (earns(d.url) || d.amazonCompare === false) return ""; const m = amazonCompare(d).match(/href="([^"]+)"/); return m ? ` · <a class="qp-amz" href="${m[1]}" rel="sponsored nofollow noopener" target="_blank">compare on Amazon</a>` : ""; };
+  const row = (d) => `<li><span class="qp-name">${esc(d.name)}</span><span class="qp-meta"><strong>${gbp(d.price)}</strong> at ${esc(d.retailer || "")}${alt(d)}</span><a class="qp-btn" href="${esc(affiliate(d.url))}" rel="sponsored nofollow noopener" target="_blank">See deal<span aria-hidden="true"> →</span></a></li>`;
   return `<aside class="quick-picks" aria-label="Our top picks"><p class="qp-title">Our top picks right now</p><ol>${pick.map(row).join("")}</ol><p class="qp-note">Prices as checked on the date above. <a href="#deals">See all ${list.length} picks ↓</a></p></aside>`;
+}
+
+// Audible £20 bounty box (growth 25 Nov): Amazon pays £20 per Audible sign-up until 17 Dec 2026, vs ~£0.30 per product click.
+// One compact, clearly-labelled box on relevant guides/daily posts that don't already mention Audible. Config: site.json bountyBox.
+function bountyBox(p) {
+  const b = site.bountyBox;
+  if (!b || b.until < todayUK) return "";
+  if ((b.exclude || []).some((x) => p.slug.includes(x))) return "";
+  const hay = [p.slug, ...(p.tags || [])].join(" ");
+  if (p.type !== "daily" && !(b.match || []).some((x) => hay.includes(x))) return "";
+  if (/hz\/audible|audible-free-trial/.test(JSON.stringify(p))) return "";
+  return `<aside class="bounty-box" aria-label="Audible offer (ad)"><p><span class="bb-ad">Ad</span> <strong>${esc(b.headline)}</strong> ${esc(b.text)}</p><p class="bb-links"><a class="btn" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank">${esc(b.cta)}<span aria-hidden="true"> →</span></a> <a href="${esc(b.guide)}">How the offer works</a></p></aside>`;
+}
+
+// After an event ends (site.json eventNotices), event pages say so at the top and point to what's on now,
+// instead of looking like stale "live" pages (growth 25 Nov: ~30 Black Friday pages go stale on 1 Dec).
+function eventNotice(p) {
+  for (const n of site.eventNotices || []) {
+    if (todayUK <= n.endedAfter || (n.until && todayUK > n.until)) continue;
+    if (!(n.match || []).some((x) => p.slug.includes(x))) continue; // slug only: evergreen gift guides carry a black-friday tag for the hub
+    const when = shortDate(p.updated || p.date);
+    return `<aside class="event-notice" role="note"><p><strong>${esc(n.headline)}</strong> ${esc(n.text.replace("{date}", when))}</p><p class="en-links">${n.links.map(([t, u]) => isExternal(u) ? `<a href="${esc(affiliate(u))}" rel="sponsored nofollow noopener" target="_blank">${esc(t)} →</a>` : `<a href="${esc(u)}">${esc(t)} →</a>`).join(" · ")}</p></aside>`;
+  }
+  return "";
 }
 
 const deals = (list = []) => (list.length ? `<div class="deals" id="deals">${list.map(dealCard).join("\n")}</div>` : "");
@@ -350,9 +383,11 @@ for (const p of posts) {
 <article class="post">
   <p class="kicker">${p.type === "spotlight" ? "This week's spotlight" : p.type === "guide" ? "Buying guide · Updated" : "Daily deals"} · <time datetime="${p.updated || p.date}">${fmtDate(p.updated || p.date)}</time></p>
   <h1>${esc(p.title)}</h1>
+  ${eventNotice(p)}
   ${p.type === "guide" ? quickPicks(p.deals) : ""}
   <div class="prose lede">${md(p.intro || "")}</div>
   ${deals(p.deals)}
+  ${bountyBox(p)}
   ${p.body ? `<div class="prose">${md(p.body)}</div>` : ""}
   ${disclosureNote}
 </article>
@@ -428,7 +463,7 @@ for (const h of site.hubs || []) {
   write(path.join(h.slug, "index.html"), layout({ title: h.title, seoTitle: h.seoTitle, description: h.description, pathname: `/${h.slug}/`,
     jsonld: { "@context": "https://schema.org", "@type": "CollectionPage", name: h.title, description: h.description, url: `${site.url}/${h.slug}/`,
       mainEntity: { "@type": "ItemList", itemListElement: g.map((p, i) => ({ "@type": "ListItem", position: i + 1, url: site.url + postUrl(p), name: p.title })) } },
-    body: `<section class="page-head"><h1>${esc(h.title)}</h1><div class="prose">${md(h.intro || "")}</div></section>
+    body: `<section class="page-head"><h1>${esc(h.title)}</h1><div class="prose">${md(h.endedAfter && todayUK > h.endedAfter && h.endedIntro ? h.endedIntro : h.intro || "")}</div></section>
 ${g.length ? `<section class="more"><h2>Buying guides</h2><div class="teasers">${g.map(postTeaser).join("")}</div></section>` : ""}
 ${other.length ? `<section class="more"><h2>Latest posts</h2><div class="teasers">${other.map(postTeaser).join("")}</div></section>` : ""}` }));
 }

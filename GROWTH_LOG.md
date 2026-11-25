@@ -38,3 +38,29 @@
 - Google is NOT the source: GSC 8 clicks in 28 days, 0 on 19 to 22 Nov; Discover 0. SEO isn't producing visits yet.
 - Fixes: per-channel addresses /tt /ig /pin /fb so the Path view finally attributes traffic; six BF brand-guide titles said "Prices to Wait For" during live BF week, now say live deals.
 - The real lever is clickable links: Pinterest (links work today), TikTok Business bio link, Instagram bio link. Asked the user about more pins and the TikTok Business switch again.
+
+## 25 Nov 2026 (Wednesday growth run)
+
+### What's not working (blunt)
+- **We are at ~10% of target and the trend is the wrong way.** November to date: £66.97 from 372 Amazon clicks and 79 items. Best days were ~£15–17 (BF baskets); run-rate ≈ £80–110/week against £1,000. Amazon clicks/day went 60 → 47 → 33 in a week; real UK visits fell from ~170/day to ~100/day. To hit £1,000/week by end of Feb we need ~10x the traffic, and earnings per click will fall after Cyber Monday.
+- **No volume channel.** 98% of visits have no referrer; Google sent ~0 clicks (GSC 8 in 28 days); TikTok/Instagram views don't turn into visits without a clickable link. Our #1 page (AirPods, 60 visits/day) lost its unknown source and nothing replaced it. Writing 4 guides a day has not produced search traffic yet; it's a bet on December/January, not this week.
+- **Can't measure:** the per-channel addresses (/tt /ig /pin /fb) only went live 25 Nov; Audible bounty sign-ups since the 22 Nov fix aren't in the scorecard yet (no bounty line in Amazon's figures on 23–25 Nov); PartnerBoost (Edifier) is logged out, so 117 Edifier clicks with 0 known orders is still unexplained.
+- **Cliff on 1 Dec:** ~37 Black Friday/Cyber Monday pages (most of our traffic) go stale overnight and would have kept saying "live deals".
+
+### Leak audit (content/posts + dist)
+- No audible.co.uk links (the one mention is plain cancel instructions). Good.
+- **Top-picks boxes on 47 guides pointed their 3 most prominent buttons at shops that don't pay us** (Very, Currys, Argos, John Lewis…), because ranking only preferred "Amazon" by name. FIXED in the builder: earning links (Amazon, eBay, Awin partners, PartnerBoost) rank first within a verdict level, and any non-earning top pick now carries a tagged "compare on Amazon" link.
+- **Expired promo:** Very guide still said code EXTRA "takes another 10% off" (ended 18 Nov) and called 14 Nov prices "today". FIXED: past tense, prices clearly dated 14 Nov.
+- **Stale page with zero earning links:** Pokémon ETB guide still called Delta Reign (6 Nov) "the next release" and had no Amazon link. FIXED: past tense, next set (Flowing Fists, 5 Feb 2027), tagged Amazon ETB search with a "sold by Amazon" warning.
+- Still leaking (needs dated prices, so left for the daily runs, listed in GUIDES_PLAN/REFRESH): 22 guides have no earning cards at all (only the compare links): Argos/Boots/Currys/Very retailer pages, broadband/SIM (Awin not approved), heaters, dehumidifier, hampers, Christmas gifts for her/kids under £X, secret Santa, stocking fillers under £5, STEM, Ninja Creami/Slushi, Shark vs Dyson, mattress, Smeg. Boxing Day guide (0 earning cards, updated 30 Oct) added to the plan with a 5 Dec deadline. Treadmill (GSC page 1–2) still not refreshed since 3 Nov: 4th run in a row it was skipped.
+- Kindle Unlimited (GSC #2) and Audible pages have only 1 and 3 cards, so no top-picks box; acceptable as their first card sits right under the intro.
+
+### Experiments shipped
+1. **Audible £20 bounty box** (site.json `bountyBox`, until 17 Dec). One labelled "Ad" box under the deal cards on every daily post and on 22 gift/AirPods/headphone/Kindle/Christmas/BF-live guides that didn't link Audible (kids/toy pages excluded). Why: one Audible sign-up = £20 = roughly 60 product clicks at our current EPC; it was linked from only 26 pages and not from our biggest page (AirPods). Judge: Audible bounties in Associates' Bounty report by Wed 2 Dec. ≥10 sign-ups (£200) = keep and extend to more pages; 0–2 = the offer isn't converting our audience, drop the box on 17 Dec anyway.
+2. **Post-Black-Friday auto-transition** (site.json `eventNotices` + hub `endedIntro`). From 1 Dec, all 37 BF/Cyber Monday pages show an "ended" notice with the date prices were checked and three next steps (tagged Amazon deals today, Christmas gift guides, today's deals); the BF hub intro switches to "ended, here's what's next" and points to the Boxing Day guide. Tested by simulating 2 Dec. Why: keeps the visitors we do have on pages that can still earn in December instead of bouncing off stale "live" prices, and keeps the pages honest so they can rank for Boxing Day/January. Judge: Amazon clicks/day in 1–7 Dec vs 24–30 Nov, and bounce/second-page views on the AirPods and PS5 pages in Web Analytics.
+3. (Leak fix with measurable effect) Top-picks earning-first ranking + Amazon compare links on 47 guides. Judge: Amazon clicks per 100 visits on Very/Currys/Argos/gift-under-£X pages next week.
+
+### Ideas for next week
+- Write the Boxing Day refresh (Amazon-first) and a "when is the Amazon Boxing Day sale 2026" section before 5 Dec; add a "Gifts by person" homepage module that replaces the Black Friday guides on 1 Dec.
+- `audible-vs-kindle-unlimited-uk` and `audible-gift-membership-uk`: two bounty pages while Audible pays £20 (until 17 Dec).
+- Add simple outbound-click counting (Cloudflare Web Analytics can't see clicks; a tiny first-party beacon to a Pages Function logging to KV/Analytics Engine) so we can see which modules (ticker, top picks, bounty box, compare links) earn and cut the rest.
