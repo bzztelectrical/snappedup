@@ -29,3 +29,12 @@
 - Shipped today: IndexNow (static/<key>.txt + .github/workflows/indexnow.yml). All 138 URLs submitted to Bing/Yandex (HTTP 202); every push and a nightly run re-submit new/updated pages. Bing/DDG/Yahoo index in days, not months.
 - Ramp plan, in order of expected clicks: (1) Pinterest 5 → 20 pins/day, a fresh pin for every guide (needs free business account for scheduling/bulk CSV); (2) TikTok business account → website link in bio; (3) email capture on /start + guides with a daily top-5 email (needs MailerLite account); (4) Facebook Page (biggest UK deals audience; also unlocks Instagram scheduling via Meta Business Suite).
 - Judge on Sun 29 Nov: target 400+ visits/day and 100+ Amazon clicks/day. Anything that hasn't moved the numbers gets cut.
+
+## 25 Nov: why clicks fell (diagnosis)
+- Cloudflare 14 days, bots excluded: 98% of visits have NO referrer (1,770 of 1,800). Google 10, Bing 10.
+- Sun 22 "spike" (~480) was ~360 German visits with an Unknown browser: bots, not people. Ignore it.
+- Real UK visits: Thu 19 ~190, Fri 20 ~150, Sat 21 ~180, then ~100/day Sun 22 to Tue 24. That's the drop.
+- The drop is one page: the AirPods BF guide went from 60 visits/day (19 and 20 Nov) to ~0 by 23 Nov. Source unknown (no referrer, UK iPhones).
+- Google is NOT the source: GSC 8 clicks in 28 days, 0 on 19 to 22 Nov; Discover 0. SEO isn't producing visits yet.
+- Fixes: per-channel addresses /tt /ig /pin /fb so the Path view finally attributes traffic; six BF brand-guide titles said "Prices to Wait For" during live BF week, now say live deals.
+- The real lever is clickable links: Pinterest (links work today), TikTok Business bio link, Instagram bio link. Asked the user about more pins and the TikTok Business switch again.
