@@ -26,6 +26,7 @@ Set up 19 Nov 2026 (user: "instagram is logged in set it up").
 | 24 Nov 2026 19:03 | 3 Ninja air fryers worth buying (04-tue-1930-airfryer) | 5 | Batch 23–29 Nov. Note: the first Next on the Edit screen often doesn't register; if the caption box doesn't take focus, click Original (1134,388) then Next (1168,86) again. |
 | 25 Nov 2026 12:03 | 3 Christmas gifts Mum will love (05-wed-1230-mum) | 5 | Batch 23–29 Nov. First post with the channel address snappedupdeals.co.uk/ig in the caption. Caption box sat at (1040,160) this time; check activeElement before typing. |
 | 25 Nov 2026 19:02 | Best TV deals this Black Friday (06-wed-1930-tv) | 5 | Batch 23–29 Nov. Caption uses /ig. |
+| 26 Nov 2026 12:03 | 3 gifts teenage boys actually want (07-thu-1230-teenboys) | 5 | Batch 23–29 Nov. Caption uses /ig. Second Next failed again (landed on a filter); clicked Original then Next. |
 
 How-to that works on web: Create → Post → upload all slides to the file input → crop icon bottom-left → **4:5** (default is 1:1, which cuts slides) → Next → Next → click the caption box via its ref (clicking by coordinates can miss, and typing outside the box fires Instagram's keyboard shortcuts) → click inside the caption to close hashtag suggestions → Share. Slides: TikTok 9:16 slides scaled into 1080×1350 with the slide's own background colour as padding (scratch script; see the 19 Nov session).
 
