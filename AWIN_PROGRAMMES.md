@@ -133,3 +133,8 @@ New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shore
 
 - 24 Nov (user decision): Edifier moved to the END of the ticker (still in it until 30 Nov) and the side bubble now starts closed. Reason: PartnerBoost showed 117 Edifier clicks in 7 days, 0 orders, while Amazon clicks fell ~13/day after Edifier went first on 20 Nov.
 - 26 Nov 14:30: user logged back into PartnerBoost and Awin. Edifier today so far: 12 clicks, 0 orders (PartnerBoost "Today").
+
+## 26 Nov check (user asked "anything good")
+- Joined (5): Hamleys, Compare Parking Prices UK, Tinkerer STEAM Box, Rocket Espresso, Willow Parking. No new approvals. 28 still pending (incl. ghd, Boots, LOOKFANTASTIC, KitchenAid, Laptops Direct, Urevo UK).
+- New invitations (2), not accepted yet (asked user): Rit Concept (131305, UK sofas/dining furniture, launched 13 Oct 2026, no track record, payment exposure level 1) and brickzonehub (121692, LEGO display frames/cases, EPC £0.53, conv 10.6%, but payment exposure level 4 = worst, 68-day average payment).
+- eSIM For U still not under Joined.
