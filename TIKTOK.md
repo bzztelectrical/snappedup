@@ -125,3 +125,8 @@ Judge on 30 Nov: views per carousel vs the 145–167 of the 20–21 Nov carousel
 
 ## Channel address (from 25 Nov)
 Use **snappedupdeals.co.uk/tt** in every caption, slide and link for this channel (not /start). Same page as /start, but it shows up as its own path in Cloudflare Web Analytics, so we can finally see what this channel sends. 98% of visits arrive with no referrer, so this is the only attribution we have. (Already-scheduled 23 to 29 Nov posts and pin drafts still say /start; leave them.)
+
+## Business account (user switching 26 Nov)
+Bio link: https://snappedupdeals.co.uk/tt
+Bio text (under 80 characters): UK deals worth having, price-checked daily 🇬🇧 Black Friday picks ↓
+From the switch on, captions say "Today's prices: link in bio" instead of asking people to type the address.
