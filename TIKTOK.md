@@ -133,3 +133,4 @@ NOT AVAILABLE (26 Nov): the account is already Business, but TikTok won't let th
 - 26 Nov: the account is ALREADY a Business account (user has Business Suite; web settings show Business verification). No switch needed. Web Edit profile has no Website field; in the app "Add link" opened a blank page (TikTok in-app glitch). Bio is 84/80 characters (the £100 giveaway text), so edits won't save until it's shortened.
 
 - From the 30 Nov batch: the last slide of every carousel ends with a big, plain "snappedupdeals.co.uk/tt" call to action (short address, easy to type), and the first slide shows it small at the bottom.
+- 26 Nov 12:25: giveaway line removed from the bio at the user's request. Bio now: "🚨snappedupdeals.co.uk🚨 / UK deals worth having, price-checked daily 🇬🇧" (72/80). No giveaways without written terms.
