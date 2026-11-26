@@ -41,3 +41,6 @@ Pin flow that works: Create new → find "File Upload" input → upload one imag
 
 ## Channel address (from 25 Nov)
 Use **snappedupdeals.co.uk/pin** in every caption, slide and link for this channel (not /start). Same page as /start, but it shows up as its own path in Cloudflare Web Analytics, so we can finally see what this channel sends. 98% of visits arrive with no referrer, so this is the only attribution we have. (Already-scheduled 23 to 29 Nov posts and pin drafts still say /start; leave them.)
+
+## Business account (26 Nov)
+The user converted Pinterest to a free Business account on 26 Nov. Next run: check the pin form's "More options" for "Publish at a later date" and Pinterest Analytics (outbound clicks per pin). If scheduling works, the 30 Nov batch schedules each day's 5 pins for evening slots (19:00–21:00) instead of 09:00 manual publishing. Still 5 pins a day (user's choice).

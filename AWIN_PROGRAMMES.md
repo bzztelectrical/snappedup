@@ -132,3 +132,4 @@ New rejections 6–9 Nov: Three ("URL is irrelevant to advertiser brand"), Shore
 - 20 Nov 11:50: replied to Lesley from hello@ (user approved). Told her: PartnerBoost links live on the Edifier guide, Edifier panel sitewide + first in the ticker until 30 Nov, asked for the MERACH Tradedoubler programme link and Edifier's December deal list.
 
 - 24 Nov (user decision): Edifier moved to the END of the ticker (still in it until 30 Nov) and the side bubble now starts closed. Reason: PartnerBoost showed 117 Edifier clicks in 7 days, 0 orders, while Amazon clicks fell ~13/day after Edifier went first on 20 Nov.
+- 26 Nov 14:30: user logged back into PartnerBoost and Awin. Edifier today so far: 12 clicks, 0 orders (PartnerBoost "Today").
