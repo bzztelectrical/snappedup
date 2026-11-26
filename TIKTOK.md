@@ -129,5 +129,7 @@ Use **snappedupdeals.co.uk/tt** in every caption, slide and link for this channe
 ## Business account (user switching 26 Nov)
 Bio link: https://snappedupdeals.co.uk/tt
 Bio text (under 80 characters): UK deals worth having, price-checked daily 🇬🇧 Black Friday picks ↓
-From the switch on, captions say "Today's prices: link in bio" instead of asking people to type the address.
+NOT AVAILABLE (26 Nov): the account is already Business, but TikTok won't let the user enter a link (Add link page blank / blocked). Captions must keep saying "Type snappedupdeals.co.uk/tt into your browser". Never write "link in bio" on TikTok until the user confirms the link is live. Retry the link when the account passes 1,000 followers.
 - 26 Nov: the account is ALREADY a Business account (user has Business Suite; web settings show Business verification). No switch needed. Web Edit profile has no Website field; in the app "Add link" opened a blank page (TikTok in-app glitch). Bio is 84/80 characters (the £100 giveaway text), so edits won't save until it's shortened.
+
+- From the 30 Nov batch: the last slide of every carousel ends with a big, plain "snappedupdeals.co.uk/tt" call to action (short address, easy to type), and the first slide shows it small at the bottom.
