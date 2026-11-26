@@ -130,3 +130,4 @@ Use **snappedupdeals.co.uk/tt** in every caption, slide and link for this channe
 Bio link: https://snappedupdeals.co.uk/tt
 Bio text (under 80 characters): UK deals worth having, price-checked daily 🇬🇧 Black Friday picks ↓
 From the switch on, captions say "Today's prices: link in bio" instead of asking people to type the address.
+- 26 Nov: the account is ALREADY a Business account (user has Business Suite; web settings show Business verification). No switch needed. Web Edit profile has no Website field; in the app "Add link" opened a blank page (TikTok in-app glitch). Bio is 84/80 characters (the £100 giveaway text), so edits won't save until it's shortened.
