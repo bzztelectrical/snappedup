@@ -172,5 +172,9 @@
         ]
       ]
     }
-  ]
+  ],
+  "email": {
+    "kitFormId": "",
+    "note": "Kit (kit.com) free plan. Set kitFormId to the numeric form ID to switch the sign-up box on. Double opt-in must stay ON in Kit."
+  }
 }

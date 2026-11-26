@@ -198,6 +198,18 @@ t.addEventListener("click",()=>set(!el.classList.contains("open")));
 el.querySelector(".pb-close").addEventListener("click",()=>{el.remove();try{sessionStorage.setItem("pb","closed")}catch(e){}});})();</script>`;
 })();
 
+// Email sign-up (Kit). Hidden until site.email.kitFormId is set. Plain HTML POST to Kit, no script.
+// UK rules: only people who opt in get emails (Kit double opt-in ON). Emails link to our site, never to Amazon.
+const signupBox = (where) => site.email && site.email.kitFormId ? `<aside class="signup" aria-labelledby="signup-h-${where}">
+  <h2 id="signup-h-${where}">Get the best 5 deals each morning</h2>
+  <p>One short email with the deals we'd actually buy, price-checked that day. Free, no spam, unsubscribe any time.</p>
+  <form action="https://app.kit.com/forms/${esc(String(site.email.kitFormId))}/subscriptions" method="post" class="signup-form">
+    <label class="visually-hidden" for="signup-email-${where}">Email address</label>
+    <input id="signup-email-${where}" type="email" name="email_address" placeholder="Your email address" required autocomplete="email">
+    <button type="submit" class="btn">Sign me up</button>
+  </form>
+  <p class="signup-small">We'll send a confirmation email first. See our <a href="/privacy/">privacy policy</a>.</p>
+</aside>` : "";
 const disclosureNote = `<aside class="disclosure">Prices were correct when we published and can change at any time. If you buy through our links we may earn a small commission, at no extra cost to you. It never decides what we pick. <a href="/disclosure/">How we make money</a>.</aside>`;
 
 function layout({ title, seoTitle, description, pathname, body, type = "website", jsonld, image }) {
@@ -388,6 +400,7 @@ for (const p of posts) {
   <div class="prose lede">${md(p.intro || "")}</div>
   ${deals(p.deals)}
   ${bountyBox(p)}
+  ${p.type === "guide" ? signupBox("post") : ""}
   ${p.body ? `<div class="prose">${md(p.body)}</div>` : ""}
   ${disclosureNote}
 </article>
@@ -496,6 +509,7 @@ for (const pg of pages) {
   const body = `<section class="page-head"><h1>Today's best deals</h1><p>Picked and price-checked by Snapped Up. Tap any deal to see it at the shop.</p>
 <p class="start-links">${links.map(([t, u]) => `<a class="btn start-btn" href="${u}">${esc(t)} →</a>`).join(" ")}</p></section>
 ${deals(top)}
+${signupBox("start")}
 ${disclosureNote}`;
   const html = layout({ title: "Today's best deals", description: "Snapped Up's best UK deals today, price-checked.", pathname: "/start/", body })
     .replace('<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">', '<meta name="robots" content="noindex, follow">');
