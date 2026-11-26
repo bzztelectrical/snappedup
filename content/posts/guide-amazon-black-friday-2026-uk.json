@@ -1,7 +1,7 @@
 {
   "type": "guide",
   "date": "2026-10-28",
-  "updated": "2026-11-23",
+  "updated": "2026-11-26",
   "slug": "amazon-black-friday-2026-uk",
   "seoTitle": "Amazon Black Friday 2026 UK: Dates, Deals & Prime",
   "tags": [
@@ -9,116 +9,127 @@
   ],
   "title": "Amazon Black Friday 2026 UK: 19–30 November, best deals, Prime tips",
   "description": "Amazon's Black Friday Week 2026 runs 19–30 November. Key dates, whether you need Prime, last year's best prices and Christmas returns.",
-  "intro": "**Amazon's Black Friday Week 2026 is live now: it started on Thursday 19 November and runs to Cyber Monday, 30 November.** The best Amazon deals on Monday 23 November are the AirPods Pro 3 at a record-low £165, a Ring Battery Video Doorbell with an Indoor Camera for £39.99 and the JBL Live 780NC headphones at a new low of £99.\n\nYou don't need Prime for most of the deals, but members get extra 'Epic Prime Deals', so if you're not a member, now is the time to start the [free trial](https://www.amazon.co.uk/amazonprime). Prices below were reported on 23 November 2026, and our [live Black Friday deals page](/guides/black-friday-2026-live-deals-uk/) is updated three times a day. Last checked: 23 November 2026.",
+  "intro": "**Amazon's Black Friday Week 2026 is live now: it started on Thursday 19 November and runs to Cyber Monday, 30 November, with Black Friday itself tomorrow.** The best Amazon deals on Thursday 26 November are the AirPods Pro 3 at a record-low £155.98, a single Apple AirTag at £20.50 and the new Kindle at a record-low £119.99.\n\nYou don't need Prime for most of the deals, but members get extra 'Epic Prime Deals', so if you're not a member, now is the time to start the [free trial](https://www.amazon.co.uk/amazonprime). Prices below were reported on 25–26 November 2026, and our [live Black Friday deals page](/guides/black-friday-2026-live-deals-uk/) is updated three times a day. Last checked: Thursday 26 November 2026, 2pm.",
   "deals": [
     {
       "name": "Apple AirPods Pro 3",
       "retailer": "Amazon",
-      "price": 165,
+      "price": 155.98,
       "was": 219,
       "url": "https://www.amazon.co.uk/s?k=Apple+AirPods+Pro+3",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "£54 off and the lowest UK price yet, still £165 at Amazon on the afternoon of 23 November (What Hi-Fi, TechRadar)."
+      "note": "Still £155.98 this morning (T3 and TechRadar UK, 26 November), a record low and £63 off. The best noise-cancelling AirPods most people should buy."
     },
     {
-      "name": "Ring Battery Video Doorbell + Ring Indoor Camera bundle",
+      "name": "Apple AirTag (2nd generation)",
       "retailer": "Amazon",
-      "price": 39.99,
-      "was": 119.98,
-      "url": "https://www.amazon.co.uk/s?k=Ring+Battery+Video+Doorbell+Indoor+Camera+bundle",
+      "price": 20.5,
+      "was": 29,
+      "url": "https://www.amazon.co.uk/s?k=Apple+AirTag+2nd+generation",
       "verdict": "Big drop",
       "verdictLevel": "great",
-      "note": "A doorbell and an indoor camera for about last Black Friday's price of the doorbell alone. The 'was' price adds the two list prices together. Still £39.99 on 23 November."
+      "note": "£20.50 at Amazon this lunchtime (T3, 26 November), down from £29. An easy stocking filler for keys, bags or luggage; works with iPhone only."
     },
     {
-      "name": "JBL Live 780NC Wireless Noise Cancelling Headphones",
-      "retailer": "Amazon",
-      "price": 99,
-      "was": 170,
-      "url": "https://www.amazon.co.uk/s?k=JBL+Live+780NC",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "A new low of £99 on 23 November (What Hi-Fi), £71 off. The best-value noise-cancelling over-ears in the sale."
-    },
-    {
-      "name": "Amazon Kindle Paperwhite Signature Edition (2024), 32GB",
-      "retailer": "Amazon",
-      "price": 139.99,
-      "was": 229.99,
-      "url": "https://www.amazon.co.uk/s?k=Kindle+Paperwhite+Signature+Edition+2024",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "The best-value Kindle right now: auto-adjusting light, wireless charging and no ads, for less than the standard Paperwhite. Still £139.99 on our 23 November check."
-    },
-    {
-      "name": "Ninja Foodi Dual Zone Air Fryer 7.6L (AF300UK)",
+      "name": "Amazon Kindle (2026, 16GB)",
       "retailer": "Amazon",
       "price": 119.99,
-      "was": 199.99,
-      "url": "https://www.amazon.co.uk/dp/B08CN3G4N9",
+      "was": 149.99,
+      "url": "https://www.amazon.co.uk/s?k=Amazon+Kindle+16GB+2026",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "Still Amazon's best kitchen deal at £119.99 on 23 November, below last Black Friday's £128."
+      "note": "Record-low price on the new Kindle (TechRadar UK, updated 26 November). Pair it with a Kindle Unlimited trial for free reading."
     },
     {
-      "name": "Bose QuietComfort Ultra Headphones",
+      "name": "Ring Battery Video Doorbell 2K + Ring Indoor Camera Plus",
       "retailer": "Amazon",
-      "price": 298.79,
+      "price": 44.99,
+      "was": 129.98,
+      "url": "https://www.amazon.co.uk/s?k=Ring+Battery+Video+Doorbell+2K+Indoor+Camera+Plus",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£44.99 for both at Amazon (TechRadar UK, updated 26 November), up £5 from earlier in the week but still about two-thirds off."
+    },
+    {
+      "name": "Roborock Qrevo S Pro Robot Vacuum and Mop",
+      "retailer": "Amazon",
+      "price": 299.99,
+      "was": 549.99,
+      "url": "https://www.amazon.co.uk/s?k=Roborock+Qrevo+S+Pro",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£250 off at Amazon this morning (TechRadar UK, 26 November) and £20 below its early-November deal. Self-emptying, self-washing robot that vacuums and mops."
+    },
+    {
+      "name": "Dyson V8 Cyclone Cordless Vacuum",
+      "retailer": "Amazon",
+      "price": 198.37,
+      "was": 349.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+V8+Cyclone",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "The lowest price TechRadar has seen on this model (25 November evening). A newer, stronger V8 than the V8 Origin for about the same money."
+    },
+    {
+      "name": "Hisense 65-inch Canvas TV",
+      "retailer": "Amazon",
+      "price": 999,
+      "was": 1599,
+      "url": "https://www.amazon.co.uk/s?k=Hisense+65+inch+Canvas+TV",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "Dropped to £999 at Amazon this morning (T3, 26 November), £600 under its list price. A matte, picture-frame-style TV that looks like art when it's off."
+    },
+    {
+      "name": "Sonos Beam (Gen 2) Soundbar",
+      "retailer": "Amazon",
+      "price": 339,
       "was": 449,
-      "url": "https://www.amazon.co.uk/s?k=Bose+QuietComfort+Ultra+Headphones",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "About £150 off on 23 November (T3). Bose's best noise cancelling."
-    },
-    {
-      "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
-      "retailer": "Amazon",
-      "price": 199,
-      "was": 279,
-      "url": "https://www.amazon.co.uk/s?k=Sony+WH-1000XM5",
+      "url": "https://www.amazon.co.uk/s?k=Sonos+Beam+Gen+2",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£80 off on 23 November (T3). Still one of the best all-round noise-cancelling headphones."
+      "note": "£339 at Amazon (T3, 26 November), £110 off; Argos matches it. Compact Dolby Atmos bar that suits most living-room TVs."
     },
     {
-      "name": "Apple AirTag (2nd gen) 4-pack",
+      "name": "Shokz OpenRun Pro 2 Bone Conduction Headphones",
       "retailer": "Amazon",
-      "price": 71.78,
-      "was": 99,
-      "url": "https://www.amazon.co.uk/s?k=Apple+AirTag+4+pack+2nd+generation",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "Under £18 a tag, £71.78 on 23 November (T3). Good stocking fillers to split between the family."
-    },
-    {
-      "name": "Apple Mac mini (M6, 16GB, 256GB SSD)",
-      "retailer": "Amazon",
-      "price": 759,
-      "was": 899,
-      "url": "https://www.amazon.co.uk/s?k=Apple+Mac+mini+M6",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£140 off on 23 November (T3). The cheapest way into a new Mac."
-    },
-    {
-      "name": "Nutribullet Portable Blender",
-      "retailer": "Amazon",
-      "price": 27.55,
-      "was": 39.99,
-      "url": "https://www.amazon.co.uk/s?k=Nutribullet+Portable+Blender",
+      "price": 126,
+      "was": 169,
+      "url": "https://www.amazon.co.uk/s?k=Shokz+OpenRun+Pro+2",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "Its lowest price, £27.55 on 23 November (T3)."
+      "note": "Lowest-ever price (TechRadar UK, updated 26 November). Open-ear headphones that let runners and cyclists hear traffic."
     },
     {
-      "name": "Waterpik Water Flosser Ultra (WP-100)",
+      "name": "Garmin fēnix 8 (47mm)",
       "retailer": "Amazon",
-      "price": 56.99,
-      "url": "https://www.amazon.co.uk/s?k=Waterpik+Ultra+Water+Flosser",
+      "price": 479.99,
+      "was": 699.99,
+      "url": "https://www.amazon.co.uk/s?k=Garmin+fenix+8+47mm",
+      "verdict": "Big drop",
+      "verdictLevel": "good",
+      "note": "£479.99 at Amazon (T3, 26 November), £220 off. Garmin's flagship multisport watch with an AMOLED screen and up to 16 days of battery."
+    },
+    {
+      "name": "Asus ROG Xbox Ally Handheld",
+      "retailer": "Amazon",
+      "price": 379.99,
+      "was": 499.99,
+      "url": "https://www.amazon.co.uk/s?k=Asus+ROG+Xbox+Ally",
+      "verdict": "Big drop",
+      "verdictLevel": "good",
+      "note": "£379.99 at Amazon (T3, 26 November), £120 off and the best price in a long time. A Windows handheld that runs your Xbox and PC game libraries."
+    },
+    {
+      "name": "Philips Baristina Espresso Machine + Milk Frother",
+      "retailer": "Amazon",
+      "price": 299.99,
+      "was": 379.99,
+      "url": "https://www.amazon.co.uk/s?k=Philips+Baristina+Milk+Frother",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "37% off on the evening of 23 November (T3)."
+      "note": "£80 off the bundle at Amazon (TechRadar UK, 26 November). A compact bean-to-cup that grinds and tamps for you."
     },
     {
       "name": "Amazon Prime 30-day free trial (then £8.99 a month)",
@@ -130,5 +141,5 @@
       "note": "Free for 30 days for eligible new members, then £8.99 a month unless you cancel. Starting it today covers the whole of Black Friday Week, Cyber Monday and Christmas delivery."
     }
   ],
-  "body": "## When does Amazon Black Friday 2026 start?\n\n**Thursday 19 November 2026.** Amazon's UK news site, updated on 10 November, says Black Friday Week runs from **19 to 30 November**, 12 days ending on Cyber Monday. The key dates:\n\n- **16 November:** deals on Amazon devices (Kindle, Echo, Fire TV, Ring, Blink) begin.\n- **18 November:** Alexa tablet deals begin.\n- **19 November:** Black Friday Week starts for everything else.\n- **27 November:** Black Friday.\n- **30 November:** Cyber Monday, the last day.\n\nWhich? also reports early offers on everyday essentials, beauty and pet items from 10 November, with more categories added on 13 and 16 November. Amazon itself only confirms the device date, so treat those as early extras rather than the main event. The pattern matches the last two years: 2024 ran from 21 November to 2 December, and 2025 from 20 November to 1 December. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) tracks every retailer's dates.\n\n## Do you need Prime for Amazon Black Friday deals?\n\nMostly not. Amazon says you don't need Prime to shop its Black Friday deals, and Lightning Deals are only Prime-only during Prime Day and Prime Big Deal Days (the October 2026 one ran on 6 and 7 October). Prime does help with:\n\n- **Free fast delivery.** Useful if your basket is small or you're cutting it fine for Christmas.\n- **Member-only extras.** In 2025 these included grocery vouchers for new customers at Morrisons, Iceland and Co-op on Amazon.\n- **Prime Video, Amazon Music and Prime Reading** over the holidays.\n\nPrime costs £8.99 a month or £95 a year, and students and 18 to 24-year-olds pay £4.49 a month or £47.49 a year. If you're not a member, the [30-day Prime free trial](https://www.amazon.co.uk/amazonprime) is worth starting on the day the sale opens, not before, so it covers Black Friday, Cyber Monday and early-December Christmas orders. Our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains the timing and how to cancel.\n\n## What's on at Amazon right now\n\nThe main sale started on 19 November. On 23 November the strongest Amazon prices were on audio and Apple: the AirPods Pro 3 at £165, the JBL Live 780NC at £99, the Bose QuietComfort Ultra at £298.79, the Sony WH-1000XM5 at £199, a 4-pack of AirTags at £71.78 and the Mac mini M6 at £759. Amazon's own devices are still cut, with the Ring doorbell bundle at £39.99 and the Kindle Paperwhite Signature at £139.99. Use last year's prices below to judge the rest: if an Echo Dot is near £30 or a Fire TV Stick 4K near £25, that's a proper deal.\n\nIn the kitchen, the Ninja Foodi Dual Zone 7.6L (AF300UK) is £119.99, below last Black Friday's £128, and the Nutribullet Portable blender is at its lowest price, £27.55. Our [Black Friday kitchen deals spotlight](/spotlight/black-friday-kitchen-deals-2026/) has more.\n\n## Last year's Amazon Black Friday prices\n\nThese are **2025 Black Friday prices**, not current ones. They're a good guide to what Amazon is likely to charge again:\n\n- **Kindle (2024, with ads):** £69.99\n- **Kindle Paperwhite (2024, with ads):** £134.99\n- **Echo Dot:** about £30\n- **Fire TV Stick 4K:** about £25\n- **Ring Battery Video Doorbell:** about £40\n- **Kindle Scribe:** about £259\n- **Fire TV Omni QLED 50in:** about £300\n\nIf an Amazon device is above these figures in the week of Black Friday, it's probably worth waiting. Amazon refreshed its Kindles this autumn, so see our [Kindle Black Friday guide](/guides/kindle-black-friday-deals-2026/) for which model to buy.\n\n## How to check an Amazon deal is real\n\nAmazon's 'was' prices and 'RRP' labels don't always reflect what an item has actually sold for. Before you buy:\n\n1. **Check the price history.** Paste the Amazon link into [CamelCamelCamel](https://uk.camelcamelcamel.com/) or Keepa. Both chart Amazon's own price over months, so you can see whether today's price is a real low.\n2. **Set an alert.** CamelCamelCamel will email you when a product drops below a price you choose, so you don't have to keep checking.\n3. **Check who's selling it.** 'Sold by Amazon' or the brand's own store is safest. Be wary of marketplace sellers with big discounts on brands you've never heard of.\n4. **Compare one other shop.** Argos, Currys and John Lewis often match Amazon during Black Friday, and they have their own returns windows.\n\n## Returns over Christmas\n\nAmazon's normal returns window is 30 days from delivery. For the 2025 season, the UK extension let you return most items bought between **1 November and 25 December 2025** until **31 January 2026**, or 30 days from delivery if that was later. Third-party sites report that Amazon UK's help page now covers items bought from 1 November to 25 December 2026, returnable until 31 January 2027, but we couldn't load Amazon's page to confirm it. Until it does, assume a similar window but don't rely on it for anything you might want to send back in late January.\n\n### When do Amazon Black Friday deals start in 2026?\n\nBlack Friday Week started on Thursday 19 November and runs to Monday 30 November 2026. Deals on Amazon's own devices started earlier, on 16 November.\n\n### Do I need Prime to get Amazon Black Friday prices?\n\nNo. Most Black Friday deals are open to everyone. Prime adds free fast delivery and members-only 'Epic Prime Deals', and new members can try it free for 30 days.\n\n### What sells cheapest on Amazon on Black Friday?\n\nAmazon's own devices: Kindle, Echo, Fire TV, Ring and Blink. Last year the basic Kindle fell to £69.99 and the Fire TV Stick 4K to about £25. Small kitchen appliances from Ninja and Shark are also usually cut.\n\n### Can I return Amazon Christmas presents in January?\n\nLast year, yes: most items bought from 1 November to 25 December 2025 could be returned until 31 January 2026. Amazon hasn't confirmed the 2026 UK dates yet.\n\n## More Black Friday guides\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand target prices, including [Argos](/guides/argos-black-friday-2026/)."
+  "body": "## When does Amazon Black Friday 2026 start?\n\n**Thursday 19 November 2026.** Amazon's UK news site, updated on 10 November, says Black Friday Week runs from **19 to 30 November**, 12 days ending on Cyber Monday. The key dates:\n\n- **16 November:** deals on Amazon devices (Kindle, Echo, Fire TV, Ring, Blink) begin.\n- **18 November:** Alexa tablet deals begin.\n- **19 November:** Black Friday Week starts for everything else.\n- **27 November:** Black Friday.\n- **30 November:** Cyber Monday, the last day.\n\nWhich? also reports early offers on everyday essentials, beauty and pet items from 10 November, with more categories added on 13 and 16 November. Amazon itself only confirms the device date, so treat those as early extras rather than the main event. The pattern matches the last two years: 2024 ran from 21 November to 2 December, and 2025 from 20 November to 1 December. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) tracks every retailer's dates.\n\n## Do you need Prime for Amazon Black Friday deals?\n\nMostly not. Amazon says you don't need Prime to shop its Black Friday deals, and Lightning Deals are only Prime-only during Prime Day and Prime Big Deal Days (the October 2026 one ran on 6 and 7 October). Prime does help with:\n\n- **Free fast delivery.** Useful if your basket is small or you're cutting it fine for Christmas.\n- **Member-only extras.** In 2025 these included grocery vouchers for new customers at Morrisons, Iceland and Co-op on Amazon.\n- **Prime Video, Amazon Music and Prime Reading** over the holidays.\n\nPrime costs £8.99 a month or £95 a year, and students and 18 to 24-year-olds pay £4.49 a month or £47.49 a year. If you're not a member, the [30-day Prime free trial](https://www.amazon.co.uk/amazonprime) is worth starting on the day the sale opens, not before, so it covers Black Friday, Cyber Monday and early-December Christmas orders. Our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains the timing and how to cancel.\n\n## What's on at Amazon right now\n\nThe main sale started on 19 November, and by 26 November the strongest Amazon prices were on Apple and Amazon's own devices: the AirPods Pro 3 at £155.98, a single AirTag at £20.50, the new Kindle at £119.99 and the Ring Battery Doorbell 2K with an Indoor Camera Plus at £44.99. For the living room, the Hisense 65-inch Canvas TV is £999 and the Sonos Beam (Gen 2) soundbar £339. Use last year's prices below to judge the rest: if an Echo Dot is near £30 or a Fire TV Stick 4K near £25, that's a proper deal.\n\nAround the home, the Roborock Qrevo S Pro robot vacuum and mop is £299.99 (£250 off), the Dyson V8 Cyclone is £198.37 and the Philips Baristina with milk frother is £299.99. Our [Black Friday kitchen deals spotlight](/spotlight/black-friday-kitchen-deals-2026/) has more.\n\n## Last year's Amazon Black Friday prices\n\nThese are **2025 Black Friday prices**, not current ones. They're a good guide to what Amazon is likely to charge again:\n\n- **Kindle (2024, with ads):** £69.99\n- **Kindle Paperwhite (2024, with ads):** £134.99\n- **Echo Dot:** about £30\n- **Fire TV Stick 4K:** about £25\n- **Ring Battery Video Doorbell:** about £40\n- **Kindle Scribe:** about £259\n- **Fire TV Omni QLED 50in:** about £300\n\nIf an Amazon device is above these figures in the week of Black Friday, it's probably worth waiting. Amazon refreshed its Kindles this autumn, so see our [Kindle Black Friday guide](/guides/kindle-black-friday-deals-2026/) for which model to buy.\n\n## How to check an Amazon deal is real\n\nAmazon's 'was' prices and 'RRP' labels don't always reflect what an item has actually sold for. Before you buy:\n\n1. **Check the price history.** Paste the Amazon link into [CamelCamelCamel](https://uk.camelcamelcamel.com/) or Keepa. Both chart Amazon's own price over months, so you can see whether today's price is a real low.\n2. **Set an alert.** CamelCamelCamel will email you when a product drops below a price you choose, so you don't have to keep checking.\n3. **Check who's selling it.** 'Sold by Amazon' or the brand's own store is safest. Be wary of marketplace sellers with big discounts on brands you've never heard of.\n4. **Compare one other shop.** Argos, Currys and John Lewis often match Amazon during Black Friday, and they have their own returns windows.\n\n## Returns over Christmas\n\nAmazon's normal returns window is 30 days from delivery. For the 2025 season, the UK extension let you return most items bought between **1 November and 25 December 2025** until **31 January 2026**, or 30 days from delivery if that was later. Third-party sites report that Amazon UK's help page now covers items bought from 1 November to 25 December 2026, returnable until 31 January 2027, but we couldn't load Amazon's page to confirm it. Until it does, assume a similar window but don't rely on it for anything you might want to send back in late January.\n\n### When do Amazon Black Friday deals start in 2026?\n\nBlack Friday Week started on Thursday 19 November and runs to Monday 30 November 2026. Deals on Amazon's own devices started earlier, on 16 November.\n\n### Do I need Prime to get Amazon Black Friday prices?\n\nNo. Most Black Friday deals are open to everyone. Prime adds free fast delivery and members-only 'Epic Prime Deals', and new members can try it free for 30 days.\n\n### What sells cheapest on Amazon on Black Friday?\n\nAmazon's own devices: Kindle, Echo, Fire TV, Ring and Blink. Last year the basic Kindle fell to £69.99 and the Fire TV Stick 4K to about £25. Small kitchen appliances from Ninja and Shark are also usually cut.\n\n### Can I return Amazon Christmas presents in January?\n\nLast year, yes: most items bought from 1 November to 25 December 2025 could be returned until 31 January 2026. Amazon hasn't confirmed the 2026 UK dates yet.\n\n## More Black Friday guides\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand target prices, including [Argos](/guides/argos-black-friday-2026/)."
 }
