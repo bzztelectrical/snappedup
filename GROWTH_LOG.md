@@ -76,3 +76,9 @@
 - User created a Kit account (on a 14-day trial, then the free plan, up to 10,000 subscribers). Never upgrade without the user.
 - Form "Snapped Up daily deals (site)", ID 10250018, plain HTML POST from our sign-up box (guides + /start). Double opt-in ON. Sign-up → /thanks/ (check inbox), confirm → /confirmed/ (today's deals). Both noindex.
 - Before the first email: the user must choose the postal address for the email footer (Kit/anti-spam rule) and the sender should be hello@snappedupdeals.co.uk. Every send needs the user's OK. Emails link only to our site, never to Amazon.
+
+## 27 Nov: Amazon product photos (Creators API)
+- User created Creators API app "Snapped_Up_website" + credential (v3.2, EU) and saved AMAZON_CREDENTIAL_ID / AMAZON_CREDENTIAL_SECRET as encrypted Cloudflare Pages secrets (not in GitHub, never in files/chat logs by me).
+- functions/api/amz.js: token from api.amazon.co.uk (LwA client_credentials, scope creatorsapi::default), searchItems/getItems on creatorsapi.amazon, marketplace www.amazon.co.uk, tag snappedup-21. Title-match ≥60% or no image. Edge cache 24h (errors 1h). Client script adds the photo to Amazon deal cards and points See deal at the product page.
+- 27 Nov 07:56 first test: token OK, searchItems 403 "account does not currently meet the eligibility requirements" = Amazon's up-to-48h review. Re-check scheduled.
+- Credential secret was pasted into chat by the user: once photos work, ask the user to create a second credential, swap it into Cloudflare and delete the first.
