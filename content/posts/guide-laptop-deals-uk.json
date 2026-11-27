@@ -1,0 +1,127 @@
+{
+  "type": "guide",
+  "date": "2026-11-27",
+  "updated": "2026-11-27",
+  "slug": "laptop-deals-uk",
+  "title": "Laptop deals UK: best Black Friday laptops under £500, £800 and £1,000",
+  "seoTitle": "Laptop Deals UK 2026: Best Black Friday Laptops",
+  "description": "The best UK laptop deals this Black Friday, from a £159.99 Chromebook to MacBook Air M5, with which to buy under £500, £800 and £1,000.",
+  "tags": [
+    "laptops",
+    "black-friday"
+  ],
+  "intro": "**The best laptop deal for most people this Black Friday is the Microsoft Surface Laptop with 16GB and 512GB at £799 on Amazon, down from £1,199.** On a tight budget, the Asus Vivobook S16 at £399 (Currys) is the best-value Windows laptop, and the Acer Chromebook 315 at £279.99 (Amazon) is the pick under £300.\n\n- **Best overall:** Microsoft Surface Laptop (16GB, 512GB), £799\n- **Best cheap:** Acer Chromebook 315, £279.99\n- **Best Mac:** MacBook Air 13-inch M5 (16GB, 512GB), £1,149\n- **Best splurge:** MacBook Pro 14-inch M6 (1TB), £1,830.97\n\nPrices were reported on 27 November 2026 in TechRadar's UK Black Friday laptop roundup. Black Friday prices usually run to Cyber Monday (30 November). For more, see [every Black Friday 2026 guide](/black-friday/).",
+  "deals": [
+    {
+      "name": "Lenovo Chromebook 14M8911 (MediaTek Kompanio 540, 4GB, 64GB, 14-inch)",
+      "retailer": "Amazon",
+      "price": 159.99,
+      "was": 349.99,
+      "url": "https://www.amazon.co.uk/s?k=Lenovo+Chromebook+14M8911",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The cheapest laptop worth buying this week: fine for browsing, homework and streaming. 4GB and 64GB are the bare minimum, so don't expect heavy multitasking."
+    },
+    {
+      "name": "Acer Chromebook 315 CB315-8H (MediaTek Kompanio 540, 8GB, 128GB, 15.6-inch)",
+      "retailer": "Amazon",
+      "price": 279.99,
+      "was": 399.99,
+      "url": "https://www.amazon.co.uk/s?k=Acer+Chromebook+315+CB315-8H",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Double the memory and storage of the Lenovo plus a bigger 15.6-inch screen. A comfortable family or student Chromebook for under £300."
+    },
+    {
+      "name": "Asus Vivobook 14 (Intel Core 3, 8GB, 128GB, 14-inch)",
+      "retailer": "Currys",
+      "price": 299,
+      "was": 599,
+      "url": "https://www.currys.co.uk/search?q=Asus+Vivobook+14+Intel+Core+3",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The cheapest Windows laptop we'd consider. 128GB fills up fast with Windows updates, so plan on cloud storage or a USB stick. Ignore the £599 'was' price: few people ever paid it."
+    },
+    {
+      "name": "Lenovo Chromebook Plus 2-in-1 Gen 10 (Intel Core 3 N355, 8GB, 128GB, 14-inch)",
+      "retailer": "Amazon",
+      "price": 399,
+      "was": 599.99,
+      "url": "https://www.amazon.co.uk/s?k=Lenovo+Chromebook+Plus+2-in-1+Gen+10",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "A touchscreen that folds back into a tablet, with Chromebook Plus speed. Good for a teenager who wants a laptop and a sketchpad in one."
+    },
+    {
+      "name": "Asus Vivobook S16 (Snapdragon X, 8GB, 256GB, 16-inch)",
+      "retailer": "Currys",
+      "price": 399,
+      "was": 799,
+      "url": "https://www.currys.co.uk/search?q=Asus+Vivobook+S16+Snapdragon+X",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "The best Windows value this week: a big 16-inch screen, 256GB and an efficient Snapdragon chip with long battery life, for £399. Some older Windows apps and games won't run on Arm chips, so check yours first."
+    },
+    {
+      "name": "Apple MacBook Neo (A18 Pro, 8GB, 512GB, 13-inch)",
+      "retailer": "Amazon",
+      "price": 749,
+      "was": 799,
+      "url": "https://www.amazon.co.uk/s?k=Apple+MacBook+Neo+512GB",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Apple's cheapest MacBook, with a generous 512GB. A modest £50 off, but it's the easiest way into a Mac for students and anyone already on an iPhone."
+    },
+    {
+      "name": "Microsoft Surface Laptop (Snapdragon X Plus, 16GB, 512GB, 13.8-inch)",
+      "retailer": "Amazon",
+      "price": 799,
+      "was": 1199,
+      "url": "https://www.amazon.co.uk/s?k=Microsoft+Surface+Laptop+Snapdragon+X+Plus+16GB+512GB",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "16GB and 512GB for under £800 is a strong spec, and the Surface's screen and keyboard are among the best on Windows. Our pick under £800."
+    },
+    {
+      "name": "Apple MacBook Air 13-inch (M5, 16GB, 512GB)",
+      "retailer": "Amazon",
+      "price": 1149,
+      "was": 1299,
+      "url": "https://www.amazon.co.uk/s?k=Apple+MacBook+Air+13-inch+M5+16GB+512GB",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The laptop most people should buy if the budget stretches: silent, all-day battery, and fast enough for years. £150 off the 512GB model."
+    },
+    {
+      "name": "Apple MacBook Air 15-inch (M5, 16GB, 512GB)",
+      "retailer": "Amazon",
+      "price": 1299,
+      "was": 1499,
+      "url": "https://www.amazon.co.uk/s?k=Apple+MacBook+Air+15-inch+M5+16GB+512GB",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "The same machine as the 13-inch with a larger screen and better speakers. Worth the extra £150 if you work on it all day."
+    },
+    {
+      "name": "Acer Nitro V16 (AMD Ryzen 7, RTX 5070, 16GB, 512GB)",
+      "retailer": "Amazon",
+      "price": 1399.99,
+      "was": 1699.99,
+      "url": "https://www.amazon.co.uk/s?k=Acer+Nitro+V16+RTX+5070",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "An RTX 5070 gaming laptop for £1,400. 512GB is tight for modern games, so budget for an extra SSD later."
+    },
+    {
+      "name": "Apple MacBook Pro 14-inch (M6, 16GB, 1TB)",
+      "retailer": "Amazon",
+      "price": 1830.97,
+      "was": 1999,
+      "url": "https://www.amazon.co.uk/s?k=Apple+MacBook+Pro+14-inch+M6+16GB+1TB",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "For video editing, coding and photo work. Under list price with 1TB of storage, but most people will be just as happy with a MacBook Air."
+    }
+  ],
+  "body": "## How to choose a laptop\n\nStart with what it's for, then the budget. Four specs matter far more than the brand name:\n\n- **Memory (RAM):** 8GB is fine for browsing, email and office work. Get 16GB if you keep lots of tabs open, edit photos or plan to keep the laptop four years or more.\n- **Storage:** 128GB is tight on Windows once updates pile up. 256GB is a sensible minimum and 512GB is comfortable. Chromebooks need less because most things live online.\n- **Chip:** Snapdragon X (Arm) laptops have excellent battery life, but a few older Windows programs, printers and games don't run on them. Check anything you rely on first. Apple's M-series and A18 Pro chips are fast and quiet.\n- **Screen:** 13 to 14 inches is the sweet spot for carrying around; 15 to 16 inches is easier on the eyes at a desk.\n\n## Best laptops under £500\n\nFor schoolwork, browsing and streaming, a Chromebook is the cheapest thing that works well. The **Acer Chromebook 315** at £279.99 has 8GB and a 15.6-inch screen, which is enough for a family laptop. The £159.99 **Lenovo Chromebook** is fine for a child's first laptop, but 4GB of memory will feel slow with lots of tabs.\n\nIf you need Windows (for Microsoft Office desktop apps, specific school software or a printer that only has Windows drivers), the **Asus Vivobook S16** at £399 is the stand-out. It has a 16-inch screen, 256GB and long battery life. The £299 Vivobook 14 is cheaper but its 128GB will fill up.\n\n## Best laptops under £800 and £1,000\n\nThe **Surface Laptop at £799** is the pick here: 16GB and 512GB are what you'd normally pay £1,000 or more for. If you're happier on a Mac, the **MacBook Neo at £749** is Apple's cheapest laptop, with 512GB, though only 8GB of memory and a smaller £50 discount.\n\n## Best MacBooks\n\nFor most people the **MacBook Air 13-inch M5** is the one to buy, at £1,149 with 16GB and 512GB. It has no fan, so it's silent, and the battery comfortably lasts a working day. The 15-inch version is £1,299. The **MacBook Pro** is only worth it if you edit video or run heavy software; at £1,830.97 the M6 model with 1TB is a fair price, not a dramatic one.\n\n## Gaming laptops\n\nThe **Acer Nitro V16** with an RTX 5070 at £1,399.99 is a good mid-range gaming deal. Gaming laptops are heavy and their batteries don't last long away from the plug, so if you mainly play at a desk, a console or desktop gives more for the money. See our [gifts for gamers](/guides/gifts-for-gamers-uk/) guide for cheaper ideas.\n\n## What's a good price?\n\nAs a rough guide this Black Friday: a decent 8GB Chromebook under £300, a Windows laptop with 256GB under £400, 16GB and 512GB under £800, and a MacBook Air M5 under £1,150. Be wary of big \"was\" prices on budget Windows laptops: many are rarely sold at that price, so judge the deal by the spec you get for the money.\n\n## Do you need Prime?\n\nSome Amazon Black Friday prices are for Prime members only (the listing says so), and Prime gets you faster delivery. A [free Prime trial](https://www.amazon.co.uk/amazonprime) covers the rest of Black Friday Week and Christmas delivery; our [Amazon Black Friday 2026 guide](/guides/amazon-black-friday-2026-uk/) explains how to time it. Looking at tablets instead? See [iPad deals UK](/guides/ipad-deals-uk/).\n\n## Laptop deals FAQs\n\n### What is the best laptop deal this Black Friday?\n\nFor most people, the Microsoft Surface Laptop with 16GB and 512GB at £799 on Amazon. On a budget, the Asus Vivobook S16 at £399 at Currys.\n\n### Is a Chromebook or a Windows laptop better for a student?\n\nA Chromebook is cheaper, simpler and faster at the same price, and fine if the school uses Google Classroom or Microsoft 365 online. Choose Windows if a course needs specific desktop software.\n\n### How much RAM do I need in a laptop?\n\n8GB for browsing, email and documents. 16GB if you multitask heavily, edit photos or want the laptop to last.\n\n### Are MacBooks cheaper on Black Friday?\n\nYes, a little. The MacBook Air M5 is £150 off at Amazon, and Amazon usually has the lowest MacBook prices during big sales. Apple's own store rarely discounts.\n\n### Will laptop prices drop on Cyber Monday?\n\nUsually not much. Most Black Friday laptop prices carry on unchanged to Cyber Monday, 30 November, then some go back up.\n"
+}
