@@ -92,10 +92,64 @@ function faqs(src = "") {
 }
 
 // ---------- components ----------
+
+// Category pictures (25 Nov/27 Nov, user: "add pictures, it's boring"). Our own simple line icons, drawn here, no third-party
+// artwork. Never Amazon product images (Associates rules allow them only via the Creators API).
+const ICON = {
+  headphones: '<path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="5" height="7" rx="2"/><rect x="16" y="14" width="5" height="7" rx="2"/>',
+  tv: '<rect x="2" y="4" width="20" height="13" rx="2"/><path d="M8 21h8M12 17v4"/>',
+  watch: '<rect x="6" y="6" width="12" height="12" rx="3"/><path d="M9 6l1-4h4l1 4M9 18l1 4h4l1-4M12 9v3l2 1.5"/>',
+  game: '<path d="M6.5 8h11A4.5 4.5 0 0 1 22 12.5v.5a4 4 0 0 1-7.2 2.4L14 14h-4l-.8 1.4A4 4 0 0 1 2 13v-.5A4.5 4.5 0 0 1 6.5 8z"/><path d="M7 10.5v3M5.5 12h3M16 11h.01M18 13h.01"/>',
+  speaker: '<rect x="5" y="2" width="14" height="20" rx="3"/><circle cx="12" cy="14" r="4"/><path d="M12 6.5h.01"/>',
+  phone: '<rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M11 18h2"/>',
+  laptop: '<rect x="4" y="4" width="16" height="11" rx="1.5"/><path d="M2 19h20l-2-4H4z"/>',
+  reader: '<rect x="5" y="2" width="14" height="20" rx="2"/><path d="M8 6h8M8 9.5h8M8 13h5"/>',
+  brick: '<rect x="3" y="9" width="18" height="11" rx="1.5"/><rect x="6" y="5" width="4" height="4" rx="1"/><rect x="14" y="5" width="4" height="4" rx="1"/>',
+  gift: '<rect x="3" y="8" width="18" height="4" rx="1"/><path d="M5 12v9h14v-9M12 8v13M12 8C10 4 6.5 3.5 6.5 5.5S9 8 12 8zm0 0c2-4 5.5-4.5 5.5-2.5S15 8 12 8z"/>',
+  book: '<path d="M2 5c3-1.5 6-1.5 10 1 4-2.5 7-2.5 10-1v14c-3-1.5-6-1.5-10 1-4-2.5-7-2.5-10-1z"/><path d="M12 6v14"/>',
+  kitchen: '<path d="M4 10h16v6a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z"/><path d="M2 10h20M9 7c0-1.2 1-1.2 1-2.4M14 7c0-1.2 1-1.2 1-2.4"/>',
+  coffee: '<path d="M4 9h13v6a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5z"/><path d="M17 11h1.5a2.5 2.5 0 0 1 0 5H17M8 2.5v3M12 2.5v3"/>',
+  vacuum: '<path d="M15.5 2 10 18"/><path d="M6 18h8a2 2 0 0 1 2 2v1H4v-1a2 2 0 0 1 2-2z"/><rect x="13.5" y="5" width="5" height="7" rx="1.5"/>',
+  hair: '<path d="M3 7a5 5 0 0 1 5-5h8a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H8a5 5 0 0 1-5-5z"/><path d="M10 12l1 9h3l-1-9M18 5h3M18 9h3"/><circle cx="8" cy="7" r="2"/>',
+  bell: '<path d="M6 16v-5a6 6 0 0 1 12 0v5l2 2H4z"/><path d="M10 21a2 2 0 0 0 4 0"/>',
+  fitness: '<path d="M6 7v10M3 9.5v5M18 7v10M21 9.5v5M6 12h12"/>',
+  calendar: '<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',
+  tag: '<path d="M3 12V4a1 1 0 0 1 1-1h8l9 9-9 9z"/><circle cx="8" cy="8" r="1.5"/>',
+  mail: '<rect x="2" y="5" width="20" height="14" rx="2"/><path d="m3 6 9 7 9-7"/>',
+};
+const ICON_RULES = [
+  [/airpods|headphone|earbud|ear ?\(|\bear\b|buds|sonos ace|shokz|bose qc|wh-1000|beats/, "headphones", "#e8eefc"],
+  [/\btv\b|oled|qled|television|fire tv|chromecast|roku/, "tv", "#e7f3ee"],
+  [/watch|garmin|fenix|forerunner|venu|fitbit|whoop/, "watch", "#fbefe0"],
+  [/ps5|playstation|xbox|switch|nintendo|dualsense|controller|gaming|game\b|games\b|portal/, "game", "#efe8fb"],
+  [/echo|alexa|speaker|soundbar|sonos|homepod|bluetooth speaker/, "speaker", "#e8f4f6"],
+  [/kindle|e-?reader|paperwhite|colorsoft/, "reader", "#f2efe6"],
+  [/iphone|galaxy|pixel|smartphone|phone|sim\b|esim/, "phone", "#e8eefc"],
+  [/laptop|macbook|ipad|tablet|chromebook|monitor|pc\b/, "laptop", "#eceff3"],
+  [/lego|toy|uno|rubik|board game|playmobil|barbie|hot wheels/, "brick", "#fdecea"],
+  [/audible|book|novel/, "book", "#f2efe6"],
+  [/coffee|espresso|nespresso|de'?longhi|kettle/, "coffee", "#f4ece4"],
+  [/air fryer|ninja|kitchen|blender|creami|slow cooker|toaster|kitchenaid|mixer|pan\b|cookware/, "kitchen", "#fbefe0"],
+  [/vacuum|hoover|dyson v|shark|roborock|dreame|robot vac|clean\+wash|mop|wetdry|vax|henry/, "vacuum", "#e7f3ee"],
+  [/airwrap|hair|ghd|straightener|styler|flexstyle|revlon|shaver|oneblade|toothbrush|braun|philips norelco|epilator/, "hair", "#fdecea"],
+  [/ring\b|doorbell|blink|camera|security|alarm|nest/, "bell", "#eceff3"],
+  [/treadmill|dumbbell|fitness|gym|bike|yoga|running/, "fitness", "#e7f3ee"],
+  [/when is|dates|cyber monday|black friday 20|calendar/, "calendar", "#fdecea"],
+  [/gift|hamper|stocking|secret santa|christmas|present/, "gift", "#fdecea"],
+];
+const pickIcon = (text = "") => {
+  const t = String(text).toLowerCase();
+  for (const [re, k, bg] of ICON_RULES) if (re.test(t)) return { k, bg };
+  return { k: "tag", bg: "#f3eee6" };
+};
+const iconSvg = (k, size = 44) => `<svg class="ico" viewBox="0 0 24 24" width="${size}" height="${size}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[k] || ICON.tag}</svg>`;
+
 function dealCard(d) {
   const off = d.was && d.price && Number(d.was) > Number(d.price) ? Math.round((1 - d.price / d.was) * 100) : null;
   const href = affiliate(d.url);
+  const pic = pickIcon(`${d.name} ${d.category || ""}`);
   return `<article class="deal">
+  <div class="deal-pic" style="background:${pic.bg}">${iconSvg(pic.k, 52)}${off && off >= 5 ? `<span class="deal-save">Save ${off}%</span>` : ""}</div>
   <div class="deal-top">
     <span class="retailer">${esc(d.retailer || "")}</span>
     ${d.verdict ? `<span class="verdict v-${esc((d.verdictLevel || "good").toLowerCase())}">${esc(d.verdict)}</span>` : ""}
@@ -107,7 +161,7 @@ function dealCard(d) {
       <span class="price">${gbp(d.price)}</span>
       ${d.was ? `<span class="was">was <s>${gbp(d.was)}</s></span>` : ""}
     </div>
-    ${off ? `<span class="off">−${off}%</span>` : ""}
+    ${off && off < 5 ? `<span class="off">−${off}%</span>` : ""}
     <a class="btn" href="${esc(href)}" rel="sponsored nofollow noopener" target="_blank">See deal<span aria-hidden="true"> →</span></a>
   </div>
   ${amazonCompare(d)}
@@ -198,9 +252,10 @@ t.addEventListener("click",()=>set(!el.classList.contains("open")));
 el.querySelector(".pb-close").addEventListener("click",()=>{el.remove();try{sessionStorage.setItem("pb","closed")}catch(e){}});})();</script>`;
 })();
 
+const NO_SIGNUP = ["/thanks/", "/confirmed/"];
 // Email sign-up (Kit). Hidden until site.email.kitFormId is set. Plain HTML POST to Kit, no script.
 // UK rules: only people who opt in get emails (Kit double opt-in ON). Emails link to our site, never to Amazon.
-const signupBox = (where) => site.email && site.email.kitFormId ? `<aside class="signup" aria-labelledby="signup-h-${where}">
+const signupBox = (where) => site.email && site.email.kitFormId ? `<aside class="signup"${where === "foot" ? ' id="signup"' : ""} aria-labelledby="signup-h-${where}">
   <h2 id="signup-h-${where}">Get the best 5 deals each morning</h2>
   <p>One short email with the deals we'd actually buy, price-checked that day. Free, no spam, unsubscribe any time.</p>
   <form action="https://app.kit.com/forms/${esc(String(site.email.kitFormId))}/subscriptions" method="post" class="signup-form">
@@ -247,6 +302,7 @@ ${topBanner}
 <header class="site-head">
   <div class="wrap head-inner">
     <a class="logo" href="/"><span class="logo-mark" aria-hidden="true"></span>Snapped&nbsp;Up</a>
+    ${site.email && site.email.kitFormId && !NO_SIGNUP.includes(pathname) ? `<a class="nav-cta" href="#signup">${iconSvg("mail", 18)}<span>Free deals email</span></a>` : ""}
     <nav>
       <a href="/deals/">Daily deals</a>
 ${(site.hubs || []).filter((h) => h.nav && (!h.navUntil || h.navUntil >= todayUK)).map((h) => `      <a href="/${h.slug}/">${esc(h.navLabel || h.title)}</a>`).join("\n")}
@@ -258,6 +314,7 @@ ${(site.hubs || []).filter((h) => h.nav && (!h.navUntil || h.navUntil >= todayUK
 </header>
 <main class="wrap">
 ${body}
+${NO_SIGNUP.includes(pathname) ? "" : signupBox("foot")}
 </main>
 <footer class="site-foot">
   <div class="wrap">
@@ -371,7 +428,9 @@ fs.cpSync(path.join(ROOT, "static"), OUT, { recursive: true });
 
 function postTeaser(p) {
   const n = (p.deals || []).length;
+  const pic = pickIcon(`${p.title} ${(p.tags || []).join(" ")}`);
   return `<a class="teaser ${p.type}" href="${postUrl(p)}">
+  <span class="teaser-pic" style="background:${pic.bg}">${iconSvg(pic.k, 40)}</span>
   <span class="teaser-meta">${LABEL[p.type] || "Daily deals"} · ${p.type === "guide" ? "Updated " + shortDate(p.updated || p.date) : shortDate(p.date)}${n ? ` · ${n} picks` : ""}</span>
   <span class="teaser-title">${esc(p.title)}</span>
   <span class="teaser-desc">${esc(p.description)}</span>
