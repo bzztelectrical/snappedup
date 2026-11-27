@@ -1,7 +1,7 @@
 {
   "type": "guide",
   "date": "2026-10-23",
-  "updated": "2026-11-23",
+  "updated": "2026-11-27",
   "slug": "tv-black-friday-deals-2026",
   "title": "TV Black Friday deals 2026 UK: OLED and budget TV prices to beat",
   "seoTitle": "TV Black Friday Deals 2026 UK: OLED & Budget Prices",
@@ -9,26 +9,17 @@
   "tags": [
     "black-friday"
   ],
-  "intro": "**Short answer: the LG B6 55-inch OLED at £974 and the Hisense U7S 55-inch Mini LED at £799 are still the best-value big TVs, and Amazon's Black Friday Week has added the Ember 50-inch 4K at a record-low £269.99 and the Sony Bravia 5 75-inch at £1,369.** The LG C6 65-inch is £1,699 at Amazon, but older OLEDs like last year's C5 dropped further, so it may fall again.\n\nWe compare each TV against what it actually sold for recently, not the shop's 'was' price. Amazon Ember prices and the Hisense Canvas were re-checked on 23 November 2026; other Amazon prices were reported on 18 and 19 November, and the LG B6 and Hisense U7S were checked on PriceSpy on 16 November, so check them before you buy. We've taken the Sony Bravia 8 II off until we find a dated Black Friday price for it.",
+  "intro": "**Short answer: on Black Friday the best-value TVs are the LG B6 55-inch OLED at £876 and the Amazon Ember 50-inch 4K at a record-low £269.99, both at Amazon.** The LG C6 65-inch OLED has dropped to £1,529.10 at Amazon, its lowest yet, and the Fire TV 55-inch Omni Mini-LED is £559.\n\nWe compare each TV against what it actually sold for recently, not the shop's 'was' price. Prices were checked on 26–27 November 2026 (TechRadar UK's Amazon live blog and Tom's Guide UK), and Amazon's Black Friday Week runs to Cyber Monday, 30 November. We've taken off the Hisense U7S and the Sony Bravia 5 75-inch until we can re-confirm their prices. For other deals, see our [Black Friday 2026 live deals page](/guides/black-friday-2026-live-deals-uk/).",
   "deals": [
-    {
-      "name": "Hisense U7S 55-inch Mini LED TV (55U7STUK, 2026)",
-      "retailer": "Amazon",
-      "price": 799.0,
-      "url": "https://www.amazon.co.uk/s?k=Hisense+55U7STUK",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "Amazon, AO and Argos are all £799. A smaller shop, Electrical Discount UK, lists it at £649, if you're happy to buy from an independent. A very bright TV for daytime viewing."
-    },
     {
       "name": "LG B6 55-inch OLED TV (OLED55B65LA, 2026)",
       "retailer": "Amazon",
-      "price": 974.0,
-      "was": 1199.0,
+      "price": 876,
+      "was": 1199,
       "url": "https://www.amazon.co.uk/s?k=LG+OLED55B65LA",
-      "verdict": "Big drop",
+      "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "£225 less than in October, and AO and Very match it. LG's cheapest OLED, with perfect blacks but less brightness than the C series. It could dip again in Black Friday week."
+      "note": "£876 at Amazon (Tom's Guide UK, 26 November), down from £974 last week and £323 off. LG's cheapest OLED, with perfect blacks; under last year's B5 Black Friday price."
     },
     {
       "name": "Amazon Ember 50-inch 4-Series 4K TV",
@@ -38,48 +29,48 @@
       "url": "https://www.amazon.co.uk/s?k=Amazon+Ember+50+inch+4K+TV",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "Amazon's own 4K TV with Fire TV built in, at its lowest price yet (re-confirmed 23 November). A sensible bedroom or second-room TV."
+      "note": "£269.99 at Amazon (TechRadar UK Amazon live blog, 27 November), its lowest price. A sensible bedroom or second-room TV."
     },
     {
-      "name": "Amazon Ember 55-inch Omni Mini-LED TV",
+      "name": "LG C6 65-inch OLED TV (OLED65C6, 2026)",
       "retailer": "Amazon",
-      "price": 559.99,
-      "was": 849.99,
-      "url": "https://www.amazon.co.uk/s?k=Amazon+Ember+55+inch+Omni+Mini-LED",
+      "price": 1529.1,
+      "was": 1899,
+      "url": "https://www.amazon.co.uk/s?k=LG+OLED65C6",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "£1,529.10 at Amazon (TechRadar UK Amazon live blog, 27 November), down from £1,699 last week. LG's brighter mid-range OLED with the best gaming features."
+    },
+    {
+      "name": "Amazon Fire TV 55-inch Omni Mini-LED 4K QLED",
+      "retailer": "Amazon",
+      "price": 559,
+      "was": 849,
+      "url": "https://www.amazon.co.uk/s?k=Amazon+Fire+TV+55+inch+Omni+Mini-LED",
       "verdict": "Big drop",
       "verdictLevel": "great",
-      "note": "A Mini LED for under £600, so brighter HDR than a basic 4K set. Still £559.99 at Amazon on 23 November (T3), £290 off."
+      "note": "£559 at Amazon (Tom's Guide UK, 26 November), £290 off. A Mini LED for under £600, so brighter HDR than a basic 4K set."
+    },
+    {
+      "name": "TCL 55-inch C7L 4K SQD Mini-LED TV (2026)",
+      "retailer": "Amazon",
+      "price": 749,
+      "was": 849,
+      "url": "https://www.amazon.co.uk/s?k=TCL+55C7L",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£749 at Amazon (TechRadar UK Amazon live blog, 26–27 November), a record low. A bright Mini LED with 144Hz gaming support."
     },
     {
       "name": "Hisense 65-inch Canvas TV (65S7STUK)",
       "retailer": "Amazon",
-      "price": 1100,
+      "price": 999,
       "was": 1599,
       "url": "https://www.amazon.co.uk/s?k=Hisense+65S7STUK",
       "verdict": "Big drop",
-      "verdictLevel": "good",
-      "note": "£499 off at Amazon (T3, 23 November). A picture-frame style TV with a matte screen that shows art when it's off, so it suits a living room wall rather than a gaming setup."
-    },
-    {
-      "name": "Sony Bravia 5 75-inch Mini LED TV",
-      "retailer": "Amazon",
-      "price": 1369,
-      "was": 1899,
-      "url": "https://www.amazon.co.uk/s?k=Sony+Bravia+5+75+inch",
-      "verdict": "Big drop",
       "verdictLevel": "great",
-      "note": "A huge, bright Mini LED with Sony's good motion handling for sport, £530 off at Amazon. Check the full model code on the listing."
-    },
-    {
-      "name": "LG C6 65-inch OLED TV (2026)",
-      "retailer": "Amazon",
-      "price": 1699,
-      "was": 2199,
-      "url": "https://www.amazon.co.uk/s?k=LG+OLED65C6",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "LG's new mid-range OLED, £500 off at Amazon (reported 18 November). Last year's C5 65-inch hit about £1,279, so the C6 may still have room to fall by Cyber Monday."
+      "note": "£999 at Amazon (TechRadar UK, 26 November), down from £1,100 last week. A picture-frame style TV with a matte screen that shows art when it's off."
     }
   ],
-  "body": "## TV prices to aim for this Black Friday\n\nThese are last year's Black Friday prices (or the lowest recent price) for the TVs people ask about most. A deal at or below these is genuinely good.\n\n- **LG C5 55-inch OLED:** £979 at Richer Sounds on Black Friday 2025. Aim for under £1,000 on any 55-inch C-series OLED.\n- **LG C5 65-inch OLED:** £1,279 last Black Friday. The newer C6 65-inch is £1,699 at Amazon (18 November), so there's still a gap.\n- **LG B6 55-inch OLED:** £974 at Amazon, AO and Very today (16 November), down from £1,199 in October. PriceSpy has seen £799 from one shop in the last three months, and last year's B5 dropped below £900, so it could fall further in Black Friday week.\n- **Samsung S90F 55-inch OLED:** £699 in the last six months, according to Which?. Anything near £999 isn't a deal.\n- **Sony Bravia 8 II 65-inch:** £1,999 last Black Friday, and about £2,199 at most shops today. Aim for £2,000 or less.\n- **TCL C7K 65-inch Mini LED:** £749 last Black Friday. Wait for that.\n- **Hisense U7S 55-inch Mini LED:** £799 at Amazon, AO and Argos (16 November). Buy now.\n- **Amazon Ember 50-inch 4K:** £269.99 at Amazon (18 November), its lowest price yet.\n\n## Which type of TV should you buy?\n\n**OLED (LG, Samsung S90F/S95F, Sony Bravia 8 II):** each pixel makes its own light, so blacks are perfectly black and contrast is the best you can get. Ideal for films and dimmer rooms. LG's B series is the cheapest way in; the C series is brighter and has better gaming features; Samsung's S90F is the main rival to the LG C.\n\n**Mini LED (Hisense U7, TCL C7K, Samsung QN90F):** an LCD with thousands of tiny backlights. Brighter than most OLEDs, which helps in sunny living rooms, and usually cheaper size for size. Blacks aren't quite as deep, and you may see a faint glow around bright objects on a dark background.\n\n**Budget 4K LED (Hisense A6, Samsung U-series, Amazon's own TVs):** fine for everyday TV in a bedroom or kitchen, or for anyone on a tight budget. Don't expect strong HDR or good motion handling for sport.\n\n**What size?** For a 4K TV, most people sit around 2 to 2.5 metres away, which suits a 55- or 65-inch screen. If you're torn, go bigger: almost nobody regrets it.\n\n## Watch out for Black Friday model numbers\n\nThe same TV can be sold under different model codes at different shops, and some TVs appear around Black Friday with codes you won't find elsewhere, which makes them hard to compare. Check the full model code before you buy. For example, the LG B6 55-inch is OLED55B65LA at Currys and OLED55B6ELC at Argos, and the Hisense 55U7STUK is a different TV from the 55U7STUK PRO.\n\nAlso look out for checkout codes. Several of the best prices at Richer Sounds and Sevenoaks only apply when you enter a code at checkout, and some brands offer cashback that you have to claim after you buy.\n\n## When are TVs cheapest?\n\nBlack Friday is usually the best time of year for TV prices, with the biggest drops in the week before and on Cyber Monday. New models launch in spring, and last year's TVs often drop again from around March to May as shops clear stock. If you can wait until then, you may do even better than Black Friday on an outgoing model.\n\n### Should I buy a TV now or wait for Black Friday 2026?\n\nWait for most OLEDs, which are £100 to £300 above last year's Black Friday prices. The exceptions are the LG B6 55-inch, the LG C5 65-inch with Richer Sounds' code, and the Hisense U7S, which are already at or near their lows.\n\n### Is OLED worth the extra money?\n\nFor films and darker rooms, yes. For a very bright room or lots of daytime TV, a good Mini LED like the Hisense U7S can look better and costs less.\n\n### Is last year's model a better deal?\n\nOften. The LG C5 is still a superb TV and is cheaper than the C6, and the picture difference between them is small. Buy last year's model while stock lasts.\n\n### Do I need a soundbar?\n\nMost thin TVs have weak speakers. Even a budget soundbar is a noticeable upgrade, and soundbars are also heavily discounted on Black Friday.\n\nSee all our [Black Friday 2026 guides](/black-friday/), including [PS5](/guides/ps5-black-friday-deals-2026/) and [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/), and [what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/)."
+  "body": "## TV prices to aim for this Black Friday\n\nThese are last year's Black Friday prices (or the lowest recent price) for the TVs people ask about most. A deal at or below these is genuinely good.\n\n- **LG C5 55-inch OLED:** £979 at Richer Sounds on Black Friday 2025. Aim for under £1,000 on any 55-inch C-series OLED.\n- **LG C5 65-inch OLED:** £1,279 last Black Friday. The newer C6 65-inch is £1,529.10 at Amazon on Black Friday (27 November), so the gap is closing.\n- **LG B6 55-inch OLED:** £876 at Amazon (26 November), down from £974 last week and £1,199 in October. That beats last year's B5, which dropped just below £900. PriceSpy has seen £799 from one smaller shop.\n- **Samsung S90F 55-inch OLED:** £699 in the last six months, according to Which?. Anything near £999 isn't a deal.\n- **Sony Bravia 8 II 65-inch:** £1,999 last Black Friday, and about £2,199 at most shops today. Aim for £2,000 or less.\n- **TCL C7K 65-inch Mini LED:** £749 last Black Friday. Wait for that.\n- **TCL C7L 55-inch Mini LED:** £749 at Amazon (27 November), a record low.\n- **Amazon Ember 50-inch 4K:** £269.99 at Amazon (27 November), its lowest price yet.\n\n## Which type of TV should you buy?\n\n**OLED (LG, Samsung S90F/S95F, Sony Bravia 8 II):** each pixel makes its own light, so blacks are perfectly black and contrast is the best you can get. Ideal for films and dimmer rooms. LG's B series is the cheapest way in; the C series is brighter and has better gaming features; Samsung's S90F is the main rival to the LG C.\n\n**Mini LED (Hisense U7, TCL C7K, Samsung QN90F):** an LCD with thousands of tiny backlights. Brighter than most OLEDs, which helps in sunny living rooms, and usually cheaper size for size. Blacks aren't quite as deep, and you may see a faint glow around bright objects on a dark background.\n\n**Budget 4K LED (Hisense A6, Samsung U-series, Amazon's own TVs):** fine for everyday TV in a bedroom or kitchen, or for anyone on a tight budget. Don't expect strong HDR or good motion handling for sport.\n\n**What size?** For a 4K TV, most people sit around 2 to 2.5 metres away, which suits a 55- or 65-inch screen. If you're torn, go bigger: almost nobody regrets it.\n\n## Watch out for Black Friday model numbers\n\nThe same TV can be sold under different model codes at different shops, and some TVs appear around Black Friday with codes you won't find elsewhere, which makes them hard to compare. Check the full model code before you buy. For example, the LG B6 55-inch is OLED55B65LA at Currys and OLED55B6ELC at Argos, and the Hisense 55U7STUK is a different TV from the 55U7STUK PRO.\n\nAlso look out for checkout codes. Several of the best prices at Richer Sounds and Sevenoaks only apply when you enter a code at checkout, and some brands offer cashback that you have to claim after you buy.\n\n## When are TVs cheapest?\n\nBlack Friday is usually the best time of year for TV prices, with the biggest drops in the week before and on Cyber Monday. New models launch in spring, and last year's TVs often drop again from around March to May as shops clear stock. If you can wait until then, you may do even better than Black Friday on an outgoing model.\n\n### Should I buy a TV now or wait for Cyber Monday?\n\nBuy now if the TV is at or below the targets above: the LG B6 55-inch, LG C6 65-inch, Ember 50-inch and TCL C7L are all at their lowest prices, and Cyber Monday prices are usually the same or slightly worse. Only wait if your TV is still well above last year's Black Friday price.\n\n### Is OLED worth the extra money?\n\nFor films and darker rooms, yes. For a very bright room or lots of daytime TV, a good Mini LED like the TCL C7L can look better and costs less.\n\n### Is last year's model a better deal?\n\nOften. The LG C5 is still a superb TV and is cheaper than the C6, and the picture difference between them is small. Buy last year's model while stock lasts.\n\n### Do I need a soundbar?\n\nMost thin TVs have weak speakers. Even a budget soundbar is a noticeable upgrade, and soundbars are also heavily discounted on Black Friday.\n\nSee all our [Black Friday 2026 guides](/black-friday/), including [PS5](/guides/ps5-black-friday-deals-2026/) and [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/), and [what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/)."
 }

@@ -1,7 +1,7 @@
 {
   "type": "guide",
   "date": "2026-10-22",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "slug": "ps5-black-friday-deals-2026",
   "title": "PS5 Black Friday deals 2026 UK: the best console prices now",
   "seoTitle": "PS5 Black Friday Deals 2026 UK: Stock, PS5 Pro & Controllers",
@@ -9,93 +9,117 @@
   "tags": [
     "black-friday"
   ],
-  "intro": "**Short answer: there's still no real PS5 console discount this Black Friday, because stock has run short at most UK shops since GTA VI launched on 19 November.** The best console buys right now are Very's **PS5 Digital + GTA VI + DualSense Edge bundle at £699** and EE's **PS5 Slim Disc with a second DualSense and a £100 EE Game Card at £689.98**. Don't pay resellers: on Amazon the new PS5 Pro has been sold only by marketplace sellers, from about £1,299.\n\nControllers, headsets and games are the real deals: the DualSense Edge is **£149 at Amazon**, the Turtle Beach Atlas 200 headset is £34.99 and the SteelSeries Arctis Nova 7 Gen 2 £108, and Saros is £29.99 and Marvel's Wolverine £39 (all Amazon). A £70 PlayStation Store code is £60.85 at ShopTo. Black Friday is tomorrow, 27 November, and Amazon's Black Friday Week runs to 30 November. Prices last checked on Thursday 26 November 2026 at 10am. For other gaming and tech deals, see our [Black Friday 2026 live deals page](/guides/black-friday-2026-live-deals-uk/).",
+  "intro": "**Short answer: there's still no real PS5 console discount this Black Friday, because consoles and bundles are sold out at most UK shops since GTA VI launched on 19 November.** The console offers still in stock are Very's **PS5 Digital + GTA VI + DualSense Edge + Pulse headset bundle at £716** (delivery from 18 December) and EE's **PS5 Disc with 24 months of PS Plus at £794.99**. Don't pay resellers: the PS5 Pro is hard to find under £1,000.\n\nControllers, headsets and games are the real deals: the DualSense is **£42.99 at Amazon**, the DualSense Edge £149.99 and the Pulse Explore earbuds £119.99 (both Amazon), the Pulse Elite headset is £89.99 at PlayStation Direct, and Clair Obscur: Expedition 33 is £26 at Amazon. A £70 PlayStation Store code is £60.85 at ShopTo. It's Black Friday today, and Amazon's Black Friday Week runs to Cyber Monday, 30 November. Prices last checked on Friday 27 November 2026 at 10am. For other gaming and tech deals, see our [Black Friday 2026 live deals page](/guides/black-friday-2026-live-deals-uk/).",
   "deals": [
     {
-      "name": "PS5 Digital Edition + GTA VI + DualSense Edge bundle",
+      "name": "PS5 Digital Edition + GTA VI + DualSense Edge + Pulse wireless headset bundle",
       "retailer": "Very",
-      "price": 699,
-      "was": 777,
+      "price": 716,
+      "was": 733,
       "url": "https://www.very.co.uk/search/ps5%20bundle",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "amazonCompare": false,
-      "note": "£699 at Very, £78 under its listed £777 (GamesRadar's PS5 live page, updated 26 November). Not a big discount, but a console bundle from a big retailer at close to Sony's price."
+      "note": "£716 at Very (TechRadar UK PS5 page and T3, 27 November), delivery from 18 December. A complete GTA VI starter kit; buy only if you wanted the Edge and a headset anyway.",
+      "amazonCompare": false
     },
     {
-      "name": "PS5 Slim Disc Edition + extra DualSense + £100 EE Game Card",
+      "name": "PS5 Disc Edition + DualSense + 24 months PS Plus",
       "retailer": "EE",
-      "price": 689.98,
-      "was": 734.98,
+      "price": 794.99,
       "url": "https://shop.ee.co.uk/",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "amazonCompare": false,
-      "note": "£689.98 at EE (TechRadar UK, updated 26 November): the disc console with a second controller and £100 of game credit. A fair deal while standalone consoles are scarce."
+      "note": "£794.99 at EE (TechRadar UK PS5 page, 27 November). No real discount, but two years of PS Plus Essential and a disc console in stock while most shops are sold out.",
+      "amazonCompare": false
+    },
+    {
+      "name": "PlayStation Portal + Assassin's Creed Black Flag Resynced bundle",
+      "retailer": "Very",
+      "price": 254.99,
+      "url": "https://www.very.co.uk/search/playstation%20portal",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£254.99 at Very (TechRadar UK PS5 page, 27 November 09:04). The remote-play handheld with a game included, for playing PS5 games around the house."
+    },
+    {
+      "name": "Sony DualSense Wireless Controller",
+      "retailer": "Amazon",
+      "price": 42.99,
+      "was": 64.99,
+      "url": "https://www.amazon.co.uk/s?k=PS5+DualSense+wireless+controller",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£42.99 at Amazon (TechRadar UK Amazon live blog, 27 November), about £22 off. Midnight Black and several other colours at this price."
     },
     {
       "name": "Sony DualSense Edge Wireless Controller",
       "retailer": "Amazon",
-      "price": 149,
+      "price": 149.99,
       "was": 199.99,
       "url": "https://www.amazon.co.uk/s?k=DualSense+Edge",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£149 at Amazon (GamesRadar, updated 26 November); TechRadar UK had it at £149.99 this morning, its second-lowest price this year. Swappable sticks and back paddles."
+      "note": "£149.99 at Amazon (TechRadar UK and GamesRadar, 26 November). Swappable sticks and back paddles."
     },
     {
-      "name": "Turtle Beach Atlas 200 Wired Gaming Headset",
+      "name": "PlayStation Pulse Explore Wireless Earbuds",
       "retailer": "Amazon",
-      "price": 34.99,
-      "url": "https://www.amazon.co.uk/s?k=Turtle+Beach+Atlas+200",
+      "price": 119.99,
+      "was": 154.99,
+      "url": "https://www.amazon.co.uk/s?k=PlayStation+Pulse+Explore",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£34.99 at Amazon this morning (GamesRadar, 26 November). A cheap, comfortable wired headset that plugs into the DualSense."
+      "note": "£119.99 at Amazon (TechRadar UK PS5 page, 26 November). Sony's own lossless wireless earbuds for PS5 and Portal."
     },
     {
-      "name": "SteelSeries Arctis Nova 7 Gen 2 Wireless Headset (Magenta)",
-      "retailer": "Amazon",
-      "price": 108,
-      "url": "https://www.amazon.co.uk/s?k=SteelSeries+Arctis+Nova+7+Gen+2",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£108 at Amazon in Magenta, with the black version about £129 (GamesRadar, 25 November). A comfortable wireless headset that works with PS5, PC and phone at the same time."
+      "name": "PlayStation Pulse Elite Wireless Headset",
+      "retailer": "PlayStation Direct",
+      "price": 89.99,
+      "was": 129.99,
+      "url": "https://direct.playstation.com/en-gb/",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£89.99 at PlayStation Direct (TechRadar UK, 26 November; Tom's Guide UK also lists £89). £40 off Sony's own wireless headset."
     },
     {
-      "name": "Fractal Design Scape Wireless Headset",
+      "name": "GTA VI (PS5)",
       "retailer": "Amazon",
-      "price": 139,
-      "url": "https://www.amazon.co.uk/s?k=Fractal+Design+Scape",
+      "price": 64.95,
+      "was": 69.99,
+      "url": "https://www.amazon.co.uk/s?k=GTA+6+PS5",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£139 at Amazon (GamesRadar, updated 26 November). A premium wireless headset with a charging stand, for PS5 and PC."
+      "note": "£64.95 at Amazon (TechRadar UK PS5 page, 27 November). ShopTo's code-in-box version is £61.85 (GamesRadar, 26 November), so Amazon is within about £3."
+    },
+    {
+      "name": "Clair Obscur: Expedition 33 (PS5)",
+      "retailer": "Amazon",
+      "price": 26,
+      "was": 49.99,
+      "url": "https://www.amazon.co.uk/s?k=Clair+Obscur+Expedition+33+PS5",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£26 at Amazon (TechRadar UK, 27 November 09:33; GamesRadar, 26 November). One of the best-reviewed RPGs of recent years at about half price."
+    },
+    {
+      "name": "Marvel's Wolverine (PS5)",
+      "retailer": "Amazon",
+      "price": 39.99,
+      "was": 69.99,
+      "url": "https://www.amazon.co.uk/s?k=Marvel's+Wolverine+PS5",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£39.99 at Amazon (GamesRadar, 26 November late evening). Insomniac's big PS5 exclusive for this year."
     },
     {
       "name": "Saros (PS5)",
       "retailer": "Amazon",
       "price": 29.99,
+      "was": 49.99,
       "url": "https://www.amazon.co.uk/s?k=Saros+PS5",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£29.99 at Amazon (GamesRadar, updated 26 November). Housemarque's sci-fi shooter from the makers of Returnal, at well under half its launch price."
-    },
-    {
-      "name": "Marvel's Wolverine (PS5)",
-      "retailer": "Amazon",
-      "price": 39,
-      "url": "https://www.amazon.co.uk/s?k=Marvel%27s+Wolverine+PS5",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£39 at Amazon (GamesRadar, updated 26 November). Insomniac's big PS5 exclusive for this year."
-    },
-    {
-      "name": "Star Wars Zero Company (PS5)",
-      "retailer": "Amazon",
-      "price": 34.99,
-      "url": "https://www.amazon.co.uk/s?k=Star+Wars+Zero+Company+PS5",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£34.99 at Amazon UK (GamesRadar, 25 November). A turn-based Star Wars tactics game."
+      "note": "£29.99 at Amazon (GamesRadar, 26 November late evening). Housemarque's sci-fi shooter from the makers of Returnal."
     },
     {
       "name": "PlayStation Store £70 credit (digital code)",
@@ -103,11 +127,11 @@
       "price": 60.85,
       "was": 70,
       "url": "https://www.shopto.net/en/search/?search=playstation+store+70",
-      "amazonCompare": false,
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£60.85 at ShopTo (GamesRadar's PS5 page, updated 26 November), so about 13% off anything on the PlayStation Store, including PS Plus and GTA VI add-ons."
+      "note": "£60.85 at ShopTo (TechRadar UK, 27 November 07:25), about 13% off anything on the PlayStation Store, including PS Plus and GTA VI add-ons.",
+      "amazonCompare": false
     }
   ],
-  "body": "## PS5 prices to aim for this Black Friday\n\nPS5 prices went up in April 2026: the Digital Edition from £429.99 to £519.99, the disc model from £479.99 to £569.99 and the PS5 Pro from £699.99 to £789.99. That makes last year's deals a less direct guide, but they show how far Sony is willing to go.\n\n- **Black Friday 2025:** Sony's own promotion cut the Digital Edition to £294.99, the disc model to £389.99 and the PS5 Pro to £609.99, and most big retailers matched it. Argos went further on the Pro, selling it for £569.99.\n- **Lowest prices in the last six months (Which?):** about £375 for the Digital Edition, £442 for the disc model and £570 for the Pro.\n- **Our targets for 2026:** under £400 for the Digital Edition, under £450 for the disc model and under £650 for the PS5 Pro. Any of those is a good deal at the new prices.\n\n## Which PS5 should you buy?\n\n**PS5 Digital Edition:** the cheapest way in. Games are bought as downloads from the PlayStation Store, which means no second-hand games. You can add Sony's disc drive later if you change your mind, but it costs extra.\n\n**PS5 with disc drive:** worth the extra if you buy games on disc, trade them in or borrow them, or want to play 4K Blu-rays. Over a few years, cheaper second-hand games can cover the price difference.\n\n**PS5 Pro:** sharper picture and smoother frame rates on a good 4K TV. It doesn't come with a disc drive. Only worth the big premium if you play a lot and have a TV that shows the difference.\n\n**Certified Refurbished:** sold by Sony with a warranty, and £90 to £120 less than new. A sensible choice if you need a console before Black Friday.\n\n## Will the PS5 be cheaper on Black Friday 2026?\n\nUpdate, 26 November: probably not this year. Grand Theft Auto VI came out on 19 November and sold in huge numbers, and many people bought a PS5 to play it. Since then the standard consoles have sold out at Currys and John Lewis, and the GTA VI bundles we listed last week from EE, Very and O2 are no longer things we can confirm at those prices, so we've taken them off. Resellers have pushed prices up sharply: What Hi-Fi saw the PS5 Digital at up to £899 and the PS5 Pro at £1,475 from third-party sellers.\n\nWhat to do: buy only from a big retailer at or near Sony's prices (£519.99 Digital, £569.99 disc, £789.99 Pro), set stock alerts at Argos and Amazon, and accept a bundle with a second controller if that's all that's in stock. Sony may still run its own Black Friday promotion on games, PS Plus and accessories, which doesn't depend on console stock. Very's PS5 Digital + GTA VI + DualSense Edge bundle at £699 and EE's PS5 Slim Disc bundle at £689.98 are the most sensible console offers we've found from big retailers (GamesRadar and TechRadar UK, 26 November). Accessories are the genuine PS5 deals this week: the DualSense Edge is £149 at Amazon, and headsets and this year's big games are cut too (prices checked 26 November). [Check Amazon's DualSense prices](https://www.amazon.co.uk/s?k=DualSense+wireless+controller).\n\n### Why is the PS5 out of stock in the UK?\n\nDemand jumped when GTA VI launched on 19 November, just before Black Friday. Currys and John Lewis have sold out of the standard consoles, and Argos and Amazon have mostly bundles left.\n\n### Is it worth buying a PS5 now or waiting for Black Friday?\n\nIf you find a PS5 in stock at a big retailer at Sony's normal price, buy it: with stock this short, waiting for a discount is more likely to leave you without one. Never pay a reseller hundreds over the normal price; stock usually recovers after the Christmas rush.\n\n### When do PS5 Black Friday deals start?\n\nBundle deals started in mid-November, but most sold out after GTA VI's launch on 19 November. Last year Sony's promotion ran from 21 November to Cyber Monday; this year, with consoles scarce, expect any savings to be on games, PS Plus and accessories rather than the consoles.\n\n### Should I buy a PS5 Digital Edition or the disc version?\n\nDigital if you're happy buying all your games online. Disc if you like second-hand games or lending games to friends, as the savings on games add up.\n\n### Is a refurbished PS5 worth it?\n\nSony's Certified Refurbished consoles are checked and come with a warranty, so they're a safe buy. The Digital Edition was £429.99 when we checked on 22 October; we couldn't confirm today's price, and it may have gone up. With new consoles scarce this year, refurbished is worth a look.\n\nSee also our [Black Friday 2026 guides](/black-friday/), including [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [Lego](/guides/lego-black-friday-deals-2026/), and [what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/)."
+  "body": "## PS5 prices to aim for this Black Friday\n\nPS5 prices went up in April 2026: the Digital Edition from £429.99 to £519.99, the disc model from £479.99 to £569.99 and the PS5 Pro from £699.99 to £789.99. That makes last year's deals a less direct guide, but they show how far Sony is willing to go.\n\n- **Black Friday 2025:** Sony's own promotion cut the Digital Edition to £294.99, the disc model to £389.99 and the PS5 Pro to £609.99, and most big retailers matched it. Argos went further on the Pro, selling it for £569.99.\n- **Lowest prices in the last six months (Which?):** about £375 for the Digital Edition, £442 for the disc model and £570 for the Pro.\n- **Our targets for 2026:** under £400 for the Digital Edition, under £450 for the disc model and under £650 for the PS5 Pro. Any of those is a good deal at the new prices.\n\n## Which PS5 should you buy?\n\n**PS5 Digital Edition:** the cheapest way in. Games are bought as downloads from the PlayStation Store, which means no second-hand games. You can add Sony's disc drive later if you change your mind, but it costs extra.\n\n**PS5 with disc drive:** worth the extra if you buy games on disc, trade them in or borrow them, or want to play 4K Blu-rays. Over a few years, cheaper second-hand games can cover the price difference.\n\n**PS5 Pro:** sharper picture and smoother frame rates on a good 4K TV. It doesn't come with a disc drive. Only worth the big premium if you play a lot and have a TV that shows the difference.\n\n**Certified Refurbished:** sold by Sony with a warranty, and £90 to £120 less than new. A sensible choice while new consoles are scarce.\n\n## Will the PS5 be cheaper on Black Friday 2026?\n\nUpdate, 27 November (Black Friday): no. Grand Theft Auto VI came out on 19 November and sold in huge numbers, and many people bought a PS5 to play it. TechRadar UK says consoles and bundles are now sold out at most UK retailers, T3 calls the PS5 Pro 'just about impossible to find for under £1,000', and resellers have pushed prices up sharply.\n\nWhat to do: buy only from a big retailer at or near Sony's prices (£519.99 Digital, £569.99 disc, £789.99 Pro), set stock alerts at Argos and Amazon, and accept a bundle if that's all that's in stock. Very's Digital + GTA VI + Edge + Pulse bundle at £716 and EE's disc console with 24 months of PS Plus at £794.99 are the console offers we could confirm today. Accessories and games are the genuine PS5 deals: the DualSense is £42.99 at Amazon, the Pulse Elite headset £89.99 at PlayStation Direct and this year's big games are cut too (prices checked 27 November). [Check Amazon's DualSense prices](https://www.amazon.co.uk/s?k=DualSense+wireless+controller).\n\n### Why is the PS5 out of stock in the UK?\n\nDemand jumped when GTA VI launched on 19 November, just before Black Friday. Currys and John Lewis have sold out of the standard consoles, and Argos and Amazon have mostly bundles left.\n\n### Is it worth buying a PS5 now or waiting for Cyber Monday?\n\nIf you find a PS5 in stock at a big retailer at Sony's normal price, buy it: with stock this short, waiting for Cyber Monday is more likely to leave you without one. Never pay a reseller hundreds over the normal price; stock usually recovers after the Christmas rush.\n\n### When do PS5 Black Friday deals start?\n\nThey're live now and run to Cyber Monday, 30 November. Bundle deals started in mid-November, but most sold out after GTA VI's launch on 19 November, so this year the savings are on games, controllers, headsets and PlayStation Store credit rather than consoles.\n\n### Should I buy a PS5 Digital Edition or the disc version?\n\nDigital if you're happy buying all your games online. Disc if you like second-hand games or lending games to friends, as the savings on games add up.\n\n### Is a refurbished PS5 worth it?\n\nSony's Certified Refurbished consoles are checked and come with a warranty, so they're a safe buy. The Digital Edition was £429.99 when we checked on 22 October; we couldn't confirm today's price, and it may have gone up. With new consoles scarce this year, refurbished is worth a look.\n\nSee also our [Black Friday 2026 guides](/black-friday/), including [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [Lego](/guides/lego-black-friday-deals-2026/), and [what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/)."
 }
