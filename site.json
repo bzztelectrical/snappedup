@@ -60,21 +60,24 @@
       "label": "Amazon",
       "text": "Amazon Black Friday is live",
       "cta": "See today's Amazon deals",
-      "url": "https://www.amazon.co.uk/blackfriday"
+      "url": "https://www.amazon.co.uk/blackfriday",
+      "browseCta": "Browse every Amazon Black Friday deal"
     },
     {
       "until": "2026-12-24",
       "label": "Amazon",
       "text": "Amazon Christmas deals",
       "cta": "See today's Amazon deals",
-      "url": "https://www.amazon.co.uk/deals"
+      "url": "https://www.amazon.co.uk/deals",
+      "browseCta": "Browse every Amazon Christmas deal"
     },
     {
       "until": "2099-12-31",
       "label": "Amazon",
       "text": "Amazon's deals of the day",
       "cta": "See today's Amazon deals",
-      "url": "https://www.amazon.co.uk/deals"
+      "url": "https://www.amazon.co.uk/deals",
+      "browseCta": "Browse all of Amazon's deals of the day"
     }
   ],
   "edifierBubble": {

@@ -243,3 +243,12 @@ nav a { white-space: nowrap; }
 .deal-img { display: block; margin: -18px -18px 6px; padding: 14px; background: #fff; border-bottom: 1px solid var(--line); border-radius: var(--radius) var(--radius) 0 0; text-align: center; }
 .deal-img img { display: block; width: 100%; height: 190px; object-fit: contain; margin: 0 auto; }
 @media (max-width: 640px) { .deal-img img { height: 170px; } }
+
+/* Browse-all Amazon deals button under the header (27 Nov) */
+.browse-bar { background: var(--paper); padding: 12px 0 0; }
+.browse-btn { display: flex; align-items: center; gap: 12px; padding: 14px 18px; border-radius: var(--radius); background: #ff9900; color: #111 !important; font-weight: 800; font-size: 1.05rem; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.12); }
+.browse-btn:hover { filter: brightness(0.96); }
+.browse-ad { font-size: 0.7rem; font-weight: 700; border: 1.5px solid #111; border-radius: 4px; padding: 1px 5px; letter-spacing: 0.04em; }
+.browse-txt { flex: 1; }
+.browse-go { font-size: 1.3rem; }
+@media (max-width: 640px) { .browse-btn { font-size: 0.98rem; padding: 13px 14px; } }

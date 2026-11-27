@@ -237,6 +237,10 @@ const deals = (list = []) => (list.length ? `<div class="deals" id="deals">${lis
 
 // Sitewide Amazon bar: filled in once posts are loaded (see "sitewide Amazon ticker" below).
 let topBanner = "";
+// Big "browse all Amazon deals" button under the header on every page (user, 27 Nov). One honest, clearly
+// labelled click to Amazon's own deals page: a real click credits us for what they buy in the next 24 hours.
+// NEVER open Amazon without a click (pop-unders, hidden frames, auto-redirects = cookie stuffing, banned).
+let browseBar = "";
 // Cache-buster: changes whenever style.css changes, so browsers never pair new HTML with an old stylesheet.
 const cssVersion = crypto.createHash("md5").update(fs.readFileSync(path.join(ROOT, "static/style.css"))).digest("hex").slice(0, 8);
 
@@ -325,6 +329,7 @@ ${(site.hubs || []).filter((h) => h.nav && (!h.navUntil || h.navUntil >= todayUK
     </nav>
   </div>
 </header>
+${NO_SIGNUP.includes(pathname) ? "" : browseBar}
 <main class="wrap">
 ${body}
 ${NO_SIGNUP.includes(pathname) ? "" : signupBox("foot")}
@@ -375,6 +380,11 @@ for (const p of posts) {
 // Ticker items: Amazon picks from posts updated today or yesterday only (never stale prices).
 const todayUK = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/London" });
 const yesterdayUK = new Date(Date.now() - 864e5).toLocaleDateString("en-CA", { timeZone: "Europe/London" });
+browseBar = (() => {
+  const b = (site.topBanners || []).find((x) => x.until >= todayUK);
+  if (!b || !b.browseCta) return "";
+  return `<div class="browse-bar"><div class="wrap"><a class="browse-btn" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank"><span class="browse-ad">Ad</span><span class="browse-txt">${esc(b.browseCta)}</span><span class="browse-go" aria-hidden="true">→</span></a></div></div>`;
+})();
 topBanner = (() => {
   const b = (site.topBanners || []).find((x) => x.until >= todayUK);
   if (!b) return "";
