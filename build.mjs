@@ -383,7 +383,16 @@ const yesterdayUK = new Date(Date.now() - 864e5).toLocaleDateString("en-CA", { t
 browseBar = (() => {
   const b = (site.topBanners || []).find((x) => x.until >= todayUK);
   if (!b || !b.browseCta) return "";
-  return `<div class="browse-bar"><div class="wrap"><a class="browse-btn" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank"><span class="browse-ad">Ad</span><span class="browse-txt">${esc(b.browseCta)}</span><span class="browse-go" aria-hidden="true">→</span></a></div></div>`;
+  const ends = b.endsAt ? ` data-end="${esc(b.endsAt)}"` : "";
+  return `<div class="browse-bar"><div class="wrap"><a class="browse-btn" href="${esc(affiliate(b.url))}" rel="sponsored nofollow noopener" target="_blank">
+  <span class="browse-ad">Ad</span>
+  <span class="browse-main"><strong class="browse-title">${esc(b.browseTitle || b.browseCta)}</strong><span class="browse-sub"${ends}>${esc(b.browseSub || "")}</span></span>
+  <span class="browse-cta"><span class="bc-long">${esc(b.browseCta)}</span><span class="bc-short">Shop now</span><span aria-hidden="true"> →</span></span>
+</a></div></div>
+<script>(()=>{const s=document.querySelector(".browse-sub[data-end]");const h=document.querySelector(".site-head");const r=document.documentElement;
+const fh=()=>{if(h)r.style.setProperty("--hd-h",h.offsetHeight+"px")};fh();if(window.ResizeObserver&&h)new ResizeObserver(fh).observe(h);
+if(!s)return;const end=new Date(s.dataset.end).getTime();const t=()=>{const ms=end-Date.now();if(ms<=0){s.textContent="Last chance today";return}
+const d=Math.floor(ms/864e5),hh=Math.floor(ms%864e5/36e5),m=Math.floor(ms%36e5/6e4);s.textContent=(innerWidth<761?"Ends in ":"Ends Cyber Monday · ")+(d?d+"d ":"")+hh+"h "+m+"m"+(innerWidth<761?"":" left")};t();setInterval(t,30000);})();</script>`;
 })();
 topBanner = (() => {
   const b = (site.topBanners || []).find((x) => x.until >= todayUK);

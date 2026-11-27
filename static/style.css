@@ -244,11 +244,25 @@ nav a { white-space: nowrap; }
 .deal-img img { display: block; width: 100%; height: 190px; object-fit: contain; margin: 0 auto; }
 @media (max-width: 640px) { .deal-img img { height: 170px; } }
 
-/* Browse-all Amazon deals button under the header (27 Nov) */
-.browse-bar { background: var(--paper); padding: 12px 0 0; }
-.browse-btn { display: flex; align-items: center; gap: 12px; padding: 14px 18px; border-radius: var(--radius); background: #ff9900; color: #111 !important; font-weight: 800; font-size: 1.05rem; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.12); }
-.browse-btn:hover { filter: brightness(0.96); }
-.browse-ad { font-size: 0.7rem; font-weight: 700; border: 1.5px solid #111; border-radius: 4px; padding: 1px 5px; letter-spacing: 0.04em; }
-.browse-txt { flex: 1; }
-.browse-go { font-size: 1.3rem; }
-@media (max-width: 640px) { .browse-btn { font-size: 0.98rem; padding: 13px 14px; } }
+/* Browse-all Amazon deals bar: pinned under the header on every page (27 Nov, user: "make it stay at the top") */
+.browse-bar { position: sticky; top: calc(var(--tb-h, 0px) + var(--hd-h, 0px)); z-index: 4; background: var(--paper); padding: 10px 0; border-bottom: 1px solid var(--line); }
+.browse-btn { display: flex; align-items: center; gap: 14px; padding: 10px 10px 10px 16px; border-radius: 14px; background: linear-gradient(90deg, #131921 0%, #232f3e 100%); color: #fff !important; text-decoration: none; box-shadow: 0 3px 12px rgba(0,0,0,0.18); border: 2px solid #ff9900; }
+.browse-btn:hover .browse-cta { filter: brightness(1.06); }
+.browse-ad { flex: 0 0 auto; font-size: 0.68rem; font-weight: 700; color: #ffd27a; border: 1.5px solid #ffd27a; border-radius: 4px; padding: 1px 5px; letter-spacing: 0.04em; }
+.browse-main { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
+.browse-title { font-size: 1.08rem; font-weight: 800; color: #fff; }
+.browse-sub { font-size: 0.85rem; color: #ffb84d; font-weight: 600; font-variant-numeric: tabular-nums; }
+.bc-short { display: none; }
+.browse-cta { flex: 0 0 auto; background: #ff9900; color: #111; font-weight: 800; font-size: 1rem; padding: 11px 18px; border-radius: 999px; white-space: nowrap; animation: browse-pulse 2.4s ease-in-out infinite; }
+@keyframes browse-pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(255,153,0,0.55); } 50% { box-shadow: 0 0 0 7px rgba(255,153,0,0); } }
+@media (prefers-reduced-motion: reduce) { .browse-cta { animation: none; } }
+@media (max-width: 760px) {
+  .browse-bar { top: var(--tb-h, 0px); padding: 8px 0; } /* phones: header scrolls away, Amazon bar + this stay */
+  .browse-btn { gap: 10px; padding: 8px 8px 8px 12px; }
+  .browse-title { font-size: 0.98rem; }
+  .browse-sub { font-size: 0.78rem; }
+  .browse-cta { font-size: 0.92rem; padding: 10px 14px; }
+  .bc-long { display: none; } .bc-short { display: inline; }
+  .browse-title { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+}
+@media (max-width: 380px) { .browse-ad { display: none; } .browse-title::before { content: "Ad · "; font-weight: 600; color: #ffd27a; font-size: 0.8rem; } }
