@@ -71,3 +71,8 @@
 - TikTok: user will switch to a Business account today. Once done: bio link = https://snappedupdeals.co.uk/tt, and every new TikTok caption says "link in bio" instead of "type the address".
 - 25 Nov numbers: ~36 clicks, 13 ordered, +£19.38 (best day, BF basket size + dispatch of earlier orders). Visits 114/24h, ~32% click through. /ig sent 6 visits from 2 posts.
 - 26 Nov 12:21: TikTok won't accept a link (account already Business). No clickable link on TikTok or Instagram (IG unlocks 19 Dec). Only clickable channels: Pinterest (5/day, user's choice) and Google. TikTok/IG must work through the typed short addresses /tt and /ig.
+
+## 27 Nov: email list live (Kit)
+- User created a Kit account (on a 14-day trial, then the free plan, up to 10,000 subscribers). Never upgrade without the user.
+- Form "Snapped Up daily deals (site)", ID 10250018, plain HTML POST from our sign-up box (guides + /start). Double opt-in ON. Sign-up → /thanks/ (check inbox), confirm → /confirmed/ (today's deals). Both noindex.
+- Before the first email: the user must choose the postal address for the email footer (Kit/anti-spam rule) and the sender should be hello@snappedupdeals.co.uk. Every send needs the user's OK. Emails link only to our site, never to Amazon.

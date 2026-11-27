@@ -174,7 +174,7 @@
     }
   ],
   "email": {
-    "kitFormId": "",
-    "note": "Kit (kit.com) free plan. Set kitFormId to the numeric form ID to switch the sign-up box on. Double opt-in must stay ON in Kit."
+    "kitFormId": "10250018",
+    "note": "Kit (kit.com) form 'Snapped Up daily deals (site)', ID 10250018. Double opt-in ON. After sign-up Kit redirects to /thanks/, after confirming to /confirmed/. Free plan after the 14-day trial; never upgrade without the user."
   }
 }

@@ -518,6 +518,17 @@ ${disclosureNote}`;
   // Pinterest from WhatsApp. Each channel gets its own short address; Web Analytics' Path view is then the attribution.
   // /tt = TikTok, /ig = Instagram, /pin = Pinterest, /fb = Facebook. Same page, canonical /start/, noindex.
   for (const ch of ["tt", "ig", "pin", "fb"]) write(path.join(ch, "index.html"), html);
+  // Email sign-up journey (Kit redirects here). noindex, not in the sitemap.
+  const noindex = (h) => h.replace('<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">', '<meta name="robots" content="noindex, follow">');
+  const confirmedBody = `<section class="page-head"><h1>You're in</h1><p>Thanks for confirming. Your first deals email arrives soon. Here's what's worth buying today.</p>
+<p class="start-links">${links.map(([t, u]) => `<a class="btn start-btn" href="${u}">${esc(t)} →</a>`).join(" ")}</p></section>
+${deals(top)}
+${disclosureNote}`;
+  write(path.join("confirmed", "index.html"), noindex(layout({ title: "You're subscribed", description: "You're on the Snapped Up deals email list.", pathname: "/confirmed/", body: confirmedBody })));
+  const thanksBody = `<section class="page-head"><h1>Nearly there: check your inbox</h1>
+<p>We've sent you a confirmation email. <strong>Open it and tap the confirm button</strong>, or you won't get the deals. It can take a minute, and it may land in Promotions or Spam.</p>
+<p><a class="btn start-btn" href="/start/">See today's best deals →</a></p></section>`;
+  write(path.join("thanks", "index.html"), noindex(layout({ title: "Check your inbox", description: "Confirm your Snapped Up deals email.", pathname: "/thanks/", body: thanksBody })));
 }
 
 // 404
