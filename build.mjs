@@ -144,10 +144,25 @@ const pickIcon = (text = "") => {
 };
 const iconSvg = (k, size = 44) => `<svg class="ico" viewBox="0 0 24 24" width="${size}" height="${size}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[k] || ICON.tag}</svg>`;
 
+
+// Amazon product photos (27 Nov): Amazon deal cards carry data-asin or data-q; a small script asks /api/amz
+// (Pages Function using the Creators API) for the official image + product link and adds them to the card.
+function amzAttr(d) {
+  const u = String(d.url || "");
+  if (!/amazon\.co\.uk/.test(u) && !/^amazon$/i.test(d.retailer || "")) return "";
+  const m = u.match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})/i);
+  if (m) return ` data-asin="${esc(m[1].toUpperCase())}"`;
+  let q = "";
+  try { q = new URL(u).searchParams.get("k") || ""; } catch {}
+  if (!q) q = String(d.name || "").replace(/\([^)]*\)/g, " ");
+  q = q.replace(/[+]/g, " ").replace(/\s+/g, " ").trim();
+  return q ? ` data-q="${esc(q)}"` : "";
+}
+
 function dealCard(d) {
   const off = d.was && d.price && Number(d.was) > Number(d.price) ? Math.round((1 - d.price / d.was) * 100) : null;
   const href = affiliate(d.url);
-  return `<article class="deal">
+  return `<article class="deal"${amzAttr(d)}>
   <div class="deal-top">
     <span class="retailer">${esc(d.retailer || "")}</span>
     ${d.verdict ? `<span class="verdict v-${esc((d.verdictLevel || "good").toLowerCase())}">${esc(d.verdict)}</span>` : ""}
@@ -323,6 +338,13 @@ ${NO_SIGNUP.includes(pathname) ? "" : signupBox("foot")}
   </div>
 </footer>
 ${partnerBubble}
+<script>
+(function(){var cards=[].slice.call(document.querySelectorAll('.deal[data-asin],.deal[data-q]'));if(!cards.length||!window.fetch)return;
+function load(c){var a=c.getAttribute('data-asin'),q=c.getAttribute('data-q');fetch('/api/amz?'+(a?'asin='+encodeURIComponent(a):'q='+encodeURIComponent(q))).then(function(r){return r.json()}).then(function(j){if(!j||!j.ok||!j.img)return;
+var l=document.createElement('a');l.className='deal-img';l.href=j.url;l.rel='sponsored nofollow noopener';l.target='_blank';var i=document.createElement('img');i.src=j.img;i.alt=j.title||'';i.loading='lazy';i.decoding='async';l.appendChild(i);c.insertBefore(l,c.firstChild);c.classList.add('has-img');
+var b=c.querySelector('.deal-bottom .btn');if(b)b.href=j.url;}).catch(function(){});}
+if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){io.unobserve(e.target);load(e.target);}})},{rootMargin:'400px'});cards.forEach(function(c){io.observe(c)});}else cards.forEach(load);})();
+</script>
 </body>
 </html>`;
 }
