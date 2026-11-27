@@ -147,9 +147,7 @@ const iconSvg = (k, size = 44) => `<svg class="ico" viewBox="0 0 24 24" width="$
 function dealCard(d) {
   const off = d.was && d.price && Number(d.was) > Number(d.price) ? Math.round((1 - d.price / d.was) * 100) : null;
   const href = affiliate(d.url);
-  const pic = pickIcon(`${d.name} ${d.category || ""}`);
   return `<article class="deal">
-  <div class="deal-pic" style="background:${pic.bg}">${iconSvg(pic.k, 52)}${off && off >= 5 ? `<span class="deal-save">Save ${off}%</span>` : ""}</div>
   <div class="deal-top">
     <span class="retailer">${esc(d.retailer || "")}</span>
     ${d.verdict ? `<span class="verdict v-${esc((d.verdictLevel || "good").toLowerCase())}">${esc(d.verdict)}</span>` : ""}
@@ -161,7 +159,7 @@ function dealCard(d) {
       <span class="price">${gbp(d.price)}</span>
       ${d.was ? `<span class="was">was <s>${gbp(d.was)}</s></span>` : ""}
     </div>
-    ${off && off < 5 ? `<span class="off">−${off}%</span>` : ""}
+    ${off ? `<span class="off">−${off}%</span>` : ""}
     <a class="btn" href="${esc(href)}" rel="sponsored nofollow noopener" target="_blank">See deal<span aria-hidden="true"> →</span></a>
   </div>
   ${amazonCompare(d)}
@@ -428,9 +426,7 @@ fs.cpSync(path.join(ROOT, "static"), OUT, { recursive: true });
 
 function postTeaser(p) {
   const n = (p.deals || []).length;
-  const pic = pickIcon(`${p.title} ${(p.tags || []).join(" ")}`);
   return `<a class="teaser ${p.type}" href="${postUrl(p)}">
-  <span class="teaser-pic" style="background:${pic.bg}">${iconSvg(pic.k, 40)}</span>
   <span class="teaser-meta">${LABEL[p.type] || "Daily deals"} · ${p.type === "guide" ? "Updated " + shortDate(p.updated || p.date) : shortDate(p.date)}${n ? ` · ${n} picks` : ""}</span>
   <span class="teaser-title">${esc(p.title)}</span>
   <span class="teaser-desc">${esc(p.description)}</span>
