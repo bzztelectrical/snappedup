@@ -1,11 +1,11 @@
 {
   "type": "guide",
   "date": "2026-10-20",
-  "updated": "2026-11-23",
+  "updated": "2026-11-28",
   "slug": "dyson-black-friday-deals-2026",
   "title": "Dyson Black Friday deals 2026 UK: the best prices now",
-  "description": "Today's Dyson vacuum and hair tool prices next to last year's Black Friday lows, so you know which deals are real and which to wait on.",
-  "intro": "**The best Dyson deal today is the Dyson V8 Origin at £199.99 at Amazon, £130 off and level with last Black Friday's best V8 price.** The Dyson Clean+Wash Hygiene floor cleaner is also at its cheapest yet, £259 at Amazon, and Dyson has the Supersonic Origin hair dryer at £174.99 and the Airwrap i.d. at £369.99.\n\nWe've taken the V12 Detect Slim and V15 Detect cards off for now: their last confirmed prices (£429 and £649 on 18 November) were above their lows, and we haven't found newer dated UK prices. Both dropped to Black Friday prices earlier this month, so wait for the next drop rather than paying full price. Prices on this page were reported on 22 and 23 November 2026; check the retailer before you buy. More offers on our [Black Friday live deals page](/guides/black-friday-2026-live-deals-uk/).",
+  "description": "Today's Dyson Black Friday prices on vacuums, Airwrap, Supersonic and Airstrait, checked against last year's lows so you know which deals are real.",
+  "intro": "**The best Dyson deal this Black Friday weekend is the Dyson V8 Origin at £199.99 at Amazon, £130 off and level with last year's best V8 price.** The Clean+Wash Hygiene floor cleaner is at its cheapest yet, £239.99 at Amazon, and Dyson's own site has the Supersonic Origin at £174.99 and the Airwrap i.d. at £349.99, with code **SAVE15** taking another £15 off this weekend.\n\nOther offers still live: the Ball Animal 3 upright is £259.99 and the V10 Konical with its auto-empty dock £398 at Amazon, and the Spot+Scrub AI robot is about £649. We still haven't found dated UK deals on the V12 Detect Slim or V15 Detect this week, so don't pay full price for those. Prices on this page were reported on 27 and 28 November 2026 (TechRadar, Which?); check the retailer before you buy. The sale runs to Cyber Monday, 30 November. More offers on our [Black Friday live deals page](/guides/black-friday-2026-live-deals-uk/).",
   "deals": [
     {
       "name": "Dyson V8 Origin Cordless Vacuum",
@@ -13,61 +13,111 @@
       "price": 199.99,
       "was": 329.99,
       "url": "https://www.amazon.co.uk/s?k=Dyson+V8+Origin",
-      "verdict": "Matches BF low",
+      "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "The cheapest current Dyson stick vacuum, still £199.99 at Amazon on today's checks (22–23 November). The V8 reached £199 last Black Friday, so this is a genuine low. Best for flats and smaller homes."
+      "note": "Still £199.99 at Amazon (TechRadar Dyson deals, 28 November), £130 off and level with last Black Friday's best V8 price. The cheapest way into a Dyson stick vacuum; fine for flats and smaller homes."
     },
     {
       "name": "Dyson Clean+Wash Hygiene Wet Floor Cleaner",
       "retailer": "Amazon",
-      "price": 259,
+      "price": 239.99,
       "was": 429.99,
       "url": "https://www.amazon.co.uk/s?k=Dyson+Clean+Wash+Hygiene",
       "verdict": "Lowest price",
       "verdictLevel": "great",
-      "note": "The cheapest it has been, reported by TechRadar on 22 November. A wet cleaner for hard floors, so it complements a cordless vacuum rather than replacing one."
+      "note": "£239.99 at Amazon (TechRadar Dyson deals, 28 November), down from £259 last week and the cheapest it has been. A wet cleaner for hard floors, so it complements a cordless vacuum rather than replacing one."
+    },
+    {
+      "name": "Dyson Ball Animal 3 Upright Vacuum",
+      "retailer": "Amazon",
+      "price": 259.99,
+      "was": 379.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+Ball+Animal+3",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£120 off at Amazon (TechRadar Dyson deals, 28 November). A corded upright with no battery to wear out, good for big carpeted houses and pet hair."
+    },
+    {
+      "name": "Dyson V10 Konical with Auto Empty Dok",
+      "retailer": "Amazon",
+      "price": 398,
+      "was": 549.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+V10+Konical+Auto+Empty",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£398 at Amazon (TechRadar Dyson deals, 28 November), about £152 off. The dock empties the bin for you, which helps if you hate emptying a stick vacuum."
+    },
+    {
+      "name": "Dyson Spot+Scrub AI Robot Vacuum and Mop",
+      "retailer": "Amazon",
+      "price": 649,
+      "was": 1049.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+Spot+Scrub+AI",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "About £400 off. TechRadar (28 November) has it at £649.99 at Dyson with a free bottle of cleaning solution and says Amazon is 99p cheaper, so pick whichever you prefer."
+    },
+    {
+      "name": "Dyson HushJet Purifier Compact",
+      "retailer": "Amazon",
+      "price": 299.99,
+      "was": 349.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+HushJet+Purifier+Compact",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£50 off at Amazon in silver and white only (TechRadar Dyson deals, 28 November). Dyson's quiet small-room purifier, good for bedrooms."
     },
     {
       "name": "Dyson Supersonic Origin Hair Dryer (Black/Nickel)",
       "retailer": "Dyson",
       "price": 174.99,
       "was": 249.99,
-      "url": "https://www.dyson.co.uk/hair-care/hair-dryers/supersonic-origin",
+      "url": "https://www.dyson.co.uk/deals",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "£75 off at Dyson in Black/Nickel (TechRadar Dyson deals, 28 November), and code SAVE15 takes another £15 off. The same dryer as the standard Supersonic with fewer attachments in the box."
+    },
+    {
+      "name": "Dyson Supersonic Nural Hair Dryer (Straight & Wavy)",
+      "retailer": "Dyson",
+      "price": 269.99,
+      "was": 349.99,
+      "url": "https://www.dyson.co.uk/deals",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£75 off at Dyson in the Black/Nickel colour only (TechRadar, 22 November). The same dryer as the standard Supersonic with fewer attachments in the box."
+      "note": "£80 off at Dyson (TechRadar Dyson deals, 28 November; Which? also listed £269.99 on 27 November). Adjusts heat as it nears your scalp; Which?'s six-month low is about £250."
     },
     {
       "name": "Dyson Airwrap i.d. Multi-Styler (Straight + Wavy)",
       "retailer": "Dyson",
-      "price": 369.99,
+      "price": 349.99,
       "was": 479.99,
-      "url": "https://www.dyson.co.uk/hair-care/hair-stylers/airwrap-id",
+      "url": "https://www.dyson.co.uk/deals",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£110 off at Dyson (TechRadar, 22 November). Airwraps rarely drop further than this; buy direct from Dyson or an authorised retailer to avoid fakes."
+      "note": "£130 off at Dyson (TechRadar Dyson deals, 28 November), or £334.99 with code SAVE15 (Which?, 27 November). That's close to Which?'s six-month low of £329. More models in our [Airwrap price guide](/guides/dyson-airwrap-deals-uk/)."
+    },
+    {
+      "name": "Dyson Airstrait Straightener (Plum)",
+      "retailer": "Dyson",
+      "price": 299.99,
+      "was": 349.99,
+      "url": "https://www.dyson.co.uk/deals",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£50 off at Dyson in Plum (TechRadar Dyson deals, 28 November); Ceramic Pink and Prussian Blue have sold out. Dries and straightens at once, without hot plates."
     },
     {
       "name": "Dyson Purifier Humidify+Cool (PH2)",
       "retailer": "John Lewis",
       "price": 549,
       "was": 699,
-      "url": "https://www.johnlewis.com/search?search-term=dyson%20purifier%20humidify%20cool",
+      "url": "https://www.johnlewis.com/search?search-term=dyson%20ph2",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£150 off at John Lewis (TechRadar, 22 November). Purifies, humidifies and cools in one; worth it mainly for allergy sufferers or dry, centrally heated homes."
-    },
-    {
-      "name": "Shark Stratos Cordless Vacuum",
-      "retailer": "Currys",
-      "price": 199,
-      "was": 419.99,
-      "url": "https://www.currys.co.uk/search?q=shark+stratos+cordless",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "The alternative if you want more power than the V8 without waiting: Shark's top cordless at under half price. See [Shark vs Dyson cordless](/guides/shark-vs-dyson-cordless/)."
+      "note": "£150 off at John Lewis (TechRadar Dyson deals, 28 November). Purifies, humidifies and cools in one; worth it mainly for allergy sufferers or dry, centrally heated homes."
     }
   ],
-  "body": "## Dyson prices to aim for this Black Friday\n\nThese are the prices Dyson's most popular models reached around Black Friday 2025, or their lowest in the last six months. If you see one at or below this figure, it's a real deal.\n\n- **V8 Advanced:** £199 (John Lewis, Black Friday 2025)\n- **Cyclone V10 Total Clean:** £279 (Currys, Black Friday 2025)\n- **V11 Extra:** about £337 (John Lewis, Black Friday 2025)\n- **V12 Detect Slim Absolute:** £349 (John Lewis, Black Friday 2025)\n- **V15 Detect Absolute:** about £450 to £480\n- **V15s Detect Submarine:** £599\n- **V16 Piston Animal:** under £590 (six-month low)\n- **Airwrap i.d.:** £329\n- **Supersonic:** around £200 to £210\n\nWhich? also publishes its own \"genuine saving\" lines. Its threshold for the V15 is under £550, the V12 under £449 and the V8 Animal under £329. Treat those as the minimum: anything above them isn't really a deal.\n\n## When does Dyson's Black Friday sale start?\n\nBlack Friday 2026 is on **Friday 27 November**. Last year Dyson's own sale was already running by the end of October, almost a month early, and ran to around Cyber Monday. Dyson's deals page already has £100 to £200 off selected models. Expect the main cuts to land before 27 November and run to Cyber Monday (30 November). John Lewis, Currys, Very, Argos and Boots usually match or slightly undercut Dyson within a day or two.\n\n## Buy from Dyson or a retailer?\n\nRetailers are usually cheaper than Dyson on vacuums: on 14 November Argos and John Lewis had the V12 Detect Slim Absolute at £349.99 against £399.99 at Dyson. By 18 November the retailer deals had ended (V12 £429, V15 £649), so check Dyson's own deals page too. Dyson's own site still has some models the shops don't, such as the Gen5detect. A few things make Dyson's own site worth checking:\n\n- **Two-year guarantee** on vacuums, hair tools, purifiers and fans when you buy new.\n- **Price-match refund:** Dyson says it will refund the difference if you find the same product cheaper at an eligible UK retailer within 35 days.\n- **Bundles and personalisation** you can't get elsewhere. Just check the 'was' price on a bundle: the V15 bundle's £699.99 includes extra tools, so the saving is smaller than it looks.\n\n**Refurbished:** Dyson's refurbished store usually takes £80 to £100 off, but you only get a one-year guarantee and most items were out of stock when we checked.\n\n## Which Dyson vacuum should you buy?\n\n**Small flat or mostly hard floors:** the V12 Detect Slim is light and easy to carry upstairs. It's £429 today, up from £349.99 last week, so wait for it to drop back towards £349.\n\n**Bigger house, carpets or pets:** the V15 Detect has more suction, a longer battery and a laser that shows up dust on hard floors. It's back to £649 today after £479 on 17 November, so don't buy at full price; aim for under £500.\n\n**Lots of hard floors:** the Submarine models mop as well as vacuum. The V15s Detect Submarine was £599 on 28 October, matching last year's low; check it's still that price before buying.\n\n**On a budget:** the V8 Origin at £199.99 at Amazon is the one to buy now; it does a good job in a flat or smaller home. Skip the V11 for now: at £429 at AO it costs more than the V12 Detect Slim.\n\n### Is it worth waiting for Black Friday for a Dyson?\n\nYes for the V12 Detect Slim and V15 Detect: both have gone back up (£429 and £649) after hitting £349.99 and £479 earlier this month. No for the V8 Origin: £199.99 at Amazon already matches last year's best V8 price. Hair tools weren't rechecked this time, so compare them against the target prices above.\n\n### Are Dyson Black Friday discounts real?\n\nMostly, but the 'was' prices are high and bundles can make savings look bigger than they are. Compare against the target prices above rather than the percentage off.\n\n### Is Amazon cheaper for Dyson?\n\nSometimes for hair tools: the Supersonic dropped to £199 there last year. For vacuums, John Lewis, Currys and Very are usually cheaper or the same, but right now Amazon has the best V8 deal (the V8 Origin at £199.99). Many Amazon Black Friday prices need Prime from 19 November: see our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/).\n\n### Dyson or Shark?\n\nShark is usually cheaper and has a longer warranty if you register it; Dyson is lighter and has the dust-sensing extras. Our [Shark vs Dyson cordless guide](/guides/shark-vs-dyson-cordless/) compares them model by model, and the [Shark Black Friday deals 2026](/guides/shark-black-friday-deals-2026/) guide has Shark prices.\n\nSee also [Black Friday 2026: what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/) and [every Black Friday 2026 guide](/black-friday/).",
+  "body": "## Dyson prices to aim for\n\nThese are the prices Dyson's most popular models reached around Black Friday 2025, or their lowest in the last six months. If you see one at or below this figure, it's a real deal.\n\n- **V8 Advanced:** £199 (John Lewis, Black Friday 2025)\n- **Cyclone V10 Total Clean:** £279 (Currys, Black Friday 2025)\n- **V11 Extra:** about £337 (John Lewis, Black Friday 2025)\n- **V12 Detect Slim Absolute:** £349 (John Lewis, Black Friday 2025)\n- **V15 Detect Absolute:** about £450 to £480\n- **V15s Detect Submarine:** £599\n- **V16 Piston Animal:** under £590 (six-month low)\n- **Airwrap i.d.:** £329\n- **Supersonic:** around £200 to £210\n\nWhich? also publishes its own \"genuine saving\" lines. Its threshold for the V15 is under £550, the V12 under £449 and the V8 Animal under £329. Treat those as the minimum: anything above them isn't really a deal.\n\n## When does Dyson's Black Friday sale end?\n\nBlack Friday was on Friday 27 November, and Dyson's sale, like Amazon's Black Friday Week, runs to **Cyber Monday, 30 November**. Dyson's own deals started at the end of October, and this weekend it has added an extra £15 off sale prices with code SAVE15 (TechRadar, 28 November). After Cyber Monday some prices usually stay down into December, but the best ones tend to end on the Monday night.\n\n## Buy from Dyson or a retailer?\n\nRetailers are usually cheaper than Dyson on vacuums: this weekend Amazon has the best prices on the V8 Origin, Clean+Wash Hygiene and Ball Animal 3, while Dyson's own site is cheapest for hair tools. Dyson's own site also has some models the shops don't, such as the Gen5detect. A few things make Dyson's own site worth checking:\n\n- **Two-year guarantee** on vacuums, hair tools, purifiers and fans when you buy new.\n- **Price-match refund:** Dyson says it will refund the difference if you find the same product cheaper at an eligible UK retailer within 35 days.\n- **Bundles and personalisation** you can't get elsewhere. Just check the 'was' price on a bundle: the V15 bundle's £699.99 includes extra tools, so the saving is smaller than it looks.\n\n**Refurbished:** Dyson's refurbished store usually takes £80 to £100 off, but you only get a one-year guarantee and most items were out of stock when we checked.\n\n## Which Dyson vacuum should you buy?\n\n**Small flat or mostly hard floors:** the V12 Detect Slim is light and easy to carry upstairs. It reached £349.99 earlier this month but we haven't seen a dated deal on it this week, so aim for £349 to £399.\n\n**Bigger house, carpets or pets:** the V15 Detect has more suction, a longer battery and a laser that shows up dust on hard floors. It dropped to £479 on 17 November; don't pay much over £500. If you'd rather avoid batteries, the corded Ball Animal 3 at £259.99 is strong on carpets and pet hair.\n\n**Lots of hard floors:** add the Clean+Wash Hygiene (£239.99 at Amazon) or pick a Submarine model that mops as well as vacuums.\n\n**On a budget:** the V8 Origin at £199.99 at Amazon is the one to buy; it does a good job in a flat or smaller home.\n\n### Is it worth waiting for Cyber Monday for a Dyson?\n\nNot for the V8 Origin, Clean+Wash Hygiene or Supersonic Origin: they already match or beat last year's best prices, and Cyber Monday is usually the same or slightly worse. For the V12 and V15, which aren't on a deal we can confirm, compare against the target prices above before you buy.\n\n### Are Dyson Black Friday discounts real?\n\nMostly, but the 'was' prices are high and bundles can make savings look bigger than they are. Compare against the target prices above rather than the percentage off.\n\n### Is Amazon cheaper for Dyson?\n\nThis weekend, yes for vacuums: Amazon has the best prices on the V8 Origin (£199.99), Clean+Wash Hygiene (£239.99) and Ball Animal 3 (£259.99). For hair tools, Dyson's own site is cheapest right now, especially with code SAVE15. Many Amazon Black Friday prices need Prime: see our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/).\n\n### Dyson or Shark?\n\nShark is usually cheaper and has a longer warranty if you register it; Dyson is lighter and has the dust-sensing extras. Our [Shark vs Dyson cordless guide](/guides/shark-vs-dyson-cordless/) compares them model by model, and the [Shark Black Friday deals 2026](/guides/shark-black-friday-deals-2026/) guide has Shark prices.\n\nSee also [Black Friday 2026: what to buy now and what to wait for](/spotlight/black-friday-2026-buy-now-or-wait/) and [every Black Friday 2026 guide](/black-friday/).",
   "seoTitle": "Dyson Black Friday Deals 2026 UK: Live Deals Today"
 }

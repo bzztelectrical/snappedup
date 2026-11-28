@@ -5,11 +5,11 @@
   "slug": "black-friday-2026-live-deals-uk",
   "title": "Black Friday 2026 UK live deals: the best offers right now",
   "seoTitle": "Black Friday Weekend & Cyber Monday 2026 UK: Live Deals",
-  "description": "The best UK Black Friday weekend and Cyber Monday 2026 deals still live, checked every morning until 30 November: tech, home, beauty and toys, with prices compared.",
+  "description": "The best Black Friday weekend and Cyber Monday 2026 deals in the UK, checked three times a day: Apple, TVs, Dyson, Kindle, air fryers and toys.",
   "tags": [
     "black-friday"
   ],
-  "intro": "**Last checked: Saturday 28 November, 09:53.** Black Friday has passed, but Amazon's Black Friday Week runs until Cyber Monday (30 November) and most of the best prices are still live. The three standouts right now: the **AirPods Pro 3 at £155.98** (a record low), the **Mac mini M6 at £692.70** (down another £44 overnight) and the **Amazon Ember 65-inch Mini-LED TV at £709.99** (£440 off), all at Amazon.\n\nNew this morning: the **Hisense 65-inch Canvas TV at £999**, a **4-pack of AirTags at £71.78**, the **Bowers & Wilkins PX7 S2e headphones at £208**, the **Galaxy Watch Ultra at £349** and **LEGO Star Wars Grogu at £67.49**, all at Amazon. We've taken off the Sonicare DiamondClean 9000, Bose QuietComfort Earbuds, Shokz OpenRun Pro 2, DualSense controller and Switch 2 bundle, as we couldn't re-confirm their prices for today (the Switch 2 Sports Resort bundle is £399.99 at Currys). **PS5 buyers:** see our [PS5 guide](/guides/ps5-black-friday-deals-2026/) for stock and bundles. Prices were reported on 27–28 November, so check the retailer's page before you buy. Many Amazon prices need Prime: a [free Prime trial](https://www.amazon.co.uk/amazonprime) covers the rest of the sale. Today's shortlist is in [Saturday's deals](/deals/2026-11-28-saturday-deals/).",
+  "intro": "**Last checked: Saturday 28 November, 13:53.** Black Friday has passed, but Amazon's Black Friday Week runs until Cyber Monday (30 November) and most of the best prices are still live. The three standouts right now: the **AirPods Pro 3 at £155.98** (a record low), the **Mac mini M6 at £692.70** and the **Amazon Ember 65-inch Mini-LED TV at £709.99** (£440 off), all at Amazon.\n\nNew this afternoon: the **Garmin Venu X1 at £399** (£200 off), the **Dyson Clean+Wash Hygiene at £239.99**, the **DualSense Edge at £149.99**, and two hair dryers, the **ghd Helios at £125** and **Shark SpeedStyle at £129**, all at Amazon. We've taken off the Meta Quest 3S, Sony WH-1000XM4C, Ring Pan-Tilt camera, Nespresso Vertuo Pop and Echo Dot, as we couldn't re-confirm them today. The standard DualSense has sold out at Amazon (Currys has it at £43). **PS5 buyers:** most UK bundles have sold out; see our [PS5 guide](/guides/ps5-black-friday-deals-2026/). Prices were reported on 27–28 November, so check the retailer's page before you buy. Many Amazon prices need Prime: a [free Prime trial](https://www.amazon.co.uk/amazonprime) covers the rest of the sale. Today's shortlist is in [Saturday's deals](/deals/2026-11-28-saturday-deals/).",
   "deals": [
     {
       "name": "Apple AirPods Pro 3",
@@ -52,16 +52,6 @@
       "note": "£999 at Amazon (T3, 28 November), £600 off. A picture-frame style TV that shows art when it's off; a cheaper alternative to Samsung's Frame."
     },
     {
-      "name": "LG C6 65-inch OLED TV (OLED65C6)",
-      "retailer": "Amazon",
-      "price": 1529.1,
-      "was": 1899,
-      "url": "https://www.amazon.co.uk/s?k=LG+OLED65C6",
-      "verdict": "Lowest price",
-      "verdictLevel": "great",
-      "note": "£1,529.10 at Amazon (TechRadar UK Amazon live blog, 27 November), its lowest price yet and £170 below where it started Black Friday Week. LG's best-selling mid-range OLED."
-    },
-    {
       "name": "Apple AirTag (2nd generation), 4-pack",
       "retailer": "Amazon",
       "price": 71.78,
@@ -82,6 +72,16 @@
       "note": "£208 at Amazon (T3, 28 November), £121 off. Premium sound and noise cancelling for less than Sony's or Bose's flagships."
     },
     {
+      "name": "Garmin Venu X1",
+      "retailer": "Amazon",
+      "price": 399,
+      "was": 599.99,
+      "url": "https://www.amazon.co.uk/s?k=Garmin+Venu+X1",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£200 off Garmin's thin, big-screen smartwatch at Amazon (T3 live blog, 28 November 11:29). The lowest price we've seen for it."
+    },
+    {
       "name": "Samsung Galaxy Watch Ultra (2025)",
       "retailer": "Amazon",
       "price": 349,
@@ -92,6 +92,46 @@
       "note": "£349 at Amazon (T3, 28 November), £250 off. Samsung's toughest watch with long battery life; for Android phones only."
     },
     {
+      "name": "Dyson V8 Cordless Vacuum",
+      "retailer": "Amazon",
+      "price": 199.99,
+      "was": 329.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+V8",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "Still £199.99 at Amazon (TechRadar Dyson deals, 28 November): the cheapest way into a Dyson cordless. Fine for flats and smaller homes."
+    },
+    {
+      "name": "Dyson Clean+Wash Hygiene Wet Floor Cleaner",
+      "retailer": "Amazon",
+      "price": 239.99,
+      "was": 429.99,
+      "url": "https://www.amazon.co.uk/s?k=Dyson+Clean+Wash+Hygiene",
+      "verdict": "Big drop",
+      "verdictLevel": "great",
+      "note": "£190 off Dyson's wet floor cleaner at Amazon (TechRadar Dyson deals, 28 November). Worth it for homes with lots of hard floors."
+    },
+    {
+      "name": "Sony DualSense Edge Wireless Controller",
+      "retailer": "Amazon",
+      "price": 149.99,
+      "was": 199.99,
+      "url": "https://www.amazon.co.uk/s?k=DualSense+Edge",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£50 off Sony's pro controller at Amazon (TechRadar PS5 live blog, 28 November). The standard DualSense has sold out at Amazon; Currys has the white one at £43."
+    },
+    {
+      "name": "ghd Helios Hair Dryer",
+      "retailer": "Amazon",
+      "price": 125,
+      "was": 189,
+      "url": "https://www.amazon.co.uk/s?k=ghd+Helios+hair+dryer",
+      "verdict": "Good price",
+      "verdictLevel": "good",
+      "note": "£64 off ghd's lightweight dryer at Amazon (Woman & Home, updated 28 November). A cheaper alternative to the Dyson Supersonic."
+    },
+    {
       "name": "Amazon Kindle Colorsoft",
       "retailer": "Amazon",
       "price": 144.99,
@@ -100,6 +140,16 @@
       "verdict": "Lowest price",
       "verdictLevel": "great",
       "note": "£144.99 at Amazon (TechRadar UK Amazon live blog, 27 November), £115 off. The colour-screen Kindle, good for comics and book covers. Pair it with a [Kindle Unlimited trial](https://www.amazon.co.uk/kindle-dbs/hz/subscribe/ku)."
+    },
+    {
+      "name": "LG C6 65-inch OLED TV (OLED65C6)",
+      "retailer": "Amazon",
+      "price": 1529.1,
+      "was": 1899,
+      "url": "https://www.amazon.co.uk/s?k=LG+OLED65C6",
+      "verdict": "Lowest price",
+      "verdictLevel": "great",
+      "note": "£1,529.10 at Amazon (TechRadar UK Amazon live blog, 27 November), its lowest price yet and £170 below where it started Black Friday Week. LG's best-selling mid-range OLED."
     },
     {
       "name": "KitchenAid Mini Food Chopper (3.5 cup)",
@@ -122,16 +172,6 @@
       "note": "Half price at Amazon (TechRadar UK live blog, 27 November). Wire-free, so it suits renters; recordings need a Ring Home plan."
     },
     {
-      "name": "Dyson V8 Cordless Vacuum",
-      "retailer": "Amazon",
-      "price": 199.99,
-      "was": 329.99,
-      "url": "https://www.amazon.co.uk/s?k=Dyson+V8",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£199.99 at Amazon (TechRadar UK Amazon live blog, 27 November). The cheapest way into a Dyson stick vacuum; light and good on hard floors."
-    },
-    {
       "name": "Amazon Fire TV Stick 4K",
       "retailer": "Amazon",
       "price": 31.99,
@@ -142,24 +182,14 @@
       "note": "£31.99 at Amazon (TechRadar UK Amazon live blog, 27 November), more than half off. The easy way to add 4K streaming to an older TV."
     },
     {
-      "name": "Amazon Echo Dot (latest model)",
+      "name": "Shark SpeedStyle Hair Dryer",
       "retailer": "Amazon",
-      "price": 49.99,
-      "was": 94.99,
-      "url": "https://www.amazon.co.uk/s?k=Amazon+Echo+Dot",
+      "price": 129,
+      "was": 179.99,
+      "url": "https://www.amazon.co.uk/s?k=Shark+SpeedStyle+hair+dryer",
       "verdict": "Good price",
       "verdictLevel": "good",
-      "note": "£49.99 at Amazon (TechRadar UK Amazon live blog, 27 November). See our [Echo deals guide](/guides/echo-dot-deals-uk/) for the whole range."
-    },
-    {
-      "name": "Ring Pan-Tilt Indoor Camera 2K",
-      "retailer": "Amazon",
-      "price": 29.99,
-      "was": 59.99,
-      "url": "https://www.amazon.co.uk/s?k=Ring+Pan-Tilt+Indoor+Camera+2K",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "Half price at Amazon (TechRadar UK live blog, 27 November). Turns from your phone to cover a whole room."
+      "note": "About £50 off at Amazon (Woman & Home, updated 28 November). Comes with styling attachments for curls and smoothing."
     },
     {
       "name": "Amazon Kindle (2026, 16GB)",
@@ -192,16 +222,6 @@
       "note": "£379 at Amazon (Tom's Guide UK, 26 November), £269 off. About as cheap as an automatic bean-to-cup machine with a milk wand gets."
     },
     {
-      "name": "Nespresso Vertuo Pop",
-      "retailer": "Amazon",
-      "price": 49,
-      "was": 99,
-      "url": "https://www.amazon.co.uk/s?k=Nespresso+Vertuo+Pop",
-      "verdict": "Big drop",
-      "verdictLevel": "great",
-      "note": "Half price at Amazon (TechRadar UK, 27 November), below last autumn's £52. A small, simple pod machine; Vertuo pods only come from Nespresso, so check pod prices too."
-    },
-    {
       "name": "Ninja Crispi Portable Glass Air Fryer (3.8L)",
       "retailer": "Amazon",
       "price": 99,
@@ -220,26 +240,6 @@
       "verdict": "Good price",
       "verdictLevel": "good",
       "note": "£249.99 at Amazon (T3 live blog, 27 November afternoon), £100 off. A red and near-infrared LED mask from a mainstream brand, a popular beauty gift this year."
-    },
-    {
-      "name": "Sony WH-1000XM4C Wireless Headphones",
-      "retailer": "Amazon",
-      "price": 161.1,
-      "was": 219.99,
-      "url": "https://www.amazon.co.uk/s?k=Sony+WH-1000XM4C",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£161.10 at Amazon (TechRadar UK Amazon live blog, 27 November). Sony's updated XM4 noise-cancelling headphones; see our [noise-cancelling headphones guide](/guides/noise-cancelling-headphones-deals-uk/)."
-    },
-    {
-      "name": "Meta Quest 3S (128GB)",
-      "retailer": "Amazon",
-      "price": 259.99,
-      "was": 319.99,
-      "url": "https://www.amazon.co.uk/s?k=Meta+Quest+3S+128GB",
-      "verdict": "Good price",
-      "verdictLevel": "good",
-      "note": "£60 off at Amazon this morning (TechRadar UK, 27 November). The cheapest way into mixed-reality gaming and fitness; a popular Christmas present for teens."
     },
     {
       "name": "LEGO Star Wars Grogu (75446)",
@@ -262,5 +262,5 @@
       "note": "£28.99 at Amazon (TechRadar UK Amazon live blog, 27 November). An easy gift for any Lego-mad child."
     }
   ],
-  "body": "## Tech\n\nApple: the AirPods Pro 3 are still a record-low £155.98 at Amazon, a 4-pack of AirTags is £71.78 and the Mac mini M6 has dropped again to £692.70. Apple's own Black Friday event (27–30 November) gives a gift card rather than a discount, so Amazon is cheaper. Amazon's own devices: the Kindle Colorsoft is £144.99, the basic Kindle £119.99, the Echo Dot £49.99, the Fire TV Stick 4K £31.99, the Ring Battery Video Doorbell 2K £39.99 and the Ring Pan-Tilt Indoor Camera 2K £29.99. For TVs, the Ember 65-inch Mini-LED is £709.99, the Hisense 65-inch Canvas £999 and the LG C6 65-inch OLED £1,529.10.\n\nFor audio, the Bowers & Wilkins PX7 S2e are £208 and the Sony WH-1000XM4C £161.10. The Galaxy Watch Ultra is £349 for Android users. Gamers: the Meta Quest 3S is £259.99, and the Switch 2 Sports Resort bundle is £399.99 at Currys.\n\nMore: [Kindle](/guides/kindle-black-friday-deals-2026/), [Echo](/guides/echo-dot-deals-uk/), [Ring doorbells](/guides/ring-doorbell-black-friday-deals-2026/), [AirPods](/guides/airpods-black-friday-deals-2026/), [TVs](/guides/tv-black-friday-deals-2026/), [smartwatches](/guides/smartwatch-deals-uk/), [PS5](/guides/ps5-black-friday-deals-2026/), [Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [Amazon Black Friday 2026](/guides/amazon-black-friday-2026-uk/).\n\n## Home & kitchen\n\nThe Dyson V8 is £199.99 at Amazon, the cheapest way into a Dyson stick vacuum. In the kitchen, the Ninja AF300UK dual-drawer air fryer is £119, the Ninja Crispi glass air fryer £99, the De'Longhi Magnifica Evo bean-to-cup machine £379 and the Nespresso Vertuo Pop pod machine £49, all at Amazon. For robot vacuums, see our [robot vacuum guide](/guides/robot-vacuum-deals-uk/).\n\nMore: [air fryers](/guides/air-fryer-black-friday-deals-2026/), [Ninja](/guides/ninja-black-friday-deals-2026/), [coffee machines](/guides/coffee-machine-black-friday-deals-2026/), [Dyson](/guides/dyson-black-friday-deals-2026/) and [Shark](/guides/shark-black-friday-deals-2026/).\n\n## Beauty\n\nThe Philips ReAura LED face mask is £249.99 at Amazon, £100 off. For electric toothbrushes, see our [Oral-B guide](/guides/oral-b-black-friday-deals-2026/) and [compare Sonicare prices on Amazon](https://www.amazon.co.uk/s?k=Philips+Sonicare). For hair, see our [Dyson Airwrap price guide](/guides/dyson-airwrap-deals-uk/). For fragrance gifts, [compare Amazon's perfume gift set prices](https://www.amazon.co.uk/s?k=perfume+gift+set) before you buy.\n\nMore: [perfume gift sets](/guides/perfume-gift-sets-black-friday-2026/), [ghd](/guides/ghd-black-friday-deals-2026/) and [Oral-B](/guides/oral-b-black-friday-deals-2026/).\n\n## Toys & gifts\n\nAdvent calendars need to arrive by 1 December, so order those this weekend. LEGO Star Wars Grogu (75446) is £67.49 and the Lego Classic Large Creative Brick Box £28.99, both at Amazon. For readers, an [Audible membership](/guides/audible-free-trial-deals-uk/) is £0.99 a month for three months until 17 December and can be given as a gift. For toys, Hamleys is running its own Black Friday event, and our guide shows what's worth buying there.\n\nMore: [Hamleys Black Friday 2026](/guides/hamleys-black-friday-2026/), [Lego](/guides/lego-black-friday-deals-2026/), [Lego advent calendars](/guides/lego-advent-calendar-2026/), [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [PS5](/guides/ps5-black-friday-deals-2026/).\n\n## How we pick these deals\n\nEvery price comes from the retailer or a trusted deals source dated today or yesterday. We compare it with price history and last year's Black Friday prices, and we leave out deals where the 'was' price is inflated. When Amazon matches the cheapest shop, we link Amazon. Many Amazon prices need Prime during Black Friday Week; our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time a trial.\n\n### When is Black Friday 2026 in the UK?\n\nIt was on Friday 27 November, and the sales carry on to Cyber Monday, 30 November. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) lists every retailer's dates.\n\n### Are Black Friday deals still on this weekend?\n\nYes. Amazon's Black Friday Week runs until Cyber Monday, 30 November, and most of the prices on this page are still live. We check every deal each morning and take off any that have ended, so if it's listed here it was live when we last checked.\n\n### When is Cyber Monday 2026?\n\nCyber Monday is **Monday 30 November 2026**, the last day of Amazon's Black Friday Week. We update this page every morning until then, so new Cyber Monday prices will show up here. More on the dates in our [when is Cyber Monday guide](/guides/when-is-cyber-monday-2026-uk/).\n\n### Should I buy now or wait for Cyber Monday?\n\nIf a deal here is marked 'Lowest price', buy it: Cyber Monday prices are usually the same or slightly worse, and popular items sell out. Items marked 'Good price' could still dip a little by Monday.\n\n### How often is this page updated?\n\nEvery day until Cyber Monday. Deals that end or go up in price are removed.\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand prices."
+  "body": "## Tech\n\nApple: the AirPods Pro 3 are still a record-low £155.98 at Amazon, a 4-pack of AirTags is £71.78 and the Mac mini M6 has dropped again to £692.70. Apple's own Black Friday event (27–30 November) gives a gift card rather than a discount, so Amazon is cheaper. Amazon's own devices: the Kindle Colorsoft is £144.99, the basic Kindle £119.99, the Fire TV Stick 4K £31.99 and the Ring Battery Video Doorbell 2K £39.99. For TVs, the Ember 65-inch Mini-LED is £709.99, the Hisense 65-inch Canvas £999 and the LG C6 65-inch OLED £1,529.10.\n\nFor audio, the Bowers & Wilkins PX7 S2e are £208. On your wrist, the Garmin Venu X1 is down to £399 and the Galaxy Watch Ultra is £349 for Android users. Gamers: the DualSense Edge is £149.99 at Amazon, and the Switch 2 Sports Resort bundle is £399.99 at Currys.\n\nMore: [Kindle](/guides/kindle-black-friday-deals-2026/), [Echo](/guides/echo-dot-deals-uk/), [Ring doorbells](/guides/ring-doorbell-black-friday-deals-2026/), [AirPods](/guides/airpods-black-friday-deals-2026/), [TVs](/guides/tv-black-friday-deals-2026/), [smartwatches](/guides/smartwatch-deals-uk/), [PS5](/guides/ps5-black-friday-deals-2026/), [Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [Amazon Black Friday 2026](/guides/amazon-black-friday-2026-uk/).\n\n## Home & kitchen\n\nThe Dyson V8 is £199.99 at Amazon, the cheapest way into a Dyson stick vacuum, and the Dyson Clean+Wash Hygiene wet floor cleaner is £239.99. Dyson's own site has an extra £15 off with code SAVE15 this weekend. In the kitchen, the Ninja AF300UK dual-drawer air fryer is £119, the Ninja Crispi glass air fryer £99, the De'Longhi Magnifica Evo bean-to-cup machine £379 and the KitchenAid Mini Food Chopper £49, all at Amazon. For robot vacuums, see our [robot vacuum guide](/guides/robot-vacuum-deals-uk/).\n\nMore: [air fryers](/guides/air-fryer-black-friday-deals-2026/), [Ninja](/guides/ninja-black-friday-deals-2026/), [coffee machines](/guides/coffee-machine-black-friday-deals-2026/), [Dyson](/guides/dyson-black-friday-deals-2026/) and [Shark](/guides/shark-black-friday-deals-2026/).\n\n## Beauty\n\nThe Philips ReAura LED face mask is £249.99 at Amazon, £100 off. For hair dryers, the ghd Helios is £125 and the Shark SpeedStyle £129 at Amazon, and the Dyson Supersonic Nural is £269.99 at Dyson. For electric toothbrushes, see our [Oral-B guide](/guides/oral-b-black-friday-deals-2026/) and [compare Sonicare prices on Amazon](https://www.amazon.co.uk/s?k=Philips+Sonicare). For hair, see our [Dyson Airwrap price guide](/guides/dyson-airwrap-deals-uk/). For fragrance gifts, [compare Amazon's perfume gift set prices](https://www.amazon.co.uk/s?k=perfume+gift+set) before you buy.\n\nMore: [perfume gift sets](/guides/perfume-gift-sets-black-friday-2026/), [ghd](/guides/ghd-black-friday-deals-2026/) and [Oral-B](/guides/oral-b-black-friday-deals-2026/).\n\n## Toys & gifts\n\nAdvent calendars need to arrive by 1 December, so order those this weekend. LEGO Star Wars Grogu (75446) is £67.49 and the Lego Classic Large Creative Brick Box £28.99, both at Amazon. For readers, an [Audible membership](/guides/audible-free-trial-deals-uk/) is £0.99 a month for three months until 17 December and can be given as a gift. For toys, Hamleys is running its own Black Friday event, and our guide shows what's worth buying there.\n\nMore: [Hamleys Black Friday 2026](/guides/hamleys-black-friday-2026/), [Lego](/guides/lego-black-friday-deals-2026/), [Lego advent calendars](/guides/lego-advent-calendar-2026/), [Nintendo Switch 2](/guides/nintendo-switch-2-black-friday-deals-2026/) and [PS5](/guides/ps5-black-friday-deals-2026/).\n\n## How we pick these deals\n\nEvery price comes from the retailer or a trusted deals source dated today or yesterday. We compare it with price history and last year's Black Friday prices, and we leave out deals where the 'was' price is inflated. When Amazon matches the cheapest shop, we link Amazon. Many Amazon prices need Prime during Black Friday Week; our [Prime free trial guide](/guides/amazon-prime-free-trial-black-friday-2026/) explains how to time a trial.\n\n### When is Black Friday 2026 in the UK?\n\nIt was on Friday 27 November, and the sales carry on to Cyber Monday, 30 November. Our [when is Black Friday 2026 guide](/guides/when-is-black-friday-2026-uk/) lists every retailer's dates.\n\n### Are Black Friday deals still on this weekend?\n\nYes. Amazon's Black Friday Week runs until Cyber Monday, 30 November, and most of the prices on this page are still live. We check every deal three times a day and take off any that have ended, so if it's listed here it was live when we last checked.\n\n### When is Cyber Monday 2026?\n\nCyber Monday is **Monday 30 November 2026**, the last day of Amazon's Black Friday Week. We update this page three times a day until then, so new Cyber Monday prices will show up here. More on the dates in our [when is Cyber Monday guide](/guides/when-is-cyber-monday-2026-uk/).\n\n### Should I buy now or wait for Cyber Monday?\n\nIf a deal here is marked 'Lowest price', buy it: Cyber Monday prices are usually the same or slightly worse, and popular items sell out. Items marked 'Good price' could still dip a little by Monday.\n\n### How often is this page updated?\n\nThree times a day (morning, lunchtime and early evening) until Cyber Monday. Deals that end or go up in price are removed.\n\nSee [every Black Friday 2026 guide](/black-friday/) for brand-by-brand prices."
 }
