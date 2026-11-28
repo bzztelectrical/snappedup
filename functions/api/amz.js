@@ -12,6 +12,10 @@ const RESOURCES = ["images.primary.large", "itemInfo.title"];
 
 let cachedToken = null;
 let tokenExpires = 0;
+// Circuit breaker (28 Nov): after Amazon says "rate limit" or "not eligible", stop calling it from this
+// isolate for a while instead of hammering it once per card per page view.
+let pausedUntil = 0;
+let pausedReason = "";
 
 async function getToken(env) {
   if (cachedToken && Date.now() < tokenExpires - 60_000) return cachedToken;
@@ -89,6 +93,8 @@ export async function onRequestGet({ request, env, waitUntil }) {
   if (!/^[A-Z0-9]{10}$/.test(asin) && q.length < 3) return json({ ok: false, error: "bad request" }, 3600);
   if (!env.AMAZON_CREDENTIAL_ID || !env.AMAZON_CREDENTIAL_SECRET) return json({ ok: false, error: "not configured" }, 300);
 
+  if (Date.now() < pausedUntil) return json({ ok: false, error: "paused: " + pausedReason }, 300);
+
   const cache = caches.default;
   const key = new Request(`https://cache.snappedup/amz?${asin ? "asin=" + asin : "q=" + encodeURIComponent(q.toLowerCase())}`);
   const hit = await cache.match(key);
@@ -105,8 +111,11 @@ export async function onRequestGet({ request, env, waitUntil }) {
     }
     ttl = out.ok ? 86400 : 21600;
   } catch (e) {
-    out = { ok: false, error: String(e.message || e).slice(0, 120) };
-    ttl = 3600;
+    const msg = String(e.message || e).slice(0, 120);
+    out = { ok: false, error: msg };
+    if (/ 429 /.test(msg)) { pausedUntil = Date.now() + 10 * 60_000; pausedReason = "rate limit"; ttl = 1800; }
+    else if (/ 403 /.test(msg)) { pausedUntil = Date.now() + 60 * 60_000; pausedReason = "not eligible"; ttl = 21600; }
+    else ttl = 3600;
   }
   const res = json(out, ttl);
   waitUntil(cache.put(key, res.clone()));

@@ -345,10 +345,15 @@ ${NO_SIGNUP.includes(pathname) ? "" : signupBox("foot")}
 ${partnerBubble}
 <script>
 (function(){var cards=[].slice.call(document.querySelectorAll('.deal[data-asin],.deal[data-q]'));if(!cards.length||!window.fetch)return;
-function load(c){var a=c.getAttribute('data-asin'),q=c.getAttribute('data-q');fetch('/api/amz?'+(a?'asin='+encodeURIComponent(a):'q='+encodeURIComponent(q))).then(function(r){return r.json()}).then(function(j){if(!j||!j.ok||!j.img)return;
+/* One request at a time, only for cards actually on screen, and stop for this page view as soon as Amazon says no. */
+var q=[],busy=false,stop=false;
+function next(){if(busy||stop||!q.length)return;busy=true;var c=q.shift(),a=c.getAttribute('data-asin'),k=c.getAttribute('data-q');
+fetch('/api/amz?'+(a?'asin='+encodeURIComponent(a):'q='+encodeURIComponent(k))).then(function(r){return r.json()}).then(function(j){
+if(!j||!j.ok){if(j&&/rate limit|eligib|paused/.test(j.error||''))stop=true;return}
 var l=document.createElement('a');l.className='deal-img';l.href=j.url;l.rel='sponsored nofollow noopener';l.target='_blank';var i=document.createElement('img');i.src=j.img;i.alt=j.title||'';i.loading='lazy';i.decoding='async';l.appendChild(i);c.insertBefore(l,c.firstChild);c.classList.add('has-img');
-var b=c.querySelector('.deal-bottom .btn');if(b)b.href=j.url;}).catch(function(){});}
-if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){io.unobserve(e.target);load(e.target);}})},{rootMargin:'400px'});cards.forEach(function(c){io.observe(c)});}else cards.forEach(load);})();
+var b=c.querySelector('.deal-bottom .btn');if(b)b.href=j.url;}).catch(function(){}).then(function(){busy=false;setTimeout(next,1100)});}
+if(!('IntersectionObserver' in window))return;
+var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){io.unobserve(e.target);q.push(e.target);next();}})},{rootMargin:'100px'});cards.forEach(function(c){io.observe(c)});})();
 </script>
 </body>
 </html>`;
