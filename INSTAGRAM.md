@@ -31,6 +31,8 @@ Set up 19 Nov 2026 (user: "instagram is logged in set it up").
 | 27 Nov 2026 12:04 | It's Black Friday! 3 deals we'd buy today (09-fri-1230-bf) | 5 | Batch 23–29 Nov. Caption uses /ig. Viewport now 1568x764: Create (28,424), Post (34,464), crop icon (512,664), 4:5 (540,580), Next (1044,88), Next (1184,88), caption (1060,180), Share (1182,88). |
 | 27 Nov 2026 12:07 | 3 headphone gifts for every budget (08-thu-1930-headphones, carried over from 26 Nov 19:00) | 5 | Posted straight after the BF carousel. Caption uses /ig. |
 | 27 Nov 2026 19:00 | MISSED: Kindle or Audible for Christmas? (10-fri-1930-kindle-audible) | – | Run stopped before posting (a browser approval prompt went unanswered). Post it at the 28 Nov 12:00 slot alongside that slot's carousel. Files already staged. |
+| 28 Nov 2026 12:03 | 3 gifts teenage girls actually want (11-sat-1230-teengirls) | 5 | Batch 23–29 Nov. Caption uses /ig. Viewport back to 1519x784 coordinates. |
+| 28 Nov 2026 12:06 | Kindle or Audible for Christmas? (10-fri-1930-kindle-audible, carried over) | 5 | Caption uses /ig. |
 
 How-to that works on web: Create → Post → upload all slides to the file input → crop icon bottom-left → **4:5** (default is 1:1, which cuts slides) → Next → Next → click the caption box via its ref (clicking by coordinates can miss, and typing outside the box fires Instagram's keyboard shortcuts) → click inside the caption to close hashtag suggestions → Share. Slides: TikTok 9:16 slides scaled into 1080×1350 with the slide's own background colour as padding (scratch script; see the 19 Nov session).
 
